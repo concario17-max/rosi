@@ -1,6 +1,6 @@
 import { CSSProperties, useEffect, useLayoutEffect, useMemo, useRef, useState } from 'react';
 import { createPortal } from 'react-dom';
-import { ChevronDown, ChevronLeft, ChevronRight, X } from 'lucide-react';
+import { ChevronDown, ChevronLeft, ChevronRight, Flower, X } from 'lucide-react';
 import { YogaChapter } from '../types';
 import { getPreviousSutraTarget, getNextSutraTarget } from '../utils/sutraNavigation';
 
@@ -77,7 +77,7 @@ export const TOCPicker = ({
             const rect = triggerRef.current?.getBoundingClientRect();
             if (!rect) return;
 
-            const panelWidth = Math.min(420, window.innerWidth - 24);
+            const panelWidth = Math.min(500, window.innerWidth - 24);
             const left = Math.min(Math.max(rect.left, 12), window.innerWidth - panelWidth - 12);
             const top = rect.bottom + 8;
 
@@ -102,8 +102,8 @@ export const TOCPicker = ({
     // 트리거 텍스트 계산
     const triggerText = useMemo(() => {
         if (!activeChapter) return '목차 선택';
-        const formattedVerseNum = verseNum && !isNaN(Number(verseNum)) ? `${verseNum}절` : (verseNum || '');
-        return formattedVerseNum ? `${activeChapter.chapter}. ${activeChapter.meta.name_korean} / ${formattedVerseNum}` : `${activeChapter.chapter}. ${activeChapter.meta.name_korean}`;
+        const formattedVerseNum = verseNum && !isNaN(Number(verseNum)) ? `${verseNum}문단` : (verseNum || '');
+        return formattedVerseNum ? `제 ${activeChapter.chapter}강. ${activeChapter.meta.name_korean} / ${formattedVerseNum}` : `제 ${activeChapter.chapter}강. ${activeChapter.meta.name_korean}`;
     }, [activeChapter, verseNum]);
 
     // 이전/다음 절 이동 타겟 구하기
@@ -124,22 +124,27 @@ export const TOCPicker = ({
 
     const totalVerses = activeChapter?.sutras.length || 0;
 
+    const expandedChapterData = useMemo(() => {
+        return chapters.find((c) => c.chapter === expandedChapter) || null;
+    }, [chapters, expandedChapter]);
+
     const panel = isOpen ? (
         <div
             role="dialog"
             aria-label="TOC Picker"
             ref={panelRef}
             style={panelStyle ?? undefined}
-            className="z-[60] flex flex-col max-h-[500px] rounded-[1.75rem] border border-gold-border/12 bg-[linear-gradient(180deg,rgba(255,251,241,0.98)_0%,rgba(252,247,237,0.96)_48%,rgba(245,238,228,0.92)_100%)] p-4 shadow-[0_26px_72px_-34px_rgba(0,0,0,0.58)] backdrop-blur-2xl dark:border-dark-border/70 dark:bg-[linear-gradient(180deg,rgba(24,20,15,0.98)_0%,rgba(20,17,13,0.96)_48%,rgba(15,13,10,0.92)_100%)] select-none overflow-hidden"
+            className="z-[60] flex flex-col max-h-[460px] rounded-[1.75rem] border border-gold-border/12 bg-[linear-gradient(180deg,rgba(255,251,241,0.98)_0%,rgba(252,247,237,0.96)_48%,rgba(245,238,228,0.92)_100%)] p-4 shadow-[0_26px_72px_-34px_rgba(0,0,0,0.58)] backdrop-blur-2xl dark:border-dark-border/70 dark:bg-[linear-gradient(180deg,rgba(24,20,15,0.98)_0%,rgba(20,17,13,0.96)_48%,rgba(15,13,10,0.92)_100%)] select-none overflow-hidden"
         >
             {/* Header */}
             <div className="flex items-center justify-between border-b border-gold-border/8 pb-3 mb-3 dark:border-dark-border/30 shrink-0">
                 <div className="flex items-center gap-3">
-                    <span className="inline-flex items-center rounded-full bg-gold-primary/10 px-2.5 py-0.5 text-[9px] font-bold uppercase tracking-[0.18em] text-gold-primary dark:bg-gold-light/10 dark:text-gold-light">
-                        Sutra Picker
+                    <span className="inline-flex items-center gap-1 rounded-full bg-gold-primary/10 px-2.5 py-0.5 text-[9px] font-bold uppercase tracking-[0.18em] text-gold-primary dark:bg-gold-light/10 dark:text-gold-light">
+                        <Flower className="h-2.5 w-2.5" />
+                        강연 탐색기
                     </span>
                     <span className="text-[10px] font-semibold tracking-[0.06em] text-text-secondary/75 dark:text-dark-text-secondary/70">
-                        Chapter {chapterNum} / Sutra {verseNum}
+                        제 {chapterNum}강 / {verseNum}문단
                     </span>
                 </div>
                 <button
@@ -151,60 +156,67 @@ export const TOCPicker = ({
                 </button>
             </div>
 
-            {/* Accordion List */}
-            <div className="flex-1 overflow-y-auto space-y-2.5 pr-1.5 custom-scrollbar pb-2">
-                {chapters.map((ch) => {
-                    const isExpanded = expandedChapter === ch.chapter;
-                    return (
-                        <div
-                            key={ch.chapter}
-                            className="overflow-hidden rounded-2xl border border-gold-border/12 bg-white/45 shadow-sm transition-all duration-300 dark:border-dark-border/45 dark:bg-white/2"
-                        >
+            {/* 2-Column Split Content Area */}
+            <div className="flex flex-1 min-h-0 divide-x divide-gold-border/8 dark:divide-dark-border/30 overflow-hidden">
+                {/* Left Column: Chapters (Lectures) */}
+                <div className="w-[125px] sm:w-[155px] shrink-0 overflow-y-auto pr-3.5 space-y-1.5 custom-scrollbar">
+                    <p className="text-[9px] font-bold uppercase tracking-[0.15em] text-gold-primary/60 dark:text-gold-light/60 mb-2 px-1">
+                        강연 목록
+                    </p>
+                    {chapters.map((ch) => {
+                        const isActive = expandedChapter === ch.chapter;
+                        return (
                             <button
+                                key={ch.chapter}
                                 type="button"
-                                onClick={() => setExpandedChapter(isExpanded ? null : ch.chapter)}
-                                className="flex w-full items-center justify-between px-4 py-3.5 text-left transition-colors hover:bg-gold-primary/5 dark:hover:bg-gold-light/5 cursor-pointer"
+                                onClick={() => setExpandedChapter(ch.chapter)}
+                                className={`w-full text-left px-3 py-2.5 rounded-xl text-[11px] font-bold tracking-[0.02em] transition-all duration-200 cursor-pointer ${
+                                    isActive
+                                        ? 'bg-gold-primary text-white dark:bg-gold-light dark:text-[#2a2116] shadow-sm'
+                                        : 'text-text-primary hover:bg-gold-primary/5 dark:text-dark-text-primary dark:hover:bg-gold-light/5'
+                                }`}
                             >
-                                <span className="text-[12px] font-bold text-text-primary dark:text-dark-text-primary">
-                                    {ch.chapter}. {ch.meta.name_korean}
-                                </span>
-                                <ChevronDown
-                                    className={`h-4 w-4 text-gold-primary/70 dark:text-gold-light/70 transition-transform duration-300 ${
-                                        isExpanded ? 'rotate-180' : ''
-                                    }`}
-                                />
+                                {ch.chapter}강. {ch.meta.name_korean}
                             </button>
+                        );
+                    })}
+                </div>
 
-                            {isExpanded && (
-                                <div className="border-t border-gold-border/8 bg-[#FAF8F5]/50 p-3 dark:border-dark-border/20 dark:bg-[#1E1A16]/30">
-                                    <div className="grid grid-cols-6 gap-2">
-                                        {ch.sutras.map((sutra) => {
-                                            const vNum = String(sutra.verse ?? Number.parseInt(sutra.id.split('.')[1], 10));
-                                            const isCurrent = String(ch.chapter) === chapterNum && String(vNum) === verseNum;
-                                            return (
-                                                <button
-                                                    key={sutra.id}
-                                                    type="button"
-                                                    onClick={() => {
-                                                        onCommitSelection(String(ch.chapter), vNum);
-                                                        setIsOpen(false);
-                                                    }}
-                                                    className={`h-10 rounded-xl flex items-center justify-center text-[11px] font-semibold border transition-all duration-200 cursor-pointer ${
-                                                        isCurrent
-                                                            ? 'bg-gold-primary/10 border-gold-primary text-gold-primary dark:bg-gold-light/10 dark:border-gold-light dark:text-gold-light font-bold shadow-[0_2px_8px_-2px_rgba(166,139,92,0.25)]'
-                                                            : 'bg-white/50 border-gold-border/8 text-text-primary hover:border-gold-border/25 hover:bg-white dark:bg-white/4 dark:border-dark-border/40 dark:text-dark-text-primary dark:hover:bg-white/8'
-                                                    }`}
-                                                >
-                                                    {vNum}
-                                                </button>
-                                            );
-                                        })}
-                                    </div>
-                                </div>
-                            )}
+                {/* Right Column: Paragraphs */}
+                <div className="flex-1 overflow-y-auto pl-3.5 custom-scrollbar">
+                    <p className="text-[9px] font-bold uppercase tracking-[0.15em] text-gold-primary/60 dark:text-gold-light/60 mb-2 px-1">
+                        문단 선택
+                    </p>
+                    {expandedChapterData ? (
+                        <div className="grid grid-cols-4 sm:grid-cols-5 gap-2 pr-1 pb-1">
+                            {expandedChapterData.sutras.map((sutra) => {
+                                const vNum = String(sutra.verse ?? Number.parseInt(sutra.id.split('.')[1], 10));
+                                const isCurrent = String(expandedChapterData.chapter) === chapterNum && String(vNum) === verseNum;
+                                return (
+                                    <button
+                                        key={sutra.id}
+                                        type="button"
+                                        onClick={() => {
+                                            onCommitSelection(String(expandedChapterData.chapter), vNum);
+                                            setIsOpen(false);
+                                        }}
+                                        className={`h-9 rounded-xl flex items-center justify-center text-[11px] font-bold border transition-all duration-200 cursor-pointer ${
+                                            isCurrent
+                                                ? 'bg-gold-primary/10 border-gold-primary text-gold-primary dark:bg-gold-light/10 dark:border-gold-light dark:text-gold-light shadow-[0_2px_8px_-2px_rgba(166,139,92,0.25)] font-extrabold'
+                                                : 'bg-white/40 border-gold-border/8 text-text-primary hover:border-gold-border/20 hover:bg-white/90 dark:bg-white/3 dark:border-dark-border/40 dark:text-dark-text-primary dark:hover:bg-white/6'
+                                        }`}
+                                    >
+                                        {vNum}
+                                    </button>
+                                );
+                            })}
                         </div>
-                    );
-                })}
+                    ) : (
+                        <div className="text-center py-12 text-[11px] text-text-secondary/50 dark:text-dark-text-secondary/50">
+                            강연을 선택해 주세요.
+                        </div>
+                    )}
+                </div>
             </div>
 
             {/* Stepper Footer */}
@@ -220,7 +232,7 @@ export const TOCPicker = ({
                     className="flex items-center gap-1.5 px-3 py-1.5 rounded-lg border border-gold-border/15 dark:border-dark-border/50 text-[10px] font-semibold text-text-primary dark:text-dark-text-primary hover:bg-gold-primary/5 dark:hover:bg-gold-light/5 disabled:opacity-40 disabled:pointer-events-none transition-colors cursor-pointer"
                 >
                     <ChevronLeft className="h-3.5 w-3.5" />
-                    이전 절
+                    이전 문단
                 </button>
 
                 <div className="flex items-center gap-1 text-[11px] font-bold text-gold-primary dark:text-gold-light">
@@ -239,7 +251,7 @@ export const TOCPicker = ({
                     }}
                     className="flex items-center gap-1.5 px-3 py-1.5 rounded-lg border border-gold-border/15 dark:border-dark-border/50 text-[10px] font-semibold text-text-primary dark:text-dark-text-primary hover:bg-gold-primary/5 dark:hover:bg-gold-light/5 disabled:opacity-40 disabled:pointer-events-none transition-colors cursor-pointer"
                 >
-                    다음 절
+                    다음 문단
                     <ChevronRight className="h-3.5 w-3.5" />
                 </button>
             </div>
