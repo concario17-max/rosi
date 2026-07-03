@@ -133,52 +133,43 @@ const VerseView = () => {
                                     navigationControls={verseNavigationControls} 
                                     contentClassName="px-3 py-4 sm:px-4 sm:py-5 lg:px-6 lg:py-6"
                                 >
-                                    <div className="space-y-5 sm:space-y-6">
-                                        <motion.div variants={itemVariants} className="grid grid-cols-1 md:grid-cols-2 gap-6">
-                                            {/* 독일어 원문 */}
-                                            <div className="rounded-[1.5rem] border border-gold-border/12 bg-shell-main/40 p-6 dark:border-dark-border/40 dark:bg-shell-main-dark/40 shadow-sm">
-                                                <h3 className="mb-3 flex items-center gap-1.5 text-[11px] font-bold uppercase tracking-[0.2em] text-gold-primary/70 dark:text-gold-light/70">
-                                                    <Flower className="h-3.5 w-3.5 shrink-0" />
-                                                    독일어 원문
-                                                </h3>
-                                                <p className="font-serif text-lg leading-relaxed text-text-primary dark:text-dark-text-primary sm:text-xl whitespace-pre-line break-keep">
-                                                    {verseData.german}
-                                                </p>
-                                            </div>
+                                    <div className="space-y-6 sm:space-y-8 py-3">
+                                        {/* German */}
+                                        <div className="space-y-2.5">
+                                            <h3 className="flex items-center gap-1.5 text-[11px] font-bold uppercase tracking-[0.2em] text-gold-primary/70 dark:text-gold-light/70">
+                                                <Flower className="h-3.5 w-3.5 shrink-0" />
+                                                German
+                                            </h3>
+                                            <p className="font-serif text-lg leading-relaxed text-text-primary dark:text-dark-text-primary sm:text-xl whitespace-pre-line break-keep">
+                                                {verseData.german}
+                                            </p>
+                                        </div>
 
-                                            {/* AI 번역 */}
-                                            <div className="rounded-[1.5rem] border border-gold-border/12 bg-shell-main/60 p-6 dark:border-dark-border/45 dark:bg-shell-main-dark/60 shadow-sm">
-                                                <h3 className="mb-3 flex items-center gap-1.5 text-[11px] font-bold uppercase tracking-[0.2em] text-gold-primary/70 dark:text-gold-light/70">
-                                                    <Flower className="h-3.5 w-3.5 shrink-0" />
-                                                    AI 한국어 번역
-                                                </h3>
-                                                <p className="font-sans text-base leading-loose text-text-primary dark:text-dark-text-primary sm:text-lg whitespace-pre-line break-keep">
-                                                    {verseData.ai_translation}
-                                                </p>
-                                            </div>
+                                        <div className="h-px bg-gold-border/8 dark:bg-dark-border/20" />
 
-                                            {/* 영어 번역 */}
-                                            <div className="rounded-[1.5rem] border border-gold-border/12 bg-shell-main/40 p-6 dark:border-dark-border/40 dark:bg-shell-main-dark/40 shadow-sm">
-                                                <h3 className="mb-3 flex items-center gap-1.5 text-[11px] font-bold uppercase tracking-[0.2em] text-gold-primary/70 dark:text-gold-light/70">
-                                                    <Flower className="h-3.5 w-3.5 shrink-0" />
-                                                    영어 번역
-                                                </h3>
-                                                <p className="font-serif text-lg leading-relaxed text-text-primary dark:text-dark-text-primary sm:text-xl whitespace-pre-line break-keep">
-                                                    {verseData.english}
-                                                </p>
-                                            </div>
+                                        {/* English */}
+                                        <div className="space-y-2.5">
+                                            <h3 className="flex items-center gap-1.5 text-[11px] font-bold uppercase tracking-[0.2em] text-gold-primary/70 dark:text-gold-light/70">
+                                                <Flower className="h-3.5 w-3.5 shrink-0" />
+                                                English
+                                            </h3>
+                                            <p className="font-serif text-lg leading-relaxed text-text-primary dark:text-dark-text-primary sm:text-xl whitespace-pre-line break-keep">
+                                                {verseData.english}
+                                            </p>
+                                        </div>
 
-                                            {/* 한글 번역 */}
-                                            <div className="rounded-[1.5rem] border border-gold-border/12 bg-shell-main/60 p-6 dark:border-dark-border/45 dark:bg-shell-main-dark/60 shadow-sm">
-                                                <h3 className="mb-3 flex items-center gap-1.5 text-[11px] font-bold uppercase tracking-[0.2em] text-gold-primary/70 dark:text-gold-light/70">
-                                                    <Flower className="h-3.5 w-3.5 shrink-0" />
-                                                    기존 한국어 번역
-                                                </h3>
-                                                <p className="font-sans text-base leading-loose text-text-primary dark:text-dark-text-primary sm:text-lg whitespace-pre-line break-keep">
-                                                    {verseData.korean}
-                                                </p>
-                                            </div>
-                                        </motion.div>
+                                        <div className="h-px bg-gold-border/8 dark:bg-dark-border/20" />
+
+                                        {/* Korean */}
+                                        <div className="space-y-2.5">
+                                            <h3 className="flex items-center gap-1.5 text-[11px] font-bold uppercase tracking-[0.2em] text-gold-primary/70 dark:text-gold-light/70">
+                                                <Flower className="h-3.5 w-3.5 shrink-0" />
+                                                Korean
+                                            </h3>
+                                            <p className="font-sans text-base leading-loose text-text-primary dark:text-dark-text-primary sm:text-lg whitespace-pre-line break-keep">
+                                                {verseData.korean}
+                                            </p>
+                                        </div>
                                     </div>
                                 </VersePanelCard>
                             </div>
