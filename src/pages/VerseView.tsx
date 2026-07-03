@@ -1,4 +1,4 @@
-import { useEffect } from 'react';
+import { useEffect, useState, type ReactNode } from 'react';
 import { useParams, useNavigate } from 'react-router-dom';
 import { useYogaData } from '../hooks/useYogaData';
 import { SutraNavigation } from '../components/verse/SutraNavigation';
@@ -6,8 +6,86 @@ import { VersePanelCard } from '../components/verse/VersePanelCard';
 import { useSutraNavigation } from '../hooks/useSutraNavigation';
 import { useUI } from '../context/UIContext';
 import { CommentaryMarkdown } from '../components/commentary/CommentaryMarkdown';
-import { Flower } from 'lucide-react';
+import { Flower, Image as ImageIcon } from 'lucide-react';
 import { motion, AnimatePresence, Variants } from 'framer-motion';
+
+const learningComicImages = import.meta.glob('../assets/learning-comic/*/*.webp', {
+    eager: true,
+    import: 'default',
+}) as Record<string, string>;
+
+type ComicEntry = {
+    start: number;
+    end: number;
+    url: string;
+    rawName?: string;
+};
+
+const learningComicIndex = Object.entries(learningComicImages).reduce<Record<string, ComicEntry[]>>((acc, [path, url]) => {
+    const match = path.match(/learning-comic\/(?:chapter-)?(\d+)\/(.+)\.webp$/);
+    if (!match) {
+        return acc;
+    }
+
+    const chapter = match[1];
+    const filename = match[2];
+    const [startText, endText] = filename.split('-');
+    const start = Number.parseInt(startText, 10);
+    const end = Number.parseInt(endText ?? startText, 10);
+
+    if (!acc[chapter]) {
+        acc[chapter] = [];
+    }
+
+    acc[chapter].push({
+        start: Number.isNaN(start) ? -1 : start,
+        end: Number.isNaN(end) ? -1 : end,
+        url,
+        rawName: filename
+    });
+    return acc;
+}, {});
+
+Object.values(learningComicIndex).forEach((entries) => {
+    entries.sort((left, right) => left.start - right.start || left.end - right.end);
+});
+
+const getLearningComicImageUrl = (chapterNum: string, verseNum: string) => {
+    const entries = learningComicIndex[chapterNum];
+    if (!entries) {
+        return null;
+    }
+
+    const stringMatch = entries.find((entry) => entry.rawName === verseNum);
+    if (stringMatch) {
+        return stringMatch.url;
+    }
+
+    const verse = Number.parseInt(verseNum, 10);
+    if (!Number.isNaN(verse)) {
+        const match = entries.find((entry) => entry.start !== -1 && verse >= entry.start && verse <= entry.end);
+        return match?.url ?? null;
+    }
+
+    return null;
+};
+
+const extractCommentaryTitle = (content?: string | null) => {
+    if (!content) {
+        return null;
+    }
+
+    const headingMatch = content.match(/^#\s+(.+?)(?:\r?\n|$)/m);
+    return headingMatch?.[1]?.trim() ?? null;
+};
+
+const stripCommentaryTitleBlock = (content?: string | null) => {
+    if (!content) {
+        return content ?? null;
+    }
+
+    return content.replace(/^#\s+.+?(?:\r?\n)+/, '').trimStart();
+};
 
 const containerVariants: Variants = {
     hidden: { opacity: 0 },
@@ -35,6 +113,86 @@ const itemVariants: Variants = {
             ease: 'easeOut',
         },
     },
+};
+
+type CommentaryViewMode = 'commentary' | 'comic';
+
+interface CommentaryContentProps {
+    chapterNum: string;
+    verseNum: string;
+    commentaryText?: string;
+    fallbackTitle?: string | null;
+    navigationControls?: ReactNode;
+}
+
+const CommentaryContent = ({ chapterNum, verseNum, commentaryText, fallbackTitle, navigationControls }: CommentaryContentProps) => {
+    const [viewMode, setViewMode] = useState<CommentaryViewMode>('comic');
+    const [commentaryTitle, setCommentaryTitle] = useState<string | null>(() => extractCommentaryTitle(commentaryText) ?? fallbackTitle ?? null);
+
+    useEffect(() => {
+        setViewMode('comic');
+    }, [chapterNum, verseNum]);
+
+    useEffect(() => {
+        setCommentaryTitle(extractCommentaryTitle(commentaryText) ?? fallbackTitle ?? null);
+    }, [commentaryText, fallbackTitle]);
+
+    const learningComicImageUrl = getLearningComicImageUrl(chapterNum, verseNum);
+    const commentaryBodyText = stripCommentaryTitleBlock(commentaryText);
+
+    const commentaryToggleButton = (
+        <button
+            type="button"
+            onClick={() => setViewMode((current) => (current === 'commentary' ? 'comic' : 'commentary'))}
+            aria-label={viewMode === 'commentary' ? 'Show comic' : 'Show commentary'}
+            className="grid h-9 w-9 shrink-0 place-items-center rounded-full border border-gold-border/30 bg-shell-main/90 text-gold-primary shadow-[inset_0_1px_0_rgba(255,255,255,0.45)] transition-transform duration-200 hover:-translate-y-0.5 dark:border-dark-border/55 dark:bg-shell-main-dark/90 dark:text-gold-light"
+        >
+            <ImageIcon className="h-4 w-4" aria-hidden="true" />
+        </button>
+    );
+
+    return (
+        <section className="mx-auto w-full px-0">
+            <VersePanelCard label={`${chapterNum}강 - 문단 ${verseNum} (해설)`} navigationControls={navigationControls} trailingAction={commentaryToggleButton} contentClassName="px-3 py-4 sm:px-4 sm:py-5 lg:px-6 lg:py-6 sm:space-y-5">
+                {viewMode === 'commentary' ? (
+                    <div className="space-y-3 sm:space-y-4">
+                        {commentaryTitle && (
+                            <div className="flex items-baseline gap-2 overflow-hidden">
+                                <span className="min-w-0 truncate font-sans text-[22px] font-semibold leading-tight tracking-[0.01em] text-text-primary dark:text-dark-text-primary sm:text-[28px]">
+                                    {commentaryTitle}
+                                </span>
+                            </div>
+                        )}
+
+                        <CommentaryMarkdown
+                            content={commentaryBodyText}
+                            emptyMessage={
+                                <div className="border-l border-gold-border/12 pl-5 font-sans text-[15px] leading-8 text-text-secondary dark:border-dark-border/45 dark:text-dark-text-secondary sm:text-[16px]">
+                                    이 문단에 대한 해설이 아직 등록되지 않았습니다.
+                                </div>
+                            }
+                        />
+                    </div>
+                ) : learningComicImageUrl ? (
+                    <div className="overflow-hidden rounded-[1.75rem] border border-gold-border/12 bg-[#fbf7ef] p-1 shadow-[0_18px_48px_-32px_rgba(0,0,0,0.28)] dark:border-dark-border/50 dark:bg-[#191714]">
+                        <img
+                            src={learningComicImageUrl}
+                            alt={`Learning comic ${chapterNum}.${verseNum}`}
+                            className="block h-auto w-full rounded-[1.15rem] object-contain"
+                            loading="lazy"
+                        />
+                    </div>
+                ) : (
+                    <div className="space-y-3 rounded-[1.5rem] border border-gold-border/12 bg-shell-main/85 p-5 text-sm leading-7 text-text-secondary dark:border-dark-border/45 dark:bg-shell-main-dark/85 dark:text-dark-text-secondary sm:p-6">
+                        <p className="text-[10px] font-semibold uppercase tracking-[0.24em] text-gold-primary/70 dark:text-gold-light/70">
+                            학습만화
+                        </p>
+                        <p>이 문단에는 등록된 만화 패널이 아직 없습니다.</p>
+                    </div>
+                )}
+            </VersePanelCard>
+        </section>
+    );
 };
 
 const VerseView = () => {
@@ -189,24 +347,13 @@ const VerseView = () => {
                         </motion.div>
                     ) : (
                         <motion.div variants={itemVariants}>
-                            <div className="relative mx-auto w-full overflow-visible px-0">
-                                <VersePanelCard 
-                                    label={`${currentChapter.meta.name_korean} - 문단 ${verseNumber} (해설)`} 
-                                    navigationControls={verseNavigationControls} 
-                                    contentClassName="px-3 py-4 sm:px-4 sm:py-5 lg:px-6 lg:py-6"
-                                >
-                                    <div className="space-y-4">
-                                        <CommentaryMarkdown
-                                            content={verseData.commentary_en}
-                                            emptyMessage={
-                                                <div className="border-l border-gold-border/12 pl-5 font-sans text-[15px] leading-8 text-text-secondary dark:border-dark-border/45 dark:text-dark-text-secondary sm:text-[16px]">
-                                                    이 문단에 대한 해설이 아직 등록되지 않았습니다.
-                                                </div>
-                                            }
-                                        />
-                                    </div>
-                                </VersePanelCard>
-                            </div>
+                            <CommentaryContent
+                                chapterNum={String(currentChapter.chapter)}
+                                verseNum={String(verseNumber)}
+                                commentaryText={verseData.commentary_en}
+                                fallbackTitle={verseData.translation_en ?? null}
+                                navigationControls={verseNavigationControls}
+                            />
                         </motion.div>
                     )}
                 </div>
