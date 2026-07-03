@@ -124,7 +124,7 @@ const ChapterList = () => {
                             <option value="">강연 선택</option>
                             {chapters.map((chapter) => (
                                 <option key={chapter.chapter} value={chapter.chapter} className="text-base">
-                                    제 {chapter.chapter}강. {chapter.meta.name_korean}
+                                    {chapter.meta.name_korean}
                                 </option>
                             ))}
                         </select>

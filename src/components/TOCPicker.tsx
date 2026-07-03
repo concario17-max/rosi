@@ -103,7 +103,7 @@ export const TOCPicker = ({
     const triggerText = useMemo(() => {
         if (!activeChapter) return '목차 선택';
         const formattedVerseNum = verseNum && !isNaN(Number(verseNum)) ? `${verseNum}문단` : (verseNum || '');
-        return formattedVerseNum ? `제 ${activeChapter.chapter}강. ${activeChapter.meta.name_korean} / ${formattedVerseNum}` : `제 ${activeChapter.chapter}강. ${activeChapter.meta.name_korean}`;
+        return formattedVerseNum ? `${activeChapter.meta.name_korean} / ${formattedVerseNum}` : `${activeChapter.meta.name_korean}`;
     }, [activeChapter, verseNum]);
 
     // 이전/다음 절 이동 타겟 구하기
@@ -176,7 +176,7 @@ export const TOCPicker = ({
                                         : 'text-text-primary hover:bg-gold-primary/5 dark:text-dark-text-primary dark:hover:bg-gold-light/5'
                                 }`}
                             >
-                                {ch.chapter}강. {ch.meta.name_korean}
+                                {ch.meta.name_korean}
                             </button>
                         );
                     })}
