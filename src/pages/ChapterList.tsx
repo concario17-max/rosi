@@ -112,7 +112,7 @@ const ChapterList = () => {
 
                 <motion.div variants={itemVariants} className="relative z-10 mx-auto mb-5 flex w-full max-w-[52rem] flex-col items-center justify-between gap-3 rounded-2xl border border-gold-border/40 bg-white/80 p-2.5 shadow-xl shadow-gold-primary/5 backdrop-blur-md dark:bg-dark-surface/80 dark:shadow-[0_8px_30px_-5px_rgba(0,0,0,0.5)] sm:flex-row sm:gap-0 sm:p-3 lg:mb-0">
                     <div className="flex w-full flex-1 flex-col items-start border-b border-gold-border/30 px-2 pb-2 sm:border-b-0 sm:border-r sm:px-4 sm:pb-0">
-                        <span className="mb-1 text-[9px] font-semibold uppercase tracking-[0.28em] text-gold-primary drop-shadow-sm">Chapter</span>
+                        <span className="mb-1 text-[9px] font-semibold uppercase tracking-[0.28em] text-gold-primary drop-shadow-sm">Lecture</span>
                         <select
                             className="w-full appearance-none bg-transparent text-sm font-medium text-text-primary outline-none transition-colors focus:text-gold-primary dark:text-dark-text-primary"
                             value={selectedChapter}
@@ -121,17 +121,17 @@ const ChapterList = () => {
                                 setSelectedVerse('');
                             }}
                         >
-                            <option value="">Select Chapter</option>
+                            <option value="">강연 선택</option>
                             {chapters.map((chapter) => (
                                 <option key={chapter.chapter} value={chapter.chapter} className="text-base">
-                                    {chapter.chapter}. {chapter.meta.name_korean}
+                                    제 {chapter.chapter}강. {chapter.meta.name_korean}
                                 </option>
                             ))}
                         </select>
                     </div>
 
                     <div className="flex w-full flex-1 flex-col items-start px-2 pt-0.5 sm:px-6 sm:pt-0">
-                        <span className="mb-1 text-[9px] font-semibold uppercase tracking-[0.28em] text-gold-primary drop-shadow-sm">Verse</span>
+                        <span className="mb-1 text-[9px] font-semibold uppercase tracking-[0.28em] text-gold-primary drop-shadow-sm">Paragraph</span>
                         <select
                             className="w-full appearance-none bg-transparent text-sm font-medium text-text-primary outline-none transition-colors focus:text-gold-primary disabled:opacity-50 dark:text-dark-text-primary"
                             value={selectedVerse}
@@ -144,7 +144,7 @@ const ChapterList = () => {
                                 }
                             }}
                         >
-                            <option value="">{selectedChapter ? 'Select Verse' : 'Select Chapter First'}</option>
+                            <option value="">{selectedChapter ? '문단 선택' : '강연을 먼저 선택해 주세요'}</option>
                             {selectedChapter &&
                                 chapters
                                     .find((chapter) => chapter.chapter === Number.parseInt(selectedChapter, 10))
@@ -152,7 +152,7 @@ const ChapterList = () => {
                                         const verseNumber = String(sutra.verse ?? Number.parseInt(sutra.id.split('.')[1], 10));
                                         return (
                                             <option key={sutra.id} value={verseNumber} className="text-base">
-                                                {isNaN(Number(verseNumber)) ? verseNumber : `Verse ${verseNumber}`}
+                                                {isNaN(Number(verseNumber)) ? verseNumber : `${verseNumber}문단`}
                                             </option>
                                         );
                                     })}
@@ -171,7 +171,7 @@ const ChapterList = () => {
                                 href={`/chapter/${chapter.chapter}/verse/1`}
                                 icon={getChapterIcon(chapter.chapter)}
                                 className="lg:h-full"
-                                subtitle={`CHAPTER ${chapter.chapter}`}
+                                subtitle={`LECTURE ${chapter.chapter}`}
                                 title={
                                     <>
                                         <span className="font-display text-[30px] font-medium tracking-[0.04em] md:text-[34px]">
@@ -182,7 +182,7 @@ const ChapterList = () => {
                                         </span>
                                     </>
                                 }
-                                description={chapterInfo.description || 'Read verses of this chapter.'}
+                                description={chapterInfo.description || 'Read paragraphs of this lecture.'}
                             />
                         </motion.div>
                     );
