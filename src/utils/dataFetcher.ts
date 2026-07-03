@@ -47,9 +47,12 @@ const normalizeParagraph = (
     chapterNum: number,
     paragraph: ReadingDataParagraph,
     paragraphIndex: number,
+    bodhiCommentaries?: Record<string, string>,
 ): YogaSutra => {
     const sourceText = paragraph.text ?? { german: '', english: '', korean: '', ai_translation: '' };
     const verseNumber = typeof paragraph.paragraphNumber === 'number' ? paragraph.paragraphNumber : paragraphIndex + 1;
+    const lookupKey = `rosi.${chapterNum}.${verseNumber}`;
+    const commentary = bodhiCommentaries?.[lookupKey] || '';
 
     return {
         id: paragraph.id || `${chapterNum}.${verseNumber}`,
@@ -60,6 +63,7 @@ const normalizeParagraph = (
         english: sourceText.english || '',
         korean: sourceText.korean || '',
         ai_translation: sourceText.ai_translation || '',
+        commentary_en: commentary || undefined,
         pronunciation: '',
         pronunciation_kr: '',
         sanskrit: '',
@@ -74,9 +78,10 @@ const normalizeSubchapter = (
     groupTitle: string,
     groupName: string,
     subchapter: ReadingDataSubchapter,
+    bodhiCommentaries?: Record<string, string>,
 ): YogaChapter => {
     const sutras = (subchapter.paragraphs ?? []).map((paragraph, index) => {
-        return normalizeParagraph(chapterNum, paragraph, index);
+        return normalizeParagraph(chapterNum, paragraph, index, bodhiCommentaries);
     });
 
     return {
@@ -118,13 +123,25 @@ export const fetchYogaData = async (): Promise<Record<number, YogaChapter>> => {
 
     pendingRequest = (async () => {
         try {
-            const dataRes = await fetch('/reading-data.json');
+            const [dataRes, commRes] = await Promise.all([
+                fetch('/reading-data.json'),
+                fetch('/bodhi-commentary.json').catch(() => null)
+            ]);
 
             if (!dataRes.ok) {
                 throw new Error(`Failed to fetch reading data: ${dataRes.status}`);
             }
 
             const snapshot = JSON.parse(stripBom(await dataRes.text())) as ReadingDataSnapshot;
+
+            let bodhiCommentaries: Record<string, string> = {};
+            if (commRes && commRes.ok && typeof commRes.json === 'function') {
+                try {
+                    bodhiCommentaries = await commRes.json();
+                } catch (e) {
+                    console.error('Error parsing bodhi commentary JSON:', e);
+                }
+            }
             
             const structuredData = flattenSubchapters(snapshot).reduce<Record<number, YogaChapter>>((acc, entry, index) => {
                 const chapterNumber = index + 1;
@@ -133,6 +150,7 @@ export const fetchYogaData = async (): Promise<Record<number, YogaChapter>> => {
                     entry.group.title || entry.group.chapterName || '',
                     entry.group.chapterName || entry.group.title || '',
                     entry.subchapter,
+                    bodhiCommentaries,
                 );
                 return acc;
             }, {});
