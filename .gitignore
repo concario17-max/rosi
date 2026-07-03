@@ -1,0 +1,16 @@
+node_modules
+dist
+.DS_Store
+*.log
+.vite
+*.tsbuildinfo
+vite.config.js
+vite.config.d.ts
+ERROR_LOG.md
+STATE.md
+MULTI_AGENT_LOG.md
+
+# Raw source files and folders
+*.odt
+학습만화/
+odt_text.txt
