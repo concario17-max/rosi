@@ -1,6 +1,6 @@
 import { CSSProperties, ReactNode } from 'react';
 import { Link } from 'react-router-dom';
-import { BookOpenText, LampDesk, ScrollText } from 'lucide-react';
+import { Flower } from 'lucide-react';
 import { useUI } from '../context/UIContext';
 import { getDesktopVerseColumns } from './ui/desktopVerseLayout';
 
@@ -30,8 +30,8 @@ const Header = ({
         showSidebarToggle ? (
             <div className="inline-flex items-center rounded-[1rem] border border-gold-border/14 bg-shell-main/80 p-0.5 backdrop-blur-sm dark:border-dark-border/70 dark:bg-shell-main-dark/82">
                 {[
-                    { mode: 'commentary' as const, label: '해설', icon: ScrollText },
-                    { mode: 'body' as const, label: '심화', icon: BookOpenText },
+                    { mode: 'commentary' as const, label: '해설', icon: Flower },
+                    { mode: 'body' as const, label: '심화', icon: Flower },
                 ].map((option) => {
                     const isActive = activeVerseContentMode === option.mode;
                     const Icon = option.icon;
@@ -62,7 +62,7 @@ const Header = ({
                 <div className="flex min-w-0 items-center gap-2 text-text-primary dark:text-dark-text-primary">
                     <Link to={targetUrl} className="group flex min-w-0 items-center gap-2 truncate">
                         <span className="flex shrink-0 items-center justify-center text-gold-primary opacity-90 transition-transform duration-700 group-hover:rotate-6">
-                            <LampDesk className="h-4 w-4 sm:h-5 sm:w-5" />
+                            <Flower className="h-4 w-4 sm:h-5 sm:w-5" />
                         </span>
                         <span className="min-w-0 truncate font-sans text-[14px] font-semibold tracking-[0.01em] text-text-primary transition-colors group-hover:text-gold-primary sm:text-[15px] dark:text-dark-text-primary">
                             {title}
@@ -88,7 +88,7 @@ const Header = ({
                 <div className="flex min-w-0 items-center gap-3 px-5">
                     <Link to={targetUrl} className="group flex min-w-0 items-center gap-2 truncate text-text-primary dark:text-dark-text-primary">
                         <span className="flex shrink-0 items-center justify-center text-gold-primary opacity-90 transition-transform duration-700 group-hover:rotate-6">
-                            <LampDesk className="h-5 w-5 sm:h-5.5 sm:w-5.5" />
+                            <Flower className="h-5 w-5 sm:h-5.5 sm:w-5.5" />
                         </span>
                         <span className="truncate font-sans text-[15px] font-semibold tracking-[0.01em] text-text-primary transition-colors group-hover:text-gold-primary xl:text-[16px] dark:text-dark-text-primary">
                             {title}

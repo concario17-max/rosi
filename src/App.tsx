@@ -55,7 +55,7 @@ const MainLayout = () => {
 
     return (
         <AppShell
-            header={isVerseView ? <Header title="장미십자 방법 (The Rosicrucian Method)" showSidebarToggle selectionControls={selectionControls} /> : undefined}
+            header={isVerseView ? <Header title="장미십자의 비의 (Rosicrucian Esotericism)" showSidebarToggle selectionControls={selectionControls} /> : undefined}
             sidebar={isVerseView ? <Sidebar /> : undefined}
             isMobilePanelOpen={isVerseView && isSidebarOpen}
             desktopGridColumns={desktopGridColumns}
