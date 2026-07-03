@@ -137,34 +137,10 @@ const Sidebar = () => {
                     <div className="space-y-6">
                         <section className="space-y-2 border-l border-black/5 pl-4 dark:border-white/7">
                             <p className="text-[10px] font-semibold uppercase tracking-[0.3em] text-text-secondary/52 dark:text-dark-text-secondary/60">
-                                Deutsch (독일어)
+                                AI 한글
                             </p>
-                            <p className="whitespace-pre-line break-keep font-sans text-[14px] leading-relaxed text-text-secondary/92 dark:text-dark-text-secondary/92">
-                                {verseData.german ?? ''}
-                            </p>
-                        </section>
-                        <section className="space-y-2 border-l border-black/5 pl-4 dark:border-white/7">
-                            <p className="text-[10px] font-semibold uppercase tracking-[0.3em] text-text-secondary/52 dark:text-dark-text-secondary/60">
-                                AI Translation (AI 한국어)
-                            </p>
-                            <p className="whitespace-pre-line break-keep font-sans text-[14px] leading-relaxed text-text-secondary/92 dark:text-dark-text-secondary/92">
+                            <p className="whitespace-pre-line break-keep font-sans text-[14.5px] leading-relaxed text-text-secondary/92 dark:text-dark-text-secondary/92">
                                 {verseData.ai_translation ?? ''}
-                            </p>
-                        </section>
-                        <section className="space-y-2 border-l border-black/5 pl-4 dark:border-white/7">
-                            <p className="text-[10px] font-semibold uppercase tracking-[0.3em] text-text-secondary/52 dark:text-dark-text-secondary/60">
-                                English (영어)
-                            </p>
-                            <p className="whitespace-pre-line break-keep font-sans text-[14px] leading-relaxed text-text-secondary/92 dark:text-dark-text-secondary/92">
-                                {verseData.english ?? ''}
-                            </p>
-                        </section>
-                        <section className="space-y-2 border-l border-black/5 pl-4 dark:border-white/7">
-                            <p className="text-[10px] font-semibold uppercase tracking-[0.3em] text-text-secondary/52 dark:text-dark-text-secondary/60">
-                                Korean (기존 한글)
-                            </p>
-                            <p className="whitespace-pre-line break-keep font-sans text-[14px] leading-relaxed text-text-secondary/92 dark:text-dark-text-secondary/92">
-                                {verseData.korean ?? ''}
                             </p>
                         </section>
                     </div>
