@@ -170,6 +170,19 @@ const VerseView = () => {
                                                 {verseData.korean}
                                             </p>
                                         </div>
+
+                                        <div className="h-px bg-gold-border/8 dark:bg-dark-border/20" />
+
+                                        {/* Korean (AI) */}
+                                        <div className="space-y-2.5">
+                                            <h3 className="flex items-center gap-1.5 text-[11px] font-bold uppercase tracking-[0.2em] text-gold-primary/70 dark:text-gold-light/70">
+                                                <Flower className="h-3.5 w-3.5 shrink-0" />
+                                                Korean (AI)
+                                            </h3>
+                                            <p className="font-sans text-base leading-loose text-text-primary dark:text-dark-text-primary sm:text-lg whitespace-pre-line break-keep">
+                                                {verseData.ai_translation}
+                                            </p>
+                                        </div>
                                     </div>
                                 </VersePanelCard>
                             </div>
