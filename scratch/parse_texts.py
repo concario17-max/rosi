@@ -99,8 +99,13 @@ LECTURE_TITLES = {
     2: {
         "chapterName": "제 2강",
         "title": "Lecture 2"
+    },
+    3: {
+        "chapterName": "제 3강",
+        "title": "Lecture 3"
     }
 }
+
 
 def main():
     dest_project = os.getcwd()

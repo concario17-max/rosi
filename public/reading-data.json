@@ -2281,6 +2281,1324 @@
                             }
                         }
                     ]
+                },
+                {
+                    "id": "rosi.3",
+                    "chapterName": "제 3강",
+                    "title": "Lecture 3",
+                    "tocHeadings": [
+                        "Paragraphs 1 - 109"
+                    ],
+                    "paragraphs": [
+                        {
+                            "id": "rosi.3.1",
+                            "title": "문단 1",
+                            "paragraphNumber": 1,
+                            "chapterTitle": "장미십자 방법",
+                            "text": {
+                                "german": "Gestern versuchte ich, Ihnen einen Überblick zu geben über die verschiedene Art der Beseelung der uns umgebenden Welt.",
+                                "english": "In the lecture yesterday I endeavored to give a general survey of the different manifestations and functions of the life of soul in the world around us.",
+                                "korean": "어제 강연에서는 우리 주위 세계에 존재하는 혼의 삶의 다양한 현현과 기능에 대해서 일반적인 연구를 해보았습니다.",
+                                "ai_translation": "어제 저는 여러분께 우리를 둘러싼 세계가 영혼을 지니는 서로 다른 방식에 대해 하나의 개관을 드리고자 했습니다."
+                            }
+                        },
+                        {
+                            "id": "rosi.3.2",
+                            "title": "문단 2",
+                            "paragraphNumber": 2,
+                            "chapterTitle": "장미십자 방법",
+                            "text": {
+                                "german": "Heute wollen wir uns über das Wesen des Menschen selbst genauer orientieren. Mancherlei schon Bekanntes wird auch hier erwähnt werden müssen.",
+                                "english": "Today we will study the nature and being of man himself in greater detail, referring as well to a great deal of what is already known.",
+                                "korean": "오늘은 인간 자신의 성질과 존재에 대해 상세히 연구를 진행하면서 이미 알려진 사항들에 대해서도 살펴볼 것입니다.",
+                                "ai_translation": "오늘은 인간 자신의 본질에 대해 좀 더 정확히 방향을 잡아 보려 합니다. 여기서도 이미 알려져 있는 여러 가지를 언급하지 않을 수 없을 것입니다."
+                            }
+                        },
+                        {
+                            "id": "rosi.3.3",
+                            "title": "문단 3",
+                            "paragraphNumber": 3,
+                            "chapterTitle": "장미십자 방법",
+                            "text": {
+                                "german": "Wir wollen uns zunächst Tatsächliches aus dem Wesen des Menschen in solcher Art vor Augen führen, wie es sich am besten in das Bild hineinstellt, das ich Ihnen gestern geben konnte. Da werden wir dann sehen, wie der Mensch aus dem ersten Reich, das uns umgibt und das wir als das Mineralreich charakterisiert haben, in bezug auf seinen niedrigsten Leib zunächst wie aus ihm herausgewachsen erscheint. Betrachten wir den Menschen, wie er vor uns steht, so ist das erste, was wir an ihm wahrnehmen, das Handgreiflichste: sein physischer Leib.",
+                                "english": "We will think, to begin with, of facts connected with the nature of man that form part of the picture I was able to give you yesterday. To begin with, in respect of his lowest body, the human being seems as if he had grown out of the first kingdom that surrounds us, that of the minerals. What immediately catches our eye when a man is standing in front of us, is the most tangible part of all, namely, his physical body.",
+                                "korean": "우선 어제 제시한 영상의 일부를 형성하고 있는 인간의 성질에 관한 진실에 대해서 생각해봅시다. 먼저 가장 낮은 차원의 몸은 마치 우리를 둘러싼 첫 번째 왕국인 광물계에서 성장한 것처럼 보입니다. 어떤 사람이 눈앞에 서있을 때 우리 눈이 가장 먼저 보게 되는 것은 가장 느끼기 쉬운 부분, 즉 육체입니다.",
+                                "ai_translation": "우선 우리는 인간 본질에 관한 사실적인 것을, 어제 제가 여러분께 드릴 수 있었던 그림 안에 가장 잘 들어맞는 방식으로 눈앞에 세워 보려 합니다. 그러면 우리는 인간이 우리를 둘러싼 첫 번째 왕국, 곧 우리가 광물계로 특징지은 그 왕국으로부터, 자신의 가장 낮은 몸에 관해서는 우선 말하자면 거기서 자라 나온 것처럼 보인다는 사실을 보게 될 것입니다. 우리 앞에 서 있는 그대로의 인간을 바라보면, 우리가 그에게서 가장 먼저 지각하는 것은 가장 손으로 만질 수 있는 것, 곧 그의 물리적 몸입니다."
+                            }
+                        },
+                        {
+                            "id": "rosi.3.4",
+                            "title": "문단 4",
+                            "paragraphNumber": 4,
+                            "chapterTitle": "장미십자 방법",
+                            "text": {
+                                "german": "Für die okkulten Forscher aber ist dieses nur ein Glied seiner Menschennatur.",
+                                "english": "But the occultist knows that this is only one member of his constitution.",
+                                "korean": "하지만 오컬티스트는 이것이 인간을 구성하는 요소 중 일부분에 지나지 않음을 알고 있습니다.",
+                                "ai_translation": "그러나 오컬트 연구자에게 이것은 인간 본성의 한 구성 부분일 뿐입니다."
+                            }
+                        },
+                        {
+                            "id": "rosi.3.5",
+                            "title": "문단 5",
+                            "paragraphNumber": 5,
+                            "chapterTitle": "장미십자 방법",
+                            "text": {
+                                "german": "Es ist leicht, sich über diesen physischen Leib eine falsche Vorstellung zu machen, wenn man denkt, der physische Leib sei eben das, was man mit Augen sehen, mit Händen greifen kann.",
+                                "english": "It is easy to form an erroneous idea of this physical body when it is taken for granted that the physical body is what can be seen with the eyes and touched with the hands.",
+                                "korean": "육체란 눈으로 보고 손으로 만질 수 있는 것이라고 생각해버리면 곧 육체에 대한 잘못된 관념을 만들어내게 됩니다.",
+                                "ai_translation": "이 물리적 몸에 대해 잘못된 표상을 갖는 것은 쉽습니다. 물리적 몸이란 눈으로 볼 수 있고 손으로 만질 수 있는 바로 그것이라고 생각할 때 그렇습니다."
+                            }
+                        },
+                        {
+                            "id": "rosi.3.6",
+                            "title": "문단 6",
+                            "paragraphNumber": 6,
+                            "chapterTitle": "장미십자 방법",
+                            "text": {
+                                "german": "Man begeht damit denselben Fehler, wie wenn man Wasserstoff für Wasser ansehen wollte. Diesem physischen Menschenleib sind nämlich schon die höheren Glieder beigemischt.",
+                                "english": "That would be as mistaken as it would be to take hydrogen for water. The higher members of man's constitution are intermingled with his physical body.",
+                                "korean": "그것은 수소를 물이라고 생각하는 것과 같이 잘못된 것입니다. 육체에는 인간을 조성하는 고차의 요소가 교묘히 뒤섞여 있습니다.",
+                                "ai_translation": "그렇게 생각하면 물을 수소와 같은 것으로 여기는 것과 같은 오류를 범하게 됩니다. 왜냐하면 이 물리적 인간 몸 안에는 이미 더 높은 구성 부분들이 섞여 있기 때문입니다."
+                            }
+                        },
+                        {
+                            "id": "rosi.3.7",
+                            "title": "문단 7",
+                            "paragraphNumber": 7,
+                            "chapterTitle": "장미십자 방법",
+                            "text": {
+                                "german": "So wie er uns physisch entgegentritt, ist dieser physische Menschenleib schon von den andern Gliedern der Menschennatur durchdrungen,",
+                                "english": "As it confronts us, this physical body is already permeated by the other members of man's nature,",
+                                "korean": "우리와 마주하고 있는 이 육체에는 이미 인간 성질 이외의 요소가 침투되어 있는 것입니다.",
+                                "ai_translation": "그것이 물리적으로 우리에게 마주 서 있는 방식 그대로, 이 물리적 인간 몸은 이미 인간 본성의 다른 구성 부분들에 의해 관통되어 있습니다."
+                            }
+                        },
+                        {
+                            "id": "rosi.3.8",
+                            "title": "문단 8",
+                            "paragraphNumber": 8,
+                            "chapterTitle": "장미십자 방법",
+                            "text": {
+                                "german": "so daß dasjenige, was uns da als Fleisch und Knochen entgegentritt, nicht ohne weiteres der physische Leib genannt werden kann.",
+                                "english": "so that the structure of flesh and bones before us cannot without further ado be called the physical body.",
+                                "korean": "그러므로 우리는 우리 앞에 있는 살과 뼈의 구조를 가볍게 육체라고 부를 수가 없습니다.",
+                                "ai_translation": "그러므로 우리에게 살과 뼈로 마주 서 있는 것을 곧바로 물리적 몸이라고 부를 수는 없습니다."
+                            }
+                        },
+                        {
+                            "id": "rosi.3.9",
+                            "title": "문단 9",
+                            "paragraphNumber": 9,
+                            "chapterTitle": "장미십자 방법",
+                            "text": {
+                                "german": "Dieser physische Menschenleib ist zwar das, was aus denselben Stoffen und Kräften besteht wie dasjenige, was Sie draußen in der mineralischen Welt haben, in kunstvollem Bau sind diese selben Stoffe und Kräfte zusammengefügt im Menschenleib, doch daß er so aussieht, sich so anfühlt, wie er es tut, das rührt davon her, daß ihm schon die andern Wesensglieder beigemischt sind.",
+                                "english": "This physical body of man consists of the same substances and forces that are to be found in the mineral world outside, interwoven with consummate art in the structure of the human body. That this body looks and feels as it does is due to the fact that the other members of man's nature and constitution are mingled with it.",
+                                "korean": "인간의 이 육체는 외부 광물계에서 발견되는 것과 같은 실질과 힘들로 만들어져있습니다. 이것은 놀라운 재주로 인간 구조에 짜여져 있습니다. 이 육체가 실제로 보일 수 있게 되고 실제로 만질 수 있게 된 것은 인간의 성질과 조성 외에 다른 요소가 육체와 섞여있다고 하는 사실 덕택입니다.",
+                                "ai_translation": "이 물리적 인간 몸은 물론 여러분이 바깥의 광물 세계에서 보는 것과 동일한 물질들과 힘들로 이루어져 있습니다. 인간 몸 안에서는 바로 이 물질들과 힘들이 예술적인 구조 속에 결합되어 있습니다. 그러나 그것이 지금처럼 보이고, 지금처럼 만져지는 것은 이미 다른 본질 구성 부분들이 그 안에 섞여 있기 때문입니다."
+                            }
+                        },
+                        {
+                            "id": "rosi.3.10",
+                            "title": "문단 10",
+                            "paragraphNumber": 10,
+                            "chapterTitle": "장미십자 방법",
+                            "text": {
+                                "german": "Was das Auge vom physischen Menschenleib sieht, das ist eigentlich nicht der physische Leib. Der ist als solcher vorhanden, wenn der Mensch eben durch die Pforte des Todes gegangen ist:",
+                                "english": "The body of man seen by the eye is not, properly speaking, the physical body. The physical body as such is present when the human being has gone through the gate of death.",
+                                "korean": "눈에 보이는 인간의 몸은 엄밀히 말하면 물질이 아닙니다. 진짜 육체는 인간이 죽음의 문을 통과했을 때 남겨진 것입니다.",
+                                "ai_translation": "눈이 물리적 인간 몸에서 보는 것은 본래 물리적 몸이 아닙니다. 물리적 몸이 그 자체로 존재하는 것은 인간이 죽음의 문을 막 통과했을 때입니다."
+                            }
+                        },
+                        {
+                            "id": "rosi.3.11",
+                            "title": "문단 11",
+                            "paragraphNumber": 11,
+                            "chapterTitle": "장미십자 방법",
+                            "text": {
+                                "german": "der Leichnam, das ist der eigentliche physische Leib, das, was befreit ist von all den Gliedern der höheren Menschennatur.",
+                                "english": "The remaining corpse is the real physical body, the body freed from all the higher members of man's nature.",
+                                "korean": "남겨진 사체야 말로 진정한 물질입니다. 인간 성질의 고차 요소로부터 모두 해방된 몸입니다.",
+                                "ai_translation": "시신, 그것이 본래의 물리적 몸입니다. 더 높은 인간 본성의 모든 구성 부분들로부터 해방된 그것 말입니다."
+                            }
+                        },
+                        {
+                            "id": "rosi.3.12",
+                            "title": "문단 12",
+                            "paragraphNumber": 12,
+                            "chapterTitle": "장미십자 방법",
+                            "text": {
+                                "german": "Wenn er sich überlassen ist, dieser physische Leib, so folgt er ganz andern Gesetzen als bis zu diesem Augenblick.",
+                                "english": "When it is left to itself this physical body follows laws quite other than those followed until the moment of death.",
+                                "korean": "몸만이 남겨지게 되면 이 육체는 죽음의 순간까지 따르고 있던 법칙과는 전혀 다른 법칙을 따르게 됩니다.",
+                                "ai_translation": "이 물리적 몸이 자기 자신에게 맡겨지면, 그것은 그 순간까지 따르던 것과는 전혀 다른 법칙들을 따릅니다."
+                            }
+                        },
+                        {
+                            "id": "rosi.3.13",
+                            "title": "문단 13",
+                            "paragraphNumber": 13,
+                            "chapterTitle": "장미십자 방법",
+                            "text": {
+                                "german": "Bisher hat er eigentlich stets den physikalisch-chemischen Gesetzen widersprochen.",
+                                "english": "Before then, it has, in truth, been consistently repudiating the laws of physical chemistry.",
+                                "korean": "실은 육체는 죽기까지 끊임없이 물질적 화학법칙을 계속 거부해 온 것입니다.",
+                                "ai_translation": "그전까지 그것은 사실상 언제나 물리화학적 법칙들에 맞서 있었습니다."
+                            }
+                        },
+                        {
+                            "id": "rosi.3.14",
+                            "title": "문단 14",
+                            "paragraphNumber": 14,
+                            "chapterTitle": "장미십자 방법",
+                            "text": {
+                                "german": "Der Körper des Menschen würde im irdischen Leben jeden Augenblick Leichnam sein, wenn er nicht dauernd durchzogen wäre vom Ätherleib, der ein Kämpfer ist gegen den Zerfall des physischen Leibes das ganze Leben hindurch.",
+                                "english": "In earthly existence the body of man would be a perpetual corpse if it were not permeated by the etheric body that throughout life fights against the decay of the physical body.",
+                                "korean": "만약 육체가 지상의 존재형태로 살아 있는 동안 계속해서 육체의 붕괴에 저항하며 싸우는 에테르체에 침투되어 있지 않다면 육체는 영원히 사체와 같은 상태로 존재하게 될 것입니다.",
+                                "ai_translation": "인간의 몸은 에테르체에 의해 지속적으로 관통되어 있지 않다면, 지상 생활의 매 순간 시신이 되었을 것입니다. 에테르체는 전 생애에 걸쳐 물리적 몸의 붕괴에 맞서 싸우는 투사입니다."
+                            }
+                        },
+                        {
+                            "id": "rosi.3.15",
+                            "title": "문단 15",
+                            "paragraphNumber": 15,
+                            "chapterTitle": "장미십자 방법",
+                            "text": {
+                                "german": "Der Äther- oder Lebensleib ist das zweite Glied der menschlichen Wesenheit. Wir wollen hier gleich vorausnehmen, daß einen Ätherleib auch die Pflanze und auch das Tier hat.",
+                                "english": "The ether or life body is the second member of man's being. We will now take it for granted that both the plant and the animal have etheric bodies.",
+                                "korean": "에테르체, 즉 생명체는 인간 존재의 제2요소입니다. 이제 우리는 식물과 동물도 에테르체를 가지고 있다는 사실은 말할 필요도 없을 것입니다.",
+                                "ai_translation": "에테르체 또는 생명체는 인간 본질의 두 번째 구성 부분입니다. 여기서 우리는 곧바로, 식물도 동물도 에테르체를 지니고 있다는 점을 미리 말해 두고자 합니다."
+                            }
+                        },
+                        {
+                            "id": "rosi.3.16",
+                            "title": "문단 16",
+                            "paragraphNumber": 16,
+                            "chapterTitle": "장미십자 방법",
+                            "text": {
+                                "german": "Aber es unterscheidet sich doch der Mensch in gewisser Beziehung auch in seinem Ätherleib vom Tier. Und dieser Unterschied soll uns nun besonders interessieren: Wie unterscheidet sich der menschliche Ätherleib von dem des Tieres? — Zunächst aber wollen wir noch fragen: Wie kommt das hellseherische Bewußtsein dazu, etwas zu wissen vom Ätherleib des Menschen? Zur Beantwortung dieser Frage müssen wir das Hellsehen schildern. Wer eine gewisse Stufe des Hellsehens erreicht hat, der hat auch die Fähigkeit sich erworben, die starke Kraft errungen, seinen Geist so zu beherrschen, daß er in viel höherem Grade imstande ist, auf etwas seine Aufmerksamkeit zu lenken, oder sie davon abzulenken.",
+                                "english": "Nevertheless, in a certain respect the human being differs from the animal in his etheric body as well, and it is this difference that is of particular interest to us. In what respect does the etheric body of man differ from that of the animal? First let us ask how clairvoyant consciousness is able to acquire knowledge of man's etheric body. To answer this question we must describe what clairvoyance is. An individual who has developed a certain faculty of clairvoyance has also acquired such mastery of his mental activity that he is able to focus his attention upon or divert it from something with far greater strength than before.",
+                                "korean": "어떤 면에서 인간은 동물과 다른 에테르체를 가지고 있습니다. 우리에게 흥미로운 사실은 바로 이 차이점입니다. 그럼 어떤 점에서 인간의 에테르체는 동물의 에테르체와 어떻게 다를까요? 우선 영시의식은 어떻게 해서 에테르체에 대한 지식을 획득할 수 있는지 물어봅시다. 이 질문에 대답하려면 영시란 무엇인지 설명할 필요가 있습니다. 영시능력을 어느 정도 육성한 사람은 자신의 심리활동을 제어할 수 있는 엄청난 힘을 획득했기 때문에 이전과는 비교할 수 없을 정도로 무엇인가에 관심을 집중할 수도 있고 그것으로부터 관심을 돌릴 수도 있습니다.",
+                                "ai_translation": "그러나 인간은 어떤 점에서는 자신의 에테르체에서도 동물과 구별됩니다. 이제 우리에게 특히 흥미로운 것은 바로 이 차이입니다. 인간의 에테르체는 동물의 에테르체와 어떻게 구별되는가? — 그러나 먼저 우리는 또 이렇게 물어야 합니다. 영시적 의식은 어떻게 인간의 에테르체에 대해 무엇인가를 알게 되는가? 이 물음에 답하기 위해 우리는 영시를 묘사해야 합니다. 어떤 단계의 영시에 도달한 사람은, 자기 정신을 지배하여 훨씬 더 높은 정도로 어떤 것에 주의를 기울이거나, 또는 그 주의를 거기서 돌릴 수 있는 능력, 강한 힘을 획득한 사람입니다."
+                            }
+                        },
+                        {
+                            "id": "rosi.3.17",
+                            "title": "문단 17",
+                            "paragraphNumber": 17,
+                            "chapterTitle": "장미십자 방법",
+                            "text": {
+                                "german": "Wenn Sie vom gewöhnlichen Menschen verlangen, seine Aufmerksamkeit so abzulenken, daß er sich sozusagen die physische Gestalt absuggetieren kann, so wird ihm das nur äußerst selten möglich sein;",
+                                "english": "If you were to expect an average human being to be able to control his attention to the extent of suggesting away a physical form in front of him, you would find that it would be possible in the rarest instances.",
+                                "korean": "만일 여러분이 평균적인 인간은 눈앞에 있는 물체의 형태를 사고의 힘으로 지워버릴 수 있을 정도로 자신의 관심을 제어할 수 있다고 생각할지라도 그것은 극히 드문 일이라는 것을 알게 될 것입니다.",
+                                "ai_translation": "여러분이 보통 사람에게 자기 주의를 그렇게 돌려서, 말하자면 물리적 형상을 자기 암시로 지워 버리라고 요구한다면, 그것은 극히 드물게만 가능할 것입니다."
+                            }
+                        },
+                        {
+                            "id": "rosi.3.18",
+                            "title": "문단 18",
+                            "paragraphNumber": 18,
+                            "chapterTitle": "장미십자 방법",
+                            "text": {
+                                "german": "der Hellseher aber ist dazu durchaus imstande. Der Raum, in dem sonst der physische Leib ist, ist für den Hellseher dann ausgefüllt, durchglänzt von diesem Ätherleib oder Lebensleib. Derselbe hat annähernd die menschliche Gestalt an Kopf, Rumpf und Schultern.",
+                                "english": "A clairvoyant, however, is quite capable of doing this. The space otherwise occupied by the physical body is then, for the clairvoyant, filled through and through by this etheric body. It has approximately the human form in the head, torso and shoulders,",
+                                "korean": "하지만 영시능력자는 이것이 가능합니다. 영시 능력자에게 육체가 점유하고 있는 공간은 에테르체에 의해 완전히 채워져 있습니다. 그 에테르체는 머리, 가슴, 어깨부분 등 대략 인간의 모습입니다만 몸 아랫부분으로 가면 갈수록 인체의 모습을 닮지 않게 됩니다.",
+                                "ai_translation": "그러나 영시자는 전적으로 그렇게 할 수 있습니다. 그러면 평소 물리적 몸이 있던 공간은 영시자에게 이 에테르체 또는 생명체로 채워져 있고, 그것에 의해 빛으로 관통되어 있는 것으로 나타납니다. 이 에테르체는 머리, 몸통, 어깨에서는 대략 인간의 형상을 지니고 있습니다."
+                            }
+                        },
+                        {
+                            "id": "rosi.3.19",
+                            "title": "문단 19",
+                            "paragraphNumber": 19,
+                            "chapterTitle": "장미십자 방법",
+                            "text": {
+                                "german": "Je mehr er nach unten verläuft, desto weniger ähnlich ist er der menschlichen Gestalt. Beim Tier ist der Ätherleib sehr verschieden vom physischen Leib. Beim Pferd zum Beispiel ragt, wie Sie wissen, der Ätherkopf weit heraus. Und wenn Sie erst beim Elefanten den Ätherleib hellseherisch beobachten könnten, würden Sie erstaunt sein, welch riesigen Aufbau derselbe hat,",
+                                "english": "but the lower the area in the body, the less similar it is to the human figure. The etheric body of an animal is different from its physical body. The etheric body of the horse, for example, extends far beyond its physical form. If you could see the etheric body of an elephant clairvoyantly you would be amazed at its gigantic proportions.",
+                                "korean": "동물의 에테르체는 그 육체와는 차이가 있습니다. 실례를 들어보면 말의 에테르체는 그 물질적 형태로부터 훨씬 멀리까지 퍼져있습니다. 영시를 통해 코끼리의 에테르체를 보게 되면 그 거대한 범위에 여러분은 놀라지 않을 수 없을 것입니다.",
+                                "ai_translation": "그러나 아래로 내려갈수록 그것은 인간의 형상과 점점 덜 비슷해집니다. 동물의 경우 에테르체는 물리적 몸과 매우 다릅니다. 예컨대 말의 경우에는, 여러분도 알다시피 에테르 머리가 멀리 밖으로 돌출되어 있습니다. 그리고 만일 여러분이 코끼리의 에테르체를 영시적으로 관찰할 수 있다면, 그것이 얼마나 거대한 구조를 지니고 있는지 보고 놀라게 될 것입니다."
+                            }
+                        },
+                        {
+                            "id": "rosi.3.20",
+                            "title": "문단 20",
+                            "paragraphNumber": 20,
+                            "chapterTitle": "장미십자 방법",
+                            "text": {
+                                "german": "Je mehr wir bei der Menschengestalt nach unten kommen, desto mehr ändert sich der Ätherleib gegenüber der physischen Form.",
+                                "english": "In the case of the human form, the lower the level the greater is the difference between the etheric body and the physical form.",
+                                "korean": "인간 형태의 경우 아래로 갈수록 에테르체와 육체와의 차이가 커집니다.",
+                                "ai_translation": "인간 형상에서도 우리가 아래쪽으로 내려갈수록, 에테르체는 물리적 형상과 점점 더 달라집니다."
+                            }
+                        },
+                        {
+                            "id": "rosi.3.21",
+                            "title": "문단 21",
+                            "paragraphNumber": 21,
+                            "chapterTitle": "장미십자 방법",
+                            "text": {
+                                "german": "Sonst aber entspricht sich in gewisser Beziehung Links und Rechts im physischen und im Ätherleibe. Etwas nach links liegt das physische Herz; das entsprechende Organ im Ätherkörper ist das Ätherherz, welches auf der rechten Seite liegt.",
+                                "english": "Otherwise, in a certain respect, left and right correspond in the physical body and in the etheric body. The physical heart lies slightly to the left; the corresponding organ in the etheric body is the etheric heart, which lies to the right.",
+                                "korean": "다른 한편으로 어떤 의미에서 육체와 에테르체는 좌우로 대응하고 있습니다. 물질의 심장은 왼쪽으로 조금 벗어나 있습니다. 에테르체에서 심장과 대응하는 기관은 오른쪽으로 향한 에테르심장입니다.",
+                                "ai_translation": "그러나 그 밖의 점에서는 물리적 몸과 에테르체 안에서 왼쪽과 오른쪽이 어떤 의미에서 서로 상응합니다. 물리적 심장은 조금 왼쪽에 놓여 있습니다. 에테르 몸에서 그에 상응하는 기관은 에테르 심장인데, 그것은 오른쪽에 놓여 있습니다."
+                            }
+                        },
+                        {
+                            "id": "rosi.3.22",
+                            "title": "문단 22",
+                            "paragraphNumber": 22,
+                            "chapterTitle": "장미십자 방법",
+                            "text": {
+                                "german": "Der größte Unterschied aber zwischen physischem und Ätherkörper ist der, daß der Ätherleib des Mannes weiblich ist und der der Frau männlich. Diese Tatsache ist sehr wichtig, und viele Rätsel der Menschennatur sind auf Grund dieses okkulten Forschungsergebnisses erklärlich. So ist also beim Menschen eine Art Entsprechung, beim Tier ein großer Unterschied zwischen diesem zweiten Glied der menschlichen Wesenheit und dem ersten.",
+                                "english": "The greatest difference, however, between the physical and the etheric body is that the etheric body of a man is female and the etheric body of a woman, male. This is a fact of great significance and many riddles of human nature are explicable on the basis of this finding of occult investigation. Thus, in the case of the human being there is a kind of correspondence, and in the case of the animal a great difference, between this second member of man's nature and the first.",
+                                "korean": "하지만 육체와 에테르체의 가장 큰 차이는 남성의 에테르체가 여성적이고 여성의 에테르체가 남성적이라는 것입니다. 이것은 커다란 의미를 감추고 있으며 인간 성질에 대한 많은 수수께끼가 이 오컬트조사를 통한 발견에 기초해서 해명될 수 있습니다. 이렇게 인간의 경우에는 일종의 대응이 있으며 동물의 경우에는 육체와 에테르체 사이에 커다란 차이가 있습니다.",
+                                "ai_translation": "그러나 물리적 몸과 에테르 몸 사이의 가장 큰 차이는 남성의 에테르체가 여성적이고, 여성의 에테르체가 남성적이라는 점입니다. 이 사실은 매우 중요합니다. 그리고 인간 본성의 많은 수수께끼들이 이 오컬트 탐구 결과를 바탕으로 설명될 수 있습니다. 그러므로 인간에게서는 인간 본질의 이 두 번째 구성 부분과 첫 번째 구성 부분 사이에 일종의 상응이 있지만, 동물에게서는 큰 차이가 있습니다.\n\n\n3강 파트2 문단정렬본\n\n※ 한글 강의록의 실제 줄바꿈/빈줄 기준으로 분할했습니다.\n※ 해설만 있는 문단은 제외하고, 원문이 남는 한글 문단만 번호를 매겼습니다."
+                            }
+                        },
+                        {
+                            "id": "rosi.3.23",
+                            "title": "문단 23",
+                            "paragraphNumber": 23,
+                            "chapterTitle": "장미십자 방법",
+                            "text": {
+                                "german": "Den Astralleib können Sie sich beim Menschen noch viel klarer machen. Er ist das dritte Glied der menschlichen Wesenheit. Schon der Ätherleib ist eine Tatsache für den Hellseher,",
+                                "english": "Of man's astral body it is possible to have a much clearer idea. It is the third member of his constitution. The etheric body of man is a reality to one who is clairvoyant;",
+                                "korean": "인간의 아스트랄체에 관해서는 더욱 명확한 개념을 가질 수 있습니다. 아스트랄체는 인간 조성의 제3요소입니다. 인간의 에테르체는 영시능력자에게 실재하는 것입니다.",
+                                "ai_translation": "인간에게서 아스트랄체는 훨씬 더 분명하게 이해할 수 있습니다. 그것은 인간 본질의 세 번째 구성 부분입니다. 에테르체조차도 영시자에게는 하나의 사실이지만,"
+                            }
+                        },
+                        {
+                            "id": "rosi.3.24",
+                            "title": "문단 24",
+                            "paragraphNumber": 24,
+                            "chapterTitle": "장미십자 방법",
+                            "text": {
+                                "german": "für den Materialisten freilich eine Phantasterei.",
+                                "english": "to a materialist it is simply an illusion.",
+                                "korean": "하지만 유물주의자에게는 단지 환각에 지나지 않습니다.",
+                                "ai_translation": "물론 물질주의자에게는 공상에 불과할 것입니다."
+                            }
+                        },
+                        {
+                            "id": "rosi.3.25",
+                            "title": "문단 25",
+                            "paragraphNumber": 25,
+                            "chapterTitle": "장미십자 방법",
+                            "text": {
+                                "german": "Die äußere, anatomische, physiologische Wissenschaft durchforscht am Menschen nur den physischen Körper. Aber in diesem physischen Körper ist etwas, was als Blut und Nerven dem Bewußtsein des Menschen noch viel näher steht.",
+                                "english": "Anatomists and physiologists investigate man's physical body only. But in this physical body there is something—the blood and nerves—that is much more closely related to man's consciousness.",
+                                "korean": "해부학자나 생리학자는 인간의 육체 밖에 연구하지 않습니다. 하지만 이 육체 안에는 인간의 의식과 매우 관계 깊은 것-피와 신경-이 있습니다.",
+                                "ai_translation": "외적 해부학과 생리학은 인간에게서 오직 물리적 몸만을 탐구합니다. 그러나 이 물리적 몸 안에는 피와 신경으로서 인간의 의식에 훨씬 더 가까이 서 있는 것이 있습니다."
+                            }
+                        },
+                        {
+                            "id": "rosi.3.26",
+                            "title": "문단 26",
+                            "paragraphNumber": 26,
+                            "chapterTitle": "장미십자 방법",
+                            "text": {
+                                "german": "Er weiß nämlich von seiner Lust, von seinem Leid, von seiner Freude,",
+                                "english": "This consciousness is aware of his happiness, suffering and joy,",
+                                "korean": "이 의식은 행복이나 고뇌, 기쁨을 지각하고 있습니다.",
+                                "ai_translation": "인간은 자신의 쾌, 자신의 고통, 자신의 기쁨을 알고 있습니다."
+                            }
+                        },
+                        {
+                            "id": "rosi.3.27",
+                            "title": "문단 27",
+                            "paragraphNumber": 27,
+                            "chapterTitle": "장미십자 방법",
+                            "text": {
+                                "german": "und dieses spielt sich ab im Raum, der von seinem physischen Körper ausgefüllt ist.",
+                                "english": "all of which take effect in the space filled by his physical body.",
+                                "korean": "이러한 모든 감정이 육체가 채우고 있는 공간에 영향을 미치고 있습니다.",
+                                "ai_translation": "그리고 이것은 그의 물리적 몸이 채우고 있는 공간 안에서 일어납니다."
+                            }
+                        },
+                        {
+                            "id": "rosi.3.28",
+                            "title": "문단 28",
+                            "paragraphNumber": 28,
+                            "chapterTitle": "장미십자 방법",
+                            "text": {
+                                "german": "Der Träger davon, der ihm unsichtbar ist, wird sichtbar für das hellseherische Bewußtsein wie eine leuchtende Wolke: es ist der astralische Leib. Dieser unterscheidet sich sehr vom Ätherleib.",
+                                "english": "The bearer of these experiences is invisible to the individual concerned but it is visible to clairvoyant consciousness as a luminous cloud. This is the astral body. It differs greatly from the etheric body.",
+                                "korean": "이러한 경험을 담당하는 것은 보통 인간에게는 비가시적이지만 영시의식으로는 빛의 구름으로 보입니다. 이것이 아스트랄체입니다. 아스트랄체는 에테르체와 전혀 다릅니다.",
+                                "ai_translation": "그 담지자는 인간 자신에게는 보이지 않지만, 영시적 의식에는 빛나는 구름처럼 보이게 됩니다. 그것이 아스트랄체입니다. 이것은 에테르체와 매우 다릅니다."
+                            }
+                        },
+                        {
+                            "id": "rosi.3.29",
+                            "title": "문단 29",
+                            "paragraphNumber": 29,
+                            "chapterTitle": "장미십자 방법",
+                            "text": {
+                                "german": "Die Bewegung im physischen Leib ist nicht zu vergleichen mit der außerordentlichen Beweglichkeit des Ätherleibes. Beim gesunden Menschen hat dieser die Farbe der Blüte des jungen Pfirsichbaumes.",
+                                "english": "Movement in the physical body cannot be compared with the extraordinary mobility of the etheric body. In a healthy human being the color of this etheric body is that of the blossom of a young peach tree.",
+                                "korean": "육체의 운동은 에테르체의 특별한 가동성(可動性)과는 비교도 되지 않습니다. 건강한 인간의 에테르체 색깔은 원기 왕성한 복숭아 꽃 색입니다.",
+                                "ai_translation": "물리적 몸 안의 움직임은 에테르체의 비범한 운동성과 비교될 수 없습니다. 건강한 인간에게서 에테르체는 어린 복숭아나무 꽃의 색을 띱니다."
+                            }
+                        },
+                        {
+                            "id": "rosi.3.30",
+                            "title": "문단 30",
+                            "paragraphNumber": 30,
+                            "chapterTitle": "장미십자 방법",
+                            "text": {
+                                "german": "Es glänzt und glitzert alles an ihm in der eigentümlichen Nuance, in Rosenrot, Dunklem und Hellem bis zum Weiß-Leuchtenden; dabei hat der Ätherleib eine bestimmte Grenze, wenn dieselbe auch schwankend ist.",
+                                "english": "Everything in the etheric body gleams and glitters in shades of rosy red, dark and light, becoming a radiant white. The etheric body has a definite boundary, although this fluctuates.",
+                                "korean": "에테르체 속 모든 것이 어두워졌다가 밝아지는 장미색의 음영 속에서 반짝이며 빛나는 흰색이 됩니다. 에테르체는 명확한 경계를 가지고 있습니다만 반복되는 파동을 가지고 있습니다.",
+                                "ai_translation": "그 안의 모든 것이 독특한 뉘앙스 속에서 빛나고 반짝입니다. 장밋빛 붉음, 어둡고 밝은 빛깔, 나아가 흰빛으로 빛나는 것에 이르기까지 말입니다. 그러면서도 에테르체는, 비록 그 경계가 흔들리기는 하지만, 일정한 경계를 지니고 있습니다."
+                            }
+                        },
+                        {
+                            "id": "rosi.3.31",
+                            "title": "문단 31",
+                            "paragraphNumber": 31,
+                            "chapterTitle": "장미십자 방법",
+                            "text": {
+                                "german": "Beim astralischen Leib ist das ganz anders. Der zeigt die mannigfaltigsten Farben und Formen, gleich einer Wolke, die dahinflutet in steter wechselnder Bewegung.",
+                                "english": "The astral body is quite different. It displays the greatest possible variety of colors and changing forms, like a cloud floating by with ever changing movement.",
+                                "korean": "아스트랄체는 또 다릅니다. 아스트랄체는 갖가지 색과 형태의 변화를 나타내는 마치 끊임없이 변화하는 떠다니는 구름과 같습니다.",
+                                "ai_translation": "아스트랄체의 경우에는 전혀 다릅니다. 아스트랄체는 끊임없이 변화하는 움직임 속에서 흘러가는 구름처럼, 가장 다양한 색채와 형상들을 보여 줍니다."
+                            }
+                        },
+                        {
+                            "id": "rosi.3.32",
+                            "title": "문단 32",
+                            "paragraphNumber": 32,
+                            "chapterTitle": "장미십자 방법",
+                            "text": {
+                                "german": "Und das, was sich in der Wolke bildet, das drückt sich aus in den Gefühlen und Empfindungen, die der Mensch dem Menschen entgegenbringt.",
+                                "english": "The colors and forms that appear in the cloud are expressions of the feelings and experiences that play between one human being and another.",
+                                "korean": "구름 속에 나타나는 색채와 형태는 인간들 사이에서 발생하는 감정과 경험의 표출입니다.",
+                                "ai_translation": "그리고 그 구름 속에서 형성되는 것은, 인간이 인간에게 품는 감정과 느낌들 안에서 표현됩니다."
+                            }
+                        },
+                        {
+                            "id": "rosi.3.33",
+                            "title": "문단 33",
+                            "paragraphNumber": 33,
+                            "chapterTitle": "장미십자 방법",
+                            "text": {
+                                "german": "Sieht der Hellseher die bläulich-rote Farbe im Astralleib auftauchen, so sieht er gleichsam die Liebe strömen von Mensch zu Mensch, doch sieht er auch all die häßlichen Empfindungen, die von Mensch zu Mensch spielen. Und da die Seelentätigkeit des Menschen sich fortwährend ändert, so ändern sich auch fortwährend die Farben und Formen des astralischen Leibes, sie treten auf und schwingen ab in buntem Spiel und bilden ihre Einschlüsse.",
+                                "english": "If a clairvoyant sees a bluish-red color in the astral body, he perceives love streaming between human beings, but another time he will also see the feelings of animosity that pass between individuals. As a man's activity of soul is constantly changing, so, too, do the colors and forms change in the astral body, appearing and disappearing in a multicolored play.",
+                                "korean": "만약 영시 능력자가 아스트랄체에서 푸른빛을 띤 붉은 색을 보았다면 그는 사람들 사이에 사랑이 흐르고 있음을 지각하게 됩니다. 하지만 어떤 때에는 개개인 사이에 흐르는 적의의 감정을 보기도 할 것입니다. 인간 혼의 활동이 끊임없이 변화하고 있는 것과 같이 아스트랄체의 색과 형태도 변화하고 있으며 다채로운 움직임 속에서 나타났다가는 사라집니다.",
+                                "ai_translation": "영시자가 아스트랄체 안에서 푸르스름한 붉은 빛깔이 떠오르는 것을 보면, 그는 말하자면 사랑이 인간에게서 인간에게로 흐르는 것을 봅니다. 그러나 그는 또한 인간과 인간 사이에서 오가는 모든 추한 감정들도 봅니다. 인간의 영혼 활동은 끊임없이 변하기 때문에, 아스트랄체의 색채와 형상들도 끊임없이 변합니다. 그것들은 다채로운 유희 속에서 나타났다가 사라지며, 자기 안에 여러 응결들을 형성합니다."
+                            }
+                        },
+                        {
+                            "id": "rosi.3.34",
+                            "title": "문단 34",
+                            "paragraphNumber": 34,
+                            "chapterTitle": "장미십자 방법",
+                            "text": {
+                                "german": "Das vierte Glied der menschlichen Wesenheit ist der Träger des Ich. So haben wir am Menschen nun den physischen Leib, der in der Natur draußen dem Mineral gleichkommt, dann den Ätherleib, welcher der Pflanze vergleichbar ist, und als drittes den Astralleib, den das Tier mit dem Menschen gemeinsam hat. Nur ist der Astralleib beim Menschen viel beweglicher als beim Tier.",
+                                "english": "The fourth member of man's constitution is the bearer of the ego. Thus we have his physical body, which in external nature is comparable with the mineral, then his etheric body, which is comparable with the plant, and then his astral body, which is common to both animal and man. The astral body in man, however, is far more mobile than it is in the animal.",
+                                "korean": "인간 조성의 제4요소는 자아입니다. 우리는 인간의 육체를 가지고 있습니다. 육체는 광물과 비교할 수 있습니다. 이어서 에테르체, 에테르체는 식물과 비교할 수 있습니다. 그 다음은 아스트랄체, 아스트랄체는 동물과 인간 양쪽에 공통된 것입니다. 하지만 인간의 아스트랄체는 동물의 아스트랄체보다 훨씬 큰 움직임을 가지고 있습니다.",
+                                "ai_translation": "인간 본질의 네 번째 구성 부분은 자아의 담지자입니다. 이렇게 우리는 인간에게서, 바깥 자연 안에서는 광물에 해당하는 물리적 몸을 보았습니다. 그다음에는 식물에 비견될 수 있는 에테르체를 보았고, 셋째로 동물이 인간과 함께 지니는 아스트랄체를 보았습니다. 다만 인간의 아스트랄체는 동물의 아스트랄체보다 훨씬 더 움직임이 풍부합니다."
+                            }
+                        },
+                        {
+                            "id": "rosi.3.35",
+                            "title": "문단 35",
+                            "paragraphNumber": 35,
+                            "chapterTitle": "장미십자 방법",
+                            "text": {
+                                "german": "Der Ich-Träger, das vierte Glied der menschlichen Wesenheit, ist gleich einer Art Ovalfigur, deren Ursprung bis hinein in das Vorderhirn zu verfolgen ist. Dort ist dieselbe für den Hellseher als eine bläulich-leuchtende Kugel sichtbar. Von der strömt aus in Ovalform, wie ein Raum-Ei, könnte man sagen, das in den Menschen hineinspielt, eine Art von Bläue. Wie ist dieser Ich-Träger zu sehen? Erst wenn der Hellseher imstande ist, sich auch den Astralleib des Menschen abzusuggerieren, erst dann vermag er den Ich-Träger wahrzunehmen.",
+                                "english": "The ego bearer, the fourth member of man's nature, is seen as a kind of oval form, the source of which can be traced to the anterior part of the head. It is visible there to the clairvoyant as a bluish, luminous orb. A kind of bluish sheen streams out from this orb and passes into the human being. When, but not until, the clairvoyant can also suggest away a man's astral body, he is able to perceive the ego bearer.",
+                                "korean": "인간 성질의 네 번째 요소, 자아는 일종의 알 형태로 보입니다. 그리고 그 기반은 머리의 앞부분까지 이릅니다. 이것은 영시자에게 푸른빛을 띤 빛나는 구형으로 보입니다. 푸른빛이 깔린 빛살이 이 구(球)로부터 흘러나와 사람 안으로 이동합니다. 영시 능력자는 인간의 아스트랄체까지 사고로 지울 수 있게 될 때에만 자아를 지각할 수 있습니다.",
+                                "ai_translation": "자아의 담지자, 곧 인간 본질의 네 번째 구성 부분은 일종의 타원형 형상과 같습니다. 그 기원은 전뇌 깊숙한 곳까지 추적될 수 있습니다. 그곳에서 그것은 영시자에게 푸르게 빛나는 하나의 구로 보입니다. 그리고 그 구로부터 타원형으로, 말하자면 인간 안으로 작용해 들어가는 하나의 공간적 알처럼, 어떤 푸른 빛이 흘러나옵니다. 이 자아의 담지자는 어떻게 보입니까? 영시자가 인간의 아스트랄체마저도 자기 암시로 지워 버릴 수 있을 때에야 비로소, 그는 자아의 담지자를 지각할 수 있습니다."
+                            }
+                        },
+                        {
+                            "id": "rosi.3.36",
+                            "title": "문단 36",
+                            "paragraphNumber": 36,
+                            "chapterTitle": "장미십자 방법",
+                            "text": {
+                                "german": "Die drei andern Leiber hat der Mensch mit den drei Reichen der Natur, dem Mineralreich, Pflanzen- und Tierreich gemeinsam. Durch den Ich-Träger aber unterscheidet er sich von diesen, dadurch ist er die Krone der Schöpfung.",
+                                "english": "Man has the other three bodies in common with the mineral, plant and animal kingdoms of nature. But the ego bearer distinguishes him from these kingdoms and he becomes thereby the crown of creation.",
+                                "korean": "인간은 광물계, 식물계, 동물계와 공유하는 세 개의 몸을 가지고 있습니다. 하지만 자아가 인간을 다른 왕국과 구별해주며 이로 인해 인간은 창조의 영예를 갖게 된 것입니다.",
+                                "ai_translation": "인간은 다른 세 몸을 자연의 세 왕국, 곧 광물계, 식물계, 동물계와 함께 가지고 있습니다. 그러나 자아의 담지자를 통해 인간은 이 왕국들과 구별됩니다. 그것을 통해 인간은 창조의 면류관이 됩니다."
+                            }
+                        },
+                        {
+                            "id": "rosi.3.37",
+                            "title": "문단 37",
+                            "paragraphNumber": 37,
+                            "chapterTitle": "장미십자 방법",
+                            "text": {
+                                "german": "Indem wir so die viergliedrige Wesenheit des Menschen betrachtet haben, haben wir uns gleichzeitig das vor Augen geführt, was der Mensch sozusagen von den höheren Welten mitbekommen hat,",
+                                "english": "In studying the fourfold nature of man we have actually been envisaging the dowry he has received from the higher worlds,",
+                                "korean": "인간의 네 가지 속성을 연구할 때 우리는 인간이 고차세계로부터 부여받은 타고난 재능을 엿보고 있는 것입니다.",
+                                "ai_translation": "이처럼 인간의 네 구성으로 이루어진 본질을 고찰하면서, 우리는 동시에 인간이 말하자면 더 높은 세계들로부터 함께 받아 온 것을 눈앞에 세웠습니다."
+                            }
+                        },
+                        {
+                            "id": "rosi.3.38",
+                            "title": "문단 38",
+                            "paragraphNumber": 38,
+                            "chapterTitle": "장미십자 방법",
+                            "text": {
+                                "german": "ganz gleichgültig, auf welcher Entwickelungsstufe er steht.",
+                                "english": "no matter what his stage of evolution may be.",
+                                "korean": "인간이 어느 진화단계에 있든지 그것은 변하지 않습니다.",
+                                "ai_translation": "그가 어떤 발전 단계에 서 있든, 그것은 마찬가지입니다."
+                            }
+                        },
+                        {
+                            "id": "rosi.3.39",
+                            "title": "문단 39",
+                            "paragraphNumber": 39,
+                            "chapterTitle": "장미십자 방법",
+                            "text": {
+                                "german": "Dadurch, daß er diese vier Glieder der menschlichen Wesenheit hat, dadurch ist er eben Mensch.",
+                                "english": "The fact that he has the fourfold constitution of which we have spoken makes him man.",
+                                "korean": "지금까지 설명한 4층 구조를 인간이 가지고 있다는 사실이 인간을 인간답게 하고 있습니다.",
+                                "ai_translation": "인간 본질의 이 네 구성 부분을 지니고 있기 때문에, 인간은 바로 인간입니다."
+                            }
+                        },
+                        {
+                            "id": "rosi.3.40",
+                            "title": "문단 40",
+                            "paragraphNumber": 40,
+                            "chapterTitle": "장미십자 방법",
+                            "text": {
+                                "german": "Jetzt erst, wenn das Ich an den drei andern Leibern arbeitet, beginnt die Arbeit des Menschen selbst. Ein Mensch steht höher oder niedriger in seiner Entwickelung, je nachdem er seine Arbeit an den drei niedrigeren Gliedern seiner Wesenheit vollbringt. Es beginnt das Ich zuerst am Astralleib zu arbeiten.",
+                                "english": "Not until the “I,” the ego, works on the three bodies does his own task begin in the real sense. Whether the development achieved by a human being has reached a higher or lower stage depends upon how effectively he has worked upon the lower members of his constitution. The ego begins first of all to work upon the astral body.",
+                                "korean": "「나」, 자아가 3개의 몸에 작용함으로써 인간은 진정한 의미로 스스로의 사명을 다하는 것입니다. 어떤 인간이 이룩한 발달이 고차단계에 이르렀는지 아니면 저차단계에 머물고 있는지는 자신이 저차 요소에 어느 정도 영향력을 가지고 작용해왔는지에 달려있습니다. 자아는 먼저 아스트랄체에 작용합니다.",
+                                "ai_translation": "이제 비로소, 자아가 다른 세 몸에 작업하기 시작할 때, 인간 자신의 작업이 시작됩니다. 한 인간은 자기 본질의 세 낮은 구성 부분에 대해 어떤 작업을 수행하느냐에 따라, 발전에서 더 높이 또는 더 낮게 서 있습니다. 자아는 먼저 아스트랄체에 대해 작업하기 시작합니다."
+                            }
+                        },
+                        {
+                            "id": "rosi.3.41",
+                            "title": "문단 41",
+                            "paragraphNumber": 41,
+                            "chapterTitle": "장미십자 방법",
+                            "text": {
+                                "german": "Diese Arbeit drückt sich an einem niedrigerstehenden Menschen und an einer hochstehenden Persönlichkeit, wie Schiller etwa, sehr verschieden aus. Der eine hat an der Umwandlung seines Astralleibes weniger geleistet als der andere.",
+                                "english": "The effect of this work differs depending upon whether the individual concerned has reached only a low stage of development or is a highly evolved personality such, for example, as Schiller. The one has achieved less than the other in the process of transforming his astral body.",
+                                "korean": "이 작용의 결과는 해당 인간이 저차 단계밖에 성숙하지 못했는지 아니면 쉴러와 같이 고도의 진화를 이룬 인격인지에 따라 틀립니다. 전자는 아스트랄체를 변용시키는 정도가 후자만큼 많이 성숙되어있지 않습니다.",
+                                "ai_translation": "이 작업은 낮은 단계에 서 있는 인간에게서와, 예컨대 실러와 같은 높은 인격에게서 매우 다르게 표현됩니다. 한 사람은 자신의 아스트랄체를 변형하는 일에서 다른 사람보다 적게 성취한 것입니다."
+                            }
+                        },
+                        {
+                            "id": "rosi.3.42",
+                            "title": "문단 42",
+                            "paragraphNumber": 42,
+                            "chapterTitle": "장미십자 방법",
+                            "text": {
+                                "german": "Diese innere Arbeit an sich selbst nennt man in der Geheimsprache die Läuterung oder Reinigung: Katharsis. In dieser Weise arbeitet das Ich an der Vervollkommnung des Astralleibes.",
+                                "english": "This inner work upon oneself is known in occultism as purification, cleansing or catharsis. In this way the ego works at the perfecting of the astral body.",
+                                "korean": "자기 자신에 대한 이 내적작용은 오컬티즘에서는 정화, 카타르시스로 알려져 있습니다. 이런 식으로 자아는 아스트랄체의 완성을 향해서 작용합니다.",
+                                "ai_translation": "자기 자신에 대한 이 내적 작업을 비전의 언어에서는 정화 또는 정련, 곧 카타르시스라고 부릅니다. 이런 방식으로 자아는 아스트랄체의 완성에 대해 작업합니다."
+                            }
+                        },
+                        {
+                            "id": "rosi.3.43",
+                            "title": "문단 43",
+                            "paragraphNumber": 43,
+                            "chapterTitle": "장미십자 방법",
+                            "text": {
+                                "german": "Bei allen Menschen finden Sie daher, daß der Astralleib in zwei Teile zerfällt:",
+                                "english": "In every human being, therefore, it will be found that the astral body is twofold.",
+                                "korean": "그러므로 인간 한사람 한사람에게 아스트랄체는 두층으로 되어있음을 알 수 있습니다.",
+                                "ai_translation": "그러므로 모든 인간에게서 여러분은 아스트랄체가 두 부분으로 나뉘어 있음을 발견할 수 있습니다."
+                            }
+                        },
+                        {
+                            "id": "rosi.3.44",
+                            "title": "문단 44",
+                            "paragraphNumber": 44,
+                            "chapterTitle": "장미십자 방법",
+                            "text": {
+                                "german": "der eine Teil ist durchgearbeitet, geläutert, der andere nicht. Nehmen wir nun an, das Ich arbeitet unentwegt weiter am astralischen Leib, dann wird der Mensch allmählich dahinkommen, nicht mehr sich gebieten zu müssen, das Gute zu tun, sondern das Gute zu tun wird ihm zur Gewohnheit werden.",
+                                "english": "One part has been worked upon and purified, not so the other. Let us now suppose that the ego continues to work unswervingly upon the astral body. If this is the case, the individual concerned will gradually reach the stage of no longer having to force himself to do what is good, because it will become habit.",
+                                "korean": "한쪽은 작용을 받아서 정화되고 있지만 나머지 부분은 그렇지 않습니다. 자아가 아스트랄체에 끊임없이 작용하고 있다고 가정해봅시다. 만약 그렇다면 해당 인간은 자기 자신에게 선을 행하도록 강요할 필요가 없는 단계에 서서히 도달할 것입니다. 왜냐하면 선을 행하는 것이 습관이 되기 때문입니다.",
+                                "ai_translation": "한 부분은 작업되어 있고, 정화되어 있습니다. 다른 부분은 그렇지 않습니다. 이제 자아가 아스트랄체에 대해 끊임없이 계속 작업한다고 가정해 봅시다. 그러면 인간은 차츰 선을 행하라고 자신에게 명령하지 않아도 되는 지점에 이를 것입니다. 선을 행하는 것이 그에게 습관이 될 것입니다."
+                            }
+                        },
+                        {
+                            "id": "rosi.3.45",
+                            "title": "문단 45",
+                            "paragraphNumber": 45,
+                            "chapterTitle": "장미십자 방법",
+                            "text": {
+                                "german": "Es ist nämlich ein Unterschied, ob der Mensch nur einem Gebot folgt, oder so stark in der Liebe ist, daß er gar nicht anders kann, als das Gute, das Gescheite, das Schöne zu tun.",
+                                "english": "There is obviously a difference when an individual is obeying a command, or has so much love in him that willy-nilly he will do what is good, meaningful and beautiful.",
+                                "korean": "어떤 개인이 명령에 따라서 선하고 깊은 의미에서 아름다운 행위를 하는 것과, 사랑 안에서 너무 강해져서 선하고 지혜롭고 아름다운 것을 행하지 않을 수 없게 되는 것 사이에는 명백히 커다란 차이가 발생합니다.",
+                                "ai_translation": "인간이 단지 하나의 계명에 따르는 것과, 사랑 안에서 너무도 강해져서 선한 것, 지혜로운 것, 아름다운 것을 행하지 않을 수 없게 되는 것 사이에는 차이가 있습니다."
+                            }
+                        },
+                        {
+                            "id": "rosi.3.46",
+                            "title": "문단 46",
+                            "paragraphNumber": 46,
+                            "chapterTitle": "장미십자 방법",
+                            "text": {
+                                "german": "Folgt der Mensch nur dem Gebot, so arbeitet das Ich am Astralleibe; wird ihm aber das Gute zur Gewohnheit, so bearbeitet das Ich bereits auch den Ätherleib.",
+                                "english": "If an individual is simply obeying a command, his ego is indeed working upon his astral body, but if doing the good becomes a habit, then the ego is working upon the etheric body as well.",
+                                "korean": "만약 단지 명령에 따르고 있는 것뿐이라면 그의 자아는 아스트랄체에 작용하고 있는 것이지만, 만약 선행이 습관이 된다면 그 때는 자아가 아스트랄체뿐만 아니라 에테르체에도 작용하고 있는 것입니다.",
+                                "ai_translation": "인간이 단지 계명에 따른다면, 자아는 아스트랄체에 대해 작업합니다. 그러나 선이 그에게 습관이 된다면, 자아는 이미 에테르체에 대해서도 작업하고 있는 것입니다."
+                            }
+                        },
+                        {
+                            "id": "rosi.3.47",
+                            "title": "문단 47",
+                            "paragraphNumber": 47,
+                            "chapterTitle": "장미십자 방법",
+                            "text": {
+                                "german": "In welcher Weise arbeitet nun das Ich am Ätherleib? Um dies zu erkennen, wollen wir ein Beispiel zu Hilfe nehmen. Wenn Ihnen irgend etwas erklärt wird und Sie haben die Sache verstanden, so hat das Ich in den Astralleib hineingearbeitet.",
+                                "english": "To understand how the ego works upon the etheric body we will think of an example. When something or other is explained to you and you have understood it, then the ego has worked into the astral body.",
+                                "korean": "자아가 에테르체에 어떻게 작용하는지 이해하기 위해 예를 들어 생각해봅시다. 어떤 설명을 듣고 여러분이 그것을 이해한다면 이때는 자아가 아스트랄체에 작용하고 있습니다.",
+                                "ai_translation": "그렇다면 자아는 어떤 방식으로 에테르체에 대해 작업합니까? 이를 인식하기 위해 하나의 예를 들어 보겠습니다. 여러분에게 어떤 것이 설명되고, 여러분이 그 사태를 이해했다면, 자아는 아스트랄체 안으로 작업한 것입니다."
+                            }
+                        },
+                        {
+                            "id": "rosi.3.48",
+                            "title": "문단 48",
+                            "paragraphNumber": 48,
+                            "chapterTitle": "장미십자 방법",
+                            "text": {
+                                "german": "Wenn Sie aber tagtäglich ein Gebet verrichten, etwa tagtäglich das Vaterunser beten, so arbeiten Sie in den Ätherleib dadurch hinein, daß Sie jeden Tag dasselbe wiederholen,",
+                                "english": "But if day after day you repeat a prayer, perhaps the Lord's Prayer, you are working into the etheric body because of the repetition every day;",
+                                "korean": "하지만 매일 「주의 기도」와 같은 기도문을 반복한다면 여러분은 반복을 통해서 에테르체에 작용하고 있는 것입니다.",
+                                "ai_translation": "그러나 여러분이 날마다 하나의 기도를 행한다면, 예컨대 날마다 주기도문을 드린다면, 여러분은 매일 같은 것을 반복함으로써 에테르체 안으로 작업해 들어가는 것입니다."
+                            }
+                        },
+                        {
+                            "id": "rosi.3.49",
+                            "title": "문단 49",
+                            "paragraphNumber": 49,
+                            "chapterTitle": "장미십자 방법",
+                            "text": {
+                                "german": "daß die Seele immer wieder dieselbe Tätigkeit zustande bringt. Wiederholung ist etwas ganz anderes als einmaliges Verständnis.",
+                                "english": "the soul is exercising the same activity over and over again. Repetition is an entirely different matter from a momentary understanding.",
+                                "korean": "혼은 몇 번이고 같은 활동을 하고 있는 것입니다. 반복은 일시적인 이해와 완전히 별개의 것입니다.",
+                                "ai_translation": "영혼이 언제나 다시 같은 활동을 이루어 냄으로써 에테르체 안으로 작업해 들어가는 것입니다. 반복은 한 번의 이해와는 전혀 다른 것입니다."
+                            }
+                        },
+                        {
+                            "id": "rosi.3.50",
+                            "title": "문단 50",
+                            "paragraphNumber": 50,
+                            "chapterTitle": "장미십자 방법",
+                            "text": {
+                                "german": "Wir wollen uns das klarmachen, wie das eine den Astralleib, das andere den Ätherleib vom Ich aus bearbeitet.",
+                                "english": "We will clarify our minds as to how, in the latter case, the ego works upon the astral body and, in the former, upon the etheric body through repetition.",
+                                "korean": "후자의 경우 자아는 어떻게 아스트랄체에 작용하는가가 문제이고 전자의 경우 자아가 반복을 통해 어떻게 에테르체에 작용하는지가 문제입니다. 이것을 명확히 이해하도록 해봅시다.",
+                                "ai_translation": "우리는 이 점을 분명히 해야 합니다. 하나는 자아로부터 아스트랄체를 작업하고, 다른 하나는 자아로부터 에테르체를 작업한다는 사실을 말입니다."
+                            }
+                        },
+                        {
+                            "id": "rosi.3.51",
+                            "title": "문단 51",
+                            "paragraphNumber": 51,
+                            "chapterTitle": "장미십자 방법",
+                            "text": {
+                                "german": "Schauen Sie auf das Wachsen der Pflanze. Sie treibt den Keim, den Stengel, setzt Blatt für Blatt an, immer neue grüne Blätter. Dadurch, daß sie mit einem Ätherleib begabt ist, kann sie das, denn das Prinzip des Ätherleibes ist das der Wiederholung.",
+                                "english": "Think of the growth of a plant. The living seed produces the stalk and leaf after leaf; constantly new green leaves are added. This is possible because the plant is endowed with an etheric body and the underlying, active principle of the etheric body is repetition.",
+                                "korean": "식물의 성장을 생각해보십시오. 살아있는 씨앗은 줄기를 만들어내고 이어서 잎들을 만들어 냅니다. 끊임없이 새로운 녹색 잎이 생겨납니다. 이것은 식물이 에테르체를 가지고 있기 때문이며 에테르체의 근저에서 활동하고 있는 것은 반복입니다.",
+                                "ai_translation": "식물의 성장을 보십시오. 식물은 싹을 틔우고, 줄기를 내며, 잎을 하나하나 붙여 갑니다. 언제나 새로운 초록 잎들을 냅니다. 식물이 이것을 할 수 있는 것은 에테르체를 부여받았기 때문입니다. 에테르체의 원리는 반복의 원리입니다."
+                            }
+                        },
+                        {
+                            "id": "rosi.3.52",
+                            "title": "문단 52",
+                            "paragraphNumber": 52,
+                            "chapterTitle": "장미십자 방법",
+                            "text": {
+                                "german": "Überall da, wo Wiederholung auftritt, da wirkt ein Ätherleib. Den Abschluß der Pflanze, die Blüte, den bewirkt ein anderes Prinzip, der sie überschattende Astralleib.",
+                                "english": "Wherever repetition occurs, an etheric body is at work. The culminating feature of the plant, the blossom, is the product of a different principle, namely, the overshadowing astral body.",
+                                "korean": "반복이 발생하면 반드시 에테르체가 작용하고 있습니다. 절정기 식물의 특징인 개화(開花)는 다른 원리, 즉 그림자를 드리우고 있는 아스트랄체의 산물입니다.",
+                                "ai_translation": "반복이 나타나는 곳이면 어디에서나 에테르체가 작용합니다. 식물의 마무리, 곧 꽃은 또 다른 원리에 의해 이루어집니다. 식물을 그늘처럼 감싸는 아스트랄체가 그것입니다."
+                            }
+                        },
+                        {
+                            "id": "rosi.3.53",
+                            "title": "문단 53",
+                            "paragraphNumber": 53,
+                            "chapterTitle": "장미십자 방법",
+                            "text": {
+                                "german": "Also ein Abschluß, das ist das Prinzip der Astralität.",
+                                "english": "Culmination, therefore, is brought about by astrality.",
+                                "korean": "그러므로 정점은 아스트랄체에 의해 기인된 것입니다.",
+                                "ai_translation": "그러므로 마무리, 완결은 아스트랄성의 원리입니다."
+                            }
+                        },
+                        {
+                            "id": "rosi.3.54",
+                            "title": "문단 54",
+                            "paragraphNumber": 54,
+                            "chapterTitle": "장미십자 방법",
+                            "text": {
+                                "german": "Merken Sie wohl - Sie können das auch beim Menschen am Bau seines physischen Leibes beobachten. Sehen Sie das Rückgrat an, die immer sich wiederholenden Rückenwirbel, da haben Sie den Ätherleib im Physischen ausgedrückt. Nun betrachten Sie den Kopf des Menschen, das Gehirn: da haben Sie den Abschluß, den Astralleib in der physischen Form.",
+                                "english": "This can also be observed in the structure of man's physical body. The spine with its numerous vertebrae is an expression of the etheric body in the physical body. Now think of man's head, of the brain. There you have the culmination, the work of the astral body in the physical stature.",
+                                "korean": "이것은 인간의 육체의 구조에서도 관찰할 수 있습니다. 수많은 척수를 가진 등골은 육체내의 에테르체의 표출입니다. 그럼 이번에는 인간의 머리, 뇌를 생각해봅시다. 이곳에는 정점이 있습니다.",
+                                "ai_translation": "이 점을 잘 기억해 두십시오. 여러분은 이것을 인간의 물리적 몸의 구조에서도 관찰할 수 있습니다. 척추를 보십시오. 끊임없이 반복되는 척추뼈들, 거기에는 에테르체가 물리적인 것 안에 표현되어 있습니다. 이제 인간의 머리, 뇌를 바라보십시오. 거기에는 마무리가 있습니다. 아스트랄체가 물리적 형상 안에 표현되어 있는 것입니다."
+                            }
+                        },
+                        {
+                            "id": "rosi.3.55",
+                            "title": "문단 55",
+                            "paragraphNumber": 55,
+                            "chapterTitle": "장미십자 방법",
+                            "text": {
+                                "german": "Denselben Vorgang haben Sie geistig als das einmalige Verständnis durch die Wirkung auf den Astralleib, und als errungene Tätigkeit durch die tägliche Wiederholung desselben Gebetes oder derselben Meditationsübung, einer Arbeit am Ätherleib.",
+                                "english": "Spiritually, this is the same process as the manifestation of understanding resulting from the effect made upon the astral body; activity generated through daily repetition of the same prayer or meditative exercise is the product of work upon the etheric body.",
+                                "korean": "물질적 형태 속 아스트랄체의 작용입니다. 영적으로 볼 때 어떤 것의 영향으로부터 생성된 이해의 표출이 아스트랄체에 행한 것과 같은 과정입니다. 매일 반복하는 같은 기도나 명상 훈련을 통해 얻어진 생기 있는 활동은 에테르체에 작용한 산물입니다.",
+                                "ai_translation": "여러분은 같은 과정을 영적으로도 봅니다. 한 번의 이해는 아스트랄체에 대한 작용으로 이루어지고, 매일 같은 기도나 같은 명상 수행을 반복함으로써 획득된 활동은 에테르체에 대한 작업으로 이루어집니다."
+                            }
+                        },
+                        {
+                            "id": "rosi.3.56",
+                            "title": "문단 56",
+                            "paragraphNumber": 56,
+                            "chapterTitle": "장미십자 방법",
+                            "text": {
+                                "german": "Darin ist das Wesentliche der Meditation zu sehen, daß sie durch das Prinzip der Wiederholung in den Astralleib nicht allein, sondern in den Ätherleib hinein wirkt. Die großen Religionslehrer haben deshalb so Großes gewirkt, weil sie der Menschheit Inhalte gegeben haben, in denen fortwirkende Kraft sich offenbarte, die immer noch weiter wirkt. So ist also auch der Ätherleib des Menschen zweiteilig: er hat einen durchgearbeiteten Teil, der allerdings beim Durchschnittsmenschen noch gering ist, und den vom Ich aus noch nicht bearbeiteten Teil.",
+                                "english": "The essence of meditation is that through repetition it has an effect not only upon the astral body but also upon the etheric body. The reason why the effect made by the great religious teachers has been so dynamic is because they have imparted to humanity principles embodying a power that works ever onward. The etheric body of man is also twofold; one part has been worked upon by the ego, although in the average individual still to a limited extent, while the other part has not yet been worked upon at all.",
+                                "korean": "명상의 본질은 반복을 통해서 그것이 아스트랄체뿐만 아니라 에테르체에도 영향이 미친다는 점입니다. 여러 종교의 위대한 스승들이 끼친 영향이 왜 그렇게 강력했는지 묻는다면 그것은 그들이 인간에게 계속해서 영향을 끼치는 힘들을 구현하는 원리를 가져왔기 때문입니다. 인간의 에테르체 또한 2중입니다. 한 부분은 자아의 작용을 받고 있습니다만 평균적인 개인의 경우 이것은 아직 한정된 정도입니다. 한편 다른 부분은 아직 전혀 작용을 받고 있지 않습니다.",
+                                "ai_translation": "명상의 본질은 바로 여기에 있습니다. 명상은 반복의 원리를 통해 아스트랄체에만 작용하는 것이 아니라, 에테르체 안으로 작용합니다. 위대한 종교 교사들이 그토록 큰 작용을 할 수 있었던 것은, 그들이 인류에게 계속 작용하는 힘이 드러나는 내용들을 주었기 때문입니다. 그 힘은 오늘날에도 여전히 계속 작용합니다. 그러므로 인간의 에테르체 역시 두 부분으로 나뉩니다. 하나는 작업되어 있는 부분입니다. 물론 평균적인 인간에게서는 아직 작습니다. 다른 하나는 자아로부터 아직 작업되지 않은 부분입니다."
+                            }
+                        },
+                        {
+                            "id": "rosi.3.57",
+                            "title": "문단 57",
+                            "paragraphNumber": 57,
+                            "chapterTitle": "장미십자 방법",
+                            "text": {
+                                "german": "Ein drittes noch gibt es für den Menschen: Er kann von seinem Ich aus in den physischen Körper wirken.",
+                                "english": "There is still a third possibility for man. He can work from his ego into the physical body.",
+                                "korean": "인간의 경우 아직 3번째 가능성이 남아 있습니다. 인간은 자아를 통해서 육체에 영향을 줄 수 있습니다.",
+                                "ai_translation": "인간에게는 세 번째 것이 또 있습니다. 그는 자신의 자아로부터 물리적 몸 안으로 작용할 수 있습니다."
+                            }
+                        },
+                        {
+                            "id": "rosi.3.58",
+                            "title": "문단 58",
+                            "paragraphNumber": 58,
+                            "chapterTitle": "장미십자 방법",
+                            "text": {
+                                "german": "Das ist die härteste Arbeit. Der Mensch hat unbewußt fortwährend schon an seinem physischen Körper gearbeitet; nicht aber von seinem Ich aus. Das ist nur den Vorgeschrittensten möglich.",
+                                "english": "This is the hardest task of all. Man has already worked continuously upon his physical body unconsciously, but not from his ego. This is possible only for the most advanced individuals.",
+                                "korean": "이것은 굉장히 어려운 과제입니다. 이미 인간은 끊임없이 육체에 영향을 끼쳐왔습니다. 하지만 자아로부터 영향을 받은 것이 아닙니다. 이것은 가장 진보된 사람들만이 가능한 것입니다.",
+                                "ai_translation": "이것은 가장 어려운 작업입니다. 인간은 이미 무의식적으로 끊임없이 자기 물리적 몸에 작업해 왔습니다. 그러나 자기 자아로부터 그렇게 한 것은 아니었습니다. 그것은 오직 가장 진보한 이들에게만 가능합니다."
+                            }
+                        },
+                        {
+                            "id": "rosi.3.59",
+                            "title": "문단 59",
+                            "paragraphNumber": 59,
+                            "chapterTitle": "장미십자 방법",
+                            "text": {
+                                "german": "So lernen wir die vier niederen Glieder des Menschen kennen und die drei höheren Glieder, welche Umwandlungsprodukte sind der drei niederen Leiber durch die Arbeit des Ich.",
+                                "english": "We have thus studied the four lower members of man's constitution and have been made aware that three higher members are products of the transformation of the lower members as the result of the work of the ego.",
+                                "korean": "이렇게 해서 우리는 인간조성의 4가지 저차요소를 연구해 오면서 그 결과로부터 3개의 고차요소는 자아가 저차요소에 작용하여 변용시킨 결과로 생겨난 산물이라는 것을 알았습니다.",
+                                "ai_translation": "이렇게 우리는 인간의 네 가지 낮은 구성 부분과, 자아의 작업을 통해 이 세 낮은 몸들이 변형된 산물인 세 가지 높은 구성 부분을 알게 됩니다."
+                            }
+                        },
+                        {
+                            "id": "rosi.3.60",
+                            "title": "문단 60",
+                            "paragraphNumber": 60,
+                            "chapterTitle": "장미십자 방법",
+                            "text": {
+                                "german": "Es besteht bei dieser Bearbeitung der drei unteren Glieder ein beträchtlicher Unterschied: dieselbe geschieht bewußt oder unbewußt.",
+                                "english": "In this work upon the three lower members there is considerable difference in that it proceeds either consciously or unconsciously.",
+                                "korean": "3개의 저차요소에 작용하여 나타나는 효과는 그 작업이 의식적인지 무의식적인지에 따라 상당히 다릅니다.",
+                                "ai_translation": "이 세 낮은 구성 부분에 대한 작업에는 상당한 차이가 있습니다. 그것은 의식적으로 일어날 수도 있고 무의식적으로 일어날 수도 있습니다."
+                            }
+                        },
+                        {
+                            "id": "rosi.3.61",
+                            "title": "문단 61",
+                            "paragraphNumber": 61,
+                            "chapterTitle": "장미십자 방법",
+                            "text": {
+                                "german": "Unbewußt, das heißt ohne daß der betreffende Mensch es weiß, durch das Betrachten und In-sich-Aufnehmen künstlerischer Werke, Bilder und so weiter, durch hingebende Andacht und Gebetsverrichtungen.",
+                                "english": "Unconsciously, that is to say, without the individual concerned being aware of it. The transformation occurs perhaps through the study and contemplation of works of art, pictures, and so forth, or through pious devotion and prayer.",
+                                "korean": "바꿔 말하면 그 사람이 의식하고 있는지 의식하고 있지 않은지에 따라 커다란 차이가 발생합니다. 변용은 예술작품이나 회화에 대한 연구와 감상 또는 경건한 헌신이나 기도 등을 통해 일어나는 경우도 있습니다.",
+                                "ai_translation": "무의식적으로 일어난다는 것은, 해당 인간이 그것을 알지 못하는 가운데, 예술 작품과 그림 등을 바라보고 자기 안에 받아들이는 일을 통해, 헌신적인 경건과 기도 행위를 통해 일어난다는 뜻입니다."
+                            }
+                        },
+                        {
+                            "id": "rosi.3.62",
+                            "title": "문단 62",
+                            "paragraphNumber": 62,
+                            "chapterTitle": "장미십자 방법",
+                            "text": {
+                                "german": "Es sind sich aber die Menschen dessen nicht bewußt, daß sie an ihrem Äther- und Astralleib arbeiten;",
+                                "english": "But these individuals are not conscious that they are working upon their astral and etheric bodies;",
+                                "korean": "하지만 이러한 개인은 자신이 아스트랄체와 에테르체에 작용하고 있는 것을 의식하고 있지 않습니다.",
+                                "ai_translation": "그러나 인간들은 자신이 자신의 에테르체와 아스트랄체에 작업하고 있다는 것을 의식하지 못합니다."
+                            }
+                        },
+                        {
+                            "id": "rosi.3.63",
+                            "title": "문단 63",
+                            "paragraphNumber": 63,
+                            "chapterTitle": "장미십자 방법",
+                            "text": {
+                                "german": "das bewußte Arbeiten daran beginnt verhältnismäßig spät.",
+                                "english": "conscious work begins at a comparatively late state.",
+                                "korean": "의식적인 작업은 비교적 늦은 시기에 시작됩니다.",
+                                "ai_translation": "그것에 대한 의식적 작업은 비교적 늦게 시작됩니다."
+                            }
+                        },
+                        {
+                            "id": "rosi.3.64",
+                            "title": "문단 64",
+                            "paragraphNumber": 64,
+                            "chapterTitle": "장미십자 방법",
+                            "text": {
+                                "german": "Wir haben also zu unterscheiden ein bewußtes und ein unbewußtes Arbeiten des Menschen an den unteren Wesensgliedern. Es besteht der menschliche Astralleib aus zwei Gliederungen: einem unbewußten und einem bewußten Teil.",
+                                "english": "We have therefore to distinguish between conscious and unconscious work upon the lower members of man's being. His astral body is twofold; one part is the product of unconscious activity, the other of conscious effort.",
+                                "korean": "그러므로 우리는 인간 존재의 저차요소에 대한 의식적인 작용과 무의식적인 작용을 구별하는 편이 좋습니다. 인간의 아스트랄체는 2중입니다. 한쪽은 무의식의 활동에 의한 산물이고 다른 한쪽은 의식적 노력의 산물입니다.",
+                                "ai_translation": "그러므로 우리는 인간이 낮은 본질 구성 부분들에 대해 수행하는 의식적 작업과 무의식적 작업을 구별해야 합니다. 인간의 아스트랄체는 두 분절로 이루어져 있습니다. 하나는 무의식적인 부분이고, 다른 하나는 의식적인 부분입니다."
+                            }
+                        },
+                        {
+                            "id": "rosi.3.65",
+                            "title": "문단 65",
+                            "paragraphNumber": 65,
+                            "chapterTitle": "장미십자 방법",
+                            "text": {
+                                "german": "Den Teil des Astralleibes, der vom Ich aus in unbewußter Weise durchgearbeitet wurde, nennt man die Empfindungsseele; diese ist beim Menschen heute fertig durchgebildet.",
+                                "english": "The part of the astral body that was worked upon unconsciously by the ego is called the sentient soul, which today is finished and complete in man.",
+                                "korean": "자아가 무의식적으로 아스트랄체에 작용한 부분은 감각혼으로 불리며 오늘날 인간 안에 완성되어있는 상태입니다.",
+                                "ai_translation": "자아로부터 무의식적인 방식으로 작업되어 온 아스트랄체의 그 부분을 감각혼이라고 부릅니다. 이것은 오늘날 인간에게서 완전히 형성되어 있습니다."
+                            }
+                        },
+                        {
+                            "id": "rosi.3.66",
+                            "title": "문단 66",
+                            "paragraphNumber": 66,
+                            "chapterTitle": "장미십자 방법",
+                            "text": {
+                                "german": "Was unbewußt am Ätherleib vom Ich aus bearbeitet wurde, das ist die Verstandesseele.",
+                                "english": "What was worked upon the etheric body unconsciously from the ego is the intellectual or mind soul.",
+                                "korean": "에테르체가 자아로부터 무의식적으로 영향을 받은 것이 지성혼(오성혼), 즉 정신혼입니다.",
+                                "ai_translation": "자아로부터 무의식적으로 에테르체에 대해 작업된 것은 오성혼입니다."
+                            }
+                        },
+                        {
+                            "id": "rosi.3.67",
+                            "title": "문단 67",
+                            "paragraphNumber": 67,
+                            "chapterTitle": "장미십자 방법",
+                            "text": {
+                                "german": "Was im physischen Leibe unbewußt seit langer Zeit umgearbeitet worden ist, das ist die Bewußtseinsseele. So unterscheiden wir also am Menschen den physischen Leib, den Ätherleib, den Astralleib und das Ich, und von diesem als vom Astralleib unbewußt Umgearbeitetem die Empfindungsseele; vom Ätherleib die Verstandesseele; vom physischen Leib die Bewußtseinsseele. Wir haben also sechs, beziehungsweise sieben Glieder der menschlichen Natur, die so entstanden sind, daß der Mensch unbewußt an sich gearbeitet hat.",
+                                "english": "What has been worked upon in the physical body, unconsciously for long ages, is the consciousness or spiritual soul. Thus in man we distinguish physical body, etheric body, astral body and the ego. The ego, working unconsciously upon the astral body produces the sentient soul, upon the etheric body, the intellectual or mind soul, upon the physical body, the consciousness or spiritual soul. We have, therefore, spoken of six, or rather seven members present in man's nature because he has worked unconsciously upon his own nature and constitution.",
+                                "korean": "오래전부터 자아가 무의식적으로 육체에 작용한 것이 의식혼, 즉 영적혼입니다. 이렇게 해서 우리는 인간 안에서 육체, 에테르체, 아스트랄체, 그리고 자아를 구별합니다. 자아는 무의식적으로 아스트랄체에 작용하여 감각혼을 생성시키고, 에테르체에 작용하여 지성혼, 즉 정신적 혼을 생성시키며, 육체에 작용하여 의식혼, 즉 영적혼을 만들어냅니다. 그러므로 우리는 인간 성질에 6개, 아니 7개의 요소가 있다고 할 수 있습니다. 인간은 무의식적으로 자기 자신의 성질과 조성에 작용해왔습니다.",
+                                "ai_translation": "물리적 몸 안에서 오랜 시간 동안 무의식적으로 변형되어 온 것은 의식혼입니다. 그러므로 우리는 인간에게서 물리적 몸, 에테르체, 아스트랄체, 그리고 자아를 구별합니다. 그리고 자아에 의해 아스트랄체가 무의식적으로 변형된 것으로서 감각혼을, 에테르체에서 나온 것으로서 오성혼을, 물리적 몸에서 나온 것으로서 의식혼을 구별합니다. 그러므로 우리는 인간 본성의 여섯, 또는 일곱 구성 부분을 갖게 됩니다. 그것들은 인간이 무의식적으로 자기 자신에게 작업해 온 결과 생겨난 것입니다."
+                            }
+                        },
+                        {
+                            "id": "rosi.3.68",
+                            "title": "문단 68",
+                            "paragraphNumber": 68,
+                            "chapterTitle": "장미십자 방법",
+                            "text": {
+                                "german": "Nun beginnt das bewußte Arbeiten. Was entsteht dadurch? Es ist dasjenige, was der Mensch bewußt in den Astralleib hineinarbeitet, das Geistselbst oder Manas;",
+                                "english": "Now the conscious work begins. What comes into existence as a result of it? Spirit self, or manas, is the outcome of what a man consciously instils into his astral body;",
+                                "korean": "이제 의식적 작용에 대해 알아봅시다. 이 결과로 무엇이 생겨났을까요? 영아(靈我), 즉 마나(Mana)는 인간이 의식적으로 아스트랄체에 새겨 넣은 것의 결과입니다.",
+                                "ai_translation": "이제 의식적인 작업이 시작됩니다. 그렇다면 그로부터 무엇이 생겨납니까? 인간이 의식적으로 아스트랄체 안에 작업해 넣는 것, 그것이 영적 자아 또는 마나스입니다."
+                            }
+                        },
+                        {
+                            "id": "rosi.3.69",
+                            "title": "문단 69",
+                            "paragraphNumber": 69,
+                            "chapterTitle": "장미십자 방법",
+                            "text": {
+                                "german": "was der Mensch bewußt an seinem Ätherleib arbeitet - das aber geschieht erst bei einer bewußten okkulten Schulung -, nennt man die Buddhi oder den Lebensgeist.",
+                                "english": "what he consciously instils into his etheric body, but this is dependent upon occult training, is known as buddhi or life spirit.",
+                                "korean": "인간이 의식적으로 에테르체에 새겨 넣은 것은, 단 이것은 오컬트훈련에 의존한 것입니다만, 붓디(Buddhi), 즉 생명령(生命靈)으로 알려져 있습니다.",
+                                "ai_translation": "인간이 의식적으로 자신의 에테르체에 대해 작업하는 것 — 그러나 이것은 의식적인 오컬트 수련에서야 비로소 일어납니다 — 이것을 붓디 또는 생명정신이라고 부릅니다."
+                            }
+                        },
+                        {
+                            "id": "rosi.3.70",
+                            "title": "문단 70",
+                            "paragraphNumber": 70,
+                            "chapterTitle": "장미십자 방법",
+                            "text": {
+                                "german": "Und was geschieht dann, wenn das Ich einmal in die Lage kommt, den physischen Leib bewußt zu bearbeiten, das heißt Kräfte bis in den physischen Leib hineinzuarbeiten? Durch okkulte Schulung, durch den Atmungsprozeß kann das wirklich bewußt geschehen, aber es muß dabei sehr vorsichtig und sehr subtil zu Werke gegangen werden, denn bei falscher Schulung, wie sie oft in öffentlichen Schriften gegeben wird, kann man auch dem Körper des Europäers sehr schaden, und man muß wissen, was der Konstitution des modernen Menschen angemessen ist.",
+                                "english": "What happens if the ego eventually becomes able to work consciously into the physical body, to inculcate forces into the physical body itself? Through occult training this can actually be brought about consciously through the breathing process but there must be great caution and sensitivity of procedure, for through false methods of training such as are often given in public literature, a European body can be seriously harmed; knowledge of what is suitable for the constitution of a modern human being is essential.",
+                                "korean": "자아가 최종적으로 의식적 작용을 할 수 있게 되어 육체에 힘들을 쏟아 부을 수 있게 되면 무엇이 일어날까요? 우리는 오컬트훈련을 통한 호흡훈련에 의해 이것을 의식적으로 일으킬 수 있습니다만 대단히 섬세한 주의와 절차를 거쳐야만 합니다. 왜냐하면 대중적 문헌에 공개되어 있는 잘못된 훈련방법은 종종 유럽인들의 몸에 심각한 손상을 주기도 하기 때문입니다.",
+                                "ai_translation": "그러면 자아가 언젠가 물리적 몸을 의식적으로 작업할 수 있는 위치에 이를 때, 다시 말해 물리적 몸 안에까지 힘들을 작업해 넣을 수 있을 때에는 무엇이 일어납니까? 오컬트 수련을 통해, 호흡 과정을 통해, 이것은 실제로 의식적으로 일어날 수 있습니다. 그러나 이때에는 대단히 조심스럽고 섬세하게 진행해야 합니다. 공개된 글들에서 흔히 제시되는 잘못된 수련을 따르면, 유럽인의 몸에도 매우 큰 해를 끼칠 수 있기 때문입니다. 그리고 현대 인간의 체질에 무엇이 적합한지 알아야 합니다."
+                            }
+                        },
+                        {
+                            "id": "rosi.3.71",
+                            "title": "문단 71",
+                            "paragraphNumber": 71,
+                            "chapterTitle": "장미십자 방법",
+                            "text": {
+                                "german": "Durch solche bewußte Atmung wird dann der physische Körper vom Ich aus umgestaltet zu Atman oder dem Geistesmenschen.",
+                                "english": "Through a conscious method of breathing the physical body can be transformed by the ego into atman or spirit man.",
+                                "korean": "현대인의 조성에 적합한 훈련에 대한 지식이 매우 중요합니다. 의식적 호흡방법을 통해 자아는 육체를 아트만(Atman), 즉 영인(靈人)으로 변용시킬 수 있습니다.",
+                                "ai_translation": "그러한 의식적인 호흡을 통해 물리적 몸은 자아로부터 변형되어 아트만, 곧 영인간이 됩니다."
+                            }
+                        },
+                        {
+                            "id": "rosi.3.72",
+                            "title": "문단 72",
+                            "paragraphNumber": 72,
+                            "chapterTitle": "장미십자 방법",
+                            "text": {
+                                "german": "Das Wesen des Menschen war viergliedrig, als er irdische Gestaltung annahm. Mit der ersten irdischen Inkarnation beginnt er schon die Arbeit an sich selbst durch das Ich. Dabei entwickelt er durch die Verkörperungen hindurch unbewußt die drei Seelenaspekte: Empfindungsseele, Verstandesseele, Bewußtseinsseele.",
+                                "english": "Man was a fourfold being when he assumed earthly form. In his first incarnation on earth he had already begun to work upon his own being through the ego. In the course of the following incarnations he has developed, unconsciously, the three functional aspects of the soul: sentient soul, intellectual or mind soul, consciousness or spiritual soul.",
+                                "korean": "인간이 지상적 형태를 취했을 때 4중 존재였습니다. 처음 지상의 육화로 인간은 이미 자아를 통해 자기 존재에 작용하기 시작했습니다. 인간은 육화를 거듭하면서 자아를 통해 자기 자신에게 이미 영향을 끼치고 있었습니다. 계속되는 육화 기간에 인간은 무의식적으로 혼의 세가지 기능적 측면을 발달시켰습니다.",
+                                "ai_translation": "인간의 본질은 그가 지상적 형상을 취했을 때 네 구성으로 되어 있었습니다. 첫 지상 육화와 함께 그는 이미 자아를 통해 자기 자신에 대한 작업을 시작합니다. 그 과정에서 그는 여러 육화를 통과하며 세 가지 영혼 양상, 곧 감각혼, 오성혼, 의식혼을 무의식적으로 발전시킵니다."
+                            }
+                        },
+                        {
+                            "id": "rosi.3.73",
+                            "title": "문단 73",
+                            "paragraphNumber": 73,
+                            "chapterTitle": "장미십자 방법",
+                            "text": {
+                                "german": "Wir werden noch sehen, wie die bewußte Umgestaltung von physischem Leib, Äther- und Astralleib in die drei höheren Glieder vor sich geht. Hier haben Sie nun inzwischen dasjenige, was gewissermaßen die siebengliedrige Wesenheit des Menschen ist, sie entwickelt sich so durch die Inkarnation hindurch.",
+                                "english": "We shall subsequently learn how the conscious transformation is achieved of physical, etheric and astral bodies into the three higher members. Meanwhile, you have heard how the sevenfold being of man evolves through the incarnations.",
+                                "korean": "즉 감각혼, 오성혼(정신혼), 그리고 의식혼을 발달시켰습니다. 언젠가 우리는 어떻게 해서 육체, 에테르체, 아스트랄체가 세가지 고차요소로 의식적 변형이 실현되는지 배우게 될 것입니다. 지금까지 인간의 7층 존재가 육화를 통해 어떻게 진화해 왔는지 여러분에게 설명 드렸습니다.",
+                                "ai_translation": "우리는 앞으로 물리적 몸, 에테르체, 아스트랄체가 의식적으로 변형되어 세 가지 더 높은 구성 부분으로 나아가는 일이 어떻게 이루어지는지 보게 될 것입니다. 여기서 여러분은 이제, 말하자면 인간의 일곱 구성으로 된 본질이 무엇인지 보게 됩니다. 그것은 이렇게 육화를 통과하며 발전합니다."
+                            }
+                        },
+                        {
+                            "id": "rosi.3.74",
+                            "title": "문단 74",
+                            "paragraphNumber": 74,
+                            "chapterTitle": "장미십자 방법",
+                            "text": {
+                                "german": "Die vier Glieder: physischer Leib, Ätherleib und Astralleib mit Ich sind die sogenannte heilige Vierheit, wie man sie in allen okkulten Schulen verehrte, zu der sich noch eine heilige Dreiheit gesellte, die sich zu einer Siebenheit und einer Zehnheit bewußt gliedert.",
+                                "english": "The four members, physical body, etheric body, astral body and ego, form the so-called sacred quaternary that was revered in all occult schools and with which a sacred trinity was allied, consciously forming a sevenfoldness or tenfoldness.",
+                                "korean": "육체, 에테르체, 아스트랄체, 자아라고 하는 4요소가 모든 오컬트학파에서 존중해온 이른바 신성한 사위일체를 형성하고 있습니다. 그리고 여기에 신성한 삼위일체가 더해져 의식적으로 7층 또는 10층을 형성합니다.",
+                                "ai_translation": "물리적 몸, 에테르체, 아스트랄체, 그리고 자아라는 네 구성 부분은, 모든 오컬트 학교에서 숭배되던 이른바 신성한 사위일체입니다. 여기에 다시 신성한 삼위일체가 더해지며, 그것은 의식적으로 칠중성과 십중성으로 분절됩니다."
+                            }
+                        },
+                        {
+                            "id": "rosi.3.75",
+                            "title": "문단 75",
+                            "paragraphNumber": 75,
+                            "chapterTitle": "장미십자 방법",
+                            "text": {
+                                "german": "So haben wir den universellen Menschen vor unsere Seele hingestellt, der alles in sich hat, was ihn gleichsam fächerartig umgibt, der aber durch seinen Ich-Träger darüber hinausragt.",
+                                "english": "We have thus a picture before us of man who has within him everything that is out-spread around him but which he transcends by virtue of his ego bearer.",
+                                "korean": "이렇게 해서 우리는 외적으로 인간의 주위에 펼쳐진 모든 것들을 스스로의 내부에 가지고 있지만 그 외적인 모든 것을 운반자인 자아에 의해 초월하는 인간의 영상을 얻게 되었습니다.",
+                                "ai_translation": "이렇게 우리는 보편적 인간을 우리의 영혼 앞에 세워 보았습니다. 인간은 자신을 말하자면 부채꼴처럼 둘러싸고 있는 모든 것을 자기 안에 지니고 있으면서도, 자신의 자아 담지자를 통해 그것을 넘어서는 존재입니다."
+                            }
+                        },
+                        {
+                            "id": "rosi.3.76",
+                            "title": "문단 76",
+                            "paragraphNumber": 76,
+                            "chapterTitle": "장미십자 방법",
+                            "text": {
+                                "german": "Nun wollen wir auch den Menschen im Wachen und Schlafen betrachten, um zu erkennen, wie da die Leiber zusammengefügt sind.",
+                                "english": "We will now study the human being in waking life and in sleep in order to learn how the bodies are connected.",
+                                "korean": "여러 몸들이 서로 어떤 관련을 가지고 있는지 배우기 위해 이제부터 깨어있는 상태의 인간과 잠자고 있는 인간을 연구해봅시다.",
+                                "ai_translation": "이제 우리는 깨어 있음과 잠 속의 인간도 살펴보고자 합니다. 거기서 몸들이 어떻게 결합되어 있는지를 인식하기 위해서입니다."
+                            }
+                        },
+                        {
+                            "id": "rosi.3.77",
+                            "title": "문단 77",
+                            "paragraphNumber": 77,
+                            "chapterTitle": "장미십자 방법",
+                            "text": {
+                                "german": "Was geschieht, wenn Freude und Schmerz im Menschen schweigen, wenn das Bewußtsein in den Schlaf hinabsinkt? Der Astralleib und das Ich sind dann außerhalb des physischen und Ätherleibes.",
+                                "english": "What is happening when joy and pain in a man are stilled, when his consciousness sinks into sleep? His astral body and ego are then outside his physical and etheric bodies.",
+                                "korean": "인간 내면에서 기쁨과 고통이 진정되었을 때 어떤 일이 일어날까요? 인간의 의식이 잠에 빠져들 때 무엇이 일어날까요? 이때 인간의 아스트랄체와 자아는 육체와 에테르체 바깥쪽에 존재합니다.",
+                                "ai_translation": "인간 안에서 기쁨과 고통이 침묵하고, 의식이 잠 속으로 가라앉을 때 무슨 일이 일어납니까? 그때 아스트랄체와 자아는 물리적 몸과 에테르체 바깥에 있습니다."
+                            }
+                        },
+                        {
+                            "id": "rosi.3.78",
+                            "title": "문단 78",
+                            "paragraphNumber": 78,
+                            "chapterTitle": "장미십자 방법",
+                            "text": {
+                                "german": "Für den Menschen tritt da im Schlafzustande etwas sehr Eigentümliches ein. Wie eine Pflanze am Tage, so ist der Mensch in der Nacht: er hat nur den physischen und Ätherleib in sich, er ist sozusagen heruntergestiegen zur Pflanzheit. Das Menschenwesen spaltet sich in zwei Glieder: physischer und Ätherleib bleiben im Bette und Astralleib und Ich sind außerhalb.",
+                                "english": "In the state of sleep something striking happens to man. In sleep at night he has descended as it were to the level of the plant by day. He has become a twofold being; his physical and etheric bodies remain in the bed and his astral body and ego are outside.",
+                                "korean": "밤에 잠자고 있는 인간은 말하자면 식물과 같은 레벨로 하강합니다. 인간은 2층 존재가 됩니다. 육체와 에테르체는 침상에 있고 아스트랄체와 자아는 외부에 존재합니다.",
+                                "ai_translation": "잠의 상태에서 인간에게는 매우 독특한 일이 일어납니다. 낮의 식물과 같이, 인간은 밤에는 그러합니다. 그는 자기 안에 오직 물리적 몸과 에테르체만을 지니고 있습니다. 말하자면 그는 식물적 상태로 내려간 것입니다. 인간 존재는 두 구성으로 갈라집니다. 물리적 몸과 에테르체는 침대에 남아 있고, 아스트랄체와 자아는 바깥에 있습니다."
+                            }
+                        },
+                        {
+                            "id": "rosi.3.79",
+                            "title": "문단 79",
+                            "paragraphNumber": 79,
+                            "chapterTitle": "장미십자 방법",
+                            "text": {
+                                "german": "Nun können Sie die Frage vorlegen: Ja, ist denn der Mensch im Bette eine Pflanze?",
+                                "english": "You may now ask whether it can be said that man is a plant while he is asleep.",
+                                "korean": "아마 여러분은 ‘그렇다면 잠들어 있는 사람은 식물이라고 말할 수 있는가’라고 질문할지도 모르겠습니다.",
+                                "ai_translation": "이제 여러분은 이렇게 물을 수 있습니다. 그렇다면 침대에 누워 있는 인간은 식물인가?"
+                            }
+                        },
+                        {
+                            "id": "rosi.3.80",
+                            "title": "문단 80",
+                            "paragraphNumber": 80,
+                            "chapterTitle": "장미십자 방법",
+                            "text": {
+                                "german": "Nein, das nicht, aber sie bestehen beide aus der gleichen Körperzusammensetzung. Auf unserer Erde nun kann ein Wesen mit physischem und Ätherleib nur existieren, wenn es Pflanze ist.",
+                                "english": "No, but man and plant then consist of the same combination of bodies. On our earth a being with a physical body and an etheric body only is a plant.",
+                                "korean": "하지만 이때 인간과 식물은 같은 조성으로 몸이 이루어져 있습니다. 지상에서 육체와 에테르체만 가지고 있는 존재는 식물입니다.",
+                                "ai_translation": "아닙니다. 그렇지는 않습니다. 그러나 둘은 같은 몸의 조합으로 이루어져 있습니다. 우리 지구 위에서 물리적 몸과 에테르체를 지닌 존재가 존재할 수 있으려면, 그것은 식물이어야 합니다."
+                            }
+                        },
+                        {
+                            "id": "rosi.3.81",
+                            "title": "문단 81",
+                            "paragraphNumber": 81,
+                            "chapterTitle": "장미십자 방법",
+                            "text": {
+                                "german": "Dadurch, daß ein Astralleib und ein Ich darinnen wohnt, verändern sich die andern Leiber auch, der physische und der Ätherleib.",
+                                "english": "When an astral body and ego are present, the physical and etheric bodies change.",
+                                "korean": "아스트랄체와 자아가 존재하면 육체와 에테르체는 변화하게 됩니다.",
+                                "ai_translation": "그러나 그 안에 아스트랄체와 자아가 거주함으로써, 다른 몸들, 곧 물리적 몸과 에테르체도 변화합니다."
+                            }
+                        },
+                        {
+                            "id": "rosi.3.82",
+                            "title": "문단 82",
+                            "paragraphNumber": 82,
+                            "chapterTitle": "장미십자 방법",
+                            "text": {
+                                "german": "Bei den Pflanzen finden sich keine Nervenstränge, und warmes Blut hat nur der physische Leib, in dem ein Ich darinnen wohnt. Die höheren Tiere sind als heruntergesunkene Formen des ursprünglichen Menschen zu betrachten.",
+                                "english": "In the plant there are no nerve strands, and it is only a physical body in which there is an ego, that has warm blood. The higher animals must be regarded as degenerate forms of the original man.",
+                                "korean": "식물에는 신경망이 존재하지 않습니다. 따뜻한 피가 존재하는 것은 자아를 가진 육체뿐입니다. 고등동물은 원인간(原人間)이 퇴화된 형태로 간주해야합니다.",
+                                "ai_translation": "식물에게서는 신경줄기가 발견되지 않습니다. 그리고 따뜻한 피는 오직 자아가 그 안에 거주하는 물리적 몸만이 지닙니다. 더 높은 동물들은 원초적 인간으로부터 아래로 내려앉은 형상들로 보아야 합니다."
+                            }
+                        },
+                        {
+                            "id": "rosi.3.83",
+                            "title": "문단 83",
+                            "paragraphNumber": 83,
+                            "chapterTitle": "장미십자 방법",
+                            "text": {
+                                "german": "Im physischen Leibe drückt sich das Ich im Blutsystem aus, der Astralleib in den Nerven, der Ätherleib im Drüsensystem und die physische Natur in des Menschen eigenem Körper.",
+                                "english": "In the physical body the ego comes to expression in the blood, the astral body in the nerves, the etheric body in the glandular system and the physical nature of man in his own body.",
+                                "korean": "육체에서 자아는 혈액으로 표출됩니다. 아스트랄체는 신경으로, 에테르체는 선조직(腺組織,내분비선)으로, 인간의 물질적 성격은 그 몸으로 표출됩니다.",
+                                "ai_translation": "물리적 몸 안에서 자아는 혈액계로 표현되고, 아스트랄체는 신경들로, 에테르체는 선계로, 물리적 자연은 인간 자신의 몸으로 표현됩니다."
+                            }
+                        },
+                        {
+                            "id": "rosi.3.84",
+                            "title": "문단 84",
+                            "paragraphNumber": 84,
+                            "chapterTitle": "장미십자 방법",
+                            "text": {
+                                "german": "Wenn nun der Astralleib der eigentliche Bildner des Nervensystems ist, und das ist er, so kommt dieses bei Nacht in eine sehr trübselige Lage, denn es wird von seinem Herrn verlassen;",
+                                "english": "If, therefore, the astral body is the creator of the system of nerves, which is actually the case, this system of nerves is in a doleful situation, for during sleep it is abandoned by its creator.",
+                                "korean": "그러므로 아스트랄체가 신경조직의 창조자라면 -실제 그렇습니다만- 이 신경조직은 비통한 상황에 처하게 됩니다. 수면 중에 신경조직은 그 창조자로부터 버려지게 되기 때문입니다.",
+                                "ai_translation": "이제 아스트랄체가 신경계의 본래 형성자라면 — 실제로 그러합니다 — 밤에는 이 신경계가 매우 처량한 처지에 놓이게 됩니다. 자기 주인에게 버려지기 때문입니다."
+                            }
+                        },
+                        {
+                            "id": "rosi.3.85",
+                            "title": "문단 85",
+                            "paragraphNumber": 85,
+                            "chapterTitle": "장미십자 방법",
+                            "text": {
+                                "german": "das Drüsensystem aber nicht, denn der Ätherleib bleibt ihm treu.",
+                                "english": "Not so the glandular system, for the etheric body remains with it.",
+                                "korean": "선조직의 경우는 사정이 다릅니다. 에테르체는 그 조직과 함께 머물기 때문입니다.",
+                                "ai_translation": "그러나 선계는 그렇지 않습니다. 에테르체가 선계에 충실히 남아 있기 때문입니다."
+                            }
+                        },
+                        {
+                            "id": "rosi.3.86",
+                            "title": "문단 86",
+                            "paragraphNumber": 86,
+                            "chapterTitle": "장미십자 방법",
+                            "text": {
+                                "german": "Aber auch das Blutsystem des physischen und Ätherleibes wird in der Nacht treulos vom Ich verlassen. Der physische Leib kann für sich bestehen, denn die physische Natur bleibt dieselbe, ebenso das Drüsensystem, denn der Ätherleib bleibt im physischen Leibe bei Nacht. Aber das Nervensystem wird von seinem Herrn verlassen.",
+                                "english": "But the blood system of the physical and etheric bodies is faithlessly forsaken by the ego during the night. The physical body can exist on its own, because the physical nature remains the same, as does the glandular system, since the etheric body remains in the physical body during sleep. The system of nerves, however, is forsaken by its master.",
+                                "korean": "하지만 육체와 에테르체의 혈액조직은 밤에 무자비하게 자아에 의해 버려지게 됩니다. 육체는 자기 스스로 존재할 수 있습니다. 왜냐하면 물질적 성질은 그대로 동일하기 때문입니다. 이것은 선조직의 경우에도 같습니다. 에테르체는 수면 중 육체 내에 머물기 때문입니다. 하지만 신경조직은 그 주인으로부터 버림받습니다.",
+                                "ai_translation": "그러나 물리적 몸과 에테르체의 혈액계 또한 밤에는 자아에게 불충실하게 버려집니다. 물리적 몸은 그 자체로 존속할 수 있습니다. 물리적 자연은 그대로 남아 있기 때문입니다. 선계도 마찬가지입니다. 밤에도 에테르체가 물리적 몸 안에 머물러 있기 때문입니다. 그러나 신경계는 자기 주인에게 버려집니다."
+                            }
+                        },
+                        {
+                            "id": "rosi.3.87",
+                            "title": "문단 87",
+                            "paragraphNumber": 87,
+                            "chapterTitle": "장미십자 방법",
+                            "text": {
+                                "german": "Wir wollen nun das hellseherische Bewußtsein fragen, was dann im physischen Leibe geschieht? In demselben Maße, in dem der menschliche Astralleib während der Nacht aus dem physischen und Ätherleib herausgeht, in demselben Maße dringt ein göttlich-geistiger Astralleib in die Leiber, die im Bette liegen, ein. Ebenso verhält es sich mit dem Blutsystem:",
+                                "english": "We will now ask clairvoyant consciousness what is then happening in the physical body? To the extent to which man's astral body goes out of the physical and etheric bodies during the night, to that same extent a “divine-spiritual” astral body moves into the bodies lying in the bed. The same applies to the blood system;",
+                                "korean": "이 순간 육체에 무엇이 일어나는지 영시의식을 통해 알아봅시다. 인간의 아스트랄체가 밤에 육체와 에테르체로부터 밖으로 나가는 것과 같이 ‘신적-영적’ 아스트랄체가 침상에 누워있는 몸으로 이동합니다. 똑같은 현상이 혈액조직에도 해당됩니다.",
+                                "ai_translation": "이제 우리는 영시적 의식에게 물어봅시다. 그러면 물리적 몸 안에서는 무슨 일이 일어납니까? 밤 동안 인간의 아스트랄체가 물리적 몸과 에테르체에서 빠져나가는 바로 그 정도만큼, 신적-영적 아스트랄체가 침대에 누워 있는 몸들 안으로 들어옵니다. 혈액계에서도 마찬가지입니다."
+                            }
+                        },
+                        {
+                            "id": "rosi.3.88",
+                            "title": "문단 88",
+                            "paragraphNumber": 88,
+                            "chapterTitle": "장미십자 방법",
+                            "text": {
+                                "german": "ein göttlich-geistiges Ich geht hinein und versorgt es. Der Mensch ist auch in der Nacht ein viergliedriges Wesen, aber etwas anderes lebt in ihm: ein Wesen höherer Ordnung nimmt Besitz von den zwei Leibern im Bette.",
+                                "english": "a divine-spiritual ego enters into it and provides for its maintenance. In the night, too, man is a fourfold being but beings of a higher order take possession of the two bodies remaining in the bed.",
+                                "korean": "신적-영적 자아가 그 안으로 들어가 몸을 유지합니다. 밤에도 인간은 4층 존재입니다만 고차존재들이 침상에 남아 있는 두개의 몸을 공유하는 것입니다.",
+                                "ai_translation": "하나의 신적-영적 자아가 들어와 그것을 돌봅니다. 인간은 밤에도 네 구성으로 이루어진 존재입니다. 그러나 그 안에는 다른 어떤 것이 살아갑니다. 더 높은 질서의 한 존재가 침대에 놓인 두 몸을 차지합니다."
+                            }
+                        },
+                        {
+                            "id": "rosi.3.89",
+                            "title": "문단 89",
+                            "paragraphNumber": 89,
+                            "chapterTitle": "장미십자 방법",
+                            "text": {
+                                "german": "Und wenn der Mensch, das heißt sein Astralleib und sein Ich, am Morgen zu seinem Äther- und physischen Leibe zurückkehrt, so jagt sein kleiner Astralleib ein Mächtigeres hinaus.",
+                                "english": "When man's astral body and ego return in the morning to his etheric and physical bodies, his own astral body expels a being of greater power.",
+                                "korean": "아침이 되서 인간의 아스트랄체와 자아가 에테르체와 육체로 돌아오면 인간 자신의 아스트랄체는 위대한 힘을 가진 존재들을 추방합니다.",
+                                "ai_translation": "그리고 아침에 인간, 곧 그의 아스트랄체와 자아가 자신의 에테르체와 물리적 몸으로 돌아올 때, 그의 작은 아스트랄체는 더 강력한 것을 몰아냅니다."
+                            }
+                        },
+                        {
+                            "id": "rosi.3.90",
+                            "title": "문단 90",
+                            "paragraphNumber": 90,
+                            "chapterTitle": "장미십자 방법",
+                            "text": {
+                                "german": "Ebenso geht es bei seinem Blutsystem: sein Ich vertreibt das göttlich-geistige Ich, das während der Nacht dasselbe versorgt hat.",
+                                "english": "The same happens in the case of the blood system. Man's ego drives out the divine-spiritual ego that has provided for the blood system during the night.",
+                                "korean": "같은 현상이 혈액조직에도 일어납니다. 인간의 자아는 밤사이 혈액조직을 유지시켜준 신적-영적 자아를 몰아냅니다.",
+                                "ai_translation": "그의 혈액계에서도 마찬가지입니다. 그의 자아는 밤 동안 그 혈액계를 돌보았던 신적-영적 자아를 몰아냅니다."
+                            }
+                        },
+                        {
+                            "id": "rosi.3.91",
+                            "title": "문단 91",
+                            "paragraphNumber": 91,
+                            "chapterTitle": "장미십자 방법",
+                            "text": {
+                                "german": "In unserer Umgebung sind immer göttlich-geistige Wesenheiten. Diese müssen sich nun bei Tage zurückziehen, wir tun dasselbe bei Nacht. Diese göttlich-geistigen Wesenheiten schlafen nämlich bei Tag: Götterschlaf und Menschenschlaf entsprechen sich vollständig.",
+                                "english": "Divine-spiritual beings are present in our environment all the time. By day they must withdraw, just as we ourselves withdraw during the night. These divine-spiritual beings sleep by day, whilst human beings sleep by night.",
+                                "korean": "신적-영적 존재들은 항상 우리 주변에 존재하고 있습니다. 낮 동안 그들은 뒤로 물러서야합니다. 바로 우리 자신이 밤에는 물러나야하는 것과 같습니다. 이러한 신적-영적 존재들은 낮에 잠을 자고 한편 사람들은 밤에 잠을 잡니다.",
+                                "ai_translation": "우리 주변에는 언제나 신적-영적 존재들이 있습니다. 이 존재들은 낮에는 물러나야 합니다. 우리는 밤에 같은 일을 합니다. 이 신적-영적 존재들은 낮에 잠을 잡니다. 신들의 잠과 인간의 잠은 서로 완전히 대응합니다."
+                            }
+                        },
+                        {
+                            "id": "rosi.3.92",
+                            "title": "문단 92",
+                            "paragraphNumber": 92,
+                            "chapterTitle": "장미십자 방법",
+                            "text": {
+                                "german": "Ein göttlich-geistiges Ich und ein göttlich-geistiger Astralleib ziehen am Abend in den im Bette liegenden Menschen, seinen physischen und Ätherleib ein und kehren am Morgen daraus zurück. Beim Menschen geschieht dies gerade umgekehrt, er verläßt am Abend seine Leiber und nimmt am Morgen wieder Besitz von ihnen. Selbst in den Religionen ist ein Empfinden zurückgeblieben für den Schlaf der Götter bei Tage. Es gibt Länder, wo die Kirchen um die Mittagszeit geschlossen werden, weil da die Götter am tiefsten schlafen.",
+                                "english": "In the evening a divine-spiritual ego and a divine-spiritual astral body draw into the physical and etheric bodies of the man asleep in bed and leave these bodies in the morning. The process in man is exactly the reverse. In the evening he abandons his bodies and in the morning resumes possession of them. Even in religions a feeling has remained that the gods sleep by day. There are countries where the churches are shut at midday because the gods are then most deeply asleep.",
+                                "korean": "밤에 신적-영적 자아와 신적-영적 아스트랄체는 침상에서 잠을 자고 있는 인간의 육체와 에테르체 속으로 들어가서 아침에 이 몸들로부터 떠나갑니다. 인간의 경우는 정반대 과정입니다. 저녁에 인간은 몸을 버리고 아침에 그들의 소유를 회복합니다. 다양한 종교에서 신들이 낮에 잠을 잔다고 하는 정서가 아직 남아있습니다. 신들이 가장 깊은 잠에 빠진다고 해서 정오에 교회 문을 닫는 나라도 있습니다.",
+                                "ai_translation": "하나의 신적-영적 자아와 하나의 신적-영적 아스트랄체가 저녁에는 침대에 누워 있는 인간, 곧 그의 물리적 몸과 에테르체 안으로 들어오고, 아침에는 거기서 다시 돌아갑니다. 인간에게서는 이것이 정반대로 일어납니다. 그는 저녁에 자기 몸들을 떠나고, 아침에 다시 그것들을 차지합니다. 종교들 안에도 낮 동안 신들이 잠든다는 감각이 남아 있습니다. 어떤 나라들에서는 한낮 무렵에 교회들이 닫힙니다. 그때 신들이 가장 깊이 잠들기 때문입니다."
+                            }
+                        },
+                        {
+                            "id": "rosi.3.93",
+                            "title": "문단 93",
+                            "paragraphNumber": 93,
+                            "chapterTitle": "장미십자 방법",
+                            "text": {
+                                "german": "Auch dasjenige wollen wir uns nun vom Menschen ansehen, was da bei Nacht außerhalb seines Leibes ist: der Astralleib und das Ich. Wir wissen, daß im Astralleibe Triebe, Begierden und Leidenschaften wurzeln, aber der Mensch nimmt diese in der Nacht nicht wahr. Woher kommt das? Weil der Astralleib und das Ich des Menschen in der gegenwärtigen Entwickelung keine Organe haben, um wahrzunehmen.",
+                                "english": "We will now think about what is outside man's body at night, namely, the astral body and the ego. We know that desires, urges and passions are rooted in the astral body but during the night man is not aware of them. Why is this? It is because at the present stage of evolution man's astral body and ego have no organs that would make this awareness possible.",
+                                "korean": "이번에는 밤 동안 인간의 몸 외부에 존재하는 것, 즉 아스트랄체와 자아에 대해서 생각해봅시다. 잘 알고 있듯이 욕망, 욕구, 정열은 아스트랄체에 뿌리를 두고 있습니다만 밤 동안 인간은 그것들을 지각하지 못합니다. 왜 그럴까요? 현재의 진화단계에서 인간의 아스트랄체와 자아는 이를 자각할 수 있는 기관을 가지고 있지 않기 때문입니다.",
+                                "ai_translation": "이제 밤 동안 인간의 몸 바깥에 있는 것, 곧 아스트랄체와 자아도 살펴보겠습니다. 우리는 아스트랄체 안에 충동, 욕망, 정열들이 뿌리박고 있음을 압니다. 그러나 인간은 밤에 이것들을 지각하지 않습니다. 그것은 어디서 옵니까? 현재의 발전 단계에서 인간의 아스트랄체와 자아에는 지각하기 위한 기관들이 없기 때문입니다."
+                            }
+                        },
+                        {
+                            "id": "rosi.3.94",
+                            "title": "문단 94",
+                            "paragraphNumber": 94,
+                            "chapterTitle": "장미십자 방법",
+                            "text": {
+                                "german": "Nur mit den physischen Organen kann der gegenwärtige Mensch wahrnehmen. Denn so viele Organe der Mensch hat, so viele Welten eröffnen sich ihm, sind um ihn.",
+                                "english": "Man as he is at present can perceive only by means of physical organs. There are around man as many worlds as he has organs to perceive them.",
+                                "korean": "현 단계의 인간은 물질적 기관을 통해 지각할 수밖에 없습니다. 지각기관이 존재하는 만큼, 그 수만큼의 세계가 인간 주위에 존재하는 것입니다.",
+                                "ai_translation": "현재의 인간은 오직 물리적 기관들을 통해서만 지각할 수 있습니다. 인간이 지닌 기관들의 수만큼, 그에게는 세계들이 열리며, 그의 둘레에 있게 됩니다."
+                            }
+                        },
+                        {
+                            "id": "rosi.3.95",
+                            "title": "문단 95",
+                            "paragraphNumber": 95,
+                            "chapterTitle": "장미십자 방법",
+                            "text": {
+                                "german": "Hat er ein Organ mehr, so erschließt sich ihm eine neue Welt. Der Astralleib des Menschen hat, wenn der Mensch noch nicht hellseherisch geworden ist, noch keine Organe,",
+                                "english": "If he has one organ more, a new world reveals itself to him. His astral body, if he has not yet become clairvoyant, has no organs,",
+                                "korean": "인간에게 기관이 하나 더 있다면 새로운 세계가 사람들 앞에 스스로를 드러낼 것입니다. 아직 영시력을 가지고 있지 않다면 그 사람의 아스트랄체는 감각기관을 가지고 있지 않은 것입니다.",
+                                "ai_translation": "그가 하나의 기관을 더 가지면, 그에게는 하나의 새로운 세계가 열립니다. 인간의 아스트랄체는, 인간이 아직 영시자가 되지 않은 한, 아직 기관들을 가지고 있지 않습니다."
+                            }
+                        },
+                        {
+                            "id": "rosi.3.96",
+                            "title": "문단 96",
+                            "paragraphNumber": 96,
+                            "chapterTitle": "장미십자 방법",
+                            "text": {
+                                "german": "deshalb nimmt der Mensch in der Nacht auch nichts wahr.",
+                                "english": "hence during the night he cannot be aware of anything.",
+                                "korean": "그래서 사람들은 밤에 아무것도 지각하지 못하는 것입니다.",
+                                "ai_translation": "그러므로 인간은 밤에도 아무것도 지각하지 않습니다."
+                            }
+                        },
+                        {
+                            "id": "rosi.3.97",
+                            "title": "문단 97",
+                            "paragraphNumber": 97,
+                            "chapterTitle": "장미십자 방법",
+                            "text": {
+                                "german": "Wir können uns leicht denken, daß der Mensch da ohne Sinne sein kann. Wir wissen, es gibt Blinde und solche, denen andere Sinne fehlen; keine Welt ist für den Menschen da, wenn er sich nicht seiner Sinne bedienen kann. Daher ist am Morgen, wenn der Mensch sich wieder der physischen Sinne bedienen kann, die Welt wieder um ihn herum da.",
+                                "english": "It is easy to imagine that during sleep he may be without senses. There are blind people and also people in whom other senses are lacking. No world is present for one who is unable to use his senses. Hence, in the morning, when a man can again make use of his physical senses, he becomes aware of the world around him.",
+                                "korean": "인간은 수면 중에 감각을 가지지 못한다고 상상하는 것이 쉽습니다. 맹인이 있는가하면 다른 감각이 결여된 사람들도 있습니다. 감각을 전혀 사용하지 못하는 사람에게는 그 어떤 세계도 존재하지 않습니다. 이렇게 아침이 되서 인간이 다시 물질적 감각을 이용할 수 있게 되면 인간은 주위 세계를 지각하기 시작합니다.",
+                                "ai_translation": "우리는 인간이 그때 감각 없이 있을 수 있다는 것을 쉽게 생각할 수 있습니다. 우리는 장님도 있고, 다른 감각이 결여된 사람들도 있다는 것을 압니다. 인간이 자신의 감각들을 사용할 수 없다면, 그에게는 어떤 세계도 존재하지 않습니다. 그러므로 아침에 인간이 다시 물리적 감각들을 사용할 수 있게 되면, 세계도 다시 그의 둘레에 있게 됩니다."
+                            }
+                        },
+                        {
+                            "id": "rosi.3.98",
+                            "title": "문단 98",
+                            "paragraphNumber": 98,
+                            "chapterTitle": "장미십자 방법",
+                            "text": {
+                                "german": "Anders aber ist es beim Tode. Der Ätherleib und der physische Leib bleiben während des ganzen Lebens miteinander verbunden; im Tode nun geht der Ätherleib in der Regel zum ersten Male heraus und verläßt den physischen Leib.",
+                                "english": "But at death it is different. Through the whole of life the etheric body and the physical body remain connected with each other; at death, the etheric body, for the first time as a rule, abandons the physical body.",
+                                "korean": "하지만 죽음의 경우 다릅니다. 생애 전체에 걸쳐서 에테르체와 육체는 서로 결합된 상태입니다만 죽음에 이르러 일반적으로 에테르체는 처음 육체를 버리게 됩니다.",
+                                "ai_translation": "그러나 죽음의 경우에는 다릅니다. 에테르체와 물리적 몸은 전 생애 동안 서로 결합되어 있습니다. 그런데 죽음에서는 일반적으로 에테르체가 처음으로 밖으로 나가 물리적 몸을 떠납니다."
+                            }
+                        },
+                        {
+                            "id": "rosi.3.99",
+                            "title": "문단 99",
+                            "paragraphNumber": 99,
+                            "chapterTitle": "장미십자 방법",
+                            "text": {
+                                "german": "Der Moment des Todes wird daher von dem, der davon etwas weiß, als der Moment des Rückblicks geschildert, wo das ganze verflossene Leben wie ein Panorama am Menschen vorbeizieht. Warum?",
+                                "english": "The moment of death is therefore described by those who have knowledge of the subject as the moment when a retrospect of the whole past life passes like a panorama before the human being. What is the explanation of this?",
+                                "korean": "이 사실을 알고 있는 사람들은 이 죽음의 순간을 지금까지 모든 생애에 대한 회고가 인간 앞에 파노라마처럼 지나가는 순간으로 그리고 있습니다.",
+                                "ai_translation": "그러므로 죽음의 순간은, 그것에 관해 무엇인가를 아는 사람에 의해 회고의 순간으로 묘사됩니다. 그때 지나간 삶 전체가 하나의 파노라마처럼 인간 앞을 지나갑니다. 왜 그렇습니까?"
+                            }
+                        },
+                        {
+                            "id": "rosi.3.100",
+                            "title": "문단 100",
+                            "paragraphNumber": 100,
+                            "chapterTitle": "장미십자 방법",
+                            "text": {
+                                "german": "Weil der Ätherleib der Träger des Gedächtnisses ist und dieses Gedächtnis nun frei wird. Solange der Ätherleib im physischen Leib ist, kann er nicht seine ganze Kraft entfalten, sondern nur so viel davon entwickeln, als das physische Instrument zuläßt.",
+                                "english": "It is because the etheric body is the bearer of memory and this memory now becomes free. As long as the etheric body is in the physical body it cannot unfold all its power but only as much as the physical instrument permits.",
+                                "korean": "이것을 어떻게 설명할 수 있을까요? 에테르체가 기억의 운반자이고 이 기억이 지금에야 자유롭게 되었기 때문입니다. 에테르체가 육체 안에 있는 한 에테르체는 모든 힘을 펼칠 수가 없습니다. 물질적(육체적) 장치가 허락하는 한도밖에 힘을 발휘하지 못합니다.",
+                                "ai_translation": "에테르체가 기억의 담지자이며, 이제 이 기억이 자유로워지기 때문입니다. 에테르체가 물리적 몸 안에 있는 동안에는 자신의 온 힘을 펼칠 수 없고, 물리적 도구가 허용하는 만큼만 발전시킬 수 있습니다."
+                            }
+                        },
+                        {
+                            "id": "rosi.3.101",
+                            "title": "문단 101",
+                            "paragraphNumber": 101,
+                            "chapterTitle": "장미십자 방법",
+                            "text": {
+                                "german": "Jetzt aber, im Tode, wird er frei und kann ohne den physischen Leib das entwickeln, was in der ganzen Lebenszeit in ihn eingeschrieben worden ist.",
+                                "english": "Now, however, at death the etheric body becomes free of the physical body and can unfold what has been inscribed in it during life.",
+                                "korean": "하지만 죽음의 순간 에테르체는 육체로부터 해방되어 일생동안 그곳에 새겨진 것들을 펼칠 수가 있습니다.",
+                                "ai_translation": "그러나 이제 죽음 속에서 에테르체는 자유로워집니다. 그리고 물리적 몸 없이도, 전 생애 동안 자기 안에 새겨진 것을 펼칠 수 있습니다."
+                            }
+                        },
+                        {
+                            "id": "rosi.3.102",
+                            "title": "문단 102",
+                            "paragraphNumber": 102,
+                            "chapterTitle": "장미십자 방법",
+                            "text": {
+                                "german": "Auch durch einen Schock, bei dem aber den Menschen das Bewußtsein nicht wie nach dem Tode verlassen darf, kann dieses Panorama eintreten, zum Beispiel bei Todesgefahr.",
+                                "english": "This panorama can also arise as the result of a shock but in that case the man concerned must not lose consciousness as he does at death. The shock may be caused by danger of death.",
+                                "korean": "이 파노라마는 쇼크의 결과로도 일어날 수 있습니다만 이 경우 죽음의 경우와 같이 의식을 잃어서는 안 됩니다.",
+                                "ai_translation": "또한 충격을 통해서도, 다만 그 경우에는 죽음 뒤처럼 의식이 인간을 떠나서는 안 되지만, 이러한 파노라마가 나타날 수 있습니다. 예컨대 죽음의 위험에 처했을 때 그러합니다."
+                            }
+                        },
+                        {
+                            "id": "rosi.3.103",
+                            "title": "문단 103",
+                            "paragraphNumber": 103,
+                            "chapterTitle": "장미십자 방법",
+                            "text": {
+                                "german": "Das ist aber ein Ausnahmefall.",
+                                "english": "But this is an exceptional case.",
+                                "korean": "쇼크는 죽음의 위험으로부터 발생할 수 있지만 이것도 역시 예외적 사례입니다.",
+                                "ai_translation": "그러나 이것은 예외적인 경우입니다."
+                            }
+                        },
+                        {
+                            "id": "rosi.3.104",
+                            "title": "문단 104",
+                            "paragraphNumber": 104,
+                            "chapterTitle": "장미십자 방법",
+                            "text": {
+                                "german": "Nun können Sie fragen: Wie lange dauert dieses Tableau? Das ist nun bei den Menschen sehr verschieden.",
+                                "english": "Now you may ask how long this tableau lasts. The time varies a great deal in human beings.",
+                                "korean": "근데 여러분은 이 벽화(파노라마)가 어느 정도 지속되는지 궁금해할지도 모르겠습니다. 이 순간은 인간에 따라 크게 변화합니다.",
+                                "ai_translation": "이제 여러분은 물을 수 있습니다. 이 타블로는 얼마나 오래 지속되는가? 이것은 사람마다 매우 다릅니다."
+                            }
+                        },
+                        {
+                            "id": "rosi.3.105",
+                            "title": "문단 105",
+                            "paragraphNumber": 105,
+                            "chapterTitle": "장미십자 방법",
+                            "text": {
+                                "german": "Im allgemeinen kann man sagen, es dauert so lange, als der Mensch im Leben wachen kann, ohne vom Schlaf übermannt zu werden;",
+                                "english": "Speaking generally, it can be said that the tableau lasts for as long as the individual concerned could stay awake during life without being overcome by sleep—",
+                                "korean": "일반적으로 말하면 해당 개아(個我)가 잠에 지지 않고 살아있을 수 있는 동안 이 벽화는 계속된다고 말할 수 있습니다.",
+                                "ai_translation": "일반적으로는 이렇게 말할 수 있습니다. 그것은 인간이 삶에서 잠에 압도되지 않고 깨어 있을 수 있는 시간만큼 지속됩니다."
+                            }
+                        },
+                        {
+                            "id": "rosi.3.106",
+                            "title": "문단 106",
+                            "paragraphNumber": 106,
+                            "chapterTitle": "장미십자 방법",
+                            "text": {
+                                "german": "das ist: zwanzig Stunden, fünfzig, sechzig bis achtzig Stunden. Die äußerste Grenze, die der Mensch im Wachen erreichen kann, ist ungefähr die Zeitdauer für dieses Panorama. So lange währt diese Rückerinnerung,",
+                                "english": "twenty hours, fifty, sixty to eighty hours. The extreme limit of time during which waking consciousness can be sustained is approximately that of the duration of this panorama. The retrospect persists for as long as this.",
+                                "korean": "20시간, 50시간, 60시간에서 80시간 정도 일 것입니다. 깨어있는 의식을 유지할 수 있는 한계시간이 대충 이 파노라마가 지속되는 시간입니다. 회고는 이 시간 동안 계속됩니다.",
+                                "ai_translation": "곧 스무 시간, 쉰 시간, 예순 시간에서 여든 시간까지입니다. 인간이 깨어 있음 속에서 도달할 수 있는 가장 바깥의 한계가, 대략 이 파노라마의 지속 시간입니다. 이 회상은 그만큼 지속됩니다."
+                            }
+                        },
+                        {
+                            "id": "rosi.3.107",
+                            "title": "문단 107",
+                            "paragraphNumber": 107,
+                            "chapterTitle": "장미십자 방법",
+                            "text": {
+                                "german": "dann flutet sie ab, und zugleich sieht der Hellseher, wie sich der Ätherleib herauslöst,",
+                                "english": "Then it fades away and a clairvoyant sees how the etheric body detaches itself at the same time—",
+                                "korean": "그리고 의식이 희미해져가고 동시에 영시자는 에테르체가 스스로 이탈하는 모습을 보게 됩니다.",
+                                "ai_translation": "그런 뒤 그것은 흘러 사라집니다. 동시에 영시자는 에테르체가 풀려 나가는 것을 봅니다."
+                            }
+                        },
+                        {
+                            "id": "rosi.3.108",
+                            "title": "문단 108",
+                            "paragraphNumber": 108,
+                            "chapterTitle": "장미십자 방법",
+                            "text": {
+                                "german": "aber nicht ganz, und das ist das Wesentliche. Eine Essenz, einen Extrakt nimmt der Mensch mit sich, und mit der Essenz seines Ätherleibes die Früchte seines letzten Lebens.",
+                                "english": "not entirely, however, and that is the important point. The individual concerned takes with him an essence, an extract of his etheric body and with it the fruits of his last life.",
+                                "korean": "하지만 전면적으로 그런 것은 아닙니다. 이것은 중요한 점입니다. 해당 개아는 지금 끝난 인생의 결과인 에테르체의 정수(精粹), 추출물을 가지고 갑니다.",
+                                "ai_translation": "그러나 완전히 풀려 나가는 것은 아닙니다. 바로 이것이 본질적인 점입니다. 인간은 하나의 정수, 하나의 추출물을 자기와 함께 가져갑니다. 그리고 자기 에테르체의 정수와 함께 지난 생애의 열매들을 가져갑니다."
+                            }
+                        },
+                        {
+                            "id": "rosi.3.109",
+                            "title": "문단 109",
+                            "paragraphNumber": 109,
+                            "chapterTitle": "장미십자 방법",
+                            "text": {
+                                "german": "Dadurch steigt der Mensch auf. Nun behält er die Essenz seines Ätherleibes, seinen Astralleib und sein Ich, bis er auch den Astralleib ablegt. Jetzt hat er zwei Leichname abgelegt, und dann geht er in die geistige Welt ein.\n\nMorgen wollen wir dann das Leben nach dem Tode und den Eintritt in die devachanische Welt betrachten.",
+                                "english": "He ascends, retaining the essence of his etheric body, his astral body and his ego until he also lays aside his astral body. He has now laid aside two corpses, and then he passes into the spiritual world.\n\nTomorrow we shall study the life after death and the entry into the devachanic world.",
+                                "korean": "인간은 에테르체의 정수와 아스트랄체, 자아를 가지고 상승하며 그 뒤 아스트랄체도 놔두게 됩니다. 이렇게 해서 겨우 인간은 2개의 유골을 남겨두고 영계로 이동합니다.\n\n내일 우리는 죽음 이후의 삶과 데바칸 세계로의 진입을 고찰하고자 합니다.",
+                                "ai_translation": "이를 통해 인간은 상승합니다. 이제 그는 자기 에테르체의 정수, 자신의 아스트랄체와 자아를 지니고 있다가, 마침내 아스트랄체도 벗어 놓습니다. 이제 그는 두 개의 시신을 벗어 놓은 것입니다. 그리고 그런 뒤 영적 세계 안으로 들어갑니다.\n\n내일 우리는 죽음 이후의 삶과 데바칸 세계로의 진입을 고찰하고자 합니다."
+                            }
+                        }
+                    ]
                 }
             ]
         }
