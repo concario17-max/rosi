@@ -27,6 +27,10 @@ def parse_rosi_text(txt_path, lecture_num, chapter_title="장미십자 방법"):
             
         stripped = line.strip()
         
+        # Skip separator lines
+        if re.match(r'^=+$', stripped):
+            continue
+            
         # Check if this line starts a new paragraph (e.g. "문단 1", "문단 2")
         p_match = re.match(r'^문단\s+(\d+)$', stripped)
         if p_match:
@@ -87,6 +91,17 @@ def parse_rosi_text(txt_path, lecture_num, chapter_title="장미십자 방법"):
     print(f"Successfully parsed {len(paragraphs)} paragraphs from {os.path.basename(txt_path)}.")
     return paragraphs
 
+LECTURE_TITLES = {
+    1: {
+        "chapterName": "장미십자회의 신지학",
+        "title": "Theosophy of the Rosicrucians"
+    },
+    2: {
+        "chapterName": "제 2강",
+        "title": "Lecture 2"
+    }
+}
+
 def main():
     dest_project = os.getcwd()
     print(f"Working directory: {dest_project}")
@@ -96,10 +111,20 @@ def main():
     lecture_groups = {}
     
     for f in os.listdir(dest_project):
-        match = re.match(r'^(\d+)-(\d+)\.txt$', f)
-        if match:
-            lecture_num = int(match.group(1))
-            part_num = int(match.group(2))
+        match_part = re.match(r'^(\d+)-(\d+)\.txt$', f)
+        match_single = re.match(r'^(\d+)\.txt$', f)
+        
+        if match_part:
+            lecture_num = int(match_part.group(1))
+            part_num = int(match_part.group(2))
+            
+            if lecture_num not in lecture_groups:
+                lecture_groups[lecture_num] = []
+            
+            lecture_groups[lecture_num].append((part_num, os.path.join(dest_project, f)))
+        elif match_single:
+            lecture_num = int(match_single.group(1))
+            part_num = 1
             
             if lecture_num not in lecture_groups:
                 lecture_groups[lecture_num] = []
@@ -134,10 +159,15 @@ def main():
         else:
             toc_range = "Paragraphs"
             
+        title_info = LECTURE_TITLES.get(lecture_num, {
+            "chapterName": f"제 {lecture_num}강",
+            "title": f"Lecture {lecture_num}"
+        })
+        
         subchapters.append({
             "id": f"rosi.{lecture_num}",
-            "chapterName": f"제 {lecture_num}강",
-            "title": f"Lecture {lecture_num}",
+            "chapterName": title_info["chapterName"],
+            "title": title_info["title"],
             "tocHeadings": [toc_range],
             "paragraphs": all_paragraphs
         })
