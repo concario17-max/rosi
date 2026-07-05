@@ -103,6 +103,14 @@ LECTURE_TITLES = {
     3: {
         "chapterName": "제 3강",
         "title": "Lecture 3"
+    },
+    4: {
+        "chapterName": "제 4강",
+        "title": "Lecture 4"
+    },
+    5: {
+        "chapterName": "제 5강",
+        "title": "Lecture 5"
     }
 }
 
