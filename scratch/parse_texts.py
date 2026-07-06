@@ -93,26 +93,47 @@ def parse_rosi_text(txt_path, lecture_num, chapter_title="장미십자 방법"):
 
 LECTURE_TITLES = {
     1: {
-        "chapterName": "장미십자회의 신지학",
-        "title": "Theosophy of the Rosicrucians"
+        "chapterName": "1강 장미십자의 비교",
+        "title": "Rosicrucian Esotericism"
     },
     2: {
-        "chapterName": "제 2강",
-        "title": "Lecture 2"
+        "chapterName": "2강 우리 바깥 세계에 존재하는 혼",
+        "title": "Soul in the World around Us"
     },
     3: {
-        "chapterName": "제 3강",
-        "title": "Lecture 3"
+        "chapterName": "3강 인간의 성질과 존재",
+        "title": "The Nature and Being of Man"
     },
     4: {
-        "chapterName": "제 4강",
-        "title": "Lecture 4"
+        "chapterName": "4강 죽음과 탄생 사이의 인간",
+        "title": "Man Between Death and Rebirth"
     },
     5: {
-        "chapterName": "제 5강",
-        "title": "Lecture 5"
+        "chapterName": "5강 영적 힘과 존재들의 표출인 물질계",
+        "title": "The Physical World as an Expression of Spiritual Forces and Beings"
+    },
+    6: {
+        "chapterName": "6강 인간 육체의 형성과 변용",
+        "title": "The Configuration and Metamorphoses of Man's Physical Body"
+    },
+    7: {
+        "chapterName": "7강 레무리아기 이전의 지구진화단계",
+        "title": "Evolutionary Stages of our Earth before the Lemurian Epoch"
+    },
+    8: {
+        "chapterName": "8강 지구진화단계 : 레무리아, 아틀란티스, 후아틀란티스",
+        "title": "Stages in the Evolution of our Earth. Lemurian, Atlantean, Post-Atlantean Epochs"
+    },
+    9: {
+        "chapterName": "9강 인간의 사후경험",
+        "title": "Man's Experience after Death"
+    },
+    10: {
+        "chapterName": "10강 카르마, 재육화, 비의입문",
+        "title": "On Karma, Reincarnation and Initiation"
     }
 }
+
 
 
 def main():
