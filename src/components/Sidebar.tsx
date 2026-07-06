@@ -137,10 +137,10 @@ const Sidebar = () => {
                     <div className="space-y-6">
                         <section className="space-y-2 border-l border-black/5 pl-4 dark:border-white/7">
                             <p className="text-[10px] font-semibold uppercase tracking-[0.3em] text-text-secondary/52 dark:text-dark-text-secondary/60">
-                                Korean (AI)
+                                Korean
                             </p>
                             <p className="whitespace-pre-line break-keep font-sans text-[14.5px] leading-relaxed text-text-secondary/92 dark:text-dark-text-secondary/92">
-                                {verseData.ai_translation ?? ''}
+                                {verseData.korean ?? ''}
                             </p>
                         </section>
                     </div>
