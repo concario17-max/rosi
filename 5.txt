@@ -1,3 +1,8 @@
+5강 전체 정밀수정본
+
+※ 기존 5강 통합본을 기준으로 문단 3~4, 9, 18, 50~51의 경계·누락·번역어 문제를 수정했습니다.
+※ 한글 칸을 AI 번역으로 대체하지 않고, 한글 강의록 대응 문장을 보정했습니다.
+※ 독일어·영어·한글·AI 번역은 문단 1~130 구조를 유지했습니다.
 
 문단 1
 - 독일어
@@ -37,10 +42,10 @@ so daß in der geistigen Welt, im Devachan, die Untergründe aller unserer physi
 The foundations of all physical happenings are therefore to be sought in the spiritual world, in Devachan.
 
 - 한글
-그러므로 모든 물질적 사건들의 기반은 영계, 데바찬에서 찾아야 합니다. 여러분은 이제 반대로 물질계가 영계에 영향을 끼치는지 묻고 싶을 것입니다.
+그러므로 모든 물질적 사건들의 기반은 영계, 데바찬에서 찾아야 합니다.
 
 - AI 번역
-그러므로 우리의 모든 물리적 사건들의 근거는 영적 세계, 곧 데바칸 안에서 찾아야 합니다. 이제 여러분은 제게 이렇게 물을 수 있습니다. 그렇다면 거꾸로, 우리의 물리적 세계가 영적 세계 안으로 작용해 들어가는 일도 있는가?
+그러므로 우리의 모든 물리적 사건들의 근거는 영적 세계, 곧 데바칸 안에서 찾아야 합니다.
 
 ================================================================================
 
@@ -52,10 +57,10 @@ Nun können Sie mich fragen: Gibt es auch umgekehrt ein Hineinwirken von unserer
 You may now ask if, inversely, our physical world produces effects in the spiritual world. Yes, that is the case, and the best way to understand these relationships will be to study the life of a human being. Threads from soul to soul are woven here in the physical world as the result of the manifold circumstances of existence.
 
 - 한글
-바로 그렇습니다. 이러한 관계를 이해하기 위한 가장 좋은 방법은 인간의 삶을 연구하는 것입니다. 혼과 혼을 이어주는 실은 존재가 처하는 다양한 상황의 결과를 통해 이 물질계와 맺어져 있습니다.
+여러분은 이제 반대로 물질계가 영계에 영향을 끼치는지 묻고 싶을 것입니다. 바로 그렇습니다. 이러한 관계를 이해하기 위한 가장 좋은 방법은 인간의 삶을 연구하는 것입니다. 혼과 혼을 이어주는 실은 존재가 처하는 다양한 상황의 결과를 통해 이 물질계에서 맺어져 있습니다.
 
 - AI 번역
-있습니다. 그리고 우리는 인간 삶을 고찰할 때 이러한 관계들을 가장 잘 이해하게 될 것입니다. 여기 물리적 세계에서는 여러 삶의 관계들에서 생겨나는 대로, 영혼에서 영혼으로 실들이 짜입니다.
+이제 여러분은 제게 이렇게 물을 수 있습니다. 그렇다면 거꾸로, 우리의 물리적 세계가 영적 세계 안으로 작용해 들어가는 일도 있는가? — 있습니다. 그리고 우리는 인간 삶을 고찰할 때 이러한 관계들을 가장 잘 이해하게 될 것입니다. 여기 물리적 세계에서는 여러 삶의 관계들에서 생겨나는 대로, 영혼에서 영혼으로 실들이 짜입니다.
 
 ================================================================================
 
@@ -79,7 +84,7 @@ Bonds of friendship, of love, and so on, are firmly knit.
 Und alles das, was so angeknüpft wird von Mensch zu Mensch, das hat nicht nur für diese physische Welt Bedeutung und Wesenhaftigkeit, sondern ist auch wichtig für die geistige Welt. Und zwar kann man sagen, je geistiger hier die Beziehungen gewesen sind, desto bedeutungsvoller sind sie für die devachanische Welt.
 
 - 영어
-Bonds of friendship, of love, and so on, are firmly knit, and every contact made between one human being and another has significance and reality not only for this physical world but also for the spiritual world. Indeed, it may be said that the more spiritual the relationships here have been, the more significant they are for the world of Devachan.
+Every contact made between one human being and another has significance and reality not only for this physical world but also for the spiritual world. Indeed, it may be said that the more spiritual the relationships here have been, the more significant they are for the world of Devachan.
 
 - 한글
 인간과 인간의 모든 만남은 물질계뿐만 아니라 영계에서도 중요성과 실재를 가지고 있습니다. 실제 이곳(지상)에서의 관계가 영적일수록 데바찬계에서도 더욱 의미가 깊어진다고 할 수 있습니다.
@@ -127,7 +132,7 @@ Und wenn der Hellseher vom Standpunkte des Devachan auf die Erde blickt, dann si
 When a clairvoyant gazes at the earth from the standpoint of Devachan, he perceives this web of spiritual relationships that a human being finds again when he passes into Devachan after death. He is involved in all the spiritual relationships he himself has woven.
 
 - 한글
-영시자가 데바찬의 관점에서 지구를 바라보면 그는 이 영적 관계의 그물을 사후 인간이 데바찬에 들어갔을 때 다시 발견하게 된다는 것을 알게 됩니다.
+영시자가 데바찬의 관점에서 지구를 바라보면 그는 이 영적 관계의 그물을 봅니다. 인간은 사후 데바찬에 들어갔을 때 이 영적 관계의 그물을 다시 발견하게 됩니다. 그는 자신이 스스로 짜 놓은 모든 영적 관계들 속에 놓이게 됩니다.
 
 - AI 번역
 영시자가 데바칸의 관점에서 지구를 바라볼 때, 그는 이러한 영적 관계들의 직물을 봅니다. 인간은 죽은 뒤 데바칸에 들어설 때, 이러한 영적 관계들의 직물을 다시 발견합니다. 그는 자신이 스스로 짜 놓은 모든 영적 관계들 안에 놓이게 됩니다.
@@ -262,7 +267,7 @@ Alles aber in der physischen Welt hat sein geistiges Gegenbild im Geistgebiet, u
 But everything in the physical world has its spiritual counterpart in Devachan and that is what is perceived by the soul already there. Every movement of the hand in the physical world, because it is preceded by an impulse of will that is either conscious or unconscious, every change in the physical human being, has a spiritual counterpart that can be perceived in Devachan by the soul whose death preceded that of the other human being concerned.
 
 - 한글
-하지만 데바찬에는 물질계의 영적파편을 가지고 있습니다. 그러므로 저세상에서 혼이 지각하는 것은 바로 그러한 파편들입니다. 물질계에서 손의 움직임은 의식적이든 무의식적이든 의지의 충동이 선행하고 있기 때문에 손의 움직임 같은 모든 물질적 인간의 변화는 지상의 인간보다 죽은 혼이 먼저 데바찬에서 지각할 수 있는 영적파편을 가지고 있는 것입니다.
+하지만 물질계의 모든 것은 영계 안에 자신의 영적 대응상을 가지고 있습니다. 그러므로 먼저 간 혼이 지각하는 것은 바로 그러한 영적 대응상입니다. 물질계에서 손의 움직임은 의식적이든 무의식적이든 의지의 충동이 선행하고 있기 때문에, 손의 움직임 같은 모든 물질적 인간의 변화는 죽은 혼이 데바찬에서 지각할 수 있는 영적 대응상을 가지고 있습니다.
 
 - AI 번역
 그러나 물리적 세계의 모든 것은 영의 영역 안에 자기 영적 대응상을 가지고 있으며, 먼저 간 이는 그것을 지각합니다. 물리적 세계에서 손이 한 번 움직이는 것에도, 그에 앞서 의지가 있습니다. 의식적이든 무의식적이든 그렇습니다. 물리적 인간에게 일어나는 모든 변화는 영적 대응상을 가지며, 그는 그것을 데바칸에서 지각할 수 있습니다.
@@ -742,7 +747,7 @@ Das Eingreifen geschieht etwa vom achtzehnten, neunzehnten, zwanzigsten und einu
 The actual attachment takes place from about the eighteenth, nineteenth, twentieth and twenty-first days after conception; what is descending from a higher world is then already working together with the being who is in process of coming into existence.
 
 - 한글
-실재 결합은 수태 후 18, 19, 20, 21일 후에 발생합니다.
+실제 결합은 수태 후 18, 19, 20, 21일 후에 발생합니다. 그때부터 고차세계에서 하강하고 있는 존재는 성장과정에 있는 존재와 함께 작용하고 있는 것입니다.
 
 - AI 번역
 개입은 대략 수태 뒤 열여덟째, 열아홉째, 스무째, 스물한째 날부터 일어납니다. 그때부터 더 높은 세계에서 내려온 것이 이미 되어 가는 인간과 함께 작업합니다.
@@ -757,7 +762,7 @@ So daß von Anfang an vorbereitet wird, nach den früheren Fähigkeiten, jenes f
 Thus the delicate, organic texture that is necessary if the human individuality is to use the physical body as an instrument, is prepared from the beginning in accordance with the earlier faculties.
 
 - 한글
-고차세계에서 하강하고 있는 존재는 성장과정에 있는 존재와 함께 작용하고 있는 것입니다. 이렇게 만약 인간개아가 도구로서 육체를 이용하려고 한다면 필요로 하게 될 섬세하고 유기적인 조직이 처음부터 과거 능력과 조화로운 형태로 준비됩니다.
+이렇게 인간개아가 도구로서 육체를 이용하려고 한다면 필요로 하게 될 섬세하고 유기적인 조직이 처음부터 과거 능력과 조화로운 형태로 준비됩니다.
 
 - AI 번역
 그리하여 처음부터 이전의 능력들에 따라, 인간 개별성이 물리적 몸을 도구로 사용하려면 반드시 필요한 저 섬세하고 내밀한 유기적 직물이 준비됩니다.

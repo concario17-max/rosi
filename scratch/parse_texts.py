@@ -32,7 +32,7 @@ def parse_rosi_text(txt_path, lecture_num, chapter_title="장미십자 방법"):
             continue
             
         # Check if this line starts a new paragraph (e.g. "문단 1", "문단 2")
-        p_match = re.match(r'^문단\s+(\d+)$', stripped)
+        p_match = re.match(r'^문단\s+(\d+)(?:\s+.*)?$', stripped)
         if p_match:
             if current_p:
                 paragraphs.append(current_p)

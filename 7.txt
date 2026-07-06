@@ -1,0 +1,1312 @@
+7강 전체 정밀재검수본
+
+※ 9강 v2와 같은 기준으로 재검수했습니다.
+※ 한글 칸은 AI 번역으로 대체하지 않았고, 원문 대응 번역문만 유지했습니다.
+※ 해설·실습·잡담성 문장, 인접 문단 AI 범위 중복, 한글=AI 복붙 여부를 검사했습니다.
+※ 원문 대조상 명백한 한글 오기 1곳은 보정했습니다.
+
+문단 1
+
+- 독일어
+Gestern sind wir in unserer Betrachtung der Entwickelung unseres Planeten bis zur Mondenmetamorphose der Erde gekommen. Wir haben gesehen, daß sie ihre erste Verkörperung als der uralte Saturn durchgemacht hat, dann als Sonne und nun als Mond wieder erschienen ist. Wir sind nun gestern bis an den Punkt gekommen, wo wir gesehen haben, daß, wenn alles in gleicher Weise wie bisher fortgegangen wäre, dann der Mensch nicht imstande gewesen wäre, in derselben Weise Schritt halten zu können mit dem Tempo der kosmischen Entwickelung der andern Wesen. Darum mußte während der Mondenzeit des Planeten eine Art Abspaltung an einem bestimmten Punkte dieser Mondenerde geschehen. Es fand eine Art Heraustreten der im kosmischen Ganzen vorrückenden Sonne mit den feinsten Substanzen und Wesenheiten statt. Und das weniger Fortgeschrittene, der eigentliche alte Mond, der noch enthielt alles das, was unsere heutige Erde und der heutige Mond sind, der blieb als eine Art Nebelkörper zurück. Dadurch fand unter besonderen Bedingungen eine Verdichtung, eine Art Verhärtung auf dem alten Monde statt und gleichzeitig eine ebensolche der leiblichen Wesenheiten, die ihn bewohnten.
+
+- 영어
+The lecture yesterday brought our study of the evolution of our planet to the stage known as Old Moon. We heard that the first embodiment of our planet was that of Old Saturn, the second that of Old Sun and the third that of Old Moon. We came to the point in yesterday's lecture where it was made clear that if everything had progressed exactly as hitherto, man would not have been able to keep pace with the tempo of the cosmic evolution of other beings. Hence a kind of severance took place at a certain point during the Old Moon embodiment. The Sun, progressing as it was within the cosmic expanse, separated from the planetary body together with the finest substances and higher beings. The less progressed part of the planetary body, namely, Old Moon itself, still containing all that constitutes our present earth and present moon, remained as a kind of cloud-body. Certain conditions brought about a densification or hardening on Old Moon and the same happened to the beings inhabiting it.
+
+- 한글
+어제 강연에서 우리의 혹성진화에 대한 연구는 월기로 알려진 단계까지 도달했습니다. 우리 혹성의 첫 번째 체현은 토성체현이며, 두 번째는 태양체현, 세 번째는 고월체현이라고 했습니다. 만약 모두가 여기까지 진보했다면 인간은 다른 존재들의 우주적 진화 템포를 따라갈 수 없었을 것이라고 밝혀진 지점까지 어제 강연에서 우리는 도달했습니다. 이 때문에 고월체현 동안 일종의 분리가 어떤 시기에 발생했습니다. 우주공간 안에서 진화를 계속하고 있던 태양은 가장 섬세한 실질과 고차존재들과 함께 혹성체로부터 분리되었습니다. 혹성체 진보의 뒤처진 부분, 즉 고월자체는 현재의 지구와 달을 구성하는 모든 것을 포함한 채 일종의 구름상태의 천체로 남았습니다. 어떤 조건이 달의 농밀화 또는 경화(硬化)를 일으켰으며 똑같은 현상이 달에 사는 존재들에게도 발생했습니다.
+
+- AI 번역
+어제 우리는 우리 행성의 발전을 고찰하면서, 지구의 달 변형에까지 이르렀습니다. 우리는 지구가 자기의 첫 번째 육화를 태고의 토성으로 통과했고, 그다음 태양으로, 그리고 이제 달로 다시 나타났다는 것을 보았습니다. 어제 우리는 이런 지점에까지 이르렀습니다. 만일 모든 것이 지금까지와 같은 방식으로 계속 진행되었다면, 인간은 다른 존재들의 우주적 발전 속도와 같은 방식으로 보조를 맞출 수 없었을 것입니다. 그러므로 행성의 달 시기 동안, 이 달-지구의 특정한 지점에서 일종의 분리가 일어나야 했습니다. 우주 전체 안에서 앞으로 나아가고 있던 태양이 가장 섬세한 실체들과 존재들을 지니고 밖으로 나가는 일이 일어났습니다. 그리고 덜 진보한 것, 곧 본래의 옛 달 — 오늘날 우리의 지구와 오늘날의 달인 것을 아직 모두 자기 안에 품고 있던 옛 달 — 은 일종의 성운체로 남았습니다. 그 결과 특별한 조건 아래에서 옛 달 위에는 응축, 일종의 경화가 일어났고, 동시에 그곳에 거주하던 육체적 존재들에게도 같은 일이 일어났습니다.
+
+================================================================================
+문단 2
+
+- 독일어
+Als die Sonne fort war, wirkten dann ihre Kräfte von außen auf den alten Mond ein. Das, wovon gesagt ist, daß es später als ein menschliches, tierisches und pflanzliches Reich entstanden ist, war nun aus der Sonne herausgetreten mit dem alten Monde und ließ sich von der Sonne bescheinen, nahm deren Kräfte von außen auf.
+
+- 영어
+When the Sun had separated, its forces worked upon Old Moon from outside. The subsequent human-animal-plant kingdom that came into existence on Old Moon now received the forces of the Sun from outside.
+
+- 한글
+태양이 분리되자 그 힘들은 외부로부터 달에 작용했습니다. 달에 존재하도록 남겨진 인간-동물-식물계는 이제 외부로부터 태양의 힘을 받았습니다.
+
+- AI 번역
+태양이 떠나간 뒤에는, 그 힘들이 바깥에서 옛 달에 작용했습니다. 훗날 인간계, 동물계, 식물계로 생겨났다고 말한 것은 이제 옛 달과 함께 태양에서 나와, 태양의 비춤을 받으며 그 힘들을 바깥에서 받아들였습니다.
+
+================================================================================
+문단 3
+
+- 독일어
+Nach der Abspaltung gestalteten sich die drei Reiche auf dem Monde so wie folgt.
+
+- 영어
+After the separation, the three kingdoms on Old Moon came into existence.
+
+- 한글
+분리 후 달에는 3개의 왕국이 탄생했습니다.
+
+- AI 번역
+분리 뒤 달 위의 세 왕국은 다음과 같이 형성되었습니다.
+
+================================================================================
+문단 4
+
+- 독일어
+Ein mineralisches Reich gab es noch nicht, aber das, was sich herausbildete nach der Verhärtung als unterstes Reich, war eine Art von mineralisch-pflanzlichem Reich.
+
+- 영어
+As yet there was no mineral kingdom but what took shape, after the hardening process, as the lowest kingdom was a kind of mineral-plant kingdom.
+
+- 한글
+아직 광물계는 존재하지 않았지만 경화과정 후에 가장 낮은 차원의 왕국으로서 형성된 것은 일종의 광물-식물계였습니다.
+
+- AI 번역
+아직 광물계는 존재하지 않았습니다. 그러나 경화 뒤 가장 낮은 왕국으로 형성된 것은 일종의 광물-식물계였습니다.
+
+================================================================================
+문단 5
+
+- 독일어
+Mineralisches, das pflanzlichen Charakter hatte, oder, wenn Sie wollen: Pflanzliches, das mineralischen Charakter hat.
+
+- 영어
+Mineral substance that was plantlike in character, or, if you prefer, plant substance that was mineral in character.
+
+- 한글
+그 특징이 식물적인 광물실질입니다. 또는 그 특징이 광물인 식물실질입니다.
+
+- AI 번역
+식물적 성격을 지닌 광물적인 것, 또는 여러분이 원한다면 광물적 성격을 지닌 식물적인 것이었습니다.
+
+================================================================================
+문단 6
+
+- 독일어
+Und das bildete den Boden des Mondes.
+
+- 영어
+This formed the ground of Old Moon.
+
+- 한글
+이것이 달의 지면을 형성했습니다.
+
+- AI 번역
+그리고 그것이 달의 바닥을 이루었습니다.
+
+================================================================================
+문단 7
+
+- 독일어
+Sozusagen eine festflüssige Grundlage.
+
+- 영어
+It was a kind of semi-solid, semi-fluid foundation.
+
+- 한글
+그것은 일종의 반고체이며 반액체 상태의 기반이었습니다.
+
+- AI 번역
+말하자면 고체이면서 액체인 기초였습니다.
+
+================================================================================
+문단 8
+
+- 독일어
+So wie Sie heute auf der Erde auf Mineralischem herumtreten.
+
+- 영어
+On the earth today we walk about on a mineral ground.
+
+- 한글
+오늘날 우리는 지구의 광물 표면 위를 걸어 다닙니다.
+
+- AI 번역
+오늘날 여러분이 지구에서 광물적인 것 위를 밟고 다니듯이.
+
+================================================================================
+문단 9
+
+- 독일어
+So bestand dort der Boden aus einer festflüssigen Grundlage, die eine Art Pflanzenmineral war. Denken Sie sich eine Masse wie Kochsalat, eine pflanzliche Substanz, auf der man herumtritt.
+
+- 영어
+On Old Moon it was semi-solid, semi-fluid ground, a kind of plant-mineral soil. Think of a mass of spongy, plantlike substance on which human beings walked.
+
+- 한글
+월기에는 반고체, 반액체상태의 지면이었습니다. 일종의 식물-광물 토양이었습니다. 인간이 걸어갈 수 있는 스폰지와 같은 식물상의 실질로 되어있는 덩어리를 생각해주십시오.
+
+- AI 번역
+그곳의 바닥은 고체-액체적 기초로 이루어져 있었고, 그것은 일종의 식물광물이었습니다. 여러분이 상추 같은 덩어리, 곧 사람이 그 위를 밟고 다니는 식물적 실체를 상상해 보십시오.
+
+================================================================================
+문단 10
+
+- 독일어
+So war das niederste Reich des Mondes, das zugleich, man könnte sagen, halblebendig war. Unser Erdboden ist heute verhältnismäßig zur Ruhe gekommen.
+
+- 영어
+This was the character of the lowest kingdom on Old Moon, a kingdom that was at the same time half-living. The ground of our earth today has become comparatively static.
+
+- 한글
+이것이 월기에 존재하는 가장 저차의 왕국에 대한 특징입니다. 그것은 동시에 반쯤 살아있는 왕국이었습니다. 오늘날 지구의 지면은 비교적 조용한 상태입니다.
+
+- AI 번역
+달의 가장 낮은 왕국은 그러했습니다. 그것은 동시에, 말하자면 반쯤 살아 있었습니다. 오늘날 우리의 지반은 비교적 고요한 상태에 이르렀습니다.
+
+================================================================================
+문단 11
+
+- 독일어
+Nur wenn vulkanische Tätigkeit sich zeigt, gemahnt dies uns noch an ein gewisses inneres Leben unserer Erde. Das war auf dem Monde noch nicht so. Was der Okkultist über Erdbeben und Vulkantätigkeit zu sagen hat, davon können wir vielleicht später noch sprechen.
+
+- 영어
+Volcanic activity is the only reminder of a certain inner life. On Old Moon there were no such conditions. We may perhaps speak later on about what an occultist has to say on the subject of earthquakes and volcanic activity.
+
+- 한글
+화산 활동은 일종의 내적 삶에 대한 회상에 지나지 않습니다. 월기에는 그런 상태가 없었습니다. 어쩌면 나중에 오컬티스트는 지진이나 화산활동에 대해 설명할 수 있을지도 모릅니다.
+
+- AI 번역
+다만 화산 활동이 나타날 때만 그것이 아직 우리 지구의 어떤 내적 생명을 떠올리게 합니다. 달에서는 아직 그렇지 않았습니다. 지진과 화산 활동에 대해 오컬티스트가 말해야 할 것은 아마 나중에 다시 이야기할 수 있을 것입니다.
+
+================================================================================
+문단 12
+
+- 독일어
+Wie Organe in einer Pflanze wachsen und nachher wieder absterben, so äußerte sich dieses Halblebendige auf dem Monde. Wie ein lebendiger, beweglicher, großer Organismus, so war dieser alte Mond, auf dem die auf ihm herumlebenden Wesen sich ähnlich fühlen konnten wie Parasiten etwa in der heutigen Zeit. Diese Mondpflanzen waren von mineralischer Substanz, hatten etwas Leben und waren beweglich, also ein Pflanzenmineral. Was heute unsere Felsen sind, würden wir dort auch gefunden haben, aber es waren horn- oder holzartige Verhärtungen, das heißt von ähnlicher Substanz. Im Umkreise des Mondes, wie eine Art Atmosphäre, waren weniger dichte Nebelmassen, weniger dichter, halb wässeriger, halb lebendiger Substanz, darinnen die Wesen des nächsten Reiches - halb tierischer, halb pflanzlicher Natur — eingebettet waren.
+
+- 영어
+Just as organs in a plant grow and subsequently die, so did this half-living substance on Old Moon. The Old Moon was like a great organism, living and mobile, on which the beings living might have felt like parasites of today. These Old Moon plants were composed of mineral substance, had life in them and were mobile; they were plant-mineral in character. Nothing would have been found resembling our rocks of today; instead, there were horny or woody formations. In the environment of Old Moon, like a kind of atmosphere, were a few cloud-masses composed of a half-watery, half-living substance in which the beings of the next kingdom, half animal, half plant in character, were embedded.
+
+- 한글
+식물기관이 성장하고 이윽고 죽어가는 것과 같이 바로 월기의 이 반쯤 살아있는 실질도 성장하고 죽어갔습니다. 고월은 살아 움직이는 거대한 유기조직과 같았기 때문에 그 위에 살아있는 존재는 오늘날의 기생충처럼 느꼈을지도 모릅니다. 이 월기의 식물은 광물실질로 되어있어 생멸을 가지고 움직일 수 있었습니다. 그 특징은 식물적이기도 하고 광물적이기도 했습니다. 오늘날의 암석과 비슷한 것은 전혀 찾아볼 수 없었습니다. 그 대신에 각질 또는 목질 형태를 이룬 물체가 있었습니다. 고월 주위에 일종의 대기와 같이 반은 물 상태이며 반은 살아있는 실질로 되어있는 몇 개의 구름덩어리가 있었고 그 안에 반은 동물 반은 식물인 다음 단계 왕국의 존재들로 채워져 있었습니다.
+
+- AI 번역
+식물 안에서 기관들이 자라났다 나중에 다시 죽어 가듯이, 달 위의 이 반쯤 살아 있는 것은 그렇게 자신을 드러냈습니다. 이 옛 달은 살아 있고 움직이는 하나의 거대한 유기체와 같았으며, 그 위에서 살아가던 존재들은 오늘날의 기생생물들이 느낄 법한 방식과 비슷하게 스스로를 느낄 수 있었습니다. 이 달 식물들은 광물적 실체로 이루어져 있었고, 얼마간의 생명을 지녔으며, 움직일 수 있었습니다. 그러므로 그것은 식물광물이었습니다. 오늘날 우리의 바위인 것을 그곳에서도 발견했을 것입니다. 그러나 그것들은 뿔이나 나무와 같은 경화물, 다시 말해 그와 비슷한 실체로 이루어진 것들이었습니다. 달의 둘레에는 일종의 대기처럼, 덜 조밀한 안개 덩어리들, 덜 조밀하고 반쯤 물 같으며 반쯤 살아 있는 실체가 있었습니다. 그 안에 다음 왕국의 존재들 — 반쯤 동물적이고 반쯤 식물적인 본성을 지닌 존재들 — 이 파묻혀 있었습니다.
+
+================================================================================
+문단 13
+
+- 독일어
+Wenn Sie einen Baum quetschen könnten und er würde dabei etwas wie einen Anklang an eine tierische Empfindung haben, dann hätten Sie etwas diesem tierisch-pflanzlichen Reich Ähnliches. Dieses könnte heute als solches nicht mehr innerhalb unserer Erde leben.
+
+- 영어
+If you were to crush a tree, causing something akin to the feeling experienced by an animal, that would be remotely comparable with what was experienced by this animal-plant kingdom, which could not exist as such on the earth today.
+
+- 한글
+만약 나무를 부러뜨려 동물이 경험하는 감정과 비슷한 무엇인가를 불러일으킨다면 그것은 이 동물-식물계에 의해서 경험된 것과 비교할 수 있을 것입니다. 오늘날 지상에서 그러한 것은 존재할 수 없습니다.
+
+- AI 번역
+여러분이 어떤 나무를 짓누를 수 있고, 그때 그것이 동물적 감각의 여운 같은 것을 지닌다면, 이 동물-식물계와 비슷한 무엇을 생각할 수 있을 것입니다. 이것은 오늘날에는 그 자체로 우리 지구 안에서 더 이상 살 수 없습니다.
+
+================================================================================
+문단 14
+
+- 독일어
+Wie schon öfter erwähnt, bleiben nicht nur in der Schule die Schüler sitzen, sondern es gibt auch in der [kosmischen] Evolution immer Wesenheiten, die sitzenbleiben, und die mit ihnen zusammenhängenden Gestalten, die den Ausdruck dieser Wesenheiten bilden, bleiben dann auch zurück, sie werden erhalten. So gab es gewisse Mondenwesenheiten dann noch auf der Erde, die sozusagen noch nicht so weit waren, daß sie die Erdenentwickelung mitmachen konnten. Diese mußten sich dann in ihrem äußeren Ausdruck das schaffen, was ihre Lebensbedingung gewesen war auf dem Monde. Sie wissen, die Pflanzen auf dem Monde, sie wurzelten nicht wie heute in einem mineralischen Boden, sondern in dem halblebendigen Mondboden. Die Mistel ist zum Beispiel ein Nachkomme, ein Nachzügler einer alten Mondform; sie muß wurzeln auf pflanzlichem Boden. In den Mythen der Völker können Sie manches ausgedrückt finden, das darauf Bezug nimmt, zum Beispiel die Sage von Baldur und Loki, der eine Wesenheit vom Monde her ist, während Baldur eine Wesenheit ist, die innig zusammenhängt mit der Erden- und Sonnenentwickelung. Wenn man eine Sage interpretieren will, dann muß man wissen, aus welchem Gebiet der okkulten Forschung heraus die Zusammenhänge gefunden werden. Durch das, was der Hellseher bringt, kann eine äußere Wissenschaft so befruchtet werden, daß sie in der Sage wieder mehr zu erkennen vermag als bloße Volksphantasie. Mit der ganzen Seele zu forschen, statt nur mit dem Verstande, das muß Geisteswissenschaft lehren.
+
+- 영어
+As has often been said, not only are there pupils in school who make no progress but in the whole process of evolution there are always beings who remain at a standstill and who, together with the forms that belong to them and express what they are, become retarded. Thus, on the earth itself there were still certain moon beings who were not sufficiently advanced to keep abreast of evolution on the earth. These beings were obliged to create in their outer expressions the condition that had been essential to their life on Old Moon. As you know, plants on Old Moon were not rooted in mineral soil as they are today but in the half-living ground of the planet. Mistletoe, for example, is a descendant, a straggler, of an Old Moon form; it is obliged to take root in plant-soil. In folk myths there are many indications of this, for example, in the legend of Baldur and Loki. The latter is a being belonging to Old Moon, whereas Baldur is a being inwardly connected with earth and sun evolution. To interpret a legend or myth it is necessary to know in which sphere of occult investigation the connections can be discovered. External science could be so enriched by the fruits of clairvoyance that it would recognize in a legend much more than folk fantasy. Spiritual science must teach one to investigate with the whole soul instead of with the intellect only.
+
+- 한글
+자주 듣는 얘기지만 학교에도 진전이 없는 학생이 있듯이 진화과정 전체에서 정체되어버리는 존재들도 있습니다. 그들은 그들이 누구인지를 표출하는 형태와 함께 지체되는 존재들이었습니다. 이렇게 지상 자체에도 지상의 진화를 따라서 충분한 진화를 이루지 못하는 달의 존재들도 있었습니다. 이러한 존재들은 외적 표출로 월기의 생이었던 상태를 창조해야만 했습니다. 잘 알고 있듯이 고월의 식물은 오늘날과 같은 광물토양에 뿌리를 내리지 못하고 혹성의 반쯤 살아있던 지면에 뿌리를 내리고 있습니다. 예를 들면 ‘겨우살이’는 월기형태의 자손, 낙오자입니다. 겨우살이는 식물-토양에 뿌리를 뻗어야했습니다. 민족 신화에 이것을 지적한 수많은 이야기들이 존재합니다. 예를 들면 바르도르와 로키의 전설입니다. 로키는 월기에 속하는 존재입니다. 한편 바르도르는 지구와 태양의 진화에 내적으로 연결되어있는 존재였습니다. 전설이나 신화를 해석하기 위해서는 어느 오컬트 조사 영역과 관계가 있는지 알 필요가 있습니다. 영시력의 열매는 외적 과학을 좀더 풍성하게 할 수 있으며, 만약 원하기만 한다면 외적 과학은 전설에서 민족적 공상을 훨씬 뛰어넘는 많은 것을 인정할 것입니다. 영과학은 지성뿐만이 아닌 혼 전체로 조사하는 법을 사람에게 가르쳐야합니다.
+
+- AI 번역
+이미 여러 번 언급했듯이, 학교에서만 학생들이 유급되는 것이 아니라, [우주적] 진화 안에서도 언제나 뒤처지는 존재들이 있습니다. 그리고 그들과 관련된 형상들, 곧 그 존재들의 표현을 이루는 형상들도 뒤에 남아 보존됩니다. 그래서 지구 위에도 나중에 특정한 달 존재들이 있었는데, 이들은 말하자면 지구 발전을 함께 해낼 만큼 아직 충분히 나아가지 못한 존재들이었습니다. 이들은 그 외적 표현 안에서, 달에서 자기들의 삶의 조건이었던 것을 스스로 만들어 내야 했습니다. 여러분도 알다시피, 달 위의 식물들은 오늘날처럼 광물적 토양에 뿌리내린 것이 아니라, 반쯤 살아 있는 달의 토양에 뿌리내리고 있었습니다. 예를 들어 겨우살이는 옛 달 형상의 후손, 뒤늦게 남은 존재입니다. 그것은 식물적 토양 위에 뿌리를 내려야 합니다. 민족들의 신화 속에서 여러분은 이것과 관련된 것이 표현되어 있는 여러 가지를 발견할 수 있습니다. 예를 들어 발두르와 로키의 전설이 그렇습니다. 로키는 달에서 온 존재인 반면, 발두르는 지구 발전과 태양 발전에 내밀하게 연결되어 있는 존재입니다. 어떤 전설을 해석하려면, 그 연관들이 오컬트 연구의 어느 영역에서 발견되는지를 알아야 합니다. 영시자가 가져오는 것을 통해 외적 학문은 비옥해질 수 있으며, 그러면 전설 속에서도 단순한 민족적 환상 이상의 것을 다시 인식할 수 있게 됩니다. 오직 오성만으로 연구하는 것이 아니라, 온 영혼으로 연구하는 것, 이것을 정신과학은 가르쳐야 합니다.
+
+================================================================================
+문단 15
+
+- 독일어
+Dann haben wir noch ein drittes Reich auf dem Monde, das ein Zwischenreich ist zwischen Tier- und Menschenreich: das Tiermenschenteich. Allerdings würden Sie ganz anders gestaltete Wesenheiten in jenen Tiermenschen finden, als die heutige materialistische Wissenschaft sie sich vorstellt. Sie sind nur deshalb Tiermenschen, weil sie wichtige Glieder ihres Wesens noch nicht in sich, innerhalb ihrer eigenen Wesenheit hatten.
+
+- 영어
+There was still a third kingdom on Old Moon, between the animal and human kingdoms; it was the animal-human kingdom. The forms of those animal-men were quite different from what is pictured by materialistic science today. They were animal-men although certain important members of their constitution were not yet actually within them.
+
+- 한글
+월기에는 동물계와 인간계 사이에 제3의 왕국이 존재했습니다. 동물-인간계입니다. 이 동물-인간의 형태는 오늘날 유물주의적 과학이 상상하고 있는 것과 전혀 다릅니다. 어떤 특정한 중요 구성요소가 아직 실제로 내부에 존재하지 않음에도 불구하고 그들은 동물-인간이었습니다.
+
+- AI 번역
+그다음 달 위에는 아직 세 번째 왕국이 있었습니다. 그것은 동물계와 인간계 사이의 중간 왕국, 곧 동물-인간의 왕국입니다. 물론 여러분이 그 동물-인간들 안에서 발견했을 존재들은, 오늘날 물질주의적 과학이 상상하는 것과는 전혀 다르게 형성되어 있었습니다. 그들이 동물-인간인 까닭은, 그들 본질의 중요한 지체들을 아직 자기 안에, 자기 고유한 본질 안에 지니고 있지 않았기 때문입니다.
+
+================================================================================
+문단 16
+
+- 독일어
+Heute hat der schlafende Mensch seinen physischen und Ätherleib hier unten im Bette liegen und den Astralleib außerhalb. Er ist also im Grunde genommen in der physischen Welt nur mit der Hälfte seines Wesens drinnen und nicht der wichtigeren; er gehört mit physischem und Ätherleib gleichsam einem früheren, kosmischen Bewußtseinsstadium an. Auf dem Monde sieht der hellseherische Blick diesen Zustand aalseinen dauernden walten.
+
+- 영어
+While he is asleep today, man's physical and etheric bodies remain in the bed and his astral body is outside. Fundamentally speaking, during sleep he is therefore in the physical world with only the lesser half of his constitution. Man's physical and etheric bodies belong to an earlier, cosmic stage of consciousness. Clairvoyant vision reveals this condition to have been permanent on Old Moon.
+
+- 한글
+오늘날 인간은 잠을 자고 있을 때 육체와 에테르체는 침상에 남고 아스트랄체는 외부에 존재합니다. 그러므로 기본적으로 말하면 잠자고 있는 동안 인간은 저차구성요소 중 반만을 가지고 물질계에 존재하는 것입니다. 인간의 육체와 에테르체는 과거 우주적 의식단계에 속해 있는 것입니다. 영시는 이 상황이 월기부터 변하지 않았다는 것을 보여줍니다.
+
+- AI 번역
+오늘날 잠자는 인간은 자기의 물리적 몸과 에테르체를 여기 아래 침대에 눕혀 두고, 아스트랄체는 그 밖에 있습니다. 그러므로 그는 근본적으로 물리적 세계 안에는 자기 본질의 절반만, 그것도 더 중요한 절반이 아닌 부분만 들어와 있는 셈입니다. 그는 물리적 몸과 에테르체로는 말하자면 더 이른 우주적 의식 단계에 속해 있습니다. 달 위에서는 영시적 시선이 이 상태가 지속적으로 지배하고 있음을 봅니다.
+
+================================================================================
+문단 17
+
+- 독일어
+Der astralische Leib war da noch zu keiner Zeit im physischen und Ätherleib ganz drinnen, nur war er auf dem Monde gründlicher und deutlicher mit dem Menschen verbunden, als er es heute im Schlafe ist. Der Kopf beim Mondenmenschen war noch nicht so abgeschlossen für sich wie heute. Ein Überbleibsel davon, wie damals die Organe da oben im Kopfe waren, ist noch die Stelle oben am Kopfe des Säuglings, die lange sehr weich und offen bleibt.
+
+- 영어
+The astral body then was never entirely within the physical and etheric bodies but was nevertheless connected more fundamentally and definitely with the human being than is the case during sleep today. The head of the man of Old Moon was not self-enclosed as is the case today. A residue of what the organs in the head were at that time is the place at the top of a baby's head that stays soft and open for a long time.
+
+- 한글
+당시 아스트랄체는 결코 완전히 육체와 에테르체 안에 존재하지 않았습니다만 그럼에도 불구하고 오늘날의 잠보다 근본적이고 명확히 인간과 관계하고 있었습니다. 월기의 인간 머리는 현재와 같이 자기 폐쇄적이지 않았습니다. 당시 머리기관이었던 것의 잔재가 부드러운 상태로 오랫동안 열려있는 아기의 머리 끝부분에 있는 장소입니다.
+
+- AI 번역
+그때 아스트랄체는 어느 때에도 물리적 몸과 에테르체 안에 완전히 들어와 있지 않았습니다. 다만 달 위에서는 그것이 오늘날 잠 속에서보다 훨씬 더 철저하고 분명하게 인간과 결합되어 있었습니다. 달 인간의 머리는 아직 오늘날처럼 그 자체로 폐쇄되어 있지 않았습니다. 그 당시 머리 위쪽의 기관들이 어떠했는지를 보여 주는 잔재가 아직도 남아 있는데, 그것은 아기의 머리 위쪽에서 오랫동안 매우 부드럽고 열려 있는 자리입니다.
+
+================================================================================
+문단 18
+
+- 독일어
+Der Kopf des Menschen war damals nach oben hin vollständig offen, und das Organ, auf das Sie treffen, wenn Sie senkrecht unter dieser weichen Stelle eine Linie ziehen, die Zirbeldrüse, die heute allerdings vertrocknet und verkümmert ist, das war während der Mondenentwickelung ein sehr wichtiges Organ. Es war eine Art Sinnesorgan, das die Verbindung des menschlichen physischen und Ätherleibes mit dem Astralleibe des Menschen vermittelte.
+
+- 영어
+On Old Moon the head of the human being was still open. Were you to draw a line vertically downward from this soft area, you would meet the pineal gland. Today it is stunted and withered but it was an important organ during the Old Moon embodiment. It was a kind of sense organ that connected man's physical and etheric bodies with his astral body.
+
+- 한글
+월기의 인간 머리는 아직 열려있었습니다. 만약 이 부드러운 지역에서 수직으로 아래쪽으로 선을 그으면 송과선과 만나게 될 것입니다. 오늘날 그것은 퇴화되어 위축되어 있지만 월기 체현에서는 중요한 기관이었습니다. 그것은 인간의 육체와 에테르체를 아스트랄체와 연결시키는 일종의 감각 기관이었습니다.
+
+- AI 번역
+그때 인간의 머리는 위쪽으로 완전히 열려 있었습니다. 그리고 이 부드러운 자리 아래로 수직선을 그으면 만나게 되는 기관, 곧 송과선은 오늘날에는 물론 말라붙고 위축되어 있지만, 달 발전 동안에는 매우 중요한 기관이었습니다. 그것은 일종의 감각기관으로서, 인간의 물리적 몸과 에테르체가 인간의 아스트랄체와 맺는 연결을 매개했습니다.
+
+================================================================================
+문단 19
+
+- 독일어
+Der menschliche Astralleib sandte durch dieses Organ, das wie ein feiner, leuchtender Körper war, seine wichtigsten Strahlenkräfte in die andern Leiber hinein. Es war das Bewußtsein des Menschen nicht Schlaf- und nicht Wachbewußtsein. Äußere Dinge nahm der Mensch nicht wahr. Sein Bewußtsein wäre so etwa mit dem heutigen Traum zu vergleichen gewesen. Diese Zirbeldrüse war damals eine Art Wärmeorgan, sie sandte mächtige, leuchtende Wärmestrahlen aus.
+
+- 영어
+Through this organ, which was a delicate, luminous body, man's astral body radiated into the other bodies. His consciousness was neither that of sleep nor of waking life. He did not perceive outer objects. His consciousness might be compared with that of the dream to-day. The pineal gland at that time was a kind of warmth organ, emitting powerful, luminous rays of warmth.
+
+- 한글
+섬세하고 빛을 내는 몸이었던 이 기관을 통해서 인간의 아스트랄체는 다른 몸에 빛을 비추었습니다. 인간의 의식은 수면 중의 의식도 깨어 활동하는 의식도 아니었습니다. 인간은 외적 사물을 지각하지 못했습니다. 그 의식은 오늘날의 꿈의 의식과 비교할 수 있을지도 모르겠습니다. 당시 송과선은 일종의 온기 기관으로 온기를 강력한 빛으로 가득 찬 광선으로 방사하고 있었습니다.
+
+- AI 번역
+인간의 아스트랄체는 섬세하고 빛나는 몸과도 같았던 이 기관을 통해, 자기의 가장 중요한 광선 힘들을 다른 몸들 안으로 보냈습니다. 그때 인간의 의식은 잠의 의식도 아니고 깨어 있음의 의식도 아니었습니다. 인간은 외부 사물들을 지각하지 않았습니다. 그의 의식은 오늘날의 꿈과 대략 비교될 수 있을 것입니다. 이 송과선은 당시 일종의 열 기관이었고, 강력하고 빛나는 열 광선들을 내보냈습니다.
+
+================================================================================
+문단 20
+
+- 독일어
+Wenn auf dem alten Monde der Mensch sich in der Außenwelt bewegte, so diente dieses Organ dazu, ihm die Richtung, die er zu nehmen hatte, zu weisen. Seine Wahrnehmung auf dem Monde war so, daß der Mensch aufsteigen gefühlt hat etwas wie ein lebendiges Traumbild. Ein gegenständliches Sehen oder Wahrnehmen gab es noch nicht, aber ein innerliches Aufundabwogen von lebendigen Bildern. Die heutigen Traumbilder sind nur schwache Schatten davon. Alles, was der Mensch auf dem Monde unternahm, wie er seine Nahrung suchte und so weiter, alles geschah durch diese Bilder. Diese Mondbilder standen in einem Zusammenhang mit der Außenwelt. Von ihnen konnte er sich dirigieren und leiten lassen. Wenn er seine Nahrung suchte, wurde er dadurch geleitet, daß gewisse Bilder vor ihm aufstiegen; Schädliches wurde ihm durch ganz bestimmte Bilder angezeigt. Und der Astralleib ragte weit hinaus über den physischen und Ätherleib, nur der physische Leib hatte eine Form, die wir als menschliche bezeichnen können.
+
+- 영어
+When on Old Moon man was moving about, the function of this organ was to show him the direction he must take. Man's perception on Old Moon consisted in something like a dream picture rising up within him. There was as yet no seeing or perceiving objects but man felt an inner up-and-down surge of living pictures of which the dream pictures of today are only a feeble shadow. Everything a man set out to do on Old Moon, how he searched for his food and so forth, was always activated by these pictures that were connected with the outer world. He could allow himself to be directed and led by them. When he was looking for food he was guided by certain pictures that rose up before him, and he was warned of danger also by them. The astral body extended far beyond the physical and the etheric bodies; the form of the physical body alone could be called human.
+
+- 한글
+월기에서 인간이 움직이면 이 기관의 기능은 인간이 취해야할 방향을 나타내는 것이었습니다. 월기의 인간의 지각은 내부에서 끓어오르는 꿈의 영상과 같은 것이었습니다. 아직 눈으로 보거나 지각하는 사물도 없었지만 인간은 살아있는 영상의 내적 고양과 진정을 느꼈습니다. 오늘날 꿈의 영상은 그것의 허약한 그림자놀이에 불과합니다. 월기에서 인간이 하려고하는 모든 일은, 어떻게 해서 식량을 찾을까와 같은 일들은 외적 세계와 관련된 이러한 영상에 의해서 끊임없이 활성화되고 있었습니다. 인간은 그 인도에 따라 지배되고 있었습니다. 위험을 경고하는 것도 이것을 통해서였습니다. 아스트랄체는 육체와 에테르체를 넘어서 멀리까지 퍼져있었습니다. 육체의 형태만이 인간이라고 부를 수 있었습니다.
+
+- AI 번역
+옛 달 위에서 인간이 외부 세계 안에서 움직일 때, 이 기관은 그가 취해야 할 방향을 가리켜 주는 데 쓰였습니다. 달 위에서 인간의 지각은 살아 있는 꿈의 그림과도 같은 무엇이 솟아오르는 것을 느끼는 방식이었습니다. 대상적인 봄이나 지각은 아직 없었고, 살아 있는 그림들이 내적으로 오르내리며 물결치는 것이 있을 뿐이었습니다. 오늘날의 꿈속 그림들은 그것의 약한 그림자에 지나지 않습니다. 인간이 달 위에서 수행한 모든 일, 이를테면 양분을 찾는 일 등은 모두 이러한 그림들을 통해 이루어졌습니다. 이 달의 그림들은 외부 세계와 관련을 맺고 있었습니다. 그는 그것들에 의해 방향을 잡고 인도될 수 있었습니다. 양분을 찾을 때에는 특정한 그림들이 그의 앞에 떠오름으로써 인도되었고, 해로운 것은 아주 특정한 그림들에 의해 그에게 알려졌습니다. 그리고 아스트랄체는 물리적 몸과 에테르체보다 훨씬 더 멀리 밖으로 뻗어 나와 있었습니다. 오직 물리적 몸만이 우리가 인간적이라고 부를 수 있는 형상을 지니고 있었습니다.
+
+================================================================================
+문단 21
+
+- 독일어
+Auf dem Monde hatte der Mensch auch noch nicht eine gewisse Konstanz seiner innern Wärme. Heute hat er das, er hat es sich auf der Erde erworben. Auf dem alten Monde nahm der Mensch Wärme von der ihn umgebenden Wärme auf und strömte sie wieder aus, wie er heute die Luft aus- und einatmet. Und das machte sich sichtbar an seinem Wärmeorgan. Das leuchtete auf, erglänzte, wenn er Wärme aufnahm, und wenn er Wärme ausströmte, verdunkelte sich dieses.
+
+- 영어
+On Old Moon man's inner warmth was not yet constant. Today, on the earth, this has been achieved. On Old Moon man absorbed warmth from the warmth around him and emitted it again, just as he inhales and exhales air today. The process became visible in his organ of warmth. It gleamed and was luminous when he was absorbing warmth and darkened when he was exhaling it.
+
+- 한글
+월기에서 인간의 내적 온기는 아직 일정하지 않았습니다. 오늘날 지구상에서는 온기는 실제로 현실화되어 있습니다. 월기에서 인간은 주위의 온기로부터 온기를 흡수하고는 또 방출했습니다. 오늘날 공기를 들이마시고 다시 내뱉는 것과 똑같은 방식이었습니다. 온기기관을 통해서 그 과정을 볼 수 있었습니다. 온기를 흡수했을 때 반짝이는 빛을 내뿜었습니다. 온기를 내뱉으면 어두워졌습니다.
+
+- AI 번역
+달 위에서 인간은 아직 자기 내적 열의 일정한 항상성을 가지고 있지 않았습니다. 오늘날 인간은 그것을 가지고 있으며, 지구 위에서 그것을 획득했습니다. 옛 달 위에서 인간은 자신을 둘러싼 열로부터 열을 받아들이고, 오늘날 공기를 들이마시고 내쉬듯이 그것을 다시 흘려보냈습니다. 그리고 이것은 그의 열 기관에서 눈에 보이게 드러났습니다. 그가 열을 받아들일 때 그것은 빛나고 환히 밝아졌으며, 열을 흘려보낼 때에는 어두워졌습니다.
+
+================================================================================
+문단 22
+
+- 독일어
+Hätten Sie das sehen können, so hätte es so ausgesehen wie der Feuerdrache, den Sie heute als eine Nachbildung davon sehen. Das alles hat eine tiefe Bedeutung. Wenn Sie Gestalten sehen, wie den Erzengel Michael, der den Feuerdrachen unter die Füße tritt, oder den Sankt Georg im Kampf mit dem Drachen, so führen solche Vorstellungen auf jene Zustände zurück. Das ist eine Gestalt, die es einmal gegeben hat: jener Feueratmer des alten Mondes, der alte Drache - eine Stufe, die überwunden werden mußte.
+
+- 영어
+If you could have seen what was happening, the process would have suggested the image of a fire-breathing dragon. All these happenings have a deep significance. Figures such as the Archangel Michael with the fire-breathing dragon under his feet, or St. George fighting with the dragon, are pictures reminiscent of those conditions. The fire breather of Old Moon, the ancient Dragon, is a figure that once actually existed. It portrays a stage that would have to be surmounted.
+
+- 한글
+만약 여러분이 무엇이 일어나고 있는지 볼 수 있다면 불을 호흡하는 드래곤으로 이 과정을 나타냈을 것입니다. 이러한 모든 사건은 깊은 의미를 지니고 있습니다. 대천사 미카엘이 불을 내뿜는 드래곤 위에 선 모습이나 드래곤과 싸우는 성죠지의 모습은 이러한 상황을 추억하는 영상인 것입니다. 월기의 불을 내뿜는 존재, 태고의 드래곤은 과거에 실제로 존재했던 영상입니다. 그것은 극복해야할 어떤 단계를 그리고 있습니다.
+
+- AI 번역
+여러분이 그것을 볼 수 있었다면, 오늘날 그 모사로 볼 수 있는 불의 용과 같은 모습이었을 것입니다. 이 모든 것은 깊은 의미를 지니고 있습니다. 대천사 미카엘이 불의 용을 발아래 짓밟고 있는 형상이나, 성 게오르기우스가 용과 싸우는 모습을 볼 때, 그러한 표상들은 저 상태들로 거슬러 올라갑니다. 그것은 한때 실제로 존재했던 형상입니다. 옛 달의 저 불을 호흡하던 존재, 옛 용 — 그것은 극복되어야 했던 하나의 단계였습니다.
+
+================================================================================
+문단 23
+
+- 독일어
+Das ist die aus der okkulten Erkenntnis heraus geschöpfte Erklärung solcher Dinge. Wenn später einmal die Geisteswissenschaft mehr verbreitet sein wird, dann wird man auch solche Dinge, wie sie in solchen Bildern und Vorstellungen erhalten geblieben sind, wieder anders ansehen. Diese Tiermenschengestalt, sie war freilich ganz anders als die der heutigen Menschen, weil der Astralleib noch nicht so tief untertauchte in den menschlichen physischen Leib wie später auf der Erde.
+
+- 영어
+This is the explanation of such matters that is derived from occult knowledge. Later on, when spiritual science is more widely known, there will be a different view of truths that have been preserved in imagery and pictures of this kind. This animal-man form was quite different from that of man today because the astral body did not sink into the physical body as deeply as it did later on the earth.
+
+- 한글
+이것은 오컬트지식으로부터 획득된 사항을 설명한 것입니다. 곧 영과학이 널리 알려지게 되면 이와 같은 종류의 이미지와 영상 안에 보존되어온 진리에 대한 완전히 다른 견해가 생겨날 것입니다. 이 동물-인간형태는 오늘날 인간의 모습과 전혀 달랐습니다. 왜냐하면 아스트랄체가 곧 지상에서 가능하게 될 정도로 깊이 육체에 잠기지 않았기 때문입니다.
+
+- AI 번역
+이것이 오컬트 인식에서 길어 올린, 그러한 것들에 대한 설명입니다. 언젠가 정신과학이 더 널리 퍼지게 되면, 그러한 그림들과 표상들 속에 보존되어 온 것들도 다시 다르게 바라보게 될 것입니다. 이 동물-인간 형상은 물론 오늘날 인간의 형상과는 전혀 달랐습니다. 왜냐하면 아스트랄체가 훗날 지구에서처럼 그렇게 깊이 인간의 물리적 몸 안으로 잠겨 들어가 있지 않았기 때문입니다.
+
+================================================================================
+문단 24
+
+- 독일어
+Der Mensch ist das Gebilde von heute dadurch, daß der Astralleib ganz in ihn untertauchte. Man könnte sagen, weil das, was während der Mondenentwickelung noch nicht sich darauf einließ, so in die Tiefen der physischen Welt herabzusteigen, sich nun während der Erdenentwickelung dazu entschloß. Wäre aber dieser Vorgang im Kosmos früher vor sich gegangen, dann wäre der Mensch auf einer viel niedrigeren Stufe stehengeblieben.
+
+- 영어
+Man is the figure he is today because the astral body eventually sank right down into him. It could be said that what did not, during the Old Moon period of evolution, allow itself to descend into the depths of the physical world, now resolved to do so during the earth period. But if this process in the cosmos had taken place at an earlier time, man would have remained at a much lower evolutionary stage.
+
+- 한글
+이렇게 말할 수 있을 것입니다. 고월진화기에 물질계의 심연으로 하강을 원하지 않은 존재가 이제 지구기에 물질계로 하강하려는 결심을 했다고. 하지만 만약 우주의 이 과정이 좀더 앞서 발생했다면 인간은 훨씬 저차단계에 머물러 있었을 것입니다.
+
+- AI 번역
+인간이 오늘날의 형상이 된 것은, 아스트랄체가 완전히 그 안으로 잠겨 들어갔기 때문입니다. 이렇게 말할 수 있을 것입니다. 달 발전 동안에는 아직 물리적 세계의 깊은 곳으로 내려가는 일에 자신을 맡기지 않았던 것이, 이제 지구 발전 동안 그렇게 하기로 결심한 것입니다. 그러나 이 과정이 코스모스 안에서 더 일찍 일어났더라면, 인간은 훨씬 더 낮은 단계에 머물렀을 것입니다.
+
+================================================================================
+문단 25
+
+- 독일어
+Während der Erdenentwickelung hat er vom Geiste heraus sich zu dieser edlen Gestalt, die gottähnlich ist, durchgerungen. Wäre auf dem Monde schon die Möglichkeit der Menschengestaltung gewesen, so wäre dieses Hinuntersteigen für den Astralleib zu früh gewesen. Die göttlichen Lenker haben stets den richtigen Augenblick gewählt. Denn das ist das Wesentliche der Mondenentwickelung: Es wurde dem physischen Leibe noch sozusagen Zeit gelassen zu seiner Entwickelung, und für die Erde wurde aufgespart, daß der Mensch vom Astralleib durchzogen wurde, nachdem er sich auf dem Monde auf einer unteren Stufe physisch entwickelt hatte.
+
+- 영어
+During the period of earth evolution, he succeeded, with the help of the spirit, in acquiring for himself the noble, godlike form that is now his. If the possibility of developing this stature had already existed on Old Moon, the descent of the astral body would have taken place prematurely. The divine Guides have always chosen the right moment. The essential achievement of Old Moon evolution was that time was left for the evolution of the physical body, and on the earth man was to be permeated by the astral body after having evolved physically on Old Moon at a lower stage.
+
+- 한글
+지구진화기에 영성의 도움으로 인간은 자신을 위해 현재 자신의 것인 고귀한 신과 닮은 모습을 획득하는데 성공했습니다. 이 모습을 발달시킬 수 있는 가능성이 고월에 이미 존재하고 있었다면 아스트랄체의 하강은 미숙한 채로 발생했을 것입니다. 신성한 지도자들은 반드시 올바른 때를 선택해왔습니다. 고월진화의 본질적인 업적은 육체 진화를 위한 때가 남겨졌다는 것입니다. 고월에서 저차의 단계에 물질적 진화를 달성한 후 지상에서 인간의 육체는 아스트랄체에 침투될 수 있었습니다.
+
+- AI 번역
+지구 발전 동안 인간은 영으로부터 나와, 신과 닮은 이 고귀한 형상에 이르기까지 스스로 뚫고 나아왔습니다. 이미 달 위에서 인간 형성의 가능성이 있었다면, 아스트랄체에게 이 내려감은 너무 이른 일이었을 것입니다. 신적 지도자들은 언제나 올바른 순간을 선택했습니다. 달 발전의 본질은 바로 여기에 있습니다. 말하자면 물리적 몸에게는 아직 자기 발전을 위한 시간이 허락되었고, 인간이 달 위에서 물리적으로 낮은 단계에서 발전한 뒤 아스트랄체에 의해 관통되는 일은 지구를 위해 남겨 두어졌습니다.
+
+================================================================================
+문단 26
+
+- 독일어
+Dann ereignete sich wieder ein gewisses Zurückgehen des Mondes in die vorher abgespaltene Sonne; aufgesogen wurde die alte Mondkugel wieder von der Sonne, und alles ging wiederum in einen Weltenschlaf über, durch ein Pralaya hindurch. Das beginnt in demselben Moment, wo der Mond in die Sonne zurückkehrt.
+
+- 영어
+Then again there took place a certain recession of the Moon into the Sun, which had previously separated; the Old Moon globe was again absorbed by the Sun and everything passed into a cosmic sleep, a pralaya. This began at the time when the Moon returned again into the Sun.
+
+- 한글
+그러고 나서 다시 지금까지 분리되어있던 태양에 달이 합체합니다. 고월은 다시 태양에 흡수되고 모든 것은 우주의 잠, 프라라야로 이행합니다. 이것은 달이 태양으로 다시 돌아갔을 때 시작했습니다.
+
+- AI 번역
+그런 다음 달이 이전에 분리되어 나갔던 태양 안으로 다시 되돌아가는 일이 일어났습니다. 옛 달 구체는 다시 태양에 흡수되었고, 모든 것은 다시 하나의 세계 수면 속으로, 하나의 프랄라야를 통과하여 들어갔습니다. 이것은 달이 태양으로 돌아가는 바로 그 순간에 시작됩니다.
+
+================================================================================
+문단 27
+
+- 독일어
+Die alte Mondenentwickelung ging also folgendermaßen vor sich: Erstens eine Art Vorbereitung, zweitens Trennung in Sonne und Mond, drittens Bildung der drei Reiche auf dem Monde, viertens Zurückkehren in die Sonne, fünftens ein Abfluten, sechstens der Weltenschlaf.
+
+- 영어
+Hence the evolution of Old Moon proceeded by the following stages: firstly, a kind of preparation; secondly, separation into Sun and Moon; thirdly, formation of three kingdoms on Old Moon; fourthly, return into the Sun; fifthly, ebb; sixthly, the cosmic sleep.
+
+- 한글
+이렇게 고월진화는 다음과 같은 단계를 거치며 진행했습니다. 우선 첫 번째 준비기간. 두 번째 태양과 달의 분리. 세 번째 고월상 3개의 왕국 형성. 네 번째 고월의 태양으로 귀환. 다섯 번째 쇠퇴. 여섯 번째 우주의 잠.
+
+- AI 번역
+그러므로 옛 달 발전은 다음과 같이 진행되었습니다. 첫째, 일종의 준비. 둘째, 태양과 달로의 분리. 셋째, 달 위에서 세 왕국의 형성. 넷째, 태양으로의 귀환. 다섯째, 흘러나가 사라짐. 여섯째, 세계 수면.
+
+================================================================================
+문단 28
+
+- 독일어
+Aus diesem Weltenschlaf tritt dann die vierte Metamorphose unserer Erde zutage: unser Planet, die Erde selbst. Diese erste Gestalt der Erde ist allerdings ganz verschieden von dem, was unsere Erde jetzt als Gestalt zeigt.
+
+- 영어
+The fourth metamorphosis of our earth, our own planet earth itself, then came forth from the cosmic sleep. This first configuration of the earth was, of course, quite different from its configuration today.
+
+- 한글
+우리 지구의 네 번째 변용, 즉 우리 자신의 혹성이 이윽고 우주의 잠으로부터 태어납니다. 지구의 초기 모습은 물론 현재의 형상과 전혀 달랐습니다.
+
+- AI 번역
+이 세계 수면으로부터 우리 지구의 네 번째 변형이 드러납니다. 곧 우리의 행성, 지구 자체입니다. 물론 지구의 이 첫 형상은 지금 우리의 지구가 보여 주는 형상과는 전혀 다릅니다.
+
+================================================================================
+문단 29
+
+- 독일어
+Als sie zuerst aufleuchtete, diese Erde, aus der kosmischen Nacht, dem Dämmerdunkel, da war sie groß, ungeheuer groß, denn sie hatte ja wieder in sich die Sonne und den Mond; alle Abspaltung geschah erst später.
+
+- 영어
+When the earth emerged from the cosmic night, from the darkness of twilight, it was gigantic in size, for again sun and moon were contained within it; the separations took place later on.
+
+- 한글
+지구가 우주의 밤에서 등장했을 때, 황혼의 어두움으로부터 등장했을 때 지구의 규모는 거대했습니다. 그 안에 태양과 달이 포함되어 있었기 때문입니다. 분리는 나중에 발생했습니다.
+
+- AI 번역
+이 지구가 우주의 밤, 어스름한 어둠으로부터 처음 빛나기 시작했을 때, 그것은 컸습니다. 엄청나게 컸습니다. 왜냐하면 그 안에는 다시 태양과 달이 함께 들어 있었기 때문입니다. 모든 분리는 그 뒤에야 일어났습니다.
+
+================================================================================
+문단 30
+
+- 독일어
+Sie war so groß, daß sie bis zum heutigen Saturn reichte.
+
+- 영어
+So enormous was the size of the earth that it reached as far as the Saturn of today.
+
+- 한글
+지구의 규모가 매우 거대했기 때문에 오늘날 토성까지 이르렀습니다.
+
+- AI 번역
+지구는 오늘날의 토성에까지 이를 만큼 컸습니다.
+
+================================================================================
+문단 31
+
+- 독일어
+Die Differenzierung unseres Systems geschah erst später. Die Kant-Laplacesche Theorie gibt, soweit es dem physikalischen Denken möglich ist, dieses erste Hervorgehen unserer Erde in ganz verständlicher Weise.
+
+- 영어
+Differentiation in the solar system did not take place until a much later time. As far as is possible in terms of philosophical thinking, the Kant-Laplace theory is an entirely intelligible exposition of this first form of our earth.
+
+- 한글
+태양계의 분화는 훨씬 뒤에야 일어납니다. 철학적 사고가 가능한 범위에서 칸트-라플라스 이론은 우리 지구의 이 최초 형태를 완전히 이해할 수 있는 연구입니다.
+
+- AI 번역
+우리 체계의 분화는 그 뒤에야 일어났습니다. 칸트-라플라스 이론은 물리적 사고가 가능한 한도 안에서, 우리 지구의 이 최초 발생을 매우 이해할 만한 방식으로 제시합니다.
+
+================================================================================
+문단 32
+
+- 독일어
+Sie spricht von einem Nebel, einer Art Urnebel, in dem alles aufgelöst ist, und aus dem daher das ganze Sonnensystem hervorgeht. Durch die Rotation dieses Nebels haben sich Ringe gebildet, diese Ringe verdichten sich, und durch die Rotation bilden sich dann die Planeten. In der Schule wird das an einem Experiment häufig dargestellt: man bringt eine Ölkugel in einer gleich schweren Flüssigkeit mittels einer einfachen mechanischen Vorrichtung zum Rotieren.
+
+- 영어
+It speaks of a kind of archetypal nebula in which everything was dissolved and out of which the whole solar system came forth. Through the rotation of this nebula, rings took shape; they densified and then, still as the result of rotation, the planets were formed. In schools this process is often illustrated by means of an experiment. A globule of oil in liquid of equal density is made to rotate by a simple mechanical device.
+
+- 한글
+이 이론은 모든 것이 용해되어 있었고 그곳에서 태양계의 모든 것이 탄생한 일종의 원형적 구름에 대해 말하고 있습니다. 이 구름의 회전에 의해 고리가 형성되었습니다. 이것들이 회전운동의 결과로 농축화되어 혹성들이 형성되었습니다. 학교에서는 종종 이 과정을 실험을 통해 설명합니다.
+
+- AI 번역
+그 이론은 하나의 성운, 일종의 원초 성운을 말합니다. 그 안에는 모든 것이 해체되어 있으며, 그러므로 그로부터 전체 태양계가 생겨난다고 합니다. 이 성운의 회전에 의해 고리들이 형성되고, 이 고리들이 응축되며, 그 회전을 통해 행성들이 생겨난다는 것입니다. 학교에서는 이것을 흔히 하나의 실험으로 보여 줍니다. 같은 무게의 액체 안에 기름 방울 하나를 넣고, 단순한 기계 장치로 그것을 회전시킵니다.
+
+================================================================================
+문단 33
+
+- 독일어
+Man kann alsdann beobachten, wie sich diese Kugel abplattet, wie sich von ihr Tropfen losreißen, die sich wiederum zu Kugeln formen und die Hauptkugel umkreisen, und auf diese Weise sieht man im Kleinen eine Art Planetensystem durch das Rotieten entstehen.
+
+- 영어
+It can then be observed that this globule flattens, that drops separate from it and form themselves again into globules that circle round the central globule. In this way one can see in miniature a kind of planetary system coming into being through rotation.
+
+- 한글
+같은 밀도의 액체에 기름방울을 넣고 간단한 기계도구로 회전시킵니다. 이 기름방울은 평평해지고 작은 입자로 분리되어 중앙의 기름방울 주위를 도는 기름방울이 됩니다. 이렇게 해서 일종의 혹성계가 회전에 의해 탄생하는 과정의 축소판을 눈으로 볼 수 있습니다.
+
+- AI 번역
+그러면 이 방울이 납작해지고, 거기서 작은 방울들이 떨어져 나와 다시 구체를 이루며, 주된 방울 둘레를 도는 것을 관찰할 수 있습니다. 이렇게 해서 작은 규모 안에서 회전을 통해 일종의 행성계가 생겨나는 것을 봅니다.
+
+================================================================================
+문단 34
+
+- 독일어
+Das wirkt ungeheuer suggestiv. Warum sollte man sich das nicht in der Welt ebenso vorstellen? Man sieht es ja hier förmlich, wie durch die Rotation ein Planetensystem entsteht, man hat es ja vor sich!
+
+- 영어
+This has an immensely suggestive effect. Why should we not picture the process in this ways This experiment shows how a planetary system comes into existence through rotation; it is there before our very eyes.
+
+- 한글
+이것은 매우 암시적 영향이 있습니다. 왜 우리는 그 과정을 이렇게 그려서는 안 될까요? 이 실험은 회전에 의해 혹성계가 어떻게 형성되는지 나타내고 있습니다. 우리는 바로 우리 눈앞에서 그 형성과정을 볼 수 있습니다.
+
+- AI 번역
+이것은 대단히 강한 암시 효과를 줍니다. 왜 세계에서도 그것을 똑같이 생각하지 못하겠습니까? 여기서 실제로 회전을 통해 행성계가 생겨나는 것을 눈앞에서 보는 듯하지 않습니까!
+
+================================================================================
+문단 35
+
+- 독일어
+Man vergißt dabei nur eines - sich selbst oder den Herrn Lehrer, der die Drehung vornimmt. Mit dieser äußeren Tatsache ist nichts erklärt.
+
+- 영어
+But one thing is forgotten. One of us, or the teacher, actually causes the rotation! Nothing is really explained by this external illustration.
+
+- 한글
+하지만 잊고 있는 것이 한 가지 있습니다. 우리 중 한 사람이 또는 선생이 실제 회전을 일으키고 있는 것입니다. 이 외적인 예증으로는 어떠한 진실도 설명할 수 없습니다.
+
+- AI 번역
+그러나 이때 사람들은 한 가지를 잊습니다. 자기 자신을, 또는 그 회전을 일으키는 선생님을 잊는 것입니다. 이 외적 사실만으로는 아무것도 설명되지 않습니다.
+
+================================================================================
+문단 36
+
+- 독일어
+So etwas wie dieses Weltensystem entsteht nicht aus dem Nichts, entsteht nicht aus dem Nebel von selbst, sondern weil viele geistige Wesenheiten daran gearbeitet haben.
+
+- 영어
+No cosmic system comes into existence out of nothingness. It does not arise of itself from the nebula, but it comes into existence because many spiritual beings have been working on it.
+
+- 한글
+어떠한 우주도 무로부터 탄생하지 않습니다. 구름으로부터 우주조직이 자연스럽게 나타난 것이 아니라 많은 영적 존재들이 그것에 작용했기 때문에 존재하게 된 것입니다.
+
+- AI 번역
+이러한 세계 체계 같은 것은 무로부터 생겨나는 것이 아니며, 성운으로부터 저절로 생겨나는 것도 아닙니다. 그것은 수많은 영적 존재들이 거기에 작업했기 때문입니다.
+
+================================================================================
+문단 37
+
+- 독일어
+Und an einem bestimmten Punkte ihrer Entwickelung aus der chaotischen Substanz die feinsten Substanzen herauszogen und die gröberen, den Mond, hinausschleuderten.
+
+- 영어
+At a certain point in their evolution they have drawn out the finest substances from the chaotic root substance and cast out the coarser substances, namely, the moon.
+
+- 한글
+그리고 그들의 진화 중 어느 시점에서 혼돈된 근원실질로부터 가장 미세한 실질을 끌어내 조잡한 실질, 즉 달을 방출한 것입니다.
+
+- AI 번역
+그 존재들이 자기 발전의 특정한 지점에서 혼돈적 실체로부터 가장 섬세한 실체들을 끌어내고, 더 거친 것, 곧 달을 밖으로 내던졌기 때문입니다.
+
+================================================================================
+문단 38
+
+- 독일어
+In der ersten Zeit nach dem Pralaya wiederholte die Erde, die nun wieder alle die Substanzen und Wesenheiten in sich vereinigt hatte, den Saturnzustand.
+
+- 영어
+During the first period after pralaya, the earth, in which all the substances and beings were again united, recapitulated the Saturn condition.
+
+- 한글
+프라라야 후 초기에 지구는 다시 모든 실질과 존재들을 연결 지은 상태로 토성상태를 반복했습니다.
+
+- AI 번역
+프랄라야 뒤 첫 시기에, 이제 다시 모든 실체들과 존재들을 자기 안에 결합하고 있던 지구는 토성 상태를 반복했습니다.
+
+================================================================================
+문단 39
+
+- 독일어
+Sie war im Anfang dieser Entwickelung keine Gaskugel, wie vielfach falsch angenommen wird, sondern eine Wärmekugel. Denn sie wiederholte eben den Saturnzustand und reichte so weit wie bis zum heutigen Saturn.
+
+- 영어
+At the beginning of this phase of evolution the earth was not a globe of gas as has often been falsely assumed, but a globe of warmth. For it (the earth) was re-capitulating the condition of the Saturn embodiment and extended to the sphere of the present Saturn.
+
+- 한글
+이 진화 초기의 지구는 종종 기체의 구로 잘못된 가정되지만 실제는 온기의 구였습니다. 왜냐하면 지구는 토성체현상태를 반복하고 있었고 현재의 토성영역까지 퍼져있었기 때문입니다.
+
+- AI 번역
+이 발전의 시작에서 지구는 흔히 잘못 생각하듯 기체 구체가 아니라, 열 구체였습니다. 지구는 바로 토성 상태를 반복했기 때문이며, 오늘날의 토성에까지 이를 만큼 넓었습니다.
+
+================================================================================
+문단 40
+
+- 독일어
+Die geistigen Wesenheiten sind es, die sich auf einer gewissen Stufe ihre Substanzen mitnehmen. Allem liegt eben der Geist zugrunde, sowohl bei der Trennung der Sonne wie bei der alten Mondenentwickelung. Nichts Äußeres war daran schuld, sondern innere Notwendigkeit war es für einen Teil der Wesenheiten.
+
+- 영어
+At a certain stage the spiritual beings involved take their substances with them. Spirit is the foundation of everything, both when the Sun separates and during the evolution of Old Moon. No external factor was responsible here; it was an inner necessity for one section of the beings.
+
+- 한글
+어느 단계에서 그 단계에 관계하는 영적 존재들이 그 실질을 가지고 갑니다. 태양이 분리 될 때도, 고월진화기에도 영이 모든 것의 기반입니다. 외적요소는 여기서는 어떠한 책임이 없습니다. 일부의 존재들에게 있어서 그것은 내적 필요성이었습니다.
+
+- AI 번역
+어떤 단계에서 자기 실체들을 함께 가져가는 것은 바로 영적 존재들입니다. 태양의 분리에서도, 옛 달 발전에서도, 모든 것의 바탕에는 바로 영이 놓여 있습니다. 그 어떤 외적인 것도 원인이 아니었습니다. 그것은 일부 존재들에게 내적 필연성이었습니다.
+
+================================================================================
+문단 41
+
+- 독일어
+Die höheren Wesenheiten sondern aus der chaotischen Substanz das heraus, was sie brauchen. Der Geist ist es überall, der das Äußere lenkt. Als die Erde zuerst aufleuchtete, war alles in ihr darinnen; da waren diese Wesenheiten auf verschiedenen Stufen ihrer Entwickelung darinnen.
+
+- 영어
+The higher beings separate what they need from the chaotic substance. Everywhere it is the spirit that directs the external reality. When the earth first came into existence everything was contained in it; the spiritual beings indwelling it were at different stages of their evolution.
+
+- 한글
+고차 존재들은 스스로 필요로 하는 것을 혼돈된 실질로부터 분리했습니다. 모든 곳의 외적 실재를 지배하는 것은 영성입니다. 최초로 지구가 존재하게 되었을 때 그 안에 모든 것이 포함되어 있었습니다. 그곳에 사는 영적 존재들은 다른 진화단계에 있었습니다.
+
+- AI 번역
+더 높은 존재들은 혼돈적 실체로부터 자신들에게 필요한 것을 분리해 냅니다. 어디서나 외적인 것을 이끄는 것은 영입니다. 지구가 처음 빛나기 시작했을 때, 그 안에는 모든 것이 들어 있었습니다. 그리고 그 안에는 서로 다른 발전 단계에 서 있던 이 존재들이 함께 있었습니다.
+
+================================================================================
+문단 42
+
+- 독일어
+Wir werden das bei den nun folgenden Betrachtungen ins Auge fassen.
+
+- 영어
+We shall bear this in mind during the following studies.
+
+- 한글
+우리는 다음 연구 시에도 이 점을 염두에 둡시다.
+
+- AI 번역
+우리는 이제 이어지는 고찰들에서 이것을 시야에 넣고자 합니다.
+
+================================================================================
+문단 43
+
+- 독일어
+Die Erde wiederholte also jetzt zuerst, nach dem Pralaya, den Saturnzustand; das ist ein Wärmezustand. Dann verdichtete sich diese riesige, mächtige Kugel, so daß sie gasig wurde, und erst an einem bestimmten Punkt war es für sie möglich, das Flüssige zu bilden, den Mondzustand zu wiederholen.
+
+- 영어
+Thus after pralaya the earth first of all recapitulated the Saturn condition; it was a condition of warmth. Then this gigantic globe of warmth condensed to the gaseous state and only when a definite point had been reached was it possible for the globe to form the fluid element and recapitulate the Old Moon condition.
+
+- 한글
+이렇게 해서 프라라야 뒤 처음에 지구는 토성상태를 반복했습니다. 그것은 온기의 상태였습니다. 그리고 이 거대한 온기의 구는 기체상태로 응축되고 어느 시점에 도달하자 비로소 액체요소를 형성하여 고월상태를 반복할 수 있게 되었습니다.
+
+- AI 번역
+그러므로 지구는 프랄라야 뒤 먼저 토성 상태를 반복했습니다. 그것은 열 상태입니다. 그 뒤 이 거대하고 강력한 구체는 응축되어 기체 상태가 되었고, 어느 특정한 지점에서야 비로소 액체적인 것을 형성하고 달 상태를 반복할 수 있게 되었습니다.
+
+================================================================================
+문단 44
+
+- 독일어
+In diesem Moment wiederholte sich dann auch das, was früher auf dem Monde geschehen war: die Sonne sonderte sich auch von unserer Erde ab, und die Erde plus Mond wurde ein selbständiger Körper mit den Substanzen und Wesenheiten von Erde und Mond, wie sie auch heute vorhanden sind.
+
+- 영어
+At this point on the earth there was a repetition of what had previously happened on Old Moon: the sun separated from the earth and earth-plus-moon became one independent body, containing the substances and beings of earth and moon, as they are still present today.
+
+- 한글
+이 시점의 지구상에서는 과거 월기에서 발생했던 일이 반복되었습니다. 태양이 지구에서 분리되고 지구 + 달이 하나의 독립된 천체가 되었습니다. 이것은 오늘날 존재하는 지구와 달의 실질과 존재들을 포함하고 있었습니다.
+
+- AI 번역
+그 순간 이전에 달에서 일어났던 일도 다시 반복되었습니다. 태양이 우리의 지구에서 분리되어 나갔고, 지구 더하기 달은 오늘날에도 존재하는 지구와 달의 실체들 및 존재들을 지닌 독립적인 몸이 되었습니다.
+
+================================================================================
+문단 45
+
+- 독일어
+Es waren also eine Zeitlang Erde plus Mond und Sonne miteinander verbunden. Dann wurde ausgeschieden die Erde plus Mond, denn der Mensch konnte ferner das Tempo der Sonnenwesen nicht mitmachen.
+
+- 영어
+Thus for a time earth and moon, and sun were one united whole. The earth-plus-moon was ejected because man could no longer keep pace with the tempo of the sun.
+
+- 한글
+이렇게 어느 시기까지는 지구와 달, 태양이 하나로 통합된 총체였습니다. 지구 + 달은 인간이 더 이상 태양과 보조를 같이 할 수 없게 되었기 때문에 이탈된 것입니다.
+
+- AI 번역
+그러므로 한동안 지구 더하기 달과 태양은 서로 결합되어 있었습니다. 그 뒤 지구 더하기 달이 분리되었습니다. 인간은 더 이상 태양 존재들의 속도를 따라갈 수 없었기 때문입니다.
+
+================================================================================
+문단 46
+
+- 독일어
+Wäre die Sonne in der Erde geblieben, so wäre er, kaum geboren, auch schon alt gewesen.
+
+- 영어
+Had the sun remained in the earth man would have been old practically at birth.
+
+- 한글
+만약 태양이 지구 안에 머물고 있었다면 인간은 탄생과 동시에 늙어버렸을 것입니다.
+
+- AI 번역
+만일 태양이 지구 안에 남아 있었다면, 인간은 태어나자마자 거의 곧 늙어 버렸을 것입니다.
+
+================================================================================
+문단 47
+
+- 독일어
+Die Wesenheiten des Weltenalls stehen auf ganz verschiedenen Stufen der Entwickelung. Wir werden nur die Hauptsachen davon für unsere vierte Periode, die Erdenzeit, angeben können. Es gibt alle möglichen Grade, auch bei den reiferen Wesenheiten.
+
+- 영어
+The beings of the cosmos are at entirely different stages of evolution. It will only be possible to indicate the most important features of this evolution during the fourth period, that of the earth. Even the more mature beings belonged to grades at every possible level.
+
+- 한글
+우주의 존재들은 인간과 완전히 다른 진화단계에 있습니다. 제4기, 즉 지구기 진화 중 가장 중요한 특징에 관하여 말해두겠습니다. 보다 성숙한 존재들조차도 여러 수준의 단계에 속해있습니다.
+
+- AI 번역
+우주 전체의 존재들은 매우 서로 다른 발전 단계에 서 있습니다. 우리는 우리의 네 번째 시기, 곧 지구 시대에 대해서는 주요한 것들만 말할 수 있을 뿐입니다. 더 성숙한 존재들 사이에도 온갖 등급이 있습니다.
+
+================================================================================
+문단 48
+
+- 독일어
+Es gab solche, die das rasche Sonnentempo und auch wieder das langsame Tempo der Erde nicht brauchen konnten.
+
+- 영어
+There were some who could neither profit by the rapid tempo of the sun nor by the slow tempo of the earth.
+
+- 한글
+태양의 급속한 템포나 지구의 느린 템포도 도움이 되지 않는 존재도 있었습니다.
+
+- AI 번역
+빠른 태양의 속도도, 또 느린 지구의 속도도 자신들에게 맞지 않는 존재들이 있었습니다.
+
+================================================================================
+문단 49
+
+- 독일어
+Diese nun sonderten sich schon ab vor der Trennung, als Sonne, Erde und Mond noch beisammen waren, und bildeten besondere Schauplätze für ihr Wirken, hatten dort die ihnen gemäßen Herrschaftsgebiete. Dadurch eben bildeten sich die äußeren Planeten Saturn, Jupiter und Mars.
+
+- 영어
+These beings departed already before the separation, when sun, earth and moon were still united. They created special arenas for their activity and these were the domains suitable for their rulership. It was thus that the outer planets, Saturn, Jupiter and Mars, were formed.
+
+- 한글
+이러한 존재들은 태양과 지구, 달이 아직 합체되어 있을 때, 즉 분리 이전에 이미 나누어져 있었습니다. 그들은 활동을 위해 스스로 자신들의 지배에 적합한 특별한 영역을 창조했습니다. 외혹성, 토성, 목성, 화성은 이렇게 해서 형성된 것입니다.
+
+- AI 번역
+이 존재들은 아직 태양, 지구, 달이 함께 있을 때, 분리 이전에 이미 떨어져 나와 자기들의 작용을 위한 특별한 무대를 형성했고, 거기서 자신들에게 알맞은 지배 영역을 가졌습니다. 바로 이로써 바깥 행성들인 토성, 목성, 화성이 형성되었습니다.
+
+================================================================================
+문단 50
+
+- 독일어
+Während der Wiederholung des Saturnzustandes lösen sich von der Erde ab Uranus, Vulkan und Saturn.
+
+- 영어
+During the recapitulation of the Saturn embodiment, Uranus, Vulcan and Saturn separated from the earth.
+
+- 한글
+토성체현을 반복할 때 우라노스, 발칸, 토성이 지구로부터 이탈했습니다.
+
+- AI 번역
+토성 상태의 반복 동안 지구로부터 천왕성, 벌칸, 토성이 떨어져 나갑니다.
+
+================================================================================
+문단 51
+
+- 독일어
+Während der Wiederholung des Sonnenzustandes lösen sich ab Jupiter und Mars.
+
+- 영어
+During the recapitulation of the sun embodiment, Jupiter and Mars separated.
+
+- 한글
+태양체현을 반복할 때는 목성과 화성이 분리되었습니다.
+
+- AI 번역
+태양 상태의 반복 동안에는 목성과 화성이 떨어져 나갑니다.
+
+================================================================================
+문단 52
+
+- 독일어
+Nachdem die Sonne sich von der Erde getrennt hat, spaltete sie von sich ab Merkur und Venus.
+
+- 영어
+After the sun had left the earth, Mercury and Venus separated from it.
+
+- 한글
+태양이 지구를 떠난 후에 수성과 금성이 태양으로부터 분리되었습니다.
+
+- AI 번역
+태양이 지구에서 분리된 뒤, 태양은 자기에게서 수성과 금성을 갈라 내었습니다.
+
+================================================================================
+문단 53
+
+- 독일어
+Nach der Sonnentrennung spaltete die Erde ab den Mond.
+
+- 영어
+After the separation of the sun, the earth cast out the moon.
+
+- 한글
+태양의 분리 후에 지구는 달을 방출했습니다.
+
+- AI 번역
+태양 분리 뒤 지구는 달을 갈라 내었습니다.
+
+================================================================================
+문단 54
+
+- 독일어
+Das Auseinanderzerren des alten Mondes geschah durch die Kräfte der fortgeschrittenen Mächte, welche den Sonnenkörper herauszogen, während die normalen und zurückgebliebenen den ihn umkreisenden Mond bildeten.
+
+- 영어
+The dispersal of Old Moon was brought about by the forces of the progressed beings who drew out the solar body, while the normal and retarded beings produced the moon circling around it.
+
+- 한글
+고월의 분산과 붕괴는 태양전체를 밖으로 끌어낸 진보된 존재들의 힘에 의해서 일어났습니다. 한편 정상적인 존재들과 뒤쳐진 존재들은 그 주위를 도는 달을 만들어 냈습니다.
+
+- AI 번역
+옛 달이 이처럼 찢겨 나간 것은 진보한 권능들의 힘에 의해 일어났습니다. 그들은 태양체를 끌어냈고, 정상적인 존재들과 뒤처진 존재들은 그 주위를 도는 달을 형성했습니다.
+
+================================================================================
+문단 55
+
+- 독일어
+In allen Mysterien nennt man dies den Streit am Himmel.
+
+- 영어
+In all the mysteries these happenings were called the strife in heaven.
+
+- 한글
+여러 밀의에서 이러한 사건을 하늘의 전쟁으로 불렀습니다.
+
+- AI 번역
+모든 신비 의례에서는 이것을 천상에서의 싸움이라고 부릅니다.
+
+================================================================================
+문단 56
+
+- 독일어
+Die versprengten Planetoiden sind die Trümmer jenes Schlachtfeldes, in welchem auch das Urgeheimnis über die Entstehung des Bösen gesucht werden muß.
+
+- 영어
+The detached planetoids are the ruins of that battlefield. It is here that the primal secret of the origin of evil must be sought.
+
+- 한글
+이탈한 소혹성대가 바로 전장의 유적입니다. 악의 기원에 대한 근원적 비밀은 바로 여기서 찾아야합니다.
+
+- AI 번역
+흩어진 소행성들은 저 전장의 잔해들이며, 악의 발생에 관한 원초 비밀 또한 그 안에서 찾아야 합니다.
+
+================================================================================
+문단 57
+
+- 독일어
+Jene Planetengeister haben sozusagen nicht warten können, bis die Sonne sich von der Erde abspaltete, sie hätten sonst nicht den richtigen Boden für ihre Arbeit gefunden, als die Entwickelung in jenem Zeitpunkt in andere Bahnen einlenkte. Denn die Raum- und Bewegungsverhältnisse der Planeten sind alle der Ausdruck und die Wirkung der Tätigkeit ihrer Wesenheiten; sie bekunden den Entwickelungsstandpunkt der geistigen Wesen, welche die Planeten bewohnen.
+
+- 영어
+The planetary spirits involved could not have waited until the sun separated from the earth because they would not have found the right soil for their activity; evolution at this time was turning into different channels. The planetary conditions of space and movement are all the expression and effect of the activity of their beings; these conditions indicate the evolutionary rank of the spiritual beings inhabiting the planets.
+
+- 한글
+관여하고 있던 혹성령들은 태양이 지구로부터 이탈할 때까지 기다릴 수 없었습니다. 왜냐하면 그들에게는 자신들의 활동에 적절한 토양을 더 이상 찾을 수 없었기 때문입니다. 이 시점에서 진화는 다양한 갈래로 나뉘기 시작했습니다. 혹성의 공간적 위치와 운동 상태는 모두 이러한 존재들의 활동에 대한 표현이며 결과입니다. 이러한 상황은 혹성에 사는 영적 존재들의 진화단계를 나타내고 있습니다.
+
+- AI 번역
+저 행성 영들은 말하자면 태양이 지구로부터 분리될 때까지 기다릴 수 없었습니다. 그렇게 했다면, 그들은 발전이 그 시점에서 다른 길로 접어들 때 자신들의 작업에 알맞은 토대를 발견하지 못했을 것입니다. 행성들의 공간 관계와 운동 관계는 모두 그 존재들의 활동이 표현되고 작용한 결과입니다. 그것들은 그 행성들에 거주하는 영적 존재들의 발전 단계를 드러냅니다.
+
+================================================================================
+문단 58
+
+- 독일어
+Wesenheiten nun, die jetzt geglaubt hatten, auch mit der Sonne mitkommen zu können, weil sie es früher gekonnt hatten, und die nun doch nicht mitkamen, die sonderten sich von dieser ab erst nach der Trennung der Sonne von der Erde. Sie schieden erst nachträglich aus, diese Wesenheiten, die immerhin noch weit über den Menschen hinausragten. Sie brauchten einen andern Schauplatz ihrer Tätigkeit.
+
+- 영어
+Beings who had believed that they, too, could accompany the sun because this had formerly been possible but who could not now do so, separated from the sun, but only after it had itself separated from the earth. These beings separated from the sun after this event and are at a far higher stage of evolution than men.
+
+- 한글
+이전에 가능했던 것처럼 이번에도 태양을 따라 갈 수 있다고 믿었지만 그렇게 되지 못한 존재들이 태양으로부터 떨어져 나왔습니다. 단 태양이 스스로 지구로부터 이탈한 후에 일어났습니다. 이러한 존재들은 이 사건 후에 태양으로부터 분리되었지만 인간보다 훨씬 높은 진화단계에 있습니다.
+
+- AI 번역
+그런데 이전에는 태양과 함께 갈 수 있었기 때문에, 이제도 태양과 함께 갈 수 있으리라고 믿었던 존재들이 있었습니다. 그러나 그들은 결국 함께 가지 못했습니다. 이들은 태양이 지구에서 분리된 뒤에야 태양으로부터 갈라져 나왔습니다. 이 존재들은 뒤늦게야 분리되어 나왔습니다. 그들은 여전히 인간보다 훨씬 높이 솟아 있는 존재들이었습니다. 그들에게는 자기 활동을 위한 다른 무대가 필요했습니다.
+
+================================================================================
+문단 59
+
+- 독일어
+Venus und Merkur, diese beiden, die erst während der Abtrennung unserer Erde von der Sonne sich von dieser sonderten, sie bildeten die inneren Planeten unseres Sonnensystems.
+
+- 영어
+Venus and Mercury are the two bodies that, having separated from the sun after the latter's separation from the earth, formed the inner planets of our solar system.
+
+- 한글
+금성과 수성이 바로 태양이 지구로부터 분리된 후에 태양으로부터 분리되어 우리 태양계의 내행성을 형성한 두 천체입니다.
+
+- AI 번역
+금성과 수성, 이 둘은 우리의 지구가 태양으로부터 떨어져 나가는 동안 비로소 태양으로부터 분리되어, 우리 태양계의 내행성들을 형성했습니다.
+
+================================================================================
+문단 60
+
+- 독일어
+Für die Erde begann nun, nach ihrer Abtrennung von der Sonne, eine schwere, dunkle Zeit, in einer gewissen Beziehung die finsterste, härteste Zeit für die Erde. Sie war ja noch mit dem Monde verbunden und nahm also in sich alle die Kräfte mit, welche die Entwickelung verzögerten. Das Leben zu hemmen im eminentesten Sinne, das gehört zu den Kräften, die hauptsächlich im Monde wirken. Diese hemmenden Kräfte waren nun in dieser Zeit viel zu stark wirksam in der Erde. Wären sie mit ihr verbunden geblieben, dann wäre das Leben auch nicht in dem richtigen Tempo verlaufen. Der Mensch hätte sich verhärtet bis zur Mumifizierung;
+
+- 영어
+After the severance from the sun a difficult, sombre period now began for the earth, in a certain respect its darkest, hardest era. While still united with the moon, the earth drew into itself all the forces that were retarding evolution. To obstruct life is characteristic of the forces principally active in the moon. During this period, these obstructive forces were working far too strongly in the earth. If the earth had remained connected with them, life would not have taken its course in the right tempo. Man would have hardened to the stage of mummification.
+
+- 한글
+태양으로부터 이탈 후 어렵고 음울한 시대가 지구에 시작됩니다. 어떤 의미에서 가장 어둡고 심각한 시대라고 말할 수 있습니다. 여전히 달과 함께 매여 있는 동안 지구는 자신 안에 진화를 늦추게 하는 힘들을 모두 끌어안고 있었습니다. 생명을 방해하는 것이 달에서 주로 활동하는 힘들의 특징입니다. 이 시기에 이러한 방해하는 힘들이 지구에 과도하게 영향을 미치고 있었습니다. 지구가 이러한 힘들과 관계한 채로 있었다면 생명은 올바른 템포로 자신의 경로를 따라가지 못하고 인간은 미이라가 되는 단계까지 고체화 되었을 것입니다.
+
+- AI 번역
+태양에서 분리된 뒤, 지구에게는 힘들고 어두운 시기가 시작되었습니다. 어떤 의미에서는 지구에게 가장 어둡고 가장 혹독한 시기였습니다. 지구는 아직 달과 결합되어 있었고, 따라서 발전을 지연시키는 모든 힘들을 자기 안에 함께 지니고 있었습니다. 생명을 가장 강한 의미에서 저지하는 것, 그것은 주로 달 안에서 작용하는 힘들에 속합니다. 이 저지하는 힘들이 이제 이 시기에는 지구 안에서 지나치게 강하게 작용하고 있었습니다. 만일 그 힘들이 지구와 계속 결합되어 있었다면, 생명은 올바른 속도로 진행될 수 없었을 것입니다. 인간은 미라처럼 굳어졌을 것입니다.
+
+================================================================================
+문단 61
+
+- 독일어
+ein realer Kirchhof wäre die Erde geworden,
+
+- 영어
+The earth would have become a veritable cemetery,
+
+- 한글
+지구는 기지(基地) 그 자체가 되었을 것입니다.
+
+- AI 번역
+지구는 실제의 공동묘지가 되었을 것입니다.
+
+================================================================================
+문단 62
+
+- 독일어
+ein großer Friedhof, auf welchem Statuen von mumifizierten Menschenleibern sich befunden hätten.
+
+- 영어
+one vast graveyard containing statues of mummified human bodies.
+
+- 한글
+하나의 거대한 기지에는 미이라화된 인간상이 늘어서 있는 것입니다.
+
+- AI 번역
+미라화된 인간 몸들의 조상들이 서 있는 거대한 묘지가 되었을 것입니다.
+
+================================================================================
+문단 63
+
+- 독일어
+Keine Fortpflanzung hätte mehr stattfinden können. Als die Sonne fort war aus der Erde, geschah eine ungeheure Verödung und Verhärtung alles Lebens auf der Erde. Es gab also schon damals Zeiten, wo der physische Leib von dem geistigen Teil verlassen wurde, wie heute der physische Leib von seinem geistigen Teil beim Tode verlassen wird.
+
+- 영어
+No procreation would have been possible. When the sun had left the earth, fearful desolation and hardening of all life took place. So already at that time there were periods when the human physical body was abandoned by its spiritual members, just as today the physical body is abandoned by its spiritual members at death.
+
+- 한글
+번식은 존재하지 않았을 것입니다. 태양이 지구를 떠났을 때 생명있는 모든 살아있는 존재들에게는 극심한 절망과 고체화가 일어났습니다. 당시에 이미 인간의 육체가 그 영적요소에 의해 내버려지는 시대가 있었습니다. 이것은 바로 오늘날 육체가 죽음과 더불어 그 영적요소로부터 버려지는 것과 같습니다.
+
+- AI 번역
+더 이상 번식도 일어날 수 없었을 것입니다. 태양이 지구에서 떠나간 뒤, 지구 위의 모든 생명에는 엄청난 황폐와 경화가 일어났습니다. 그러므로 이미 그때에도, 오늘날 죽음 때 물리적 몸이 자기의 영적 부분에게서 버려지는 것처럼, 물리적 몸이 영적 부분에게서 버려지는 시기들이 있었습니다.
+
+================================================================================
+문단 64
+
+- 독일어
+Es gab damals schon ein Sich-Zurückziehen des Geistig-Seelischen, sein Herausgehen aus dem Physischen und sein Wiederaufsuchen dieses Physischen, wie es heute bei den Inkarnationen der Fall ist. Aber immer häufiger kam es vor, daß, wenn das Seelisch-Geistige wieder einen Menschenleib finden wollte, während der Mond noch mit der Erde verbunden war, es einfach keinen fand, weil der Leib nicht mehr geeignet war, das Geistig-Seelische in sich aufzunehmen. Denken Sie sich, die Menschen würden heute in großen Massen sterben, und es würden durch Eigenschaften des physischen Leibes diese Leiber so in die Dekadenz kommen, daß die Seelen sich sagen würden: Wir können diese Leiber nicht brauchen. Sie sind zu schlecht für uns, wir finden in ihnen keine Gelegenheit zur Weiterentwickelung.
+
+- 영어
+In that past era, withdrawal and emergence of the being of spirit and soul from the physical already took place and a new search for the physical body began, as happens today when incarnations are to take place. But more and more frequently it happened that when the being of soul and spirit desired, while the moon was still united with the earth, to find a human body again, none was to be found, because bodies were no longer fit to receive the being of spirit and soul. Just imagine that great masses of human beings were to have died today and because of the character of the physical substance these bodies had become so decadent that the souls would have said: We cannot make use of these bodies, they are too decadent for us, they offer no possibility of further evolution.
+
+- 한글
+그러한 과거 시대에 이미 물질적인 것으로부터 영적 혼적 존재의 이탈과 출현이 발생했으며 이것은 오늘날 육화가 일어나는 것과 바로 같습니다. 하지만 달과 지구가 아직 합체하고 있던 시기에 혼적 영적 존재가 다시 인체를 찾으려 원해도 한 개도 발견할 수 없었습니다. 왜냐하면 몸이 혼적 영적 존재들을 수용하기에는 더 이상 적합하지 않았기 때문입니다. 오늘날 수많은 사람들이 죽고 물질적 실질의 성질로 인해 이들의 몸이 황폐해졌다고 상상해보십시오. 혼은 이렇게 말할 것입니다. “우리에게 이 몸들은 너무 황폐해서 이용할 수 없다. 진보할 아무런 가능성을 제공해주지 못한다.”
+
+- AI 번역
+이미 그때에도 영혼적-영적인 것이 뒤로 물러나는 일, 그것이 물리적인 것에서 빠져나갔다가 다시 그 물리적인 것을 찾아가는 일이 있었습니다. 오늘날 육화에서 그러한 일이 일어나는 것과 같습니다. 그러나 달이 아직 지구와 결합되어 있던 동안에는, 영혼적-영적인 것이 다시 인간 몸을 찾으려 할 때 단순히 그것을 찾지 못하는 일이 점점 더 자주 일어났습니다. 몸이 더 이상 영혼적-영적인 것을 자기 안에 받아들이기에 적합하지 않았기 때문입니다. 오늘날 인간들이 큰 무리로 죽어 가고, 물리적 몸의 성질 때문에 그 몸들이 쇠퇴하여 영혼들이 이렇게 말해야 한다고 생각해 보십시오. “우리는 이 몸들을 사용할 수 없다. 그 몸들은 우리에게 너무 나쁘다. 우리는 그 안에서 더 발전할 기회를 찾을 수 없다.”
+
+================================================================================
+문단 65
+
+- 독일어
+Durch ein besonderes Überhandnehmen des Alkoholismus zum Beispiel würde die Nachkommenschaft allmählich so schlecht, daß die Leiber einfach unbrauchbar für die herabsteigenden Seelen wären, So können Sie sich etwa den damaligen Zustand auf der Erde vor dem Mondenaustritt denken. Verhärtet, verrindet, vertrocknet, mumifiziert war oft alles das, was da unten hätte sollen bewohnt werden. Es gab wirklich eine Zeit, wo die Seelen sich vergeblich nach Leibern für die eigene Erdenentwickelung umschauten.
+
+- 영어
+Suppose that because of an extensive spread of alcoholism, for example, successive generations had gradually become so degenerate that the bodies were simply useless for the descending souls. This is more or less a picture of the state of the earth at that time, before the exit of the moon. Everything that should have been habitable down below was often hardened, crusted, withered, mummified. There was actually a period when souls were seeking in vain for bodies for their own evolution on earth.
+
+- 한글
+예로써 하는 말이지만 알코올중독이 광범위하게 확산되어 다음 세대가 서서히 황폐해지고 하강하는 혼들이 몸을 전혀 이용할 수 없게 되었다고 가정해봅시다. 이것이 다소간 차이가 있지만 당시 지구 상황입니다. 이것은 달이 떠나기 이전의 이야기입니다. 아래에서 살수 있게 될 모든 존재가 때때로 고체화되고 각질화되고 시들고 미이라화되었습니다. 혼은 지상에서 자신의 진화를 위해 살게 될 몸을 덧없이 기다려야하는 시대가 실제로 있었습니다.
+
+- AI 번역
+예를 들어 알코올중독이 특별히 만연한다면, 후손들이 점차 그렇게 나빠져서, 내려오는 영혼들에게 몸들이 단순히 쓸모없게 될 것입니다. 달이 빠져나가기 전 지구의 당시 상태를 여러분은 대략 이렇게 생각할 수 있습니다. 아래에서 거주되어야 했던 것은 흔히 굳어지고, 껍질처럼 딱딱해지고, 말라붙고, 미라화되어 있었습니다. 실제로 한때 영혼들이 자기 자신의 지구 발전을 위해 몸을 헛되이 찾아다니던 시기가 있었습니다.
+
+================================================================================
+문단 66
+
+- 독일어
+Die Folge davon war, daß gewisse geistig-seelische Wesenheiten zu jener Zeit einfach nicht als Menschen auf den physischen Plan wiederkehren konnten. Sie konnten sich auf der Erde nicht wiederverkörpern. Und diese Wesenheiten, sie gingen nun zu andern Weltenkörpern, zu denen, die sich von der Sonne abgespalten hatten, zu Venus, zu Jupiter, Saturn und Mars.
+
+- 영어
+The consequence was that certain beings simply could not at that time have returned to the physical plane as men. They could not have incarnated again on the earth. These beings then went to other cosmic bodies that had separated from the sun, namely, to Venus, Jupiter, Saturn and Mars.
+
+- 한글
+그 결과 어떤 종류의 존재들은 당시 인간으로서 물질영역으로 돌아올 수 없게 되었습니다. 그래서 이러한 존재들은 태양으로부터 분리된 다른 천체로 즉 금성이나 목성, 화성으로 갔습니다. 정상적이었다면 지상에서 육화했을 이러한 존재 대다수가 스스로 화성, 목성, 금성, 토성 존재들의 보호아래 들어간 시대가 있었습니다.
+
+- AI 번역
+그 결과 특정한 영혼적-영적인 존재들은 그 시기에 단순히 인간으로서 물리적 평면으로 되돌아올 수 없었습니다. 그들은 지구 위에서 다시 육화할 수 없었습니다. 그래서 이 존재들은 다른 세계천체들로, 곧 태양에서 분리되어 나갔던 천체들, 금성, 목성, 토성, 화성으로 갔습니다.
+
+================================================================================
+문단 67
+
+- 독일어
+Und es gab eine Zeit, wo ein größerer Teil dieser Wesen, die normalerweise auf der Erde sich hätten verkörpern sollen, je nachdem sie geartet und je nach der Entwickelungsstufe, auf der sie standen, sich unter den Schutz des Mars, des Jupiter, der Venus- oder Saturnwesenheiten begaben, zu diesen Weltenkörpern hinaufstiegen und sie bevölkerten. Und unsere Erde verödete dadurch eine Zeitlang. Nur die allerstärksten Seelen fanden die Möglichkeit, die widerspenstigen Leiber zu besiegen, sie sozusagen weich zu erhalten.
+
+- 영어
+There was a time when the majority of these beings who should normally have incarnated on the earth according to their nature and their stage of evolution, placed themselves under the protection of the beings of Mars, Jupiter, Venus or Saturn, having ascended to and populated these cosmic bodies. Only the strongest souls found it possible to cope with the stubborn bodies and keep them flexible.
+
+- 한글
+그들은 이러한 천체로 올라가 살았습니다. 가장 강한 혼들만이 완고하고 무지한 몸을 다루어 유연하게 유지할 수 있었습니다.
+
+- AI 번역
+그리고 한때, 정상적으로라면 지구 위에서 육화해야 했을 이 존재들의 더 큰 부분이, 자신의 성향과 서 있던 발전 단계에 따라, 화성 존재들, 목성 존재들, 금성 존재들 또는 토성 존재들의 보호 아래 들어가 이 세계천체들로 올라가 그것들을 채웠습니다. 그리하여 우리의 지구는 한동안 황폐해졌습니다. 오직 가장 강한 영혼들만이 반항하는 몸들을 이겨 내고, 그것들을 말하자면 부드럽게 유지할 가능성을 발견했습니다.
+
+================================================================================
+문단 68
+
+- 독일어
+Verstehen wir uns recht: nur das allerbeste Seelenmaterial war es, das auf die Erde da wiederkam,
+
+- 영어
+Please understand me well. It was only the best soul material that then came again to the earth,
+
+- 한글
+잘 이해해 주시기 바랍니다. 당시 다시 지구에 돌아온 것은 최상의 혼 실질뿐이었습니다.
+
+- AI 번역
+정확히 이해합시다. 그때 지구로 다시 돌아온 것은 오직 최상의 영혼 재료였습니다.
+
+================================================================================
+문단 69
+
+- 독일어
+weil es die größte Macht hatte, die widerspenstigen Leiber zu besiegen. Die Entwickelung konnte aber dabei nicht vorwärtsgehen.
+
+- 영어
+because its power to master the stubborn bodies was the greatest. But under such conditions evolution could not have progressed.
+
+- 한글
+왜냐하면 완고하고 무지한 몸을 지배하는 그 힘이 가장 강력했기 때문입니다. 하지만 그러한 상황 하에서 진화는 가속될 수 없었을 것입니다.
+
+- AI 번역
+왜냐하면 그것만이 반항하는 몸들을 이겨 낼 가장 큰 힘을 가지고 있었기 때문입니다. 그러나 그 상태에서는 발전이 앞으로 나아갈 수 없었습니다.
+
+================================================================================
+문단 70
+
+- 독일어
+Die höchsten Wesenheiten, die zu unserem Sonnensystem gehörten, sie trafen nun eine neue Vorrichtung. Es wurden von den verhärtenden Kräften die dichtesten Substanzen aus der Erde herausgeholt und abgespalten: es geschah die Abtrennung des Mondes.
+
+- 영어
+The beings of the highest rank belonging to our solar system now adopted a new procedure. The most impermeable substances were extracted and separated from the earth; the severance of the moon was brought about.
+
+- 한글
+우리 태양계에 속하는 가장 높은 존재들은 이제 새로운 수순을 취했습니다. 가장 침투하기 어려운 실질을 지구로부터 끌어내 분리시켰습니다. 달의 분리가 일어났습니다.
+
+- AI 번역
+이제 우리 태양계에 속한 가장 높은 존재들이 새로운 장치를 마련했습니다. 경화시키는 힘들 가운데 가장 조밀한 실체들이 지구에서 끌어내어져 분리되었습니다. 달의 분리가 일어난 것입니다.
+
+================================================================================
+문단 71
+
+- 독일어
+Dadurch wurden die zurückbleibenden Kräfte nicht mehr in ihrer Entwickelung gestört. Dieser Mond wurde aber erst später, wie er heute ist.
+
+- 영어
+The result of this was that the forces that had remained behind were no longer frustrated in their evolution. But it was not until later that this moon became what it is today.
+
+- 한글
+이 결과 후에 남겨진 힘들은 더 이상 그 진화를 억압받지 않게 되었습니다. 나중이 돼서야 이 달이 오늘날과 같은 달이 되었습니다.
+
+- AI 번역
+이로써 뒤에 남은 힘들은 더 이상 자기 발전에서 방해받지 않게 되었습니다. 그러나 이 달은 훗날에야 오늘날과 같은 모습이 되었습니다.
+
+================================================================================
+문단 72
+
+- 독일어
+Für die physische, ätherische Menschenentwickelung war nun die Zeit gekommen, wo sie das richtige Tempo finden konnte, das ihrer Stufe entsprach. Nun wirkten die Sonnen- und die Mondenkräfte von außen auf die Erde gemeinsam und hielten sich die Waage, das Gleichgewicht. Nach und nach, während der Mond sich hinausbegab, fand nun wieder eine Art von Verweichung, von Verbesserung der Menschenleiber statt.
+
+- 영어
+The time had now come when the physical and etheric evolution of man could find the tempo befitting its stage. The forces both of the sun and the moon now worked upon the earth from outside, maintaining the balance. Gradually, while the moon was emerging, a kind of softening, an amelioration of the bodies of men, again took place.
+
+- 한글
+인간의 육체와 에테르체의 진화가 그 단계에 적합한 템포를 찾아낼 수 있는 때가 온 것입니다. 태양과 달의 두 힘들은 이제 외부로부터 지구에 작용하여 밸런스를 유지하게 됩니다.
+
+- AI 번역
+물리적·에테르적 인간 발전을 위해 이제 그 단계에 맞는 올바른 속도를 찾을 수 있는 시간이 왔습니다. 이제 태양의 힘과 달의 힘은 바깥에서 함께 지구에 작용하며 서로 균형과 평형을 이루었습니다. 달이 밖으로 나아가는 동안, 점차 인간 몸들은 다시 일종의 부드러워짐, 개선을 겪게 되었습니다.
+
+================================================================================
+문단 73
+
+- 독일어
+Diese Zeit, die wir eben beschrieben haben, nennt man im Okkultismus die lemurische Zeit, die Zeit der Mondentrennung in der physischen Erdenperiode. Die Zeit, da die Sonne hinausgeht aus der Erde, nennt man die hyperboräische Zeit, und jene, wo Sonne, Mond und Erde noch zusammen waren, die polarische Zeit.
+
+- 영어
+The period just described is called in occultism the Lemurian epoch, the epoch of the separation of the moon during the physical embodiment of the earth. The epoch when the sun left the earth is called the Hyperborean age, and the epoch when the sun, moon and earth were still united is called the Polarian age.
+
+- 한글
+지금 말한 시대는 오컬티즘에서 레무리아시대, 지구의 물질적 육화과정 중 달의 분리시대로 부릅니다. 태양이 지구를 떠난 시대는 하이퍼보리아 시대로 부르고 태양과 달, 지구가 아직 하나였던 시대는 극지시대(極地時代)라고 부른다.
+
+- AI 번역
+우리가 방금 묘사한 이 시기를 오컬티즘에서는 레무리아 시대라고 부릅니다. 물리적 지구 시기 안에서 달이 분리되는 시대입니다. 태양이 지구에서 밖으로 나가는 시기를 하이퍼보레아 시대라고 부르며, 태양과 달과 지구가 아직 함께 있었던 시기를 극지 시대라고 부릅니다.
+
+================================================================================
+문단 74
+
+- 독일어
+In der ganzen Zeit nun, als die Sonne von der Erde getrennt war und der Mond zuerst verhärtend auf die Erde wirkte und dann die Erde verließ, in jener ganzen Zeit wirkten hohe Wesenheiten auf diese Differenzierung ein. Und ihre bedeutsamsten Diener waren die Geister der Form, in der christlichen Esoterik Exusiai genannt, auch Geister der Offenbarung, Gewalten.
+
+- 영어
+During the whole period when the sun was separated from the earth and the moon produced a hardening process on the earth to begin with and then left the earth during the whole of that period, sublime beings were influencing the differentiation. Their most important servants were the Spirits of Form, called the Exusiai in Christian esotericism, also Spirits of Revelation, Powers.
+
+- 한글
+태양이 지구로부터 분리되고 달이 처음에는 지구에 경화프로세스를 만들고 이어서 지구를 떠난 그 시대 전체에 걸쳐 신성한 존재들이 분리에 영향을 미쳤습니다. 그들중 가장 중요한 종자(從者)는 형태령입니다. 그리스도교 비교에서는 능천사(能天使), 또는 계시의 영, 역천사(力天使)로 불리고 있습니다.
+
+- AI 번역
+태양이 지구에서 분리되어 있었고, 달이 처음에는 지구에 경화시키는 방식으로 작용하다가 그 뒤 지구를 떠나던 그 모든 시간 동안, 높은 존재들이 이 분화에 작용했습니다. 그리고 그들의 가장 중요한 봉사자들은 형상의 영들이었습니다. 그리스도교 비교秘학에서는 엑수시아이, 또한 계시의 영들, 권세들이라고 불리는 존재들입니다.
+
+================================================================================
+문단 75
+
+- 독일어
+Auf dem Saturn waren es die Throne, Geister des Willens, die sich opferten und den Stoff für den physischen Leib des Menschen aus ihrer eigenen Substanz träufelten. Auf der Sonne sind es die Herrschaften oder Geister der Weisheit, welche die Substanz für die Ätherkörper hergeben, auf dem Monde die Geister der Bewegung oder die Mächte, welche die Bildung des astralischen Leibes ermöglichen.
+
+- 영어
+On Saturn it was the Thrones, the Spirits of Will who made the sacrifice of pouring out from their own substance the material for man's physical body. On Old Sun it was the Dominions or Spirits of Wisdom who provided the substance for the etheric body, and on Old Moon it was the Spirits of Movement or Mights who made possible the formation of the astral body.
+
+- 한글
+토성기에서 자신의 실질로부터 인간 육체의 재료를 흘려보내는 희생을 한 존재는 좌천사(座天使), 의지령들이었습니다. 태양기에서 에테르체의 실질을 부여한 것은 주천사(主天使), 지혜령이었습니다. 월기에서 아스트랄체의 형성을 가능하게 한 것은 운동령, 권천사(權天使)였습니다.
+
+- AI 번역
+토성에서는 좌천사들, 곧 의지의 영들이 자신을 희생하여, 자기 자신의 실체에서 인간의 물리적 몸을 위한 물질을 방울져 떨어뜨렸습니다. 태양에서는 주권천사들 또는 지혜의 영들이 에테르체를 위한 실체를 내어 주었고, 달에서는 운동의 영들 또는 권능들이 아스트랄체의 형성을 가능하게 했습니다.
+
+================================================================================
+문단 76
+
+- 독일어
+Auf der Erde nun sind es die Geister der Form oder die Gewalten, welche das Ich eingießen und so bewirken, daß in dieser Entwickelungsphase nach und nach, ganz allmählich, dieses Ich in das, was nun wieder entstanden war, den physischen Leib, den Äther- und Astralleib sich einfügte. Das ist die Arbeit der Geister der Form.
+
+- 영어
+On the earth the Spirits of Form or Powers instill the ego, bringing it about that in this phase of evolution the ego enters gradually into what had come into existence, namely, man's physical body, etheric body and astral body. This is the work of the Spirits of Form.
+
+- 한글
+지구에서 형태령, 능천사는 자아를 침투시켜 이 진화단계에서 자아가 서서히 지금까지 생성된 것, 즉 인간의 육체, 에테르체, 아스트랄체에 들어가도록 했습니다. 이것이 형태령의 활동입니다.
+
+- AI 번역
+이제 지구에서는 형상의 영들 또는 권세들이 자아를 부어 넣습니다. 그리하여 이 발전 국면에서 점차, 아주 서서히, 이 자아가 다시 생겨난 것, 곧 물리적 몸, 에테르체, 아스트랄체 안으로 결합되어 들어가게 합니다. 이것이 형상의 영들의 작업입니다.
+
+================================================================================
+문단 77
+
+- 독일어
+Daß ein Ich-Mensch überhaupt entstehen konnte, der Ausdruck eines Ich-Bewußtseins, daß eine solche Gliederung der drei andern Leiber - physischer Leib, Ätherleib, Astralleib - sich bilden konnte, dazu war all das, was wir beschrieben haben, notwendig. Dazu war notwendig das Heraustreten von Sonne und Mond aus der Erde, es war notwendig, daß der Mensch eine solche Verhärtung erfuhr und wieder eine Milderung derselben.
+
+- 영어
+In order that an ego-man could come into existence at all as the expression of ego consciousness, and that this coordination of the physical, etheric and astral bodies could take place, everything that has now been described was essential. The separation of sun and moon from the earth was necessary; it was also necessary for man to undergo a process of hardening followed by a certain softening.
+
+- 한글
+자아-인간이 자아의식의 표현으로서 존재할 수 있는 데는, 육체, 에테르체, 아스트랄체의 조화가 탄생하는 데는 지금 말한 모든 것이 매우 중요했습니다. 지구에서 태양과 달이 분리될 필요성이 있었습니다. 인간이 고체화 작용을 받고 이어서 어떤 종류의 연화(軟化)를 경험하는 것도 필요했습니다.
+
+- AI 번역
+자아-인간이 überhaupt 생겨날 수 있었다는 것, 자아의식의 표현이 생겨날 수 있었다는 것, 그리고 다른 세 몸 — 물리적 몸, 에테르체, 아스트랄체 — 의 그러한 분절 구조가 형성될 수 있었다는 것, 이를 위해서는 우리가 묘사한 모든 것이 필요했습니다. 이를 위해 태양과 달이 지구에서 밖으로 나가는 일이 필요했고, 인간이 그러한 경화를 겪은 뒤 그것이 다시 완화되는 일이 필요했습니다.
+
+================================================================================
+문단 78
+
+- 독일어
+All das konnte geschehen dadurch, daß jene weisheitsvollen Wesenheiten, die das alles leiteten, erst probeweise das alles unternahmen zum Heile der Evolution. Es geschieht vieles in der Erdenentwickelung probeweise von den hohen Wesenheiten aus, die hinter der Evolution stehen, auch heute noch.
+
+- 영어
+This could take place because the wise beings who guided and directed these happenings undertook it all as probationary measures for the good of evolution. A great deal in the evolutionary process of the earth is still done today by the sublime beings concerned, as probationary measures.
+
+- 한글
+이것이 일어날 수 있었던 것은 이러한 사건을 지도하고 지배하는 현명한 존재들이 진화를 위해 시련의 수단으로서 그 모든 것을 이어받았기 때문입니다. 지구 진화과정 중 많은 부분이 시련의 수단으로서 해당하는 신성한 존재들에 의해서 지금도 이루어지고 있습니다.
+
+- AI 번역
+이 모든 일은, 그 모든 것을 인도하던 지혜로운 존재들이 진화의 구원을 위해 우선 시험적으로 그것을 수행했기 때문에 일어날 수 있었습니다. 지구 발전 안에서는, 진화 배후에 서 있는 높은 존재들로부터 오늘날에도 여전히 많은 일이 시험적으로 일어납니다.
+
+================================================================================
+문단 79
+
+- 독일어
+Was ist denn die theosophische Bewegung? Sie ist dadurch in die Welt gekommen, daß durch die hohen Wesenheiten, die wir die Meister nennen, und die in einem physischen Menschenleibe leben, aber auf einer viel höheren Entwickelungsstufe stehen als der Mensch von heute, ausströmte vom letzten Drittel des 19. Jahrhunderts an eine gewisse Summe von Weisheit. Das lebendige Hereinströmen dieser Weisheit aus höheren Regionen in unsere Kultur, das ist die reale Grundlage unserer theosophischen Bewegung.
+
+- 영어
+What, then, is the anthroposophical movement? It came into the world because the lofty beings we call the Masters, who live in human physical bodies but have reached the far higher stage of evolution than the average man of today, poured out a certain amount of wisdom from the last third of the nineteenth century onwards. The living influx of this wisdom from higher realms into our culture is the actual basis of our anthroposophical movement.
+
+- 한글
+그러면 인지학운동이란 무엇입니까? 이것이 세상에 태어난 것은 인간의 육체 안에 살면서 오늘날 평균적인 사람들보다 월등히 높은 단계에 도달한 우리가 스승이라고 부르는 지고의 존재들이 19세기의 제3기 이후부터 일부 지혜를 유출시켰기 때문입니다. 고차 영역에서 우리의 문화로 유입되는 이 살아있는 지혜야말로 인지학운동의 실제적 기반입니다.
+
+- AI 번역
+신지학 운동이란 무엇입니까? 그것은 우리가 마스터들이라고 부르는 높은 존재들 — 물리적 인간 몸 안에 살고 있지만 오늘날의 인간보다 훨씬 높은 발전 단계에 서 있는 존재들 — 을 통해, 19세기의 마지막 3분의 1 이후 일정한 총량의 지혜가 흘러나왔기 때문에 세계 안으로 들어왔습니다. 더 높은 영역들로부터 우리의 문화 안으로 이 지혜가 살아 흘러 들어오는 것, 이것이 우리의 신지학 운동의 실제 토대입니다.
+
+================================================================================
+문단 80
+
+- 독일어
+Glauben Sie nicht, daß es nicht möglich wäre, daß die Einströmung, die versucht wird, ein taubes Ohr bei der Menschheit fände. Dann würden sich die Meister sagen: Es muß ein späterer Versuch gemacht werden, wenn die Menschheit reif dazu ist. Man nennt das im Okkultismus: die Probe auf die Reife der Menschheit. Es ist nicht genug damit, daß von solchen höheren Individualitäten Weisheit einströmt in unsere Menschheit, sondern wie ihr entgegengekommen wird, davon hängt das Gelingen der Probe ab.
+
+- 영어
+Do not imagine that there was no possibility of the attempted influx of wisdom falling upon deaf ears in humanity. Even if there had been deaf ears, the Masters would have said that an attempt must be made later on, when human beings would be ready to receive the wisdom. In occultism this is known as the test of maturity in men. The fact that wisdom pours into humanity from higher beings such as these is not in itself sufficient; what matters is how it is received; the success of the test depends upon that.
+
+- 한글
+이러한 지혜를 받아들이려는 노력이 인간성에 의해 무시될 가능성은 전혀 없다고 할 수 없습니다. 설사 들을 수 없게 된 귀가 있다하더라도 인간들이 지혜를 받아들일 준비가 끝날 때까지 노력해야한다고 스승들은 말했을 것입니다. 오컬티즘에서 이것은 인간의 성숙을 위한 시련으로 알려져 있습니다. 이와 같이 고차 존재들로부터 인간성에 지혜가 흘러들어온다는 사실만으로 충분하다고는 말할 수 없습니다. 중요한 것은 어떻게 해서 그 지혜를 받아들일까하는 것입니다.
+
+- AI 번역
+시도되고 있는 이 유입이 인류에게서 귀먹은 귀를 만나는 일이 불가능하다고 생각하지 마십시오. 그렇게 된다면 마스터들은 이렇게 말할 것입니다. “인류가 그것에 성숙해졌을 때, 나중에 다시 시도해야 한다.” 오컬티즘에서는 이것을 인류의 성숙에 대한 시험이라고 부릅니다. 그러한 더 높은 개별성들로부터 지혜가 우리 인류 안으로 흘러드는 것만으로는 충분하지 않습니다. 그 지혜를 어떻게 맞이하느냐에 이 시험의 성공이 달려 있습니다.
+
+================================================================================
+문단 81
+
+- 독일어
+Es sind oft schon solche Proben unternommen worden, aber nicht immer geglückt. Die Menschheit erwies sich oft nur innerhalb enger Grenzen als reif dazu; nicht immer fanden sich geneigte Seelen und Herzen. So wie hier zum Zwecke der theosophischen Bewegung, so geschieht es auch im großen Weltenall.
+
+- 영어
+Such tests have already been made several times but have not always succeeded. It was often within narrow limits that humanity proved to be ripe for the tests; receptive souls and hearts were not always to be found. When the ego of humanity was to be instilled, the test consisted in gradual attempts to permeate what had formerly been astral body only, with the ego.
+
+- 한글
+시련의 성공은 여기에 달려있습니다. 이러한 시련은 이미 몇 번 존재했었습니다만 항상 성공하지는 못했습니다. 인간성이 이 시련으로 성숙해짐을 이해하는 것은 한정적이었습니다. 수용할 수 있는 혼과 마음을 반드시 찾아낼 수 없었습니다.
+
+- AI 번역
+그러한 시험들은 이미 자주 수행되었지만, 언제나 성공한 것은 아니었습니다. 인류는 흔히 좁은 한계 안에서만 그것에 성숙한 것으로 드러났고, 기꺼이 받아들이는 영혼과 마음이 언제나 발견된 것은 아니었습니다. 여기 신지학 운동을 목적으로 이런 일이 일어나는 것과 마찬가지로, 거대한 우주 안에서도 그런 일이 일어납니다.
+
+================================================================================
+문단 82
+
+- 독일어
+Als das Ich der Menschheit eingeströmt werden sollte, bestand die Probe darin, daß man nach und nach versuchte, das, was früher nur astralischer Leib war, vom Ich aus zu durchdringen. Und da stellte es sich dann heraus, daß der astralische Leib, der durchdrungen war mit dem Ich, nicht vermochte in den physischen Leib einzudringen. Man mußte eine Anpassung vollziehen, und dies geschah dadurch, daß man den Mond hinausführte. Erst in der Mitte der lemurischen Zeit vollzog sich der Einschlag des Ich, des Christus-Prinzips.
+
+- 영어
+When the ego of humanity was to be instilled, the test consisted in gradual attempts to permeate what had formerly been astral body only, with the ego. Then it turned out that the astral body, permeated by the ego, was incapable of penetrating the physical body. Adjustment was therefore necessary and this was made possible by the separation of the moon. It was in the middle of the Lemurian epoch that the entry of the ego, the Christ principle, was first achieved.
+
+- 한글
+인간의 자아가 깊이 스며들 필요가 있을 때 그 시련은 과거에는 아스트랄체에 지나지 않았던 것에 자아를 서서히 침투시키는 시도에 있었습니다. 그런데 조정할 필요가 생겨 그 조정은 달의 분리에 의해 비로소 가능하게 되었습니다. 자아, 그리스도원리의 주입이 처음으로 성취된 것은 레무리아시대 중반이었습니다.
+
+- AI 번역
+그때 드러난 것은, 자아로 관통된 아스트랄체가 물리적 몸 안으로 침투할 수 없었다는 사실입니다. 하나의 적응이 이루어져야 했고, 이것은 달을 밖으로 이끌어 냄으로써 일어났습니다. 레무리아 시대의 한가운데서야 비로소 자아, 곧 그리스도 원리가 내리꽂히는 일이 수행되었습니다.
+
+================================================================================
+문단 83
+
+- 독일어
+Damit aber hing das Folgende zusammen: Während der Mondloslösung war die Erde verödet. Wir haben gehört, daß die Leiber so schlecht geworden waren, daß sie den Seelen keine Unterkunft mehr sein konnten.
+
+- 영어
+But the following was connected with this. During and after the separation of the moon, the earth was depopulated. We have heard that the bodies had become so contaminated that they could no longer provide habitations for the souls.
+
+- 한글
+하지만 다음과 같은 것이 이것과 관계하고 있었습니다. 달이 분리하는 동안 그리고 그 뒤에 지구는 거의 사람이 없었습니다. 몸이 심하게 오염되어 혼을 위한 주거지를 더 이상 제공할 수 없게 되었다고 앞서 말했습니다.
+
+- AI 번역
+그러나 이와 함께 다음과 같은 일이 연결되어 있었습니다. 달이 분리되어 나가는 동안 지구는 황폐해져 있었습니다. 우리는 몸들이 너무 나빠져서 영혼들에게 더 이상 거처가 될 수 없었다는 것을 들었습니다.
+
+================================================================================
+문단 84
+
+- 독일어
+In der Sage sind solche kosmischen Vorgänge erhalten geblieben, aber die okkulte Forschung, die zeigt ihren wahren Ursprung und lehrt uns, daß, während der Abtrennung des Mondes, als die Erde verödet war, viele Seelen in dem kosmischen Raum nach geeigneter Verkörperung suchten und dann fortgingen von der Erde und auf andern Planeten sich verkörperten.
+
+- 영어
+Cosmic happenings such as these have been preserved in legend and saga, but occult investigation reveals their true origin and teaches us that while the separation of the moon was taking place, when the earth was depopulated, many souls were searching for suitable embodiment in cosmic space; they departed from the earth and assumed bodies on other planets.
+
+- 한글
+이러한 우주적 사건은 전설이나 무용담(saga)으로 보존되고 있지만 오컬트탐사는 그 진정한 기원을 드러내고 달의 분리가 발생하는 동안 지구가 무인화되었을 때 많은 혼들은 우주공간을 향해 적합한 육화를 찾아서 나아갔습니다. 그들은 지구를 떠나 다른 혹성에서 몸을 입었습니다.
+
+- AI 번역
+전설들 속에는 그러한 우주적 과정들이 보존되어 있습니다. 그러나 오컬트 연구는 그 참된 기원을 보여 주며, 달의 분리 동안, 지구가 황폐해져 있었을 때 많은 영혼들이 우주 공간 안에서 알맞은 육화를 찾고 있었고, 그러다가 지구를 떠나 다른 행성들 위에 육화했다는 것을 우리에게 가르쳐 줍니다.
+
+================================================================================
+문단 85
+
+- 독일어
+Jetzt aber, nachdem der Mond fort war, zeigte es sich, daß die Erde wieder fähig war, geeignete Leiber abzugeben. Und jetzt stellten sich auch die Seelen auf der Erde wieder ein, die auf die andern Planeten schon in der letzten Zeit der Lemuria gegangen waren, und darnach in der atlantischen Entwickelung, und sie verkörperten sich wieder in diesen Leibern auf der Erde. Es bildeten sich nun auf der Erde Menschengruppen heraus: solche, die Leiber hatten für Seelen, die von Jupiterverkörperungen herkamen; für jene, die von Mars, Venus oder Saturn kamen und nun das zu ihnen Passende fanden.
+
+- 영어
+But when the moon had finally left, it became apparent that the earth was capable again of providing suitable bodies. Now, the souls, who during the latest Lemurian epoch and thereafter in the Atlantean period had gone to the planets, presented them-selves again on the earth and incarnated in the bodies there. Groups of human beings now formed on the earth. Some provided bodies for souls coming from Jupiter incarnations, or from Mars, Venus or Saturn. These souls now found bodies that were appropriate for them.
+
+- 한글
+하지만 달이 결국 떨어져 나갔을 때 지구는 다시 적절한 몸을 제공할 수 있게 되었습니다. 이제 레무리아후기와 그 이후 아틀란티스시대에 여러 혹성으로 흩어졌던 혼들이 다시 지구상에 나타나 그곳에서 몸을 가지고 육화했습니다. 이제 인간집단이 지상에 형성되었습니다. 집단에 의해서 목성, 화성, 금성, 토성의 육화로부터 온 혼에 몸을 제공했습니다. 이러한 혼들은 자신에게 적합한 몸을 찾아냈습니다.
+
+- AI 번역
+그러나 이제 달이 떠난 뒤, 지구는 다시 알맞은 몸들을 제공할 수 있음이 드러났습니다. 그리고 이제 레무리아 말기에 이미 다른 행성들로 갔던 영혼들이, 그 뒤 아틀란티스 발전 동안 다시 지구에 나타났고, 지구 위의 이 몸들 안에 다시 육화했습니다. 이제 지구 위에는 인간 집단들이 형성되었습니다. 목성 육화들에서 온 영혼들을 위한 몸을 지닌 집단들, 화성에서, 금성에서, 또는 토성에서 온 영혼들을 위한 몸을 지닌 집단들이 형성되었고, 그들은 이제 자신들에게 맞는 것을 발견했습니다.
+
+================================================================================
+문단 86
+
+- 독일어
+Diese Gruppierung der Seelen gab die Veranlassung zu der Entstehung der Menschenrassen. Dadurch sind die Rassen in einem gewissen Zusammenhang mit den Weltenkörpern. So konnte man also von Saturnmenschen, Jupitermenschen und so weiter sprechen, und nun hatte auch das erst Berechtigung, was man den Rassenbegriff nennen kann.
+
+- 영어
+This grouping of souls gave rise to the birth of races. Hence there is a certain connection between the races and cosmic bodies and thus it was possible to speak of Saturn men, Jupiter men and so on. What can be called the concept of race had now, for the first time, its justification.
+
+- 한글
+이 혼의 집단이 ‘민족’을 탄생시켰습니다. 그러므로 민족과 천체사이에는 어떤 종류의 관계가 존재합니다. 이렇게 해서 토성인, 목성인 등에 대해 말할 수 있게 된 것입니다. 민족개념으로 부를 수 있는 것은 이제야 비로소 정당성을 얻은 것입니다.
+
+- AI 번역
+이러한 영혼들의 집단화가 인간 인종들의 발생을 가져온 계기가 되었습니다. 이로써 인종들은 어떤 의미에서 세계천체들과 관련을 맺고 있습니다. 그러므로 토성 인간, 목성 인간 등으로 말할 수 있었고, 이제야 비로소 사람들이 인종 개념이라고 부를 수 있는 것이 정당성을 갖게 되었습니다.
+
+================================================================================
+문단 87
+
+- 독일어
+Auf dem Monde, und auch auf der Erde zu ihrer Mondenzeit, gab es Menschen verschiedener Entwickelungsstufen. Wir können das verfolgen bis in das lemurische Zeitalter, wo durch den Austritt des Mondes die Menschheit sich differenziert; darnach taucht der Rassenbegriff auf und beginnt von jetzt ab einen gewissen Sinn, eine gewisse Bedeutung zu haben. Die Rasse ist etwas, was entstanden ist und wieder vergeht. Das Zeitalter, in dem die Rassen sich gebildet haben, ist das lemurische und atlantische Zeitalter. Heute haben wir nur die Nachzügler der Rassen.
+
+- 영어
+On Old Moon, and also on the earth while it was still united with the moon, there were human beings at different stages of evolution. This can be perceived right on into the Lemurian epoch, when owing to the exodus of the moon, differentiation took place in humanity. Thereafter the concept of race arose and from then on began to have a certain meaning, a certain significance. Race is something that comes into being and subsequently passes away again. The epoch of the formation of the races is that embraced by Lemuria and Atlantis. Today only stragglers of the races are present.
+
+- 한글
+월기에서도 그리고 아직 달을 끌어안고 있던 지구에서도 다양한 진화단계의 인간이 있었습니다. 이것은 레무리아시대까지 지각할 수 있습니다. 당시 달의 이탈 때문에 인간성 분화가 발생했습니다. 그로인해 민족개념이 발생하고 그 이후 어떤 종류의 의미를, 어떤 종류의 의미심장함을 가지기 시작했습니다. 민족은 태어나고 언젠가는 소멸하는 것입니다. 민족형성 시대는 레무리아와 아틀란티스를 포함하는 시대입니다. 오늘날에는 민족이 남긴 것만이 존재한다고 말할 수 있습니다.
+
+- AI 번역
+달 위에서도, 그리고 지구가 그 달 시기에 있었을 때에도, 서로 다른 발전 단계의 인간들이 있었습니다. 우리는 이것을 레무리아 시대까지 추적할 수 있습니다. 달의 분리를 통해 인류는 분화되고, 그 뒤 인종 개념이 나타나 이제부터 어떤 의미, 어떤 중요성을 갖기 시작합니다. 인종은 생겨난 것이며, 다시 사라져 가는 것입니다. 인종들이 형성된 시대는 레무리아 시대와 아틀란티스 시대입니다. 오늘날 우리에게 있는 것은 인종들의 뒤늦은 잔여들뿐입니다.
+
+================================================================================

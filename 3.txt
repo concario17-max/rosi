@@ -1,7 +1,9 @@
-3강 파트1 문단정렬본
+3강 전체 정밀수정본
 
 ※ 한글 강의록의 실제 줄바꿈/빈줄 기준으로 분할했습니다.
 ※ 해설만 있는 문단은 제외하고, 원문이 남는 한글 문단만 번호를 매겼습니다.
+※ 이번 수정본에서는 문단 경계 밀림, 누락 문장, 중간 파트 제목 잔류를 정리했습니다.
+
 
 문단 1
 - 독일어
@@ -266,7 +268,7 @@ der Hellseher aber ist dazu durchaus imstande. Der Raum, in dem sonst der physis
 A clairvoyant, however, is quite capable of doing this. The space otherwise occupied by the physical body is then, for the clairvoyant, filled through and through by this etheric body. It has approximately the human form in the head, torso and shoulders,
 
 - 한글
-하지만 영시능력자는 이것이 가능합니다. 영시 능력자에게 육체가 점유하고 있는 공간은 에테르체에 의해 완전히 채워져 있습니다. 그 에테르체는 머리, 가슴, 어깨부분 등 대략 인간의 모습입니다만 몸 아랫부분으로 가면 갈수록 인체의 모습을 닮지 않게 됩니다.
+하지만 영시능력자는 이것이 가능합니다. 영시 능력자에게 육체가 점유하고 있는 공간은 에테르체에 의해 완전히 채워져 있습니다. 그 에테르체는 머리, 가슴, 어깨부분 등에서는 대략 인간의 모습입니다.
 
 - AI 번역
 그러나 영시자는 전적으로 그렇게 할 수 있습니다. 그러면 평소 물리적 몸이 있던 공간은 영시자에게 이 에테르체 또는 생명체로 채워져 있고, 그것에 의해 빛으로 관통되어 있는 것으로 나타납니다. 이 에테르체는 머리, 몸통, 어깨에서는 대략 인간의 형상을 지니고 있습니다.
@@ -281,7 +283,7 @@ Je mehr er nach unten verläuft, desto weniger ähnlich ist er der menschlichen 
 but the lower the area in the body, the less similar it is to the human figure. The etheric body of an animal is different from its physical body. The etheric body of the horse, for example, extends far beyond its physical form. If you could see the etheric body of an elephant clairvoyantly you would be amazed at its gigantic proportions.
 
 - 한글
-동물의 에테르체는 그 육체와는 차이가 있습니다. 실례를 들어보면 말의 에테르체는 그 물질적 형태로부터 훨씬 멀리까지 퍼져있습니다. 영시를 통해 코끼리의 에테르체를 보게 되면 그 거대한 범위에 여러분은 놀라지 않을 수 없을 것입니다.
+몸 아랫부분으로 내려갈수록 에테르체는 인간의 모습을 점점 덜 닮게 됩니다. 동물의 에테르체는 그 육체와는 차이가 있습니다. 실례를 들어보면 말의 에테르체는 그 물질적 형태로부터 훨씬 멀리까지 퍼져 있습니다. 영시를 통해 코끼리의 에테르체를 보게 되면 그 거대한 범위에 여러분은 놀라지 않을 수 없을 것입니다.
 
 - AI 번역
 그러나 아래로 내려갈수록 그것은 인간의 형상과 점점 덜 비슷해집니다. 동물의 경우 에테르체는 물리적 몸과 매우 다릅니다. 예컨대 말의 경우에는, 여러분도 알다시피 에테르 머리가 멀리 밖으로 돌출되어 있습니다. 그리고 만일 여러분이 코끼리의 에테르체를 영시적으로 관찰할 수 있다면, 그것이 얼마나 거대한 구조를 지니고 있는지 보고 놀라게 될 것입니다.
@@ -333,9 +335,6 @@ The greatest difference, however, between the physical and the etheric body is t
 
 ================================================================================
 
-3강 파트2 문단정렬본
-
-※ 한글 강의록의 실제 줄바꿈/빈줄 기준으로 분할했습니다.
 ※ 해설만 있는 문단은 제외하고, 원문이 남는 한글 문단만 번호를 매겼습니다.
 
 문단 23
@@ -1051,7 +1050,7 @@ Und was geschieht dann, wenn das Ich einmal in die Lage kommt, den physischen Le
 What happens if the ego eventually becomes able to work consciously into the physical body, to inculcate forces into the physical body itself? Through occult training this can actually be brought about consciously through the breathing process but there must be great caution and sensitivity of procedure, for through false methods of training such as are often given in public literature, a European body can be seriously harmed; knowledge of what is suitable for the constitution of a modern human being is essential.
 
 - 한글
-자아가 최종적으로 의식적 작용을 할 수 있게 되어 육체에 힘들을 쏟아 부을 수 있게 되면 무엇이 일어날까요? 우리는 오컬트훈련을 통한 호흡훈련에 의해 이것을 의식적으로 일으킬 수 있습니다만 대단히 섬세한 주의와 절차를 거쳐야만 합니다. 왜냐하면 대중적 문헌에 공개되어 있는 잘못된 훈련방법은 종종 유럽인들의 몸에 심각한 손상을 주기도 하기 때문입니다.
+자아가 최종적으로 의식적 작용을 할 수 있게 되어 육체에 힘들을 쏟아 부을 수 있게 되면 무엇이 일어날까요? 우리는 오컬트훈련을 통한 호흡훈련에 의해 이것을 의식적으로 일으킬 수 있습니다만 대단히 섬세한 주의와 절차를 거쳐야만 합니다. 왜냐하면 대중적 문헌에 공개되어 있는 잘못된 훈련방법은 종종 유럽인들의 몸에 심각한 손상을 주기도 하기 때문입니다. 그러므로 현대인의 체질에 무엇이 적합한지 알아야 합니다.
 
 - AI 번역
 그러면 자아가 언젠가 물리적 몸을 의식적으로 작업할 수 있는 위치에 이를 때, 다시 말해 물리적 몸 안에까지 힘들을 작업해 넣을 수 있을 때에는 무엇이 일어납니까? 오컬트 수련을 통해, 호흡 과정을 통해, 이것은 실제로 의식적으로 일어날 수 있습니다. 그러나 이때에는 대단히 조심스럽고 섬세하게 진행해야 합니다. 공개된 글들에서 흔히 제시되는 잘못된 수련을 따르면, 유럽인의 몸에도 매우 큰 해를 끼칠 수 있기 때문입니다. 그리고 현대 인간의 체질에 무엇이 적합한지 알아야 합니다.
@@ -1066,7 +1065,7 @@ Durch solche bewußte Atmung wird dann der physische Körper vom Ich aus umgesta
 Through a conscious method of breathing the physical body can be transformed by the ego into atman or spirit man.
 
 - 한글
-현대인의 조성에 적합한 훈련에 대한 지식이 매우 중요합니다. 의식적 호흡방법을 통해 자아는 육체를 아트만(Atman), 즉 영인(靈人)으로 변용시킬 수 있습니다.
+이러한 의식적 호흡방법을 통해 자아는 육체를 아트만(Atman), 즉 영인(靈人)으로 변용시킬 수 있습니다.
 
 - AI 번역
 그러한 의식적인 호흡을 통해 물리적 몸은 자아로부터 변형되어 아트만, 곧 영인간이 됩니다.
@@ -1081,7 +1080,7 @@ Das Wesen des Menschen war viergliedrig, als er irdische Gestaltung annahm. Mit 
 Man was a fourfold being when he assumed earthly form. In his first incarnation on earth he had already begun to work upon his own being through the ego. In the course of the following incarnations he has developed, unconsciously, the three functional aspects of the soul: sentient soul, intellectual or mind soul, consciousness or spiritual soul.
 
 - 한글
-인간이 지상적 형태를 취했을 때 4중 존재였습니다. 처음 지상의 육화로 인간은 이미 자아를 통해 자기 존재에 작용하기 시작했습니다. 인간은 육화를 거듭하면서 자아를 통해 자기 자신에게 이미 영향을 끼치고 있었습니다. 계속되는 육화 기간에 인간은 무의식적으로 혼의 세가지 기능적 측면을 발달시켰습니다.
+인간이 지상적 형태를 취했을 때 4중 존재였습니다. 처음 지상의 육화와 함께 인간은 이미 자아를 통해 자기 존재에 작용하기 시작했습니다. 계속되는 육화 기간에 인간은 무의식적으로 혼의 세 가지 기능적 측면, 즉 감각혼, 오성혼(정신혼), 그리고 의식혼을 발달시켰습니다.
 
 - AI 번역
 인간의 본질은 그가 지상적 형상을 취했을 때 네 구성으로 되어 있었습니다. 첫 지상 육화와 함께 그는 이미 자아를 통해 자기 자신에 대한 작업을 시작합니다. 그 과정에서 그는 여러 육화를 통과하며 세 가지 영혼 양상, 곧 감각혼, 오성혼, 의식혼을 무의식적으로 발전시킵니다.
@@ -1096,7 +1095,7 @@ Wir werden noch sehen, wie die bewußte Umgestaltung von physischem Leib, Äther
 We shall subsequently learn how the conscious transformation is achieved of physical, etheric and astral bodies into the three higher members. Meanwhile, you have heard how the sevenfold being of man evolves through the incarnations.
 
 - 한글
-즉 감각혼, 오성혼(정신혼), 그리고 의식혼을 발달시켰습니다. 언젠가 우리는 어떻게 해서 육체, 에테르체, 아스트랄체가 세가지 고차요소로 의식적 변형이 실현되는지 배우게 될 것입니다. 지금까지 인간의 7층 존재가 육화를 통해 어떻게 진화해 왔는지 여러분에게 설명 드렸습니다.
+언젠가 우리는 어떻게 해서 육체, 에테르체, 아스트랄체가 세 가지 고차요소로 의식적으로 변형되는지 배우게 될 것입니다. 지금까지 인간의 7층 존재가 육화를 통해 어떻게 진화해 왔는지 여러분에게 설명 드렸습니다.
 
 - AI 번역
 우리는 앞으로 물리적 몸, 에테르체, 아스트랄체가 의식적으로 변형되어 세 가지 더 높은 구성 부분으로 나아가는 일이 어떻게 이루어지는지 보게 될 것입니다. 여기서 여러분은 이제, 말하자면 인간의 일곱 구성으로 된 본질이 무엇인지 보게 됩니다. 그것은 이렇게 육화를 통과하며 발전합니다.
@@ -1171,7 +1170,7 @@ Für den Menschen tritt da im Schlafzustande etwas sehr Eigentümliches ein. Wie
 In the state of sleep something striking happens to man. In sleep at night he has descended as it were to the level of the plant by day. He has become a twofold being; his physical and etheric bodies remain in the bed and his astral body and ego are outside.
 
 - 한글
-밤에 잠자고 있는 인간은 말하자면 식물과 같은 레벨로 하강합니다. 인간은 2층 존재가 됩니다. 육체와 에테르체는 침상에 있고 아스트랄체와 자아는 외부에 존재합니다.
+수면 상태에서 인간에게 매우 독특한 일이 일어납니다. 낮의 식물이 그러하듯, 인간은 밤에 그러합니다. 밤에 잠자고 있는 인간은 말하자면 식물과 같은 레벨로 하강합니다. 인간은 2층 존재가 됩니다. 육체와 에테르체는 침상에 있고 아스트랄체와 자아는 외부에 존재합니다.
 
 - AI 번역
 잠의 상태에서 인간에게는 매우 독특한 일이 일어납니다. 낮의 식물과 같이, 인간은 밤에는 그러합니다. 그는 자기 안에 오직 물리적 몸과 에테르체만을 지니고 있습니다. 말하자면 그는 식물적 상태로 내려간 것입니다. 인간 존재는 두 구성으로 갈라집니다. 물리적 몸과 에테르체는 침대에 남아 있고, 아스트랄체와 자아는 바깥에 있습니다.
@@ -1531,7 +1530,7 @@ Auch durch einen Schock, bei dem aber den Menschen das Bewußtsein nicht wie nac
 This panorama can also arise as the result of a shock but in that case the man concerned must not lose consciousness as he does at death. The shock may be caused by danger of death.
 
 - 한글
-이 파노라마는 쇼크의 결과로도 일어날 수 있습니다만 이 경우 죽음의 경우와 같이 의식을 잃어서는 안 됩니다.
+이 파노라마는 쇼크의 결과로도 일어날 수 있습니다만 이 경우 죽음의 경우와 같이 의식을 잃어서는 안 됩니다. 예를 들어 죽음의 위험에 처했을 때 그러합니다.
 
 - AI 번역
 또한 충격을 통해서도, 다만 그 경우에는 죽음 뒤처럼 의식이 인간을 떠나서는 안 되지만, 이러한 파노라마가 나타날 수 있습니다. 예컨대 죽음의 위험에 처했을 때 그러합니다.
@@ -1546,7 +1545,7 @@ Das ist aber ein Ausnahmefall.
 But this is an exceptional case.
 
 - 한글
-쇼크는 죽음의 위험으로부터 발생할 수 있지만 이것도 역시 예외적 사례입니다.
+그러나 이것은 예외적 사례입니다.
 
 - AI 번역
 그러나 이것은 예외적인 경우입니다.
@@ -1630,21 +1629,28 @@ not entirely, however, and that is the important point. The individual concerned
 - 독일어
 Dadurch steigt der Mensch auf. Nun behält er die Essenz seines Ätherleibes, seinen Astralleib und sein Ich, bis er auch den Astralleib ablegt. Jetzt hat er zwei Leichname abgelegt, und dann geht er in die geistige Welt ein.
 
-Morgen wollen wir dann das Leben nach dem Tode und den Eintritt in die devachanische Welt betrachten.
-
 - 영어
 He ascends, retaining the essence of his etheric body, his astral body and his ego until he also lays aside his astral body. He has now laid aside two corpses, and then he passes into the spiritual world.
-
-Tomorrow we shall study the life after death and the entry into the devachanic world.
 
 - 한글
 인간은 에테르체의 정수와 아스트랄체, 자아를 가지고 상승하며 그 뒤 아스트랄체도 놔두게 됩니다. 이렇게 해서 겨우 인간은 2개의 유골을 남겨두고 영계로 이동합니다.
 
-내일 우리는 죽음 이후의 삶과 데바칸 세계로의 진입을 고찰하고자 합니다.
-
 - AI 번역
 이를 통해 인간은 상승합니다. 이제 그는 자기 에테르체의 정수, 자신의 아스트랄체와 자아를 지니고 있다가, 마침내 아스트랄체도 벗어 놓습니다. 이제 그는 두 개의 시신을 벗어 놓은 것입니다. 그리고 그런 뒤 영적 세계 안으로 들어갑니다.
 
+================================================================================
+
+문단 110
+- 독일어
+Morgen wollen wir dann das Leben nach dem Tode und den Eintritt in die devachanische Welt betrachten.
+
+- 영어
+Tomorrow we shall study the life after death and the entry into the devachanic world.
+
+- 한글
+내일 우리는 죽음 이후의 삶과 데바칸 세계로의 진입을 고찰하고자 합니다.
+
+- AI 번역
 내일 우리는 죽음 이후의 삶과 데바칸 세계로의 진입을 고찰하고자 합니다.
 
 ================================================================================
