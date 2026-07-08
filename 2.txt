@@ -1,3 +1,8 @@
+2강 전체 정밀재검수본
+
+※ 2강 전체 81문단을 기준으로 재검수했습니다.
+※ 형식: 문단 번호 → 독일어 → 영어 → 한글 → AI 번역
+
 문단 1
 - 독일어
 Wie bereits gestern in der einleitenden Betrachtung von mir gesagt worden ist, soll in diesem Zyklus wie in einer Überschau ein Bild theosophischer Weltanschauung gegeben werden.
@@ -10,6 +15,8 @@ As I said yesterday in the introductory lecture, the intention in this course is
 
 - AI 번역
 이미 어제 도입적 고찰에서 말씀드렸듯이, 이 연속 강연에서는 하나의 조망 속에서 신지학적 세계관의 한 모습을 제시하려 합니다.
+
+================================================================================
 
 문단 2
 - 독일어
@@ -24,6 +31,8 @@ It will be necessary to speak of a number of subjects with which many in the aud
 - AI 번역
 이 과정에서 여기 계신 분들 가운데 많은 분들에게 이미 알려져 있는 것들도 언급하지 않을 수 없을 것입니다.
 
+================================================================================
+
 문단 3
 - 독일어
 Aber nur dadurch, daß wir aus den Fundamenten heraus diese Wahrheiten kennenlernen, wird es möglich sein, daß wir uns in den späteren Vorträgen in höhere Gebiete erheben können.
@@ -36,6 +45,8 @@ But only by learning of these truths from their very foundations will it be poss
 
 - AI 번역
 그러나 우리가 이러한 진리들을 그 토대에서부터 알아갈 때에만, 뒤의 강연들에서 더 높은 영역들로 올라갈 수 있습니다.
+
+================================================================================
 
 문단 4
 - 독일어
@@ -50,6 +61,8 @@ Before beginning the actual theme, I want to speak of a matter of exceptional im
 - AI 번역
 본래의 서술로 들어가기 전에, 저는 먼저 대단히 중요한 한 가지 물음을 이야기해 보고자 합니다. 우리는 왜 스스로 영적 세계 안에서 무엇인가를 체험할 수 있기 전에, 먼저 신지학적 사고들과 이론들에 관여해야 하는가? 어떤 사람은 이렇게 말할 것입니다.
 
+================================================================================
+
 문단 5
 - 독일어
 Mitgeteilt werden uns die Resultate der seherischen Forschung; ich selbst kann aber noch nicht hineinschauen. Wäre es da nicht richtiger, wenn uns nicht hellseherische Forschungsergebnisse, sondern wenn vor allen Dingen uns nur gesagt würde, wie ich selbst mich zum Hellseher entwickeln kann? Dann könnte jeder ja selbst die weitere Entwickelung nachher durchmachen.
@@ -63,9 +76,11 @@ Mitgeteilt werden uns die Resultate der seherischen Forschung; ich selbst kann a
 - AI 번역
 우리에게는 영시적 탐구의 결과들이 전달된다. 그러나 나 자신은 아직 그 안을 들여다볼 수 없다. 그렇다면 우리에게 영시적 탐구 결과들을 말해 주기보다, 무엇보다 먼저 내가 어떻게 스스로 영시자로 발전할 수 있는지만 말해 주는 편이 더 옳지 않은가? 그러면 각자가 그 뒤의 발전을 스스로 통과할 수 있지 않겠는가.
 
+================================================================================
+
 문단 6
 - 독일어
-- Wer außerhalb der okkulten Forschung steht, der mag glauben, daß es gut wäre, wenn nicht schon vorher von solchen Dingen und Tatsachen gesprochen würde.
+
 
 - 영어
 Those who are unacquainted with the principles of occult investigation may believe that it would be better if such facts had not previously been made known.
@@ -76,33 +91,24 @@ Those who are unacquainted with the principles of occult investigation may belie
 - AI 번역
 — 오컬트 탐구 밖에 서 있는 사람은, 그러한 사물들과 사실들에 대해 미리 말하지 않는 편이 좋으리라고 생각할 수도 있습니다.
 
+================================================================================
+
 문단 7
 - 독일어
-Aber es gibt in der geistigen Welt ein ganz bestimmtes Gesetz, dessen ganze Bedeutung wir uns durch ein Beispiel klarmachen wollen.
+Aber es gibt in der geistigen Welt ein ganz bestimmtes Gesetz, dessen ganze Bedeutung wir uns durch ein Beispiel klarmachen wollen. Nehmen Sie einmal an, in irgendeinem Jahre hätte ein beliebiger, regelrecht geschulter Hellseher dies oder jenes in der geistigen Welt wahrgenommen. Nun stellen Sie sich vor, daß zehn oder zwanzig Jahre später ein anderer ebenso geschulter Hellseher dieselbe Sache wahrnehmen würde, auch dann, wenn er von den Resultaten des ersten Hellschers gar nichts erfahren hätte. Wenn Sie das glauben würden, wären Sie in einem großen Irrtum,
 
 - 영어
-But in the spiritual world there is a definite law, the significance of which we will make clear by an example.
+But in the spiritual world there is a definite law, the significance of which we will make clear by an example. Suppose that in a certain year some properly trained clairvoyant had perceived this or that in the spiritual world. Now imagine that ten or twenty years later, another equally trained clairvoyant could see the same thing even if he had known nothing whatever about the result obtained by the first clairvoyant. If you were to believe that this could happen, you would be making a great mistake,
 
 - 한글
-하지만 정신세계에는 명확한 법칙이 있습니다. 그 중요성에 관해서는 예를 들어 명확히 설명하겠습니다.
+하지만 정신세계에는 명확한 법칙이 있습니다. 그 중요성에 관해서는 예를 들어 명확히 설명하겠습니다. 어느 해 올바른 훈련을 쌓은 영시능력자가 정신세계의 이것저것을 지각했다고 합시다. 다음은 이렇게 상상해보십시오. 그 뒤로 10년 또는 12년 후 다른 비슷한 훈련을 쌓은 영시능력자가 처음의 영시능력자가 획득한 결과에 대해서 아무것도 몰라도 같은 것을 보았다고 상상해 주시기 바랍니다. 만약 여러분이 이게 있을 법한 이야기라고 믿는다면 여러분은 커다란 실수를 하고 있는 것입니다.
 
 - AI 번역
-그러나 영적 세계에는 아주 분명한 하나의 법칙이 있습니다. 우리는 그 법칙의 전체 의미를 하나의 예를 통해 분명히 해 보려 합니다.
+그러나 영적 세계에는 아주 분명한 하나의 법칙이 있습니다. 우리는 그 법칙의 전체 의미를 하나의 예를 통해 분명히 해 보려 합니다. 어느 해에 어떤 정규 수련을 받은 영시자가 영적 세계 안에서 이런저런 것을 지각했다고 가정해 봅시다. 이제 십 년이나 이십 년 뒤에, 마찬가지로 수련받은 다른 영시자가 같은 것을 지각한다고 생각해 보십시오. 그것도 첫 번째 영시자의 결과에 대해 전혀 듣지 못했더라도 그렇게 할 수 있다고 생각해 보십시오. 만일 여러분이 그렇게 믿는다면, 그것은 큰 오류입니다.
+
+================================================================================
 
 문단 8
-- 독일어
-Nehmen Sie einmal an, in irgendeinem Jahre hätte ein beliebiger, regelrecht geschulter Hellseher dies oder jenes in der geistigen Welt wahrgenommen. Nun stellen Sie sich vor, daß zehn oder zwanzig Jahre später ein anderer ebenso geschulter Hellseher dieselbe Sache wahrnehmen würde, auch dann, wenn er von den Resultaten des ersten Hellschers gar nichts erfahren hätte. Wenn Sie das glauben würden, wären Sie in einem großen Irrtum,
-
-- 영어
-Suppose that in a certain year some properly trained clairvoyant had perceived this or that in the spiritual world. Now imagine that ten or twenty years later, another equally trained clairvoyant could see the same thing even if he had known nothing whatever about the result obtained by the first clairvoyant. If you were to believe that this could happen, you would be making a great mistake,
-
-- 한글
-어느 해 올바른 훈련을 쌓은 영시능력자가 정신세계의 이것저것을 지각했다고 합시다. 다음은 이렇게 상상해보십시오. 그 뒤로 10년 또는 12년 후 다른 비슷한 훈련을 쌓은 영시능력자가 처음의 영시능력자가 획득한 결과에 대해서 아무것도 몰라도 같은 것을 보았다고 상상해 주시기 바랍니다. 만약 여러분이 이게 있을 법한 이야기라고 믿는다면 여러분은 커다란 실수를 하고 있는 것입니다.
-
-- AI 번역
-어느 해에 어떤 정규 수련을 받은 영시자가 영적 세계 안에서 이런저런 것을 지각했다고 가정해 봅시다. 이제 십 년이나 이십 년 뒤에, 마찬가지로 수련받은 다른 영시자가 같은 것을 지각한다고 생각해 보십시오. 그것도 첫 번째 영시자의 결과에 대해 전혀 듣지 못했더라도 그렇게 할 수 있다고 생각해 보십시오. 만일 여러분이 그렇게 믿는다면, 그것은 큰 오류입니다.
-
-문단 9
 - 독일어
 denn in Wahrheit kann eine Tatsache der geistigen Welt, die einmal von einem Hellseher oder einer okkulten Schule gefunden worden ist, nicht zum zweiten Mal erforscht werden, wenn der, welcher sie erforschen will, nicht zuerst die Mitteilung erhalten hat, daß sie bereits erforscht ist. Wenn also ein Hellseher im Jahre 1900 eine Tatsache erforscht hat, und ein anderer im Jahre 1950 so weit ist, um dieselbe wahrnehmen zu können, so kann er das erst, wenn er zuvor gelernt und erfahren hat, daß einer sie schon gefunden und erforscht hat.
 
@@ -115,7 +121,9 @@ for the truth is that a fact of the spiritual world that has once been discovere
 - AI 번역
 왜냐하면 실제로는, 한 번 어떤 영시자나 오컬트 학교에 의해 발견된 영적 세계의 사실은, 그것을 탐구하려는 사람이 먼저 그 사실이 이미 탐구되었다는 전달을 받지 않는 한, 두 번째로 다시 탐구될 수 없기 때문입니다. 그러므로 어떤 영시자가 1900년에 하나의 사실을 탐구했고, 다른 사람이 1950년에 같은 것을 지각할 수 있을 만큼 나아갔다면, 그는 먼저 누군가가 그것을 이미 발견하고 탐구했다는 것을 배우고 알게 된 뒤에야 비로소 그것을 지각할 수 있습니다.
 
-문단 10
+================================================================================
+
+문단 9
 - 독일어
 Es können also selbst schon bekannte Tatsachen in der geistigen Welt nur geschaut werden, wenn man sich entschließt, sie auf gewöhnlichem Wege mitgeteilt zu erhalten und sie kennenzulernen. Das ist das Gesetz, das in der geistigen Welt für alle Zeiten hindurch die universelle Brüderlichkeit begründet. Es ist unmöglich, in irgendein Gebiet hineinzukommen, ohne sich zuerst zu verbinden mit dem, was schon von den älteren Brüdern der Menschheit erforscht und geschaut worden ist.
 
@@ -128,7 +136,9 @@ Therefore, already known facts in the spiritual world can be perceived only when
 - AI 번역
 따라서 이미 알려진 사실들조차도, 그것을 통상적인 방식으로 전달받고 알아가기로 결심할 때에만 영적 세계 안에서 볼 수 있습니다. 이것이 영적 세계 안에서 모든 시대를 관통하여 보편적 형제애를 근거 짓는 법칙입니다. 인류의 더 오래된 형제들이 이미 탐구하고 본 것과 먼저 결합하지 않고서는, 어떤 영역 안으로도 들어가는 일이 불가능합니다.
 
-문단 11
+================================================================================
+
+문단 10
 - 독일어
 Es ist in der geistigen Welt dafür gesorgt, daß keiner ein sogenannter Eigenbrötler werden und sagen kann: Ich kümmere mich nicht um das, was schon vorhanden ist, ich forsche für mich allein. -
 
@@ -141,7 +151,9 @@ The spiritual world sees to it that nobody can become a law unto himself, saying
 - AI 번역
 영적 세계 안에서는 그 누구도 이른바 제 고집만 부리는 사람이 되어 이렇게 말할 수 없도록 보살펴져 있습니다. 이미 존재하는 것에는 관심이 없다. 나는 나 혼자서 탐구하겠다. —
 
-문단 12
+================================================================================
+
+문단 11
 - 독일어
 Alle die Tatsachen, die heute in der Theosophie mitgeteilt werden, würden von auch noch so sehr Ausgebildeten und Vorgeschrittenen nicht gesehen werden können, wenn man nicht vorher davon erfahren hätte. Weil dem so ist, weil man sich verbinden muß mit dem, was schon erforscht ist, deshalb mußte auch die theosophische Bewegung in dieser Form begründet werden.
 
@@ -154,7 +166,9 @@ None of the facts communicated in spiritual science today could be perceived by 
 - AI 번역
 오늘날 신지학 안에서 전달되는 모든 사실들은, 아무리 훈련되고 진보한 사람이라 하더라도, 그에 대해 미리 듣지 않았다면 볼 수 없을 것입니다. 사정이 이러하기 때문에, 이미 탐구된 것과 결합해야 하기 때문에, 신지학 운동도 바로 이러한 형식으로 창립되어야 했던 것입니다.
 
-문단 13
+================================================================================
+
+문단 12
 - 독일어
 Es wird in verhältnismäßig kurzer Zeit viele Menschen geben, die hellsehend sein werden;
 
@@ -167,7 +181,9 @@ In a comparatively short time from now, many individuals will become clairvoyant
 - AI 번역
 비교적 짧은 시간 안에 영시자가 될 사람들이 많아질 것입니다.
 
-문단 14
+================================================================================
+
+문단 13
 - 독일어
 diese würden nur Wesenloses, aber nicht die Wahrheit in der geistigen Welt schauen können, weil sie nicht das Wichtige, das schon erforscht ist in der geistigen Welt, sehen könnten.
 
@@ -180,7 +196,9 @@ but they would be able to see only unreality, not truth, in the spiritual world 
 - AI 번역
 그러나 그들은 영적 세계 안에서 실체 없는 것들은 볼 수 있어도, 진리는 볼 수 없을 것입니다. 왜냐하면 영적 세계 안에서 이미 탐구된 중요한 것을 볼 수 없기 때문입니다.
 
-문단 15
+================================================================================
+
+문단 14
 - 독일어
 Erst muß man diese Wahrheiten, wie sie die Theosophie gibt, lernen, dann erst kann man sie wahrnehmen. Also selbst der Hellseher muß erst das lernen, was schon erforscht ist, und dann kann er bei gewissenhafter Schulung die Tatsachen selbst schauen.
 
@@ -193,7 +211,9 @@ First one must have knowledge of these truths, such as is given by theosophy, or
 - AI 번역
 먼저 신지학이 주는 이러한 진리들을 배워야 합니다. 그런 뒤에야 비로소 그것들을 지각할 수 있습니다. 그러므로 영시자 자신도 먼저 이미 탐구된 것을 배워야 하며, 그다음에야 양심적인 수련을 통해 그 사실들을 스스로 볼 수 있습니다.
 
-문단 16
+================================================================================
+
+문단 15
 - 독일어
 Man kann sagen: Befruchten nur einmal, für ein erstes Sehen, die göttlichen Wesenheiten eine Menschenseele, und hat diese einmalige, jungfräuliche Befruchtung sich vollzogen, dann ist es notwendig für die andern, den Blick erst auf das zu richten, was sich diese erste Menschenseele erworben hat, um ein Anrecht zu haben, sich ein gleiches zu erwerben und es zu schauen.
 
@@ -206,7 +226,9 @@ It may be said that the divine beings fertilize a faculty of seership only once 
 - AI 번역
 이렇게 말할 수 있습니다. 신적 존재들이 한 인간 영혼을 최초의 봄을 위해 단 한 번 수태시키고, 이 한 번뿐인 처녀적 수태가 이루어졌다면, 그 뒤 다른 사람들에게는 먼저 이 최초의 인간 영혼이 획득한 것에 시선을 돌리는 일이 필요합니다. 그래야 같은 것을 획득하고 그것을 볼 권리를 갖게 됩니다.
 
-문단 17
+================================================================================
+
+문단 16
 - 독일어
 — Dieses Gesetz begründet zuinnerst eine universelle Brüderlichkeit, eine wahre Menschenbruderschaft. Von Epoche zu Epoche ist so das Weisheitsgut durch die okkulten Schulen gewandert und von den Meistern treulich aufbewahrt worden. Und auch wir müssen diesen Schatz tragen helfen und Brüderlichkeit halten mit denen, die schon etwas erreicht haben, wenn wir hinauskommen wollen in die höheren Gebiete der geistigen Welt. Das, was als moralisches Gesetz auf dem physischen Plan angestrebt wird, das ist also ein Naturgesetz der geistigen, der spirituellen Welt.
 
@@ -219,7 +241,9 @@ This law lays the foundations of an inner, universal brotherliness, a true broth
 - AI 번역
 — 이 법칙은 가장 내적으로 보편적 형제애, 참된 인간 형제애를 근거 짓습니다. 시대에서 시대로, 지혜의 재산은 이렇게 오컬트 학교들을 통해 이어져 왔고, 스승들에 의해 충실하게 보존되어 왔습니다. 그리고 우리 또한 영적 세계의 더 높은 영역들로 나아가고자 한다면, 이 보물을 함께 짊어지는 일을 도와야 하며, 이미 무엇인가를 성취한 이들과 형제애를 지켜야 합니다. 그러므로 물리적 평면에서 도덕적 법칙으로 추구되는 것은, 영적 세계, 곧 스피리추얼한 세계에서는 하나의 자연법칙입니다.
 
-문단 18
+================================================================================
+
+문단 17
 - 독일어
 Theosophie lehrt uns, daß aus dem Geistigen heraus alles PhysischSinnliche geboren ist.
 
@@ -232,7 +256,9 @@ Theosophy teaches us that everything physical or material is born out of the spi
 - AI 번역
 신지학은 우리에게 모든 물리적-감각적인 것이 영적인 것으로부터 태어났다고 가르칩니다.
 
-문단 19
+================================================================================
+
+문단 18
 - 독일어
 Aber man darf in unserer Zeit sich nicht begnügen mit diesem Bewußtsein von einer geistigen Welt. Daß es das Wesentliche sei, daß hinter allem Sinnlichen, allem Physischen, ein Geistiges stehe, das ist ein abstraktes Bewußtsein von dem Geiste.
 
@@ -245,7 +271,9 @@ But in our epoch it behooves us not to be satisfied with this bare realization o
 - AI 번역
 그러나 우리 시대에는 영적 세계가 있다는 이러한 의식만으로 만족해서는 안 됩니다. 모든 감각적인 것, 모든 물리적인 것 뒤에 영적인 것이 서 있다는 것, 그것이 본질적이라는 의식은 정신에 대한 추상적 의식입니다.
 
-문단 20
+================================================================================
+
+문단 19
 - 독일어
 Es ist notwendig, sich bestimmte Begriffe und Vorstellungen davon zu erwerben, wie das Geistige in seinen einzelnen Gebieten aussieht.
 
@@ -258,7 +286,9 @@ What is necessary is to develop definite concepts and ideas of how the spiritual
 - AI 번역
 필요한 것은 영적인 것이 그 개별 영역들에서 어떤 모습을 지니는지에 대해 분명한 개념과 표상을 획득하는 일입니다.
 
-문단 21
+================================================================================
+
+문단 20
 - 독일어
 Man kann heute nur so jemanden dahin geleiten, daß man ihn gewissenhaft alle die Schritte machen läßt von der äußeren Welt in die geistige hinein.
 
@@ -271,7 +301,9 @@ Today one can only guide some other individual by conscientiously ensuring that 
 - AI 번역
 오늘날에는 오직 이렇게 해야만 한 사람을 이끌 수 있습니다. 곧 그로 하여금 외적 세계에서 영적 세계 안으로 들어가는 모든 단계를 양심적으로 밟게 해야 합니다.
 
-문단 22
+================================================================================
+
+문단 21
 - 독일어
 Das erste, was wir in den uns umgebenden physischen Reichen betrachten, ist das Mineralreich,
 
@@ -284,7 +316,9 @@ The first kingdom to be observed among the physical kingdoms around us, is that 
 - AI 번역
 우리를 둘러싼 물리적 왕국들 가운데 우리가 가장 먼저 고찰할 것은 광물계,
 
-문단 23
+================================================================================
+
+문단 22
 - 독일어
 die Welt der Gesteine. Wer dieses nur sinnlich anschaut, wird sagen: Das Reich der Mineralien unterscheidet sich von dem Reich der Menschen dadurch zum Beispiel, daß der Mensch weiß, wenn er einen andern hart gestoßen hat, so empfindet dieser einen Schmerz.
 
@@ -297,7 +331,9 @@ the world of stones. The kingdom of the minerals is distinguished from the human
 - AI 번역
 곧 암석의 세계입니다. 그것을 감각적으로만 바라보는 사람은 이렇게 말할 것입니다. 광물의 왕국은 예컨대 이런 점에서 인간의 왕국과 구별된다. 인간은 다른 사람을 세게 밀쳤을 때, 그 사람이 고통을 느낀다는 것을 안다.
 
-문단 24
+================================================================================
+
+문단 23
 - 독일어
 Dem äußeren Anschein nach ist das nicht der Fall, daß ein Mineral beim Schlagen Schmerz empfindet.
 
@@ -310,7 +346,9 @@ There is no outer evidence that a mineral feels pain from a blow.
 - AI 번역
 외적 겉모습으로 보자면, 광물이 타격을 받을 때 고통을 느낀다고 할 수는 없다.
 
-문단 25
+================================================================================
+
+문단 24
 - 독일어
 Daraus wird der Schluß gezogen: im Menschen ist eine Seele vorhanden, die Lust und Leid fühlt, dem Mineral ist das nicht gegeben.
 
@@ -323,9 +361,11 @@ From this the conclusion is drawn that in man there is a soul that feels pleasur
 - AI 번역
 여기서 이런 결론이 이끌어집니다. 인간 안에는 쾌와 고통을 느끼는 영혼이 있다. 그러나 광물에게는 그것이 주어져 있지 않다.
 
-문단 26
+================================================================================
+
+문단 25
 - 독일어
-- Wir wollen nicht von vorneherein sagen, das Mineral hat aber auch eine Seele; nein, wir müssen da schon auf die Ergebnisse der hellseherischen Forschung genauer eingehen. Der Stein, so wie er zunächst vor uns liegt, er hat nichts Seelenhaftes an sich. Aber worauf es ankommt bei einer geistigen Weltanschauung, das ist, daß man an der richtigen Stelle mit seiner Betrachtung einsetzt und nicht an einer falschen. Denken Sie sich ein kleines Tier, das den Menschen betrachten würde und nur imstande wäre, die Fingernägel von ihm zu sehen. Es würde sagen, das sind Gegenstände für sich,
+
 
 - 영어
 We will not at the outset insist that the mineral also has a soul, because there we must already take note of the results of clairvoyant investigation. The stone as it lies before us has in it nothing of the nature of soul. But what is essential in a spiritual world conception is that observation shall be directed to the right place and not to a false one. Think of a tiny animal observing a human being but actually able to see only his fingernails. It would say that these fingernails are objects on their own,
@@ -336,7 +376,9 @@ We will not at the outset insist that the mineral also has a soul, because there
 - AI 번역
 — 우리는 처음부터 “하지만 광물도 영혼을 가지고 있다”고 말하려는 것이 아닙니다. 아닙니다. 여기서는 영시적 탐구의 결과들에 더 정확히 들어가야 합니다. 돌은, 우선 우리 앞에 놓여 있는 그대로의 돌은, 그 자체로는 아무런 영혼적인 것을 지니고 있지 않습니다. 그러나 영적 세계관에서 중요한 것은, 고찰을 올바른 자리에서 시작해야 하며 잘못된 자리에서 시작해서는 안 된다는 점입니다. 어떤 작은 동물이 인간을 바라본다고 생각해 보십시오. 그런데 그 동물은 인간의 손톱만 볼 수 있다고 합시다. 그러면 그것은 이렇게 말할 것입니다. 이것들은 그 자체로 독립된 물건들이다.
 
-문단 27
+================================================================================
+
+문단 26
 - 독일어
 denn das kleine Tier kann nicht überschauen, daß die Nägel zu einem Organismus gehören. Erst wenn es das überblickt, wenn es aufsteigt zum Anschauen des Ganzen, dann muß es zu einer richtigen Betrachtung kommen.
 
@@ -349,7 +391,9 @@ for the tiny animal cannot realize that the nails belong to and are part of an o
 - AI 번역
 그 작은 동물은 손톱들이 하나의 유기체에 속한다는 사실을 조망할 수 없기 때문입니다. 그것이 전체를 조망할 수 있을 때, 전체를 바라보는 데까지 올라갈 때에야 비로소 올바른 고찰에 이를 수 있습니다.
 
-문단 28
+================================================================================
+
+문단 27
 - 독일어
 So ist es für den Geistesforscher mit der Gesteinswelt. Schauen Sie den Stein als etwas für sich an, so sind Sie in der Lage des kleinen Tieres, das die Fingernägel oder Zähne für den ganzen Menschen hält, für ein selbständiges Wesen hält.
 
@@ -362,7 +406,9 @@ The same principle applies to the spiritual investigator and the mineral world. 
 - AI 번역
 정신 연구자에게 암석 세계도 이와 같습니다. 여러분이 돌을 그 자체로만 바라본다면, 손톱이나 이를 인간 전체로, 독립된 존재로 여기는 작은 동물의 처지에 서 있는 것입니다.
 
-문단 29
+================================================================================
+
+문단 28
 - 독일어
 Nehmen Sie die Felsen der Erde: sie sind nicht denkbar, ohne herausgewachsen zu sein aus dem ganzen Organismus. Wo ist nun aber das Wesen, von dem das alles Teile sind, zu dem das alles gehört? Es gibt geistige Wesenheiten, zu denen unsere ganze Gesteinswelt gehört.
 
@@ -375,7 +421,9 @@ Think of the rocks on the earth. They can only be conceived as having grown out 
 - AI 번역
 지구의 바위들을 생각해 보십시오. 그것들은 전체 유기체로부터 자라 나왔다는 사실 없이는 생각될 수 없습니다. 그렇다면 이 모든 것이 그 일부이며, 이 모든 것이 속해 있는 그 존재는 어디에 있습니까? 우리의 전체 암석 세계가 속해 있는 영적 존재들이 있습니다.
 
-문단 30
+================================================================================
+
+문단 29
 - 독일어
 Sie empfinden Freude und Schmerz, Lust und Leid wie die Menschenseele, so daß wir tatsächlich sprechen können von einer Mineralseele. Nicht aus den bloßen Analogien heraus dürfen Sie aber da urteilen,
 
@@ -388,7 +436,9 @@ These beings feel happiness and pain, pleasure and suffering just as does the hu
 - AI 번역
 그들은 인간 영혼처럼 기쁨과 고통, 쾌와 괴로움을 느낍니다. 그러므로 우리는 실제로 하나의 광물 영혼에 대해 말할 수 있습니다. 그러나 여러분은 단순한 유추만으로 판단해서는 안 됩니다.
 
-문단 31
+================================================================================
+
+문단 30
 - 독일어
 sonst könnten Sie denken, daß wenn man einen Stein zerschlägt, die Mineralseele Schmerz empfindet. Das ist nicht der Fall. Im Gegenteil: der Mensch empfindet Schmerz, wenn ihm ein Finger verletzt wird, die Mineralseele empfindet im ähnlichen Falle Freude und Lust.
 
@@ -401,7 +451,9 @@ because that might lead you to think that when a stone is smashed the mineral so
 - AI 번역
 그렇게 하면 돌을 부수면 광물 영혼이 고통을 느낀다고 생각할 수도 있기 때문입니다. 사실은 그렇지 않습니다. 오히려 그 반대입니다. 인간은 손가락이 다치면 고통을 느낍니다. 그러나 광물 영혼은 그와 비슷한 경우에 기쁨과 쾌를 느낍니다.
 
-문단 32
+================================================================================
+
+문단 31
 - 독일어
 Die größte Lust ist es für das Wesen, das zum Mineral gehört, wenn die Steine zerschlagen werden; dagegen bereitet es dem Mineral Schmerz, wenn die Steine, die einzelnen Teile davon, wieder zusammengesetzt werden.
 
@@ -414,7 +466,9 @@ The being belonging to the mineral experiences great happiness when stones are c
 - AI 번역
 광물에 속한 존재에게 가장 큰 쾌는 돌들이 부서질 때 생깁니다. 반대로 돌들, 곧 그 개별 부분들이 다시 결합될 때에는 광물에게 고통이 일어납니다.
 
-문단 33
+================================================================================
+
+문단 32
 - 독일어
 Weil nun in der Außenwelt alles so verläuft, daß fortwährend mineralische Teile aufgelöst und wieder zusammengepackt werden, entsteht, wie Sie begreifen werden, fortwährend Lust und Leid in den Seelen der Wesen, die zum Mineralreich gehören.
 
@@ -427,7 +481,9 @@ Because in the external world, mineral fragments are constantly being separated 
 - AI 번역
 외부 세계에서는 모든 것이 끊임없이 광물적 부분들이 해체되고 다시 결합되는 방식으로 진행되므로, 여러분도 이해하시겠지만, 광물계에 속한 존재들의 영혼 안에는 끊임없이 쾌와 고통이 생겨납니다.
 
-문단 34
+================================================================================
+
+문단 33
 - 독일어
 Denken Sie sich, wir hätten hier Salz und ein Glas mit warmem Wasser. Was geschieht, wenn wir das Salz in das Wasser streuen? Bei hellseherischer Betrachtung lösen sich da nicht nur die Salzteile in dem Wasser auf, sondern Wollustgefühle entstehen,
 
@@ -440,7 +496,9 @@ Suppose we have salt here and a glass filled with warm water. What happens if we
 - AI 번역
 여기 소금과 따뜻한 물이 담긴 잔이 있다고 생각해 보십시오. 우리가 그 소금을 물에 뿌리면 무슨 일이 일어납니까? 영시적으로 고찰하면, 거기서는 소금 입자들이 물속에서 녹아드는 것만이 아닙니다. 환희의 감정들이 생겨납니다.
 
-문단 35
+================================================================================
+
+문단 34
 - 독일어
 wirkliche Lust ist zu sehen, wenn jene das ganze Glas allmählich durchdringen. Dann, wenn sich das Wasser wieder abkühlt und ein Würfel des Salzes sich da herauskristallisiert, geschieht das unter Schmerz und Leid der Mineralseele.
 
@@ -453,7 +511,9 @@ actual pleasure becomes evident when the salt permeates the water in the glass. 
 - AI 번역
 그 입자들이 점차 잔 전체를 스며들어 갈 때, 실제적인 쾌가 보입니다. 그런 뒤 물이 다시 식고 그 안에서 소금 결정 하나가 결정화되어 나오면, 그것은 광물 영혼의 고통과 괴로움 속에서 일어납니다.
 
-문단 36
+================================================================================
+
+문단 35
 - 독일어
 In Gebirgen, wo die Felsen entstanden sind, hat sich das so vollzogen. Und wenn in der Erde Kristalle sich herausformen, so ist das von Leid und Schmerzgefühl begleitet für die dem Mineral zugrunde liegenden Wesenheiten. Wenn ein Planet entsteht, sich zusammenballt, sich verdichtet, so geschieht das unter Schmerz- und Leidempfinden der entsprechenden Geistwesen.
 
@@ -466,7 +526,9 @@ In mountain ranges where rocks have formed this is what has happened. When cryst
 - AI 번역
 산맥들, 바위들이 생겨난 곳에서는 이 일이 그렇게 이루어졌습니다. 그리고 지구 안에서 결정들이 형성되어 나올 때, 그것은 광물의 바탕에 놓여 있는 존재들에게 고통과 괴로움의 감정을 동반합니다. 하나의 행성이 생겨나고, 한데 뭉치며, 응축될 때, 그것은 그에 상응하는 영적 존재들의 고통과 괴로움의 느낌 속에서 일어납니다.
 
-문단 37
+================================================================================
+
+문단 36
 - 독일어
 Solch ein Planet wie unsere Erde entsteht unter Leid und Schmerz. Nun können Sie mich fragen: Wo sind denn die Wesenheiten, die das Auge nicht sieht, die Leid und Schmerz erdulden, und Lust und Freude empfinden, wenn zum Beispiel in einem Steinbruch die Steine von den Arbeitern zerschlagen werden? Wo sind diese Wesenheiten? - In einer verhältnismäßig sehr hohen geistigen Welt.
 
@@ -479,7 +541,9 @@ When a planet such as our earth comes into existence, the process is accompanied
 - AI 번역
 우리 지구와 같은 행성은 고통과 괴로움 속에서 생겨납니다. 이제 여러분은 제게 물을 수 있습니다. 눈에는 보이지 않지만 고통과 괴로움을 견디고, 예컨대 채석장에서 노동자들이 돌을 부술 때 쾌와 기쁨을 느끼는 그 존재들은 도대체 어디에 있는가? 그 존재들은 어디에 있는가? — 비교적 매우 높은 영적 세계 안에 있습니다.
 
-문단 38
+================================================================================
+
+문단 37
 - 독일어
 Was das Auge als Mineral sieht, das ist eigentlich nurein Schattenbild von ihnen. Jene Wesen sind in der Welt, die wir die Welt der Formlosigkeit nennen. In unserer ganzen Mineralwelt leben geistige Wesenheiten, und die sind nach okkulter Forschung in der Welt der Formlosigkeit. Warum nennen wir diese Welt so? Sie werden das gleich begreifen, wenn wir heraufsteigen zu der Welt der Pflanzen.
 
@@ -492,7 +556,9 @@ The mineral substance seen by the eye is only a shadowy image of these beings. T
 - AI 번역
 눈이 광물로 보는 것은 사실 그들의 그림자상일 뿐입니다. 그 존재들은 우리가 무형성의 세계라고 부르는 세계 안에 있습니다. 우리의 전체 광물 세계 안에는 영적 존재들이 살고 있으며, 오컬트 탐구에 따르면 그들은 무형성의 세계 안에 있습니다. 왜 우리는 이 세계를 그렇게 부릅니까? 우리가 식물의 세계로 올라가 보면 여러분은 곧 그것을 이해하게 될 것입니다.
 
-문단 39
+================================================================================
+
+문단 38
 - 독일어
 Auch die Pflanze ist der Ausdruck von bestimmten Seelenwesen. Auch hier wollen wir die Ergebnisse der hellseherischen Forschung betrachten.
 
@@ -505,7 +571,9 @@ The plant, too, is the expression of certain beings of soul. Here again we will 
 - AI 번역
 식물 역시 특정한 영혼 존재들의 표현입니다. 여기서도 우리는 영시적 탐구의 결과들을 고찰해 보려 합니다.
 
-문단 40
+================================================================================
+
+문단 39
 - 독일어
 Diese weiß zu berichten, daß, wenn zum Beispiel im Herbst das Getreide abgemäht wird, die Sense auf den Feldern durch die Halme fährt, dann die Seelen, deren Körper die Pflanzen sind, kein Leid empfinden.
 
@@ -518,7 +586,9 @@ This tells us that when, for example, in the autumn, the corn is mown and the sc
 - AI 번역
 그 탐구는 이렇게 보고합니다. 예컨대 가을에 곡식이 베어지고, 낫이 들판에서 줄기들을 지나갈 때, 식물들을 자신의 몸으로 지닌 영혼들은 고통을 느끼지 않습니다.
 
-문단 41
+================================================================================
+
+문단 40
 - 독일어
 O nein, an Leid dürfen Sie dabei nicht glauben; ganze Ströme von Freude und Seligkeit wehen darüber hin.
 
@@ -531,7 +601,9 @@ No indeed! We must not think of suffering here because whole streams of joy and 
 - AI 번역
 오, 결코 고통을 생각해서는 안 됩니다. 오히려 기쁨과 지복의 흐름 전체가 그 위로 불어갑니다.
 
-문단 42
+================================================================================
+
+문단 41
 - 독일어
 Ebenso wenn das Tier auf der Wiese weidet und die Gräser abgrast: das ist Seligkeit für die Pflanzenseele, nicht Schmerz.
 
@@ -544,7 +616,9 @@ Equally, when the animal is turned out to graze, it means happiness for the plan
 - AI 번역
 마찬가지로 동물이 초원에서 풀을 뜯고 풀잎들을 베어 먹을 때, 그것은 식물 영혼에게 고통이 아니라 지복입니다.
 
-문단 43
+================================================================================
+
+문단 42
 - 독일어
 Man kann es mit dem Gefühl vergleichen, welches das Säugetier empfindet, wenn das Junge an der Mutter die Milch saugt;
 
@@ -557,7 +631,9 @@ It can be compared with the feeling experienced by a mammal when its offspring s
 - AI 번역
 그것은 어린 새끼가 어미에게서 젖을 빨 때 포유동물이 느끼는 감정과 비교할 수 있습니다.
 
-문단 44
+================================================================================
+
+문단 43
 - 독일어
 es ist das ein gewisses Seligkeitsgefühl.
 
@@ -570,7 +646,9 @@ this gives a feeling of bliss.
 - AI 번역
 거기에는 어떤 지복의 감정이 있습니다.
 
-문단 45
+================================================================================
+
+문단 44
 - 독일어
 Was unser Planet an seiner Oberfläche hergibt zur Nahrung für seine Insassen, das ist gleichsam die Milch der Wesenheiten, die zum Planeten gehören und die eigentlich im Mittelpunkt der Erde wohnen.
 
@@ -583,7 +661,9 @@ What our planet furnishes on its surface in the way of nourishment for the being
 - AI 번역
 우리의 행성이 자기 표면에서 그 거주자들의 양식으로 내어 주는 것은, 말하자면 행성에 속해 있으며 본래 지구의 중심에 거주하는 존재들의 젖과 같습니다.
 
-문단 46
+================================================================================
+
+문단 45
 - 독일어
 Sie können mich fragen: Ja, haben sie dort denn auch alle Platz? -
 
@@ -596,7 +676,9 @@ You may ask if all of them are able to find a place there.
 - AI 번역
 여러분은 제게 물을 수 있습니다. 그렇다면 그들은 거기에 모두 들어갈 자리가 있는가? —
 
-문단 47
+================================================================================
+
+문단 46
 - 독일어
 Gewiß, alle vertragen sich dorten gut, vermöge des Gesetzes der Durchdringlichkeit, der Durchlässigkeit. Es ist dieses Sich-Hingeben, wenn ein gewisser Reifezustand erreicht ist, Seligkeit für die Pflanzenseele. Schmerz bedeutet für sie alles das, was an Pflanzen aus dem Boden ausgerissen wird.
 
@@ -609,7 +691,9 @@ Certainly they are, because of the prevailing law of permeability. Their self-su
 - AI 번역
 물론입니다. 그곳에서는 모두가 잘 조화를 이룹니다. 관통성, 투과성의 법칙 덕분입니다. 일정한 성숙 상태에 도달했을 때 이렇게 자신을 내어 주는 것은 식물 영혼에게 지복입니다. 식물에게 고통을 뜻하는 것은, 식물이 땅에서 뽑혀 나오는 모든 일입니다.
 
-문단 48
+================================================================================
+
+문단 47
 - 독일어
 Sie können nun sagen:
 
@@ -622,7 +706,9 @@ Now you. may say:
 - AI 번역
 이제 여러분은 이렇게 말할 수 있습니다.
 
-문단 49
+================================================================================
+
+문단 48
 - 독일어
 Ja, wenn nun aber nichtsnutzige Jungens und Mädels die Blumen nutzlos abreißen, wie kann das der Pflanzenseele Lust sein? Wäre es da nicht doch viel besser, sie sorgfältig auszujäten? Wie kann sie das schmerzen? - Vom Gesichtspunkte aus, der sich für die physische Welt eignet, haben Sie wohl recht. Aber wir dürfen nicht vergessen, daß diese Gesichtspunkte nicht immer die maßgebenden für die spirituellen Welten sind. Schöner mag ja jemand sein, wenn er sich die ersten grauen Haare ausreißt, aber weh tut es ihm doch. Es kommt eben auf den Gesichtspunkt an, und gegen das Gesetz der okkulten Welt können wir nicht mit moralischen Bedenken ankämpfen. Auch zu den Pflanzen gehören Wesen, Seelen, zu denen die Pflanzenwelt den Körper gibt. Wir wollen nun versuchen, uns vorzustellen, wie Lust und Leid verläuft in der Welt der Pflanzen. Die Pflanzenwelt ist eine Abschattung der geistigen Welt. Wo sind nun die zu ihr gehörenden Wesen? In der Welt der Form. Man benennt sie auch noch anders. Es leben also die geistigen Wesen des Mineralreichs in einem geistigen Reich, dem Reich der Formlosigkeit, diejenigen der Pflanzen leben in dem Reich der Form.
 
@@ -635,7 +721,9 @@ Yes, but when mischievous boys and girls uselessly tear off flowers how can that
 - AI 번역
 그렇다면 못된 소년소녀들이 꽃을 아무 쓸모 없이 꺾어 버릴 때, 그것이 어떻게 식물 영혼에게 쾌가 될 수 있는가? 오히려 정성스럽게 잡초를 뽑아내는 편이 훨씬 더 낫지 않은가? 그것이 어떻게 식물 영혼에게 고통을 줄 수 있는가? — 물리적 세계에 적합한 관점에서 보면 여러분의 말이 옳을 것입니다. 그러나 우리는 이러한 관점들이 영적 세계들에서는 언제나 기준이 되는 것은 아니라는 점을 잊어서는 안 됩니다. 누군가가 처음 난 흰머리를 뽑아 버리면 더 아름다워 보일 수는 있습니다. 그러나 그래도 그것은 그에게 아픔을 줍니다. 중요한 것은 관점입니다. 그리고 우리는 도덕적 우려를 가지고 오컬트 세계의 법칙에 맞서 싸울 수 없습니다. 식물들에게도 존재들이, 영혼들이 속해 있으며, 식물 세계는 그들에게 몸을 제공합니다. 이제 우리는 식물의 세계에서 쾌와 고통이 어떻게 진행되는지 상상해 보려 합니다. 식물 세계는 영적 세계의 하나의 그림자상입니다. 그렇다면 그것에 속한 존재들은 어디에 있습니까? 형상의 세계 안에 있습니다. 그것은 또 다른 이름으로도 불립니다. 그러므로 광물계의 영적 존재들은 하나의 영적 왕국, 곧 무형성의 왕국 안에 살고, 식물의 영적 존재들은 형상의 왕국 안에 삽니다.
 
-문단 50
+================================================================================
+
+문단 49
 - 독일어
 Reich der Formlosigkeit, Arupa oder oberes Devachan.
 
@@ -648,7 +736,9 @@ Realm of Formlessness, Arupa or Upper Devachan.
 - AI 번역
 무형성의 왕국, 아루파 또는 상위 데바칸.
 
-문단 51
+================================================================================
+
+문단 50
 - 독일어
 Reich der Form, Rupa oder unteres Devachan.
 
@@ -661,7 +751,9 @@ Realm of Form, Rupa or Lower Devachan.
 - AI 번역
 형상의 왕국, 루파 또는 하위 데바칸.
 
-문단 52
+================================================================================
+
+문단 51
 - 독일어
 Zu einem bestimmten Gebiet der geistigen Welt, und zwar zu seinen oberen Partien, gehören die Seelen des Mineralreiches. Sie müssen sich nicht darüber wundern, denn die Seelen sind in einem um so höheren Reiche zu suchen, je mehr sie sich verbergen, je weniger sie sich äußern können. Warum nennt man das eine Gebiet ein Reich der Formlosigkeit, das andere ein Reich der Form? Wenn ein Kristall zerschlagen wird, so ist eben nur dessen Form zerstört; diese kann sich aber wiederum woanders, unabhängig von der zerstörten, ebenso bilden. Wenn in der Natur ein Salzkristall entsteht, so ist es nicht notwendig, daß er aus einem andern heraus entsteht. Er kann auch nur aus der Substanz des Salzes heraus entstehen und wieder verschwinden als Form: das ist die Eigenart der formlosen Substanz.
 
@@ -674,7 +766,9 @@ The souls of the minerals belong to a definite region of the spiritual world, in
 - AI 번역
 광물계의 영혼들은 영적 세계의 특정한 영역, 그것도 그 상위 부분들에 속해 있습니다. 여러분은 이를 이상하게 여길 필요가 없습니다. 영혼들은 자신을 더 깊이 감출수록, 자신을 덜 표현할 수 있을수록, 그만큼 더 높은 왕국에서 찾아야 하기 때문입니다. 왜 우리는 한 영역을 무형성의 왕국이라 부르고, 다른 영역을 형상의 왕국이라 부릅니까? 하나의 결정이 부서지면, 파괴되는 것은 바로 그 형상일 뿐입니다. 그러나 이 형상은 파괴된 것과는 독립적으로, 다른 곳에서 다시 똑같이 형성될 수 있습니다. 자연 속에서 하나의 소금 결정이 생겨날 때, 그것이 반드시 다른 결정으로부터 생겨나야 하는 것은 아닙니다. 그것은 소금이라는 실체로부터만도 생겨날 수 있으며, 형상으로서 다시 사라질 수도 있습니다. 이것이 무형적 실체의 고유한 성격입니다.
 
-문단 53
+================================================================================
+
+문단 52
 - 독일어
 Bei der Pflanze kann die Form nicht in derselben Weise aus der Substanz, aus dem Formlosen entstehen. Sie muß sich aus einer Vorfahrenpflanze entwickeln.
 
@@ -687,7 +781,9 @@ In the case of the plant, the form cannot come into existence in the same way, o
 - AI 번역
 식물의 경우에는 형상이 같은 방식으로 실체에서, 무형적인 것에서 생겨날 수 없습니다. 식물은 선대 식물로부터 발전해야 합니다.
 
-문단 54
+================================================================================
+
+문단 53
 - 독일어
 und das ist das Charakteristische der Pflanze
 
@@ -700,7 +796,9 @@ this is its essential characteristic
 - AI 번역
 식물의 특징은 바로 여기에 있습니다.
 
-문단 55
+================================================================================
+
+문단 54
 - 독일어
 Vom Vorfahren auf den Nachkommen muß die Form übergehen. Da, wo wir die Seelen der Wesen in dem Reiche der Form haben, geschieht die Fortpflanzung durch Übertragung der Form. Nur die Form, sonst nichts, steckt in dem Samenkorn.
 
@@ -713,7 +811,9 @@ The form must pass over from progenitor to offspring in the case of the souls of
 - AI 번역
 선대로부터 후손에게로 형상이 넘어가야 합니다. 우리가 형상의 왕국 안에 존재들의 영혼들을 가지고 있는 곳에서는, 형상의 전달을 통해 번식이 일어납니다. 씨앗 속에 들어 있는 것은 오직 형상뿐이며, 그 밖의 것은 없습니다.
 
-문단 56
+================================================================================
+
+문단 55
 - 독일어
 Es ist eine oberflächliche Betrachtung der Wissenschaft, daß sie glaubt, es bestehe kein großer Unterschied zwischen Pflanzensamen und Tiersamen.
 
@@ -726,7 +826,9 @@ It is a superficial belief of science that there is no great difference between 
 - AI 번역
 식물의 씨앗과 동물의 씨앗 사이에 큰 차이가 없다고 믿는 것은 과학의 피상적 고찰입니다.
 
-문단 57
+================================================================================
+
+문단 56
 - 독일어
 Im Tiersamen ist es die Form und das Leben, das vom Vorfahren auf den Nachkommen übergeht: das Leben geht über.
 
@@ -739,7 +841,9 @@ In the animal egg, form and life are transmitted from progenitor to off-spring: 
 - AI 번역
 동물의 씨앗에서는 선대로부터 후손에게로 넘어가는 것이 형상과 생명입니다. 생명이 넘어갑니다.
 
-문단 58
+================================================================================
+
+문단 57
 - 독일어
 Im Liliensamen ist nichts anderes konserviert als die Form,
 
@@ -752,7 +856,9 @@ In the seed of the lily nothing except the form is preserved
 - AI 번역
 백합의 씨앗 안에는 형상 외에는 아무것도 보존되어 있지 않으며,
 
-문단 59
+================================================================================
+
+문단 58
 - 독일어
 und die wird auf die neue Lilie übertragen. Beim Mineral ist es so, daß aus dem oberen Devachan heraus die Kräfte entstehen, die sozusagen die Form prägen.
 
@@ -765,7 +871,9 @@ and it is transmitted to the new lily. What happens in the mineral is that the f
 - AI 번역
 이 형상이 새로운 백합에게 전달됩니다. 광물의 경우에는, 말하자면 형상을 새겨 넣는 힘들이 상위 데바칸으로부터 생겨납니다.
 
-문단 60
+================================================================================
+
+문단 59
 - 독일어
 Beim Kristall schießt sozusagen die Formlosigkeit vor dem Auge in die Form. Wir müssen uns also sagen, daß der ganze Planet, auf dem ein Pflanzenleben sich entfaltet, von einem Gesamtleben umgeben ist, in welchem der Impuls liegt, daß das Leben der Pflanze daraus entstehen kann,
 
@@ -778,7 +886,9 @@ In the case of the crystal, the formlessness shoots as it were into the form con
 - AI 번역
 결정에서는, 말하자면 무형성이 눈앞에서 형상 안으로 쏘아 들어갑니다. 그러므로 우리는 이렇게 말해야 합니다. 식물 생명이 펼쳐지는 행성 전체는 하나의 전체 생명에 둘러싸여 있으며, 그 안에는 식물의 생명이 거기서 생겨날 수 있게 하는 충동이 놓여 있습니다.
 
-문단 61
+================================================================================
+
+문단 60
 - 독일어
 und aus dem Samen nur die Form der Pflanze.
 
@@ -791,7 +901,9 @@ and from the plant seed only the form.
 - AI 번역
 그리고 씨앗으로부터 나오는 것은 다만 식물의 형상뿐입니다.
 
-문단 62
+================================================================================
+
+문단 61
 - 독일어
 Von dem Leben der alten Lilie geht nichts über auf das Beet oder den Blumentopf, in dem das Samenkorn ruht. Daß die neue Lilie belebt wird, rührt davon her, daß der Same aufgenommen worden ist in das All-Leben unserer Erde.
 
@@ -804,7 +916,9 @@ From the life of the old lily nothing passes over to the flower bed or flower po
 - AI 번역
 오래된 백합의 생명 가운데 그 어떤 것도 씨앗이 쉬고 있는 화단이나 화분으로 넘어가지 않습니다. 새로운 백합이 살아 있게 되는 것은, 그 씨앗이 우리 지구의 전체 생명 안에 받아들여졌기 때문입니다.
 
-문단 63
+================================================================================
+
+문단 62
 - 독일어
 Dadurch ist schon der Übergang zum Tierreich geschaffen. Durch den Samen wird nur die Form vererbt; das Leben kommt hinein, weil der Same aufgenommen worden ist in das All-Leben unserer Erde. Die Seelenhaftigkeit beim Tier ist augenscheinlich,
 
@@ -817,7 +931,9 @@ Here we come to the transition to the animal kingdom. The form alone is passed o
 - AI 번역
 이로써 이미 동물계로 넘어가는 길이 마련됩니다. 씨앗을 통해서는 오직 형상만 유전됩니다. 생명은 씨앗이 우리 지구의 전체 생명 안에 받아들여졌기 때문에 그 안으로 들어옵니다. 동물에게 영혼성이 있다는 것은 명백합니다.
 
-문단 64
+================================================================================
+
+문단 63
 - 독일어
 es ist daher selbstverständlich, daß wir von Lust und Leid, Freude und Schmerz beim Tiere sprechen. Wenn wir uns klarmachen wollen, was Lust und Leid im Pflanzenreich bedeutet, so müssen wir zur Betrachtung von andern Wesenheiten übergehen.
 
@@ -830,7 +946,9 @@ it is therefore self-evident to speak of happiness and suffering, joy and pain i
 - AI 번역
 그러므로 우리가 동물에게 쾌와 고통, 기쁨과 아픔이 있다고 말하는 것은 당연합니다. 식물계에서 쾌와 고통이 무엇을 뜻하는지 분명히 하고자 한다면, 우리는 다른 존재들에 대한 고찰로 넘어가야 합니다.
 
-문단 65
+================================================================================
+
+문단 64
 - 독일어
 Denn Lust und Leid wird außerhalb der einzelnen Pflanzen empfunden;
 
@@ -843,7 +961,9 @@ because happiness and suffering are felt outside single plants;
 - AI 번역
 왜냐하면 쾌와 고통은 개별 식물들 바깥에서 느껴지기 때문입니다.
 
-문단 66
+================================================================================
+
+문단 65
 - 독일어
 der ganze Organismus der Erde empfindet das innerhalb unserer Erdensphäre
 
@@ -856,7 +976,9 @@ the whole organism of the earth feels them,
 - AI 번역
 지구라는 전체 유기체가 그것을 우리의 지구 권역 안에서 느낍니다.
 
-문단 67
+================================================================================
+
+문단 66
 - 독일어
 gerade so, wie, wenn Sie sich in den Finger schneiden, es Ihnen nicht eigentlich weh tut im Finger: der Schmerz entsteht dadurch, daß er zum ganzen Organismus übergeführt wird. Wenn Sie den Schmerz der Pflanze begreifen wollen, müssen Sie zur ganzen Erde übergehen, um die Seele der Pflanze dort zu erfassen. Das Wesentliche ist folgende Unterscheidung: Wenn Sie ein Tier verletzen, ist es so, daß beim Tiere der Schmerz innerhalb der Haut sitzt,
 
@@ -869,7 +991,9 @@ just as when you cut a finger the pain is not in the finger itself but is led ov
 - AI 번역
 여러분이 손가락을 베었을 때, 본래 손가락 안에서 아픈 것이 아닌 것과 마찬가지입니다. 고통은 그것이 전체 유기체로 전달됨으로써 생겨납니다. 식물의 고통을 이해하고자 한다면, 식물의 영혼을 거기서 파악하기 위해 전체 지구로 나아가야 합니다. 본질적인 것은 다음과 같은 구별입니다. 여러분이 동물을 다치게 하면, 동물에게서는 고통이 피부 안쪽에 자리합니다.
 
-문단 68
+================================================================================
+
+문단 67
 - 독일어
 ebenso beim Menschen in bezug auf seine tierische Natur.
 
@@ -882,7 +1006,9 @@ as is also the case with the animal nature of the human being.
 - AI 번역
 인간의 동물적 본성에 관해서도 마찬가지입니다.
 
-문단 69
+================================================================================
+
+문단 68
 - 독일어
 Hier nähern wir uns immer mehr der Individualisierung: je weiter die Entwickelung der Naturreiche heraufsteigt, desto mehr kommen wir zu Wesen, die ihren Mittelpunkt in sich selbst haben, in sich Lust und Leid empfinden. Die Pflanze betrachten wir nur richtig, wenn wir sie im Zusammenhang mit der ganzen Erde betrachten. Das Tier hat eine Seele und empfindet allerdings Lust und Leid innerhalb seiner Haut. Diese Seele sehen Sie nicht.
 
@@ -895,7 +1021,9 @@ Here we are coming ever nearer to individualization; the higher the evolution of
 - AI 번역
 여기서 우리는 점점 더 개체화에 가까워집니다. 자연 왕국들의 발전이 위로 올라갈수록, 우리는 그 중심을 자기 자신 안에 지닌 존재들, 자기 안에서 쾌와 고통을 느끼는 존재들에게 더 가까이 다가갑니다. 우리는 식물을 전체 지구와의 관계 안에서 바라볼 때에만 올바르게 고찰할 수 있습니다. 동물은 영혼을 가지고 있으며, 실제로 자기 피부 안쪽에서 쾌와 고통을 느낍니다. 여러분은 이 영혼을 보지 못합니다.
 
-문단 70
+================================================================================
+
+문단 69
 - 독일어
 Sie ist in jenem Reiche, das wir das astralische nennen. Wesen, die einen Mittelpunkt in sich selbst haben, deren Seelen leben im astralischen Reich.
 
@@ -908,7 +1036,9 @@ It is in the realm we call the astral world. The animals are creatures that have
 - AI 번역
 그것은 우리가 아스트랄적이라고 부르는 저 왕국 안에 있습니다. 자기 자신 안에 하나의 중심을 지닌 존재들, 그들의 영혼은 아스트랄 왕국 안에 삽니다.
 
-문단 71
+================================================================================
+
+문단 70
 - 독일어
 Sie sehen, daß wir zu gleicher Zeit eine gewisse Gliederung unserer Weltenidee haben:
 
@@ -921,7 +1051,9 @@ Thus there is a certain systematic order in our idea of the world.
 - AI 번역
 여러분은 동시에 우리의 세계 관념이 어떤 분절을 얻게 되는지도 봅니다.
 
-문단 72
+================================================================================
+
+문단 71
 - 독일어
 das Mineral verbirgt seine Seele sehr, die Pflanze weniger, das Tier noch weniger; es hat sein Zentrum in sich, das heißt da, wo das Unsichtbare ist.
 
@@ -934,7 +1066,9 @@ The mineral conceals its soul deeply, the plant less deeply and the animal less 
 - AI 번역
 광물은 자신의 영혼을 아주 깊이 감춥니다. 식물은 그보다 덜 감추고, 동물은 더더욱 덜 감춥니다. 동물은 자기 안에 중심을 가지고 있습니다. 말하자면 그 중심은 보이지 않는 것이 있는 그곳에 있습니다.
 
-문단 73
+================================================================================
+
+문단 72
 - 독일어
 Die Seelen der Tiere müssen wir in einer andern als der physischen Welt suchen.
 
@@ -947,7 +1081,9 @@ We must look for the souls of the animals in a world other than the physical.
 - AI 번역
 우리는 동물의 영혼들을 물리적 세계와는 다른 세계에서 찾아야 합니다.
 
-문단 74
+================================================================================
+
+문단 73
 - 독일어
 Wir unterscheiden also vier Reiche. Erstens: das Reich, wo das Sichtbare ist von Mineral, Pflanze und Tier; die physische Welt. Zweitens: das Reich, wo das Unsichtbare vom Tier ist, das astralische Reich. Drittens: das Reich der Pflanzen, deren Seelen sich verbergen im unteren Devachan. Viertens: das Reich, dessen Seelen sich verbergen im oberen Devachan. Diese Unterscheidung ergibt sich uns schon aus der Betrachtung der äußeren Welt. Jetzt wollen wir übergehen zu den Ergebnissen der hellseherischen Forschung.
 
@@ -960,7 +1096,9 @@ Thus we distinguish four kingdoms. Firstly, the realm of the visible forms of mi
 - AI 번역
 그러므로 우리는 네 개의 왕국을 구별합니다. 첫째, 광물과 식물과 동물 가운데 보이는 것이 있는 왕국, 곧 물리적 세계입니다. 둘째, 동물의 보이지 않는 것이 있는 왕국, 곧 아스트랄 왕국입니다. 셋째, 그 영혼들이 하위 데바칸 안에 숨어 있는 식물들의 왕국입니다. 넷째, 그 영혼들이 상위 데바칸 안에 숨어 있는 왕국입니다. 이러한 구별은 이미 외적 세계를 고찰하는 데서 우리에게 주어집니다. 이제 우리는 영시적 탐구의 결과들로 넘어가고자 합니다.
 
-문단 75
+================================================================================
+
+문단 74
 - 독일어
 In dem Raum, den das Mineral selbst einnimmt, ist nichts von Seelenhaftigkeit vorhanden. Seelisch ist dieser Raum leer, schwarz,
 
@@ -973,7 +1111,9 @@ In the space occupied by the mineral as such, nothing of the nature of soul is p
 - AI 번역
 광물 자체가 차지하고 있는 공간 안에는 영혼적인 것이 아무것도 없습니다. 영혼적으로 이 공간은 비어 있고, 검습니다.
 
-문단 76
+================================================================================
+
+문단 75
 - 독일어
 aber außen herum beginnt es zu leuchten, etwas weiter weg wird dieses Leuchten noch stärker. Was ist das? Es ist der im Kosmos wesende Ätherleib des Minerals,
 
@@ -986,7 +1126,9 @@ but round about and outside it luminosity begins; further away this luminosity i
 - AI 번역
 그러나 그 둘레 바깥에서 빛나기 시작하며, 조금 더 멀리 가면 이 빛남은 더욱 강해집니다. 이것은 무엇입니까? 그것은 코스모스 안에 현존하는 광물의 에테르체입니다.
 
-문단 77
+================================================================================
+
+문단 76
 - 독일어
 der da, wo das Mineral selbst nicht ist, ausgespart hat einen Teil des Äthers. Und die seelischkosmischen Kräfte des Minerals empfinden Lust und Leid in jenem Raum, wo der Ätherleib des Minerals ausgespart ist: da beginnt es zu schmerzen, oder es fliegt Freude zum Beispiel voran dem Splitter des Steines aus dem Steinbruch, wie ein geistiger Lichtstrahl. Der Ätherleib des Minerals ist das, was den physischen einsäumt. Da, wo das Mineral ist, könnte man sagen, hat der Ätherleib sich so verdichtet, daß er physisch geworden ist. Der Unterschied zwischen Mineral und Pflanze entsteht dadurch, daß der Ätherleib in der Pflanze darinnen ist, daß alle ihre Teile durchzogen sind von ihm, daß er sie ganz durchdringt. Alles das, was als Grünes die Pflanze durchzieht, das ist eben die Substanz, die wir vorher als Ätherleib des Minerals, außerhalb desselben, beschrieben haben.
 
@@ -999,7 +1141,9 @@ drawn from a part of the ether where no actual mineral exists. The cosmic soul f
 - AI 번역
 광물 자체가 있는 곳에서는 이 에테르체가 에테르의 한 부분을 비워 둔 것입니다. 그리고 광물의 영혼적-우주적 힘들은, 광물의 에테르체가 비워져 있는 바로 그 공간에서 쾌와 고통을 느낍니다. 거기서 고통이 시작되거나, 예를 들어 채석장의 돌에서 떨어져 나가는 파편 앞을 향해 기쁨이 영적 빛줄기처럼 날아갑니다. 광물의 에테르체는 물리적 광물을 둘러싸 테두리 짓는 것입니다. 광물이 있는 곳에서는, 이렇게 말할 수 있습니다. 에테르체가 그만큼 응축되어 물리적인 것이 된 것입니다. 광물과 식물의 차이는, 식물 안에는 에테르체가 들어 있다는 데서 생깁니다. 식물의 모든 부분은 에테르체에 의해 관통되어 있으며, 에테르체는 식물을 완전히 스며들어 있습니다. 식물을 초록빛으로 관통하는 모든 것, 그것이 바로 우리가 앞서 광물의 바깥에 있는 광물의 에테르체로 묘사한 그 실체입니다.
 
-문단 78
+================================================================================
+
+문단 77
 - 독일어
 Wenn aber in der Pflanze nur das der Fall wäre, daß sie vom Ätherleib durchzogen ist, so würde sie nicht blühen, sondern immer nur grüne Blätter treiben. Fängt die Pflanze an zu blühen, so sieht das hellseherische Bewußtsein über der Pflanze sich etwas ausbreiten, das sie umspült: das ist das astralische Leben, das bringt diese Krönung des Wachstums hervor. Die grüne Pflanze wächst, und zum Abschluß breitet sich ein Neues über sie aus, das Astralische, das aber nie in sie hineingeht.
 
@@ -1012,7 +1156,9 @@ But if all that could be said about the plant were that it is permeated by an et
 - AI 번역
 그러나 식물 안에서 일어나는 일이 단지 에테르체에 의해 관통되는 것뿐이라면, 식물은 꽃을 피우지 않고 언제나 초록 잎만 낼 것입니다. 식물이 꽃피기 시작하면, 영시적 의식은 식물 위로 무엇인가가 펼쳐져 식물을 감싸 흐르는 것을 봅니다. 그것은 아스트랄적 생명입니다. 그것이 성장의 이 절정을 산출합니다. 초록 식물은 자라납니다. 그리고 그 마무리로서 새로운 것이 그 위에 펼쳐집니다. 그것은 아스트랄적인 것입니다. 그러나 그것은 결코 식물 안으로 들어가지 않습니다.
 
-문단 79
+================================================================================
+
+문단 78
 - 독일어
 Das Tier hat geistig das in sich, wovon die Pflanze umspült wird. Wenn das, was die Pflanze umspült, innerhalb der Haut ist, dann ist das ein Tier. Das, was oberhalb der Pflanze schwebt, das Astralische, das umgibt die ganze Erde. Das ist die Gesamtastralität der Erde, die wie ein Rauch über der Pflanze schwebt, wenn sie zur Blüte ansetzt.
 
@@ -1025,7 +1171,9 @@ The animal has spiritually within it what hovers around the plant. When what hov
 - AI 번역
 동물은 식물을 감싸 흐르는 바로 그것을 영적으로 자기 안에 지니고 있습니다. 식물을 감싸 흐르는 것이 피부 안쪽에 있을 때, 그것은 동물입니다. 식물 위에 떠 있는 것, 곧 아스트랄적인 것은 지구 전체를 둘러싸고 있습니다. 그것은 지구의 전체 아스트랄성입니다. 식물이 꽃을 맺기 시작할 때, 그것은 식물 위에 연기처럼 떠 있습니다.
 
-문단 80
+================================================================================
+
+문단 79
 - 독일어
 Drinnen, in der Pflanze selbst, sitzt nicht Lust und Leid, sondern das wird von der Erde empfunden. Das Tier hat selbst Lust und Leid in sich; das, was im Tier als Astralleib drinnen ausgebreitet ist, das webt in unserer Gesamt-Erdenastralität. Das Mineralreich ist wie eingebettet in eine Ätherwelt, hat seinen Ätherleib um sich herum. Durchdrungen vom Ätherleib ist die Pflanze, und weil die Pflanzenwelt eingebettet ist in einen Astralleib, welcher der gesamten Astralität der Erde entspricht, deshalb ist Schmerz und Lust außerhalb der Pflanze. Und das Wesen, das nicht nur umspült ist vom Astralen, sondern dieses selbst in sich aufnehmen kann, das ist das Tier.
 
@@ -1038,7 +1186,9 @@ Happiness and suffering are not seated within the plant itself but are felt by t
 - AI 번역
 식물 자체의 안쪽에 쾌와 고통이 자리하고 있는 것이 아닙니다. 그것은 지구에 의해 느껴집니다. 동물은 자기 안에 스스로 쾌와 고통을 가지고 있습니다. 동물 안에서 아스트랄체로 펼쳐져 있는 것은, 우리의 전체 지구 아스트랄성 안에서 짜이고 움직입니다. 광물계는 하나의 에테르 세계 안에 묻혀 있는 것과 같으며, 자기 둘레에 에테르체를 가지고 있습니다. 식물은 에테르체에 의해 관통되어 있습니다. 그리고 식물 세계는 지구의 전체 아스트랄성에 상응하는 하나의 아스트랄체 안에 놓여 있기 때문에, 고통과 쾌는 식물 바깥에 있습니다. 그리고 아스트랄적인 것에 둘러싸여 있기만 한 것이 아니라, 그것을 자기 안으로 받아들일 수 있는 존재, 그것이 동물입니다.
 
-문단 81
+================================================================================
+
+문단 80
 - 독일어
 So haben wir uns einen Überblick verschafft über die drei Reiche der uns umgebenden Welt in ihrem Zusammenhang mit den höheren Welten. Der Mensch nun ist eine kleine Welt für sich. Ihn müssen wir aufbauen aus alledem, was ihn umgibt.
 
@@ -1051,7 +1201,9 @@ Thus we have now surveyed the three kingdoms of the world surrounding us and the
 - AI 번역
 이렇게 우리는 우리를 둘러싼 세계의 세 왕국을, 더 높은 세계들과의 관계 속에서 개관해 보았습니다. 이제 인간은 자기 자신을 위한 하나의 작은 세계입니다. 우리는 인간을 그를 둘러싸고 있는 모든 것으로부터 세워 올려야 합니다.
 
-문단 82
+================================================================================
+
+문단 81
 - 독일어
 Das, was wir heute gefunden haben, das wollen wir dann morgen zur Erfassung des Aufbaus des Menschen benützen.
 
@@ -1063,3 +1215,5 @@ What we have discovered today we will use tomorrow in order to comprehend the st
 
 - AI 번역
 오늘 우리가 발견한 것을, 우리는 내일 인간의 구성 구조를 파악하는 데 사용하게 될 것입니다.
+
+================================================================================
