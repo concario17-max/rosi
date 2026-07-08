@@ -1293,7 +1293,7 @@
                     "chapterName": "2강 우리 바깥 세계에 존재하는 혼",
                     "title": "Soul in the World around Us",
                     "tocHeadings": [
-                        "Paragraphs 1 - 81"
+                        "Paragraphs 1 - 80"
                     ],
                     "paragraphs": [
                         {
@@ -1878,28 +1878,16 @@
                             "paragraphNumber": 49,
                             "chapterTitle": "장미십자 방법",
                             "text": {
-                                "german": "Reich der Formlosigkeit, Arupa oder oberes Devachan.",
-                                "english": "Realm of Formlessness, Arupa or Upper Devachan.",
-                                "korean": "무형태의 영역 - 아루파(Arupa) / 무색계 / 고차데바칸계",
-                                "ai_translation": "무형성의 왕국, 아루파 또는 상위 데바칸."
+                                "german": "Reich der Formlosigkeit, Arupa oder oberes Devachan. Reich der Form, Rupa oder unteres Devachan.",
+                                "english": "Realm of Formlessness, Arupa or Upper Devachan. Realm of Form, Rupa or Lower Devachan.",
+                                "korean": "무형태의 영역 - 아루파(Arupa) / 무색계 / 고차데바칸계 형태의 영역 - 루파(Rupa) / 색계 / 저차데바칸계",
+                                "ai_translation": "무형성의 왕국, 아루파 또는 상위 데바칸. 형상의 왕국, 루파 또는 하위 데바칸."
                             }
                         },
                         {
                             "id": "rosi.2.50",
                             "title": "문단 50",
                             "paragraphNumber": 50,
-                            "chapterTitle": "장미십자 방법",
-                            "text": {
-                                "german": "Reich der Form, Rupa oder unteres Devachan.",
-                                "english": "Realm of Form, Rupa or Lower Devachan.",
-                                "korean": "형태의 영역 - 루파(Rupa) / 색계 / 저차데바칸계",
-                                "ai_translation": "형상의 왕국, 루파 또는 하위 데바칸."
-                            }
-                        },
-                        {
-                            "id": "rosi.2.51",
-                            "title": "문단 51",
-                            "paragraphNumber": 51,
                             "chapterTitle": "장미십자 방법",
                             "text": {
                                 "german": "Zu einem bestimmten Gebiet der geistigen Welt, und zwar zu seinen oberen Partien, gehören die Seelen des Mineralreiches. Sie müssen sich nicht darüber wundern, denn die Seelen sind in einem um so höheren Reiche zu suchen, je mehr sie sich verbergen, je weniger sie sich äußern können. Warum nennt man das eine Gebiet ein Reich der Formlosigkeit, das andere ein Reich der Form? Wenn ein Kristall zerschlagen wird, so ist eben nur dessen Form zerstört; diese kann sich aber wiederum woanders, unabhängig von der zerstörten, ebenso bilden. Wenn in der Natur ein Salzkristall entsteht, so ist es nicht notwendig, daß er aus einem andern heraus entsteht. Er kann auch nur aus der Substanz des Salzes heraus entstehen und wieder verschwinden als Form: das ist die Eigenart der formlosen Substanz.",
@@ -1909,9 +1897,9 @@
                             }
                         },
                         {
-                            "id": "rosi.2.52",
-                            "title": "문단 52",
-                            "paragraphNumber": 52,
+                            "id": "rosi.2.51",
+                            "title": "문단 51",
+                            "paragraphNumber": 51,
                             "chapterTitle": "장미십자 방법",
                             "text": {
                                 "german": "Bei der Pflanze kann die Form nicht in derselben Weise aus der Substanz, aus dem Formlosen entstehen. Sie muß sich aus einer Vorfahrenpflanze entwickeln.",
@@ -1921,9 +1909,9 @@
                             }
                         },
                         {
-                            "id": "rosi.2.53",
-                            "title": "문단 53",
-                            "paragraphNumber": 53,
+                            "id": "rosi.2.52",
+                            "title": "문단 52",
+                            "paragraphNumber": 52,
                             "chapterTitle": "장미십자 방법",
                             "text": {
                                 "german": "und das ist das Charakteristische der Pflanze",
@@ -1933,9 +1921,9 @@
                             }
                         },
                         {
-                            "id": "rosi.2.54",
-                            "title": "문단 54",
-                            "paragraphNumber": 54,
+                            "id": "rosi.2.53",
+                            "title": "문단 53",
+                            "paragraphNumber": 53,
                             "chapterTitle": "장미십자 방법",
                             "text": {
                                 "german": "Vom Vorfahren auf den Nachkommen muß die Form übergehen. Da, wo wir die Seelen der Wesen in dem Reiche der Form haben, geschieht die Fortpflanzung durch Übertragung der Form. Nur die Form, sonst nichts, steckt in dem Samenkorn.",
@@ -1945,9 +1933,9 @@
                             }
                         },
                         {
-                            "id": "rosi.2.55",
-                            "title": "문단 55",
-                            "paragraphNumber": 55,
+                            "id": "rosi.2.54",
+                            "title": "문단 54",
+                            "paragraphNumber": 54,
                             "chapterTitle": "장미십자 방법",
                             "text": {
                                 "german": "Es ist eine oberflächliche Betrachtung der Wissenschaft, daß sie glaubt, es bestehe kein großer Unterschied zwischen Pflanzensamen und Tiersamen.",
@@ -1957,9 +1945,9 @@
                             }
                         },
                         {
-                            "id": "rosi.2.56",
-                            "title": "문단 56",
-                            "paragraphNumber": 56,
+                            "id": "rosi.2.55",
+                            "title": "문단 55",
+                            "paragraphNumber": 55,
                             "chapterTitle": "장미십자 방법",
                             "text": {
                                 "german": "Im Tiersamen ist es die Form und das Leben, das vom Vorfahren auf den Nachkommen übergeht: das Leben geht über.",
@@ -1969,9 +1957,9 @@
                             }
                         },
                         {
-                            "id": "rosi.2.57",
-                            "title": "문단 57",
-                            "paragraphNumber": 57,
+                            "id": "rosi.2.56",
+                            "title": "문단 56",
+                            "paragraphNumber": 56,
                             "chapterTitle": "장미십자 방법",
                             "text": {
                                 "german": "Im Liliensamen ist nichts anderes konserviert als die Form,",
@@ -1981,9 +1969,9 @@
                             }
                         },
                         {
-                            "id": "rosi.2.58",
-                            "title": "문단 58",
-                            "paragraphNumber": 58,
+                            "id": "rosi.2.57",
+                            "title": "문단 57",
+                            "paragraphNumber": 57,
                             "chapterTitle": "장미십자 방법",
                             "text": {
                                 "german": "und die wird auf die neue Lilie übertragen. Beim Mineral ist es so, daß aus dem oberen Devachan heraus die Kräfte entstehen, die sozusagen die Form prägen.",
@@ -1993,9 +1981,9 @@
                             }
                         },
                         {
-                            "id": "rosi.2.59",
-                            "title": "문단 59",
-                            "paragraphNumber": 59,
+                            "id": "rosi.2.58",
+                            "title": "문단 58",
+                            "paragraphNumber": 58,
                             "chapterTitle": "장미십자 방법",
                             "text": {
                                 "german": "Beim Kristall schießt sozusagen die Formlosigkeit vor dem Auge in die Form. Wir müssen uns also sagen, daß der ganze Planet, auf dem ein Pflanzenleben sich entfaltet, von einem Gesamtleben umgeben ist, in welchem der Impuls liegt, daß das Leben der Pflanze daraus entstehen kann,",
@@ -2005,9 +1993,9 @@
                             }
                         },
                         {
-                            "id": "rosi.2.60",
-                            "title": "문단 60",
-                            "paragraphNumber": 60,
+                            "id": "rosi.2.59",
+                            "title": "문단 59",
+                            "paragraphNumber": 59,
                             "chapterTitle": "장미십자 방법",
                             "text": {
                                 "german": "und aus dem Samen nur die Form der Pflanze.",
@@ -2017,9 +2005,9 @@
                             }
                         },
                         {
-                            "id": "rosi.2.61",
-                            "title": "문단 61",
-                            "paragraphNumber": 61,
+                            "id": "rosi.2.60",
+                            "title": "문단 60",
+                            "paragraphNumber": 60,
                             "chapterTitle": "장미십자 방법",
                             "text": {
                                 "german": "Von dem Leben der alten Lilie geht nichts über auf das Beet oder den Blumentopf, in dem das Samenkorn ruht. Daß die neue Lilie belebt wird, rührt davon her, daß der Same aufgenommen worden ist in das All-Leben unserer Erde.",
@@ -2029,9 +2017,9 @@
                             }
                         },
                         {
-                            "id": "rosi.2.62",
-                            "title": "문단 62",
-                            "paragraphNumber": 62,
+                            "id": "rosi.2.61",
+                            "title": "문단 61",
+                            "paragraphNumber": 61,
                             "chapterTitle": "장미십자 방법",
                             "text": {
                                 "german": "Dadurch ist schon der Übergang zum Tierreich geschaffen. Durch den Samen wird nur die Form vererbt; das Leben kommt hinein, weil der Same aufgenommen worden ist in das All-Leben unserer Erde. Die Seelenhaftigkeit beim Tier ist augenscheinlich,",
@@ -2041,9 +2029,9 @@
                             }
                         },
                         {
-                            "id": "rosi.2.63",
-                            "title": "문단 63",
-                            "paragraphNumber": 63,
+                            "id": "rosi.2.62",
+                            "title": "문단 62",
+                            "paragraphNumber": 62,
                             "chapterTitle": "장미십자 방법",
                             "text": {
                                 "german": "es ist daher selbstverständlich, daß wir von Lust und Leid, Freude und Schmerz beim Tiere sprechen. Wenn wir uns klarmachen wollen, was Lust und Leid im Pflanzenreich bedeutet, so müssen wir zur Betrachtung von andern Wesenheiten übergehen.",
@@ -2053,9 +2041,9 @@
                             }
                         },
                         {
-                            "id": "rosi.2.64",
-                            "title": "문단 64",
-                            "paragraphNumber": 64,
+                            "id": "rosi.2.63",
+                            "title": "문단 63",
+                            "paragraphNumber": 63,
                             "chapterTitle": "장미십자 방법",
                             "text": {
                                 "german": "Denn Lust und Leid wird außerhalb der einzelnen Pflanzen empfunden;",
@@ -2065,9 +2053,9 @@
                             }
                         },
                         {
-                            "id": "rosi.2.65",
-                            "title": "문단 65",
-                            "paragraphNumber": 65,
+                            "id": "rosi.2.64",
+                            "title": "문단 64",
+                            "paragraphNumber": 64,
                             "chapterTitle": "장미십자 방법",
                             "text": {
                                 "german": "der ganze Organismus der Erde empfindet das innerhalb unserer Erdensphäre",
@@ -2077,9 +2065,9 @@
                             }
                         },
                         {
-                            "id": "rosi.2.66",
-                            "title": "문단 66",
-                            "paragraphNumber": 66,
+                            "id": "rosi.2.65",
+                            "title": "문단 65",
+                            "paragraphNumber": 65,
                             "chapterTitle": "장미십자 방법",
                             "text": {
                                 "german": "gerade so, wie, wenn Sie sich in den Finger schneiden, es Ihnen nicht eigentlich weh tut im Finger: der Schmerz entsteht dadurch, daß er zum ganzen Organismus übergeführt wird. Wenn Sie den Schmerz der Pflanze begreifen wollen, müssen Sie zur ganzen Erde übergehen, um die Seele der Pflanze dort zu erfassen. Das Wesentliche ist folgende Unterscheidung: Wenn Sie ein Tier verletzen, ist es so, daß beim Tiere der Schmerz innerhalb der Haut sitzt,",
@@ -2089,9 +2077,9 @@
                             }
                         },
                         {
-                            "id": "rosi.2.67",
-                            "title": "문단 67",
-                            "paragraphNumber": 67,
+                            "id": "rosi.2.66",
+                            "title": "문단 66",
+                            "paragraphNumber": 66,
                             "chapterTitle": "장미십자 방법",
                             "text": {
                                 "german": "ebenso beim Menschen in bezug auf seine tierische Natur.",
@@ -2101,9 +2089,9 @@
                             }
                         },
                         {
-                            "id": "rosi.2.68",
-                            "title": "문단 68",
-                            "paragraphNumber": 68,
+                            "id": "rosi.2.67",
+                            "title": "문단 67",
+                            "paragraphNumber": 67,
                             "chapterTitle": "장미십자 방법",
                             "text": {
                                 "german": "Hier nähern wir uns immer mehr der Individualisierung: je weiter die Entwickelung der Naturreiche heraufsteigt, desto mehr kommen wir zu Wesen, die ihren Mittelpunkt in sich selbst haben, in sich Lust und Leid empfinden. Die Pflanze betrachten wir nur richtig, wenn wir sie im Zusammenhang mit der ganzen Erde betrachten. Das Tier hat eine Seele und empfindet allerdings Lust und Leid innerhalb seiner Haut. Diese Seele sehen Sie nicht.",
@@ -2113,9 +2101,9 @@
                             }
                         },
                         {
-                            "id": "rosi.2.69",
-                            "title": "문단 69",
-                            "paragraphNumber": 69,
+                            "id": "rosi.2.68",
+                            "title": "문단 68",
+                            "paragraphNumber": 68,
                             "chapterTitle": "장미십자 방법",
                             "text": {
                                 "german": "Sie ist in jenem Reiche, das wir das astralische nennen. Wesen, die einen Mittelpunkt in sich selbst haben, deren Seelen leben im astralischen Reich.",
@@ -2125,9 +2113,9 @@
                             }
                         },
                         {
-                            "id": "rosi.2.70",
-                            "title": "문단 70",
-                            "paragraphNumber": 70,
+                            "id": "rosi.2.69",
+                            "title": "문단 69",
+                            "paragraphNumber": 69,
                             "chapterTitle": "장미십자 방법",
                             "text": {
                                 "german": "Sie sehen, daß wir zu gleicher Zeit eine gewisse Gliederung unserer Weltenidee haben:",
@@ -2137,9 +2125,9 @@
                             }
                         },
                         {
-                            "id": "rosi.2.71",
-                            "title": "문단 71",
-                            "paragraphNumber": 71,
+                            "id": "rosi.2.70",
+                            "title": "문단 70",
+                            "paragraphNumber": 70,
                             "chapterTitle": "장미십자 방법",
                             "text": {
                                 "german": "das Mineral verbirgt seine Seele sehr, die Pflanze weniger, das Tier noch weniger; es hat sein Zentrum in sich, das heißt da, wo das Unsichtbare ist.",
@@ -2149,9 +2137,9 @@
                             }
                         },
                         {
-                            "id": "rosi.2.72",
-                            "title": "문단 72",
-                            "paragraphNumber": 72,
+                            "id": "rosi.2.71",
+                            "title": "문단 71",
+                            "paragraphNumber": 71,
                             "chapterTitle": "장미십자 방법",
                             "text": {
                                 "german": "Die Seelen der Tiere müssen wir in einer andern als der physischen Welt suchen.",
@@ -2161,9 +2149,9 @@
                             }
                         },
                         {
-                            "id": "rosi.2.73",
-                            "title": "문단 73",
-                            "paragraphNumber": 73,
+                            "id": "rosi.2.72",
+                            "title": "문단 72",
+                            "paragraphNumber": 72,
                             "chapterTitle": "장미십자 방법",
                             "text": {
                                 "german": "Wir unterscheiden also vier Reiche. Erstens: das Reich, wo das Sichtbare ist von Mineral, Pflanze und Tier; die physische Welt. Zweitens: das Reich, wo das Unsichtbare vom Tier ist, das astralische Reich. Drittens: das Reich der Pflanzen, deren Seelen sich verbergen im unteren Devachan. Viertens: das Reich, dessen Seelen sich verbergen im oberen Devachan. Diese Unterscheidung ergibt sich uns schon aus der Betrachtung der äußeren Welt. Jetzt wollen wir übergehen zu den Ergebnissen der hellseherischen Forschung.",
@@ -2173,9 +2161,9 @@
                             }
                         },
                         {
-                            "id": "rosi.2.74",
-                            "title": "문단 74",
-                            "paragraphNumber": 74,
+                            "id": "rosi.2.73",
+                            "title": "문단 73",
+                            "paragraphNumber": 73,
                             "chapterTitle": "장미십자 방법",
                             "text": {
                                 "german": "In dem Raum, den das Mineral selbst einnimmt, ist nichts von Seelenhaftigkeit vorhanden. Seelisch ist dieser Raum leer, schwarz,",
@@ -2185,9 +2173,9 @@
                             }
                         },
                         {
-                            "id": "rosi.2.75",
-                            "title": "문단 75",
-                            "paragraphNumber": 75,
+                            "id": "rosi.2.74",
+                            "title": "문단 74",
+                            "paragraphNumber": 74,
                             "chapterTitle": "장미십자 방법",
                             "text": {
                                 "german": "aber außen herum beginnt es zu leuchten, etwas weiter weg wird dieses Leuchten noch stärker. Was ist das? Es ist der im Kosmos wesende Ätherleib des Minerals,",
@@ -2197,9 +2185,9 @@
                             }
                         },
                         {
-                            "id": "rosi.2.76",
-                            "title": "문단 76",
-                            "paragraphNumber": 76,
+                            "id": "rosi.2.75",
+                            "title": "문단 75",
+                            "paragraphNumber": 75,
                             "chapterTitle": "장미십자 방법",
                             "text": {
                                 "german": "der da, wo das Mineral selbst nicht ist, ausgespart hat einen Teil des Äthers. Und die seelischkosmischen Kräfte des Minerals empfinden Lust und Leid in jenem Raum, wo der Ätherleib des Minerals ausgespart ist: da beginnt es zu schmerzen, oder es fliegt Freude zum Beispiel voran dem Splitter des Steines aus dem Steinbruch, wie ein geistiger Lichtstrahl. Der Ätherleib des Minerals ist das, was den physischen einsäumt. Da, wo das Mineral ist, könnte man sagen, hat der Ätherleib sich so verdichtet, daß er physisch geworden ist. Der Unterschied zwischen Mineral und Pflanze entsteht dadurch, daß der Ätherleib in der Pflanze darinnen ist, daß alle ihre Teile durchzogen sind von ihm, daß er sie ganz durchdringt. Alles das, was als Grünes die Pflanze durchzieht, das ist eben die Substanz, die wir vorher als Ätherleib des Minerals, außerhalb desselben, beschrieben haben.",
@@ -2209,9 +2197,9 @@
                             }
                         },
                         {
-                            "id": "rosi.2.77",
-                            "title": "문단 77",
-                            "paragraphNumber": 77,
+                            "id": "rosi.2.76",
+                            "title": "문단 76",
+                            "paragraphNumber": 76,
                             "chapterTitle": "장미십자 방법",
                             "text": {
                                 "german": "Wenn aber in der Pflanze nur das der Fall wäre, daß sie vom Ätherleib durchzogen ist, so würde sie nicht blühen, sondern immer nur grüne Blätter treiben. Fängt die Pflanze an zu blühen, so sieht das hellseherische Bewußtsein über der Pflanze sich etwas ausbreiten, das sie umspült: das ist das astralische Leben, das bringt diese Krönung des Wachstums hervor. Die grüne Pflanze wächst, und zum Abschluß breitet sich ein Neues über sie aus, das Astralische, das aber nie in sie hineingeht.",
@@ -2221,9 +2209,9 @@
                             }
                         },
                         {
-                            "id": "rosi.2.78",
-                            "title": "문단 78",
-                            "paragraphNumber": 78,
+                            "id": "rosi.2.77",
+                            "title": "문단 77",
+                            "paragraphNumber": 77,
                             "chapterTitle": "장미십자 방법",
                             "text": {
                                 "german": "Das Tier hat geistig das in sich, wovon die Pflanze umspült wird. Wenn das, was die Pflanze umspült, innerhalb der Haut ist, dann ist das ein Tier. Das, was oberhalb der Pflanze schwebt, das Astralische, das umgibt die ganze Erde. Das ist die Gesamtastralität der Erde, die wie ein Rauch über der Pflanze schwebt, wenn sie zur Blüte ansetzt.",
@@ -2233,9 +2221,9 @@
                             }
                         },
                         {
-                            "id": "rosi.2.79",
-                            "title": "문단 79",
-                            "paragraphNumber": 79,
+                            "id": "rosi.2.78",
+                            "title": "문단 78",
+                            "paragraphNumber": 78,
                             "chapterTitle": "장미십자 방법",
                             "text": {
                                 "german": "Drinnen, in der Pflanze selbst, sitzt nicht Lust und Leid, sondern das wird von der Erde empfunden. Das Tier hat selbst Lust und Leid in sich; das, was im Tier als Astralleib drinnen ausgebreitet ist, das webt in unserer Gesamt-Erdenastralität. Das Mineralreich ist wie eingebettet in eine Ätherwelt, hat seinen Ätherleib um sich herum. Durchdrungen vom Ätherleib ist die Pflanze, und weil die Pflanzenwelt eingebettet ist in einen Astralleib, welcher der gesamten Astralität der Erde entspricht, deshalb ist Schmerz und Lust außerhalb der Pflanze. Und das Wesen, das nicht nur umspült ist vom Astralen, sondern dieses selbst in sich aufnehmen kann, das ist das Tier.",
@@ -2245,9 +2233,9 @@
                             }
                         },
                         {
-                            "id": "rosi.2.80",
-                            "title": "문단 80",
-                            "paragraphNumber": 80,
+                            "id": "rosi.2.79",
+                            "title": "문단 79",
+                            "paragraphNumber": 79,
                             "chapterTitle": "장미십자 방법",
                             "text": {
                                 "german": "So haben wir uns einen Überblick verschafft über die drei Reiche der uns umgebenden Welt in ihrem Zusammenhang mit den höheren Welten. Der Mensch nun ist eine kleine Welt für sich. Ihn müssen wir aufbauen aus alledem, was ihn umgibt.",
@@ -2257,9 +2245,9 @@
                             }
                         },
                         {
-                            "id": "rosi.2.81",
-                            "title": "문단 81",
-                            "paragraphNumber": 81,
+                            "id": "rosi.2.80",
+                            "title": "문단 80",
+                            "paragraphNumber": 80,
                             "chapterTitle": "장미십자 방법",
                             "text": {
                                 "german": "Das, was wir heute gefunden haben, das wollen wir dann morgen zur Erfassung des Aufbaus des Menschen benützen.",

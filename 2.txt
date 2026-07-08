@@ -1,6 +1,6 @@
 2강 전체 정밀재검수본
 
-※ 2강 전체 81문단을 기준으로 재검수했습니다.
+※ 2강 전체 80문단을 기준으로 재검수했습니다.
 ※ 형식: 문단 번호 → 독일어 → 영어 → 한글 → AI 번역
 
 문단 1
@@ -725,35 +725,20 @@ Yes, but when mischievous boys and girls uselessly tear off flowers how can that
 
 문단 49
 - 독일어
-Reich der Formlosigkeit, Arupa oder oberes Devachan.
+Reich der Formlosigkeit, Arupa oder oberes Devachan. Reich der Form, Rupa oder unteres Devachan.
 
 - 영어
-Realm of Formlessness, Arupa or Upper Devachan.
+Realm of Formlessness, Arupa or Upper Devachan. Realm of Form, Rupa or Lower Devachan.
 
 - 한글
-무형태의 영역 - 아루파(Arupa) / 무색계 / 고차데바칸계
+무형태의 영역 - 아루파(Arupa) / 무색계 / 고차데바칸계 형태의 영역 - 루파(Rupa) / 색계 / 저차데바칸계
 
 - AI 번역
-무형성의 왕국, 아루파 또는 상위 데바칸.
+무형성의 왕국, 아루파 또는 상위 데바칸. 형상의 왕국, 루파 또는 하위 데바칸.
 
 ================================================================================
 
 문단 50
-- 독일어
-Reich der Form, Rupa oder unteres Devachan.
-
-- 영어
-Realm of Form, Rupa or Lower Devachan.
-
-- 한글
-형태의 영역 - 루파(Rupa) / 색계 / 저차데바칸계
-
-- AI 번역
-형상의 왕국, 루파 또는 하위 데바칸.
-
-================================================================================
-
-문단 51
 - 독일어
 Zu einem bestimmten Gebiet der geistigen Welt, und zwar zu seinen oberen Partien, gehören die Seelen des Mineralreiches. Sie müssen sich nicht darüber wundern, denn die Seelen sind in einem um so höheren Reiche zu suchen, je mehr sie sich verbergen, je weniger sie sich äußern können. Warum nennt man das eine Gebiet ein Reich der Formlosigkeit, das andere ein Reich der Form? Wenn ein Kristall zerschlagen wird, so ist eben nur dessen Form zerstört; diese kann sich aber wiederum woanders, unabhängig von der zerstörten, ebenso bilden. Wenn in der Natur ein Salzkristall entsteht, so ist es nicht notwendig, daß er aus einem andern heraus entsteht. Er kann auch nur aus der Substanz des Salzes heraus entstehen und wieder verschwinden als Form: das ist die Eigenart der formlosen Substanz.
 
@@ -768,7 +753,7 @@ The souls of the minerals belong to a definite region of the spiritual world, in
 
 ================================================================================
 
-문단 52
+문단 51
 - 독일어
 Bei der Pflanze kann die Form nicht in derselben Weise aus der Substanz, aus dem Formlosen entstehen. Sie muß sich aus einer Vorfahrenpflanze entwickeln.
 
@@ -783,7 +768,7 @@ In the case of the plant, the form cannot come into existence in the same way, o
 
 ================================================================================
 
-문단 53
+문단 52
 - 독일어
 und das ist das Charakteristische der Pflanze
 
@@ -798,7 +783,7 @@ this is its essential characteristic
 
 ================================================================================
 
-문단 54
+문단 53
 - 독일어
 Vom Vorfahren auf den Nachkommen muß die Form übergehen. Da, wo wir die Seelen der Wesen in dem Reiche der Form haben, geschieht die Fortpflanzung durch Übertragung der Form. Nur die Form, sonst nichts, steckt in dem Samenkorn.
 
@@ -813,7 +798,7 @@ The form must pass over from progenitor to offspring in the case of the souls of
 
 ================================================================================
 
-문단 55
+문단 54
 - 독일어
 Es ist eine oberflächliche Betrachtung der Wissenschaft, daß sie glaubt, es bestehe kein großer Unterschied zwischen Pflanzensamen und Tiersamen.
 
@@ -828,7 +813,7 @@ It is a superficial belief of science that there is no great difference between 
 
 ================================================================================
 
-문단 56
+문단 55
 - 독일어
 Im Tiersamen ist es die Form und das Leben, das vom Vorfahren auf den Nachkommen übergeht: das Leben geht über.
 
@@ -843,7 +828,7 @@ In the animal egg, form and life are transmitted from progenitor to off-spring: 
 
 ================================================================================
 
-문단 57
+문단 56
 - 독일어
 Im Liliensamen ist nichts anderes konserviert als die Form,
 
@@ -858,7 +843,7 @@ In the seed of the lily nothing except the form is preserved
 
 ================================================================================
 
-문단 58
+문단 57
 - 독일어
 und die wird auf die neue Lilie übertragen. Beim Mineral ist es so, daß aus dem oberen Devachan heraus die Kräfte entstehen, die sozusagen die Form prägen.
 
@@ -873,7 +858,7 @@ and it is transmitted to the new lily. What happens in the mineral is that the f
 
 ================================================================================
 
-문단 59
+문단 58
 - 독일어
 Beim Kristall schießt sozusagen die Formlosigkeit vor dem Auge in die Form. Wir müssen uns also sagen, daß der ganze Planet, auf dem ein Pflanzenleben sich entfaltet, von einem Gesamtleben umgeben ist, in welchem der Impuls liegt, daß das Leben der Pflanze daraus entstehen kann,
 
@@ -888,7 +873,7 @@ In the case of the crystal, the formlessness shoots as it were into the form con
 
 ================================================================================
 
-문단 60
+문단 59
 - 독일어
 und aus dem Samen nur die Form der Pflanze.
 
@@ -903,7 +888,7 @@ and from the plant seed only the form.
 
 ================================================================================
 
-문단 61
+문단 60
 - 독일어
 Von dem Leben der alten Lilie geht nichts über auf das Beet oder den Blumentopf, in dem das Samenkorn ruht. Daß die neue Lilie belebt wird, rührt davon her, daß der Same aufgenommen worden ist in das All-Leben unserer Erde.
 
@@ -918,7 +903,7 @@ From the life of the old lily nothing passes over to the flower bed or flower po
 
 ================================================================================
 
-문단 62
+문단 61
 - 독일어
 Dadurch ist schon der Übergang zum Tierreich geschaffen. Durch den Samen wird nur die Form vererbt; das Leben kommt hinein, weil der Same aufgenommen worden ist in das All-Leben unserer Erde. Die Seelenhaftigkeit beim Tier ist augenscheinlich,
 
@@ -933,7 +918,7 @@ Here we come to the transition to the animal kingdom. The form alone is passed o
 
 ================================================================================
 
-문단 63
+문단 62
 - 독일어
 es ist daher selbstverständlich, daß wir von Lust und Leid, Freude und Schmerz beim Tiere sprechen. Wenn wir uns klarmachen wollen, was Lust und Leid im Pflanzenreich bedeutet, so müssen wir zur Betrachtung von andern Wesenheiten übergehen.
 
@@ -948,7 +933,7 @@ it is therefore self-evident to speak of happiness and suffering, joy and pain i
 
 ================================================================================
 
-문단 64
+문단 63
 - 독일어
 Denn Lust und Leid wird außerhalb der einzelnen Pflanzen empfunden;
 
@@ -963,7 +948,7 @@ because happiness and suffering are felt outside single plants;
 
 ================================================================================
 
-문단 65
+문단 64
 - 독일어
 der ganze Organismus der Erde empfindet das innerhalb unserer Erdensphäre
 
@@ -978,7 +963,7 @@ the whole organism of the earth feels them,
 
 ================================================================================
 
-문단 66
+문단 65
 - 독일어
 gerade so, wie, wenn Sie sich in den Finger schneiden, es Ihnen nicht eigentlich weh tut im Finger: der Schmerz entsteht dadurch, daß er zum ganzen Organismus übergeführt wird. Wenn Sie den Schmerz der Pflanze begreifen wollen, müssen Sie zur ganzen Erde übergehen, um die Seele der Pflanze dort zu erfassen. Das Wesentliche ist folgende Unterscheidung: Wenn Sie ein Tier verletzen, ist es so, daß beim Tiere der Schmerz innerhalb der Haut sitzt,
 
@@ -993,7 +978,7 @@ just as when you cut a finger the pain is not in the finger itself but is led ov
 
 ================================================================================
 
-문단 67
+문단 66
 - 독일어
 ebenso beim Menschen in bezug auf seine tierische Natur.
 
@@ -1008,7 +993,7 @@ as is also the case with the animal nature of the human being.
 
 ================================================================================
 
-문단 68
+문단 67
 - 독일어
 Hier nähern wir uns immer mehr der Individualisierung: je weiter die Entwickelung der Naturreiche heraufsteigt, desto mehr kommen wir zu Wesen, die ihren Mittelpunkt in sich selbst haben, in sich Lust und Leid empfinden. Die Pflanze betrachten wir nur richtig, wenn wir sie im Zusammenhang mit der ganzen Erde betrachten. Das Tier hat eine Seele und empfindet allerdings Lust und Leid innerhalb seiner Haut. Diese Seele sehen Sie nicht.
 
@@ -1023,7 +1008,7 @@ Here we are coming ever nearer to individualization; the higher the evolution of
 
 ================================================================================
 
-문단 69
+문단 68
 - 독일어
 Sie ist in jenem Reiche, das wir das astralische nennen. Wesen, die einen Mittelpunkt in sich selbst haben, deren Seelen leben im astralischen Reich.
 
@@ -1038,7 +1023,7 @@ It is in the realm we call the astral world. The animals are creatures that have
 
 ================================================================================
 
-문단 70
+문단 69
 - 독일어
 Sie sehen, daß wir zu gleicher Zeit eine gewisse Gliederung unserer Weltenidee haben:
 
@@ -1053,7 +1038,7 @@ Thus there is a certain systematic order in our idea of the world.
 
 ================================================================================
 
-문단 71
+문단 70
 - 독일어
 das Mineral verbirgt seine Seele sehr, die Pflanze weniger, das Tier noch weniger; es hat sein Zentrum in sich, das heißt da, wo das Unsichtbare ist.
 
@@ -1068,7 +1053,7 @@ The mineral conceals its soul deeply, the plant less deeply and the animal less 
 
 ================================================================================
 
-문단 72
+문단 71
 - 독일어
 Die Seelen der Tiere müssen wir in einer andern als der physischen Welt suchen.
 
@@ -1083,7 +1068,7 @@ We must look for the souls of the animals in a world other than the physical.
 
 ================================================================================
 
-문단 73
+문단 72
 - 독일어
 Wir unterscheiden also vier Reiche. Erstens: das Reich, wo das Sichtbare ist von Mineral, Pflanze und Tier; die physische Welt. Zweitens: das Reich, wo das Unsichtbare vom Tier ist, das astralische Reich. Drittens: das Reich der Pflanzen, deren Seelen sich verbergen im unteren Devachan. Viertens: das Reich, dessen Seelen sich verbergen im oberen Devachan. Diese Unterscheidung ergibt sich uns schon aus der Betrachtung der äußeren Welt. Jetzt wollen wir übergehen zu den Ergebnissen der hellseherischen Forschung.
 
@@ -1098,7 +1083,7 @@ Thus we distinguish four kingdoms. Firstly, the realm of the visible forms of mi
 
 ================================================================================
 
-문단 74
+문단 73
 - 독일어
 In dem Raum, den das Mineral selbst einnimmt, ist nichts von Seelenhaftigkeit vorhanden. Seelisch ist dieser Raum leer, schwarz,
 
@@ -1113,7 +1098,7 @@ In the space occupied by the mineral as such, nothing of the nature of soul is p
 
 ================================================================================
 
-문단 75
+문단 74
 - 독일어
 aber außen herum beginnt es zu leuchten, etwas weiter weg wird dieses Leuchten noch stärker. Was ist das? Es ist der im Kosmos wesende Ätherleib des Minerals,
 
@@ -1128,7 +1113,7 @@ but round about and outside it luminosity begins; further away this luminosity i
 
 ================================================================================
 
-문단 76
+문단 75
 - 독일어
 der da, wo das Mineral selbst nicht ist, ausgespart hat einen Teil des Äthers. Und die seelischkosmischen Kräfte des Minerals empfinden Lust und Leid in jenem Raum, wo der Ätherleib des Minerals ausgespart ist: da beginnt es zu schmerzen, oder es fliegt Freude zum Beispiel voran dem Splitter des Steines aus dem Steinbruch, wie ein geistiger Lichtstrahl. Der Ätherleib des Minerals ist das, was den physischen einsäumt. Da, wo das Mineral ist, könnte man sagen, hat der Ätherleib sich so verdichtet, daß er physisch geworden ist. Der Unterschied zwischen Mineral und Pflanze entsteht dadurch, daß der Ätherleib in der Pflanze darinnen ist, daß alle ihre Teile durchzogen sind von ihm, daß er sie ganz durchdringt. Alles das, was als Grünes die Pflanze durchzieht, das ist eben die Substanz, die wir vorher als Ätherleib des Minerals, außerhalb desselben, beschrieben haben.
 
@@ -1143,7 +1128,7 @@ drawn from a part of the ether where no actual mineral exists. The cosmic soul f
 
 ================================================================================
 
-문단 77
+문단 76
 - 독일어
 Wenn aber in der Pflanze nur das der Fall wäre, daß sie vom Ätherleib durchzogen ist, so würde sie nicht blühen, sondern immer nur grüne Blätter treiben. Fängt die Pflanze an zu blühen, so sieht das hellseherische Bewußtsein über der Pflanze sich etwas ausbreiten, das sie umspült: das ist das astralische Leben, das bringt diese Krönung des Wachstums hervor. Die grüne Pflanze wächst, und zum Abschluß breitet sich ein Neues über sie aus, das Astralische, das aber nie in sie hineingeht.
 
@@ -1158,7 +1143,7 @@ But if all that could be said about the plant were that it is permeated by an et
 
 ================================================================================
 
-문단 78
+문단 77
 - 독일어
 Das Tier hat geistig das in sich, wovon die Pflanze umspült wird. Wenn das, was die Pflanze umspült, innerhalb der Haut ist, dann ist das ein Tier. Das, was oberhalb der Pflanze schwebt, das Astralische, das umgibt die ganze Erde. Das ist die Gesamtastralität der Erde, die wie ein Rauch über der Pflanze schwebt, wenn sie zur Blüte ansetzt.
 
@@ -1173,7 +1158,7 @@ The animal has spiritually within it what hovers around the plant. When what hov
 
 ================================================================================
 
-문단 79
+문단 78
 - 독일어
 Drinnen, in der Pflanze selbst, sitzt nicht Lust und Leid, sondern das wird von der Erde empfunden. Das Tier hat selbst Lust und Leid in sich; das, was im Tier als Astralleib drinnen ausgebreitet ist, das webt in unserer Gesamt-Erdenastralität. Das Mineralreich ist wie eingebettet in eine Ätherwelt, hat seinen Ätherleib um sich herum. Durchdrungen vom Ätherleib ist die Pflanze, und weil die Pflanzenwelt eingebettet ist in einen Astralleib, welcher der gesamten Astralität der Erde entspricht, deshalb ist Schmerz und Lust außerhalb der Pflanze. Und das Wesen, das nicht nur umspült ist vom Astralen, sondern dieses selbst in sich aufnehmen kann, das ist das Tier.
 
@@ -1188,7 +1173,7 @@ Happiness and suffering are not seated within the plant itself but are felt by t
 
 ================================================================================
 
-문단 80
+문단 79
 - 독일어
 So haben wir uns einen Überblick verschafft über die drei Reiche der uns umgebenden Welt in ihrem Zusammenhang mit den höheren Welten. Der Mensch nun ist eine kleine Welt für sich. Ihn müssen wir aufbauen aus alledem, was ihn umgibt.
 
@@ -1203,7 +1188,7 @@ Thus we have now surveyed the three kingdoms of the world surrounding us and the
 
 ================================================================================
 
-문단 81
+문단 80
 - 독일어
 Das, was wir heute gefunden haben, das wollen wir dann morgen zur Erfassung des Aufbaus des Menschen benützen.
 
