@@ -27,48 +27,58 @@ def is_emoji_heading(text):
 
 def parse_and_update():
     workspace_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-    odt_path = os.path.join(workspace_dir, "장미 2-1.odt")
     
-    if not os.path.exists(odt_path):
-        print(f"File {odt_path} does not exist.")
+    # Find all 장미 2-*.odt files
+    odt_files = []
+    for f in os.listdir(workspace_dir):
+        if re.match(r'^장미 2-\d+\.odt$', f):
+            odt_files.append(os.path.join(workspace_dir, f))
+            
+    odt_files.sort()
+    
+    if not odt_files:
+        print("No 장미 2-*.odt files found.")
         return
         
-    paragraphs = read_odt_text(odt_path)
+    all_entries = {}
     
-    entries = {}
-    current_num = None
-    current_lines = []
-    
-    for p in paragraphs:
-        if p.startswith("[🟢 Online Mode"):
-            continue
-            
-        match = re.match(r'^(\d+)\.\s+(.+)$', p)
-        if match:
-            if current_num is not None:
-                entries[current_num] = current_lines
-            current_num = int(match.group(1))
-            current_lines = [f"# {p}"]
-        else:
-            if current_num is not None:
-                if p.startswith("🔑 핵심 키워드:"):
-                    current_lines.append(p)
-                elif is_emoji_heading(p):
-                    current_lines.append(f"### {p}")
-                else:
-                    has_summary_header = any(line.startswith("### 📝 핵심 요약") for line in current_lines)
-                    if has_summary_header:
-                        if p.startswith("-"):
-                            current_lines.append(p)
-                        else:
-                            current_lines.append(f"- {p}")
-                    else:
-                        current_lines.append(p)
-                        
-    if current_num is not None:
-        entries[current_num] = current_lines
+    for odt_path in odt_files:
+        print(f"Parsing {os.path.basename(odt_path)}...")
+        paragraphs = read_odt_text(odt_path)
         
-    print(f"Parsed {len(entries)} entries from ODT.")
+        current_num = None
+        current_lines = []
+        
+        for p in paragraphs:
+            if p.startswith("[🟢 Online Mode"):
+                continue
+                
+            match = re.match(r'^(\d+)\.\s+(.+)$', p)
+            if match:
+                if current_num is not None:
+                    all_entries[current_num] = current_lines
+                current_num = int(match.group(1))
+                current_lines = [f"# {p}"]
+            else:
+                if current_num is not None:
+                    if p.startswith("🔑 핵심 키워드:"):
+                        current_lines.append(p)
+                    elif is_emoji_heading(p):
+                        current_lines.append(f"### {p}")
+                    else:
+                        has_summary_header = any(line.startswith("### 📝 핵심 요약") for line in current_lines)
+                        if has_summary_header:
+                            if p.startswith("-"):
+                                current_lines.append(p)
+                            else:
+                                current_lines.append(f"- {p}")
+                        else:
+                            current_lines.append(p)
+                            
+        if current_num is not None:
+            all_entries[current_num] = current_lines
+            
+    print(f"Successfully parsed {len(all_entries)} total entries from {len(odt_files)} ODT files.")
     
     # Load existing JSON
     json_path = os.path.join(workspace_dir, "public", "bodhi-commentary.json")
@@ -80,10 +90,9 @@ def parse_and_update():
         commentaries = {}
         print("Creating new commentary JSON database.")
         
-    # Update entries
-    for num, lines in entries.items():
+    # Update entries in the JSON dictionary
+    for num, lines in all_entries.items():
         key = f"rosi.2.{num}"
-        # Format as markdown blocks separated by double newlines
         markdown_text = "\n\n".join(lines)
         commentaries[key] = markdown_text
         
