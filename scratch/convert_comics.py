@@ -7,9 +7,14 @@ if hasattr(sys.stdout, 'reconfigure'):
     sys.stdout.reconfigure(encoding='utf-8')
 
 def convert_comics():
+    # Accept chapter number from arguments, default to 2
+    chapter = "2"
+    if len(sys.argv) > 1:
+        chapter = sys.argv[1]
+        
     workspace_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-    src_folder = os.path.join(workspace_dir, "학습만화", "2")
-    dest_folder = os.path.join(workspace_dir, "src", "assets", "learning-comic", "chapter-2")
+    src_folder = os.path.join(workspace_dir, "학습만화", chapter)
+    dest_folder = os.path.join(workspace_dir, "src", "assets", "learning-comic", f"chapter-{chapter}")
     
     if not os.path.exists(src_folder):
         print(f"Source folder {src_folder} does not exist.")

@@ -26,18 +26,24 @@ def is_emoji_heading(text):
     return False
 
 def parse_and_update():
+    # Accept chapter number from arguments, default to 2
+    chapter = "2"
+    if len(sys.argv) > 1:
+        chapter = sys.argv[1]
+        
     workspace_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
     
-    # Find all 장미 2-*.odt files
+    # Find all 장미 <chapter>-*.odt files
     odt_files = []
+    pattern = re.compile(rf'^장미 {chapter}-\d+\.odt$')
     for f in os.listdir(workspace_dir):
-        if re.match(r'^장미 2-\d+\.odt$', f):
+        if pattern.match(f):
             odt_files.append(os.path.join(workspace_dir, f))
             
     odt_files.sort()
     
     if not odt_files:
-        print("No 장미 2-*.odt files found.")
+        print(f"No 장미 {chapter}-*.odt files found.")
         return
         
     all_entries = {}
@@ -92,7 +98,7 @@ def parse_and_update():
         
     # Update entries in the JSON dictionary
     for num, lines in all_entries.items():
-        key = f"rosi.2.{num}"
+        key = f"rosi.{chapter}.{num}"
         markdown_text = "\n\n".join(lines)
         commentaries[key] = markdown_text
         
