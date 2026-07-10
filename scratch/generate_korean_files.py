@@ -3,11 +3,13 @@ import re
 
 def parse_and_generate():
     workspace_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    data_dir = os.path.join(workspace_dir, "새 폴더")
     print(f"Workspace directory: {workspace_dir}")
+    print(f"Data directory: {data_dir}")
     
     for i in range(1, 11):
         filename = f"{i}.txt"
-        file_path = os.path.join(workspace_dir, filename)
+        file_path = os.path.join(data_dir, filename)
         if not os.path.exists(file_path):
             print(f"File {filename} does not exist.")
             continue
@@ -51,20 +53,17 @@ def parse_and_generate():
         if current_p_num is not None:
             paragraphs.append((current_p_num, "\n".join(korean_text).strip()))
             
-        # Write to output file
+        # Write to output file in the same directory (새 폴더)
         output_filename = f"{i}_한글.txt"
-        output_path = os.path.join(workspace_dir, output_filename)
+        output_path = os.path.join(data_dir, output_filename)
         
         output_lines = []
         for p_num, text in paragraphs:
-            # Prepend number. If text is multiline, append number to first line,
-            # then output subsequent lines.
             text_lines = text.split('\n')
             if text_lines:
                 output_lines.append(f"{p_num}. {text_lines[0]}")
                 for extra_line in text_lines[1:]:
                     output_lines.append(extra_line)
-            # Add an empty line between paragraphs
             output_lines.append("")
             
         with open(output_path, 'w', encoding='utf-8') as f_out:

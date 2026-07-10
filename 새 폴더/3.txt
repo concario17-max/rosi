@@ -1,9 +1,7 @@
-3강 전체 정밀수정본
+3강 전체 정밀재검수본
 
-※ 한글 강의록의 실제 줄바꿈/빈줄 기준으로 분할했습니다.
-※ 해설만 있는 문단은 제외하고, 원문이 남는 한글 문단만 번호를 매겼습니다.
-※ 이번 수정본에서는 문단 경계 밀림, 누락 문장, 중간 파트 제목 잔류를 정리했습니다.
-
+※ 3강 전체 109문단을 기준으로 재검수했습니다.
+※ 형식: 문단 번호 → 독일어 → 영어 → 한글 → AI 번역
 
 문단 1
 - 독일어
@@ -331,11 +329,9 @@ The greatest difference, however, between the physical and the etheric body is t
 하지만 육체와 에테르체의 가장 큰 차이는 남성의 에테르체가 여성적이고 여성의 에테르체가 남성적이라는 것입니다. 이것은 커다란 의미를 감추고 있으며 인간 성질에 대한 많은 수수께끼가 이 오컬트조사를 통한 발견에 기초해서 해명될 수 있습니다. 이렇게 인간의 경우에는 일종의 대응이 있으며 동물의 경우에는 육체와 에테르체 사이에 커다란 차이가 있습니다.
 
 - AI 번역
-그러나 물리적 몸과 에테르 몸 사이의 가장 큰 차이는 남성의 에테르체가 여성적이고, 여성의 에테르체가 남성적이라는 점입니다. 이 사실은 매우 중요합니다. 그리고 인간 본성의 많은 수수께끼들이 이 오컬트 탐구 결과를 바탕으로 설명될 수 있습니다. 그러므로 인간에게서는 인간 본질의 이 두 번째 구성 부분과 첫 번째 구성 부분 사이에 일종의 상응이 있지만, 동물에게서는 큰 차이가 있습니다.
+그러나 물리적 몸과 에테르 몸 사이의 가장 큰 차이는 남성의 에테르체가 여성적이고, 여성의 에테르체가 남성적이라는 점입니다. 이 사실은 매우 중요합니다. 그리고 인간 본성의 많은 수수께끼들이 이 오컬트 탐구 결과를 바탕으로 설명될 수 있습니다. 그러므로 인간에게서는 인간 본질의 이 두 번째 구성 부분과 첫 번째 구성 부분 사이에 일종의 상응이 있지만, 동물에게서는 큰 차이가 있습니다. ※ 해설만 있는 문단은 제외하고, 원문이 남는 한글 문단만 번호를 매겼습니다.
 
 ================================================================================
-
-※ 해설만 있는 문단은 제외하고, 원문이 남는 한글 문단만 번호를 매겼습니다.
 
 문단 23
 - 독일어
@@ -504,35 +500,20 @@ If a clairvoyant sees a bluish-red color in the astral body, he perceives love s
 
 문단 34
 - 독일어
-Das vierte Glied der menschlichen Wesenheit ist der Träger des Ich. So haben wir am Menschen nun den physischen Leib, der in der Natur draußen dem Mineral gleichkommt, dann den Ätherleib, welcher der Pflanze vergleichbar ist, und als drittes den Astralleib, den das Tier mit dem Menschen gemeinsam hat. Nur ist der Astralleib beim Menschen viel beweglicher als beim Tier.
+Das vierte Glied der menschlichen Wesenheit ist der Träger des Ich. So haben wir am Menschen nun den physischen Leib, der in der Natur draußen dem Mineral gleichkommt, dann den Ätherleib, welcher der Pflanze vergleichbar ist, und als drittes den Astralleib, den das Tier mit dem Menschen gemeinsam hat. Nur ist der Astralleib beim Menschen viel beweglicher als beim Tier. Der Ich-Träger, das vierte Glied der menschlichen Wesenheit, ist gleich einer Art Ovalfigur, deren Ursprung bis hinein in das Vorderhirn zu verfolgen ist. Dort ist dieselbe für den Hellseher als eine bläulich-leuchtende Kugel sichtbar. Von der strömt aus in Ovalform, wie ein Raum-Ei, könnte man sagen, das in den Menschen hineinspielt, eine Art von Bläue. Wie ist dieser Ich-Träger zu sehen? Erst wenn der Hellseher imstande ist, sich auch den Astralleib des Menschen abzusuggerieren, erst dann vermag er den Ich-Träger wahrzunehmen.
 
 - 영어
-The fourth member of man's constitution is the bearer of the ego. Thus we have his physical body, which in external nature is comparable with the mineral, then his etheric body, which is comparable with the plant, and then his astral body, which is common to both animal and man. The astral body in man, however, is far more mobile than it is in the animal.
+The fourth member of man's constitution is the bearer of the ego. Thus we have his physical body, which in external nature is comparable with the mineral, then his etheric body, which is comparable with the plant, and then his astral body, which is common to both animal and man. The astral body in man, however, is far more mobile than it is in the animal. The ego bearer, the fourth member of man's nature, is seen as a kind of oval form, the source of which can be traced to the anterior part of the head. It is visible there to the clairvoyant as a bluish, luminous orb. A kind of bluish sheen streams out from this orb and passes into the human being. When, but not until, the clairvoyant can also suggest away a man's astral body, he is able to perceive the ego bearer.
 
 - 한글
-인간 조성의 제4요소는 자아입니다. 우리는 인간의 육체를 가지고 있습니다. 육체는 광물과 비교할 수 있습니다. 이어서 에테르체, 에테르체는 식물과 비교할 수 있습니다. 그 다음은 아스트랄체, 아스트랄체는 동물과 인간 양쪽에 공통된 것입니다. 하지만 인간의 아스트랄체는 동물의 아스트랄체보다 훨씬 큰 움직임을 가지고 있습니다.
+인간 조성의 제4요소는 자아입니다. 우리는 인간의 육체를 가지고 있습니다. 육체는 광물과 비교할 수 있습니다. 이어서 에테르체, 에테르체는 식물과 비교할 수 있습니다. 그 다음은 아스트랄체, 아스트랄체는 동물과 인간 양쪽에 공통된 것입니다. 하지만 인간의 아스트랄체는 동물의 아스트랄체보다 훨씬 큰 움직임을 가지고 있습니다. 인간 성질의 네 번째 요소, 자아는 일종의 알 형태로 보입니다. 그리고 그 기반은 머리의 앞부분까지 이릅니다. 이것은 영시자에게 푸른빛을 띤 빛나는 구형으로 보입니다. 푸른빛이 깔린 빛살이 이 구(球)로부터 흘러나와 사람 안으로 이동합니다. 영시 능력자는 인간의 아스트랄체까지 사고로 지울 수 있게 될 때에만 자아를 지각할 수 있습니다.
 
 - AI 번역
-인간 본질의 네 번째 구성 부분은 자아의 담지자입니다. 이렇게 우리는 인간에게서, 바깥 자연 안에서는 광물에 해당하는 물리적 몸을 보았습니다. 그다음에는 식물에 비견될 수 있는 에테르체를 보았고, 셋째로 동물이 인간과 함께 지니는 아스트랄체를 보았습니다. 다만 인간의 아스트랄체는 동물의 아스트랄체보다 훨씬 더 움직임이 풍부합니다.
+인간 본질의 네 번째 구성 부분은 자아의 담지자입니다. 이렇게 우리는 인간에게서, 바깥 자연 안에서는 광물에 해당하는 물리적 몸을 보았습니다. 그다음에는 식물에 비견될 수 있는 에테르체를 보았고, 셋째로 동물이 인간과 함께 지니는 아스트랄체를 보았습니다. 다만 인간의 아스트랄체는 동물의 아스트랄체보다 훨씬 더 움직임이 풍부합니다. 자아의 담지자, 곧 인간 본질의 네 번째 구성 부분은 일종의 타원형 형상과 같습니다. 그 기원은 전뇌 깊숙한 곳까지 추적될 수 있습니다. 그곳에서 그것은 영시자에게 푸르게 빛나는 하나의 구로 보입니다. 그리고 그 구로부터 타원형으로, 말하자면 인간 안으로 작용해 들어가는 하나의 공간적 알처럼, 어떤 푸른 빛이 흘러나옵니다. 이 자아의 담지자는 어떻게 보입니까? 영시자가 인간의 아스트랄체마저도 자기 암시로 지워 버릴 수 있을 때에야 비로소, 그는 자아의 담지자를 지각할 수 있습니다.
 
 ================================================================================
 
 문단 35
-- 독일어
-Der Ich-Träger, das vierte Glied der menschlichen Wesenheit, ist gleich einer Art Ovalfigur, deren Ursprung bis hinein in das Vorderhirn zu verfolgen ist. Dort ist dieselbe für den Hellseher als eine bläulich-leuchtende Kugel sichtbar. Von der strömt aus in Ovalform, wie ein Raum-Ei, könnte man sagen, das in den Menschen hineinspielt, eine Art von Bläue. Wie ist dieser Ich-Träger zu sehen? Erst wenn der Hellseher imstande ist, sich auch den Astralleib des Menschen abzusuggerieren, erst dann vermag er den Ich-Träger wahrzunehmen.
-
-- 영어
-The ego bearer, the fourth member of man's nature, is seen as a kind of oval form, the source of which can be traced to the anterior part of the head. It is visible there to the clairvoyant as a bluish, luminous orb. A kind of bluish sheen streams out from this orb and passes into the human being. When, but not until, the clairvoyant can also suggest away a man's astral body, he is able to perceive the ego bearer.
-
-- 한글
-인간 성질의 네 번째 요소, 자아는 일종의 알 형태로 보입니다. 그리고 그 기반은 머리의 앞부분까지 이릅니다. 이것은 영시자에게 푸른빛을 띤 빛나는 구형으로 보입니다. 푸른빛이 깔린 빛살이 이 구(球)로부터 흘러나와 사람 안으로 이동합니다. 영시 능력자는 인간의 아스트랄체까지 사고로 지울 수 있게 될 때에만 자아를 지각할 수 있습니다.
-
-- AI 번역
-자아의 담지자, 곧 인간 본질의 네 번째 구성 부분은 일종의 타원형 형상과 같습니다. 그 기원은 전뇌 깊숙한 곳까지 추적될 수 있습니다. 그곳에서 그것은 영시자에게 푸르게 빛나는 하나의 구로 보입니다. 그리고 그 구로부터 타원형으로, 말하자면 인간 안으로 작용해 들어가는 하나의 공간적 알처럼, 어떤 푸른 빛이 흘러나옵니다. 이 자아의 담지자는 어떻게 보입니까? 영시자가 인간의 아스트랄체마저도 자기 암시로 지워 버릴 수 있을 때에야 비로소, 그는 자아의 담지자를 지각할 수 있습니다.
-
-================================================================================
-
-문단 36
 - 독일어
 Die drei andern Leiber hat der Mensch mit den drei Reichen der Natur, dem Mineralreich, Pflanzen- und Tierreich gemeinsam. Durch den Ich-Träger aber unterscheidet er sich von diesen, dadurch ist er die Krone der Schöpfung.
 
@@ -547,7 +528,7 @@ Man has the other three bodies in common with the mineral, plant and animal king
 
 ================================================================================
 
-문단 37
+문단 36
 - 독일어
 Indem wir so die viergliedrige Wesenheit des Menschen betrachtet haben, haben wir uns gleichzeitig das vor Augen geführt, was der Mensch sozusagen von den höheren Welten mitbekommen hat,
 
@@ -562,7 +543,7 @@ In studying the fourfold nature of man we have actually been envisaging the dowr
 
 ================================================================================
 
-문단 38
+문단 37
 - 독일어
 ganz gleichgültig, auf welcher Entwickelungsstufe er steht.
 
@@ -577,7 +558,7 @@ no matter what his stage of evolution may be.
 
 ================================================================================
 
-문단 39
+문단 38
 - 독일어
 Dadurch, daß er diese vier Glieder der menschlichen Wesenheit hat, dadurch ist er eben Mensch.
 
@@ -592,7 +573,7 @@ The fact that he has the fourfold constitution of which we have spoken makes him
 
 ================================================================================
 
-문단 40
+문단 39
 - 독일어
 Jetzt erst, wenn das Ich an den drei andern Leibern arbeitet, beginnt die Arbeit des Menschen selbst. Ein Mensch steht höher oder niedriger in seiner Entwickelung, je nachdem er seine Arbeit an den drei niedrigeren Gliedern seiner Wesenheit vollbringt. Es beginnt das Ich zuerst am Astralleib zu arbeiten.
 
@@ -607,7 +588,7 @@ Not until the “I,” the ego, works on the three bodies does his own task begi
 
 ================================================================================
 
-문단 41
+문단 40
 - 독일어
 Diese Arbeit drückt sich an einem niedrigerstehenden Menschen und an einer hochstehenden Persönlichkeit, wie Schiller etwa, sehr verschieden aus. Der eine hat an der Umwandlung seines Astralleibes weniger geleistet als der andere.
 
@@ -622,7 +603,7 @@ The effect of this work differs depending upon whether the individual concerned 
 
 ================================================================================
 
-문단 42
+문단 41
 - 독일어
 Diese innere Arbeit an sich selbst nennt man in der Geheimsprache die Läuterung oder Reinigung: Katharsis. In dieser Weise arbeitet das Ich an der Vervollkommnung des Astralleibes.
 
@@ -637,7 +618,7 @@ This inner work upon oneself is known in occultism as purification, cleansing or
 
 ================================================================================
 
-문단 43
+문단 42
 - 독일어
 Bei allen Menschen finden Sie daher, daß der Astralleib in zwei Teile zerfällt:
 
@@ -652,7 +633,7 @@ In every human being, therefore, it will be found that the astral body is twofol
 
 ================================================================================
 
-문단 44
+문단 43
 - 독일어
 der eine Teil ist durchgearbeitet, geläutert, der andere nicht. Nehmen wir nun an, das Ich arbeitet unentwegt weiter am astralischen Leib, dann wird der Mensch allmählich dahinkommen, nicht mehr sich gebieten zu müssen, das Gute zu tun, sondern das Gute zu tun wird ihm zur Gewohnheit werden.
 
@@ -667,7 +648,7 @@ One part has been worked upon and purified, not so the other. Let us now suppose
 
 ================================================================================
 
-문단 45
+문단 44
 - 독일어
 Es ist nämlich ein Unterschied, ob der Mensch nur einem Gebot folgt, oder so stark in der Liebe ist, daß er gar nicht anders kann, als das Gute, das Gescheite, das Schöne zu tun.
 
@@ -682,7 +663,7 @@ There is obviously a difference when an individual is obeying a command, or has 
 
 ================================================================================
 
-문단 46
+문단 45
 - 독일어
 Folgt der Mensch nur dem Gebot, so arbeitet das Ich am Astralleibe; wird ihm aber das Gute zur Gewohnheit, so bearbeitet das Ich bereits auch den Ätherleib.
 
@@ -697,7 +678,7 @@ If an individual is simply obeying a command, his ego is indeed working upon his
 
 ================================================================================
 
-문단 47
+문단 46
 - 독일어
 In welcher Weise arbeitet nun das Ich am Ätherleib? Um dies zu erkennen, wollen wir ein Beispiel zu Hilfe nehmen. Wenn Ihnen irgend etwas erklärt wird und Sie haben die Sache verstanden, so hat das Ich in den Astralleib hineingearbeitet.
 
@@ -712,7 +693,7 @@ To understand how the ego works upon the etheric body we will think of an exampl
 
 ================================================================================
 
-문단 48
+문단 47
 - 독일어
 Wenn Sie aber tagtäglich ein Gebet verrichten, etwa tagtäglich das Vaterunser beten, so arbeiten Sie in den Ätherleib dadurch hinein, daß Sie jeden Tag dasselbe wiederholen,
 
@@ -727,7 +708,7 @@ But if day after day you repeat a prayer, perhaps the Lord's Prayer, you are wor
 
 ================================================================================
 
-문단 49
+문단 48
 - 독일어
 daß die Seele immer wieder dieselbe Tätigkeit zustande bringt. Wiederholung ist etwas ganz anderes als einmaliges Verständnis.
 
@@ -742,7 +723,7 @@ the soul is exercising the same activity over and over again. Repetition is an e
 
 ================================================================================
 
-문단 50
+문단 49
 - 독일어
 Wir wollen uns das klarmachen, wie das eine den Astralleib, das andere den Ätherleib vom Ich aus bearbeitet.
 
@@ -757,7 +738,7 @@ We will clarify our minds as to how, in the latter case, the ego works upon the 
 
 ================================================================================
 
-문단 51
+문단 50
 - 독일어
 Schauen Sie auf das Wachsen der Pflanze. Sie treibt den Keim, den Stengel, setzt Blatt für Blatt an, immer neue grüne Blätter. Dadurch, daß sie mit einem Ätherleib begabt ist, kann sie das, denn das Prinzip des Ätherleibes ist das der Wiederholung.
 
@@ -772,7 +753,7 @@ Think of the growth of a plant. The living seed produces the stalk and leaf afte
 
 ================================================================================
 
-문단 52
+문단 51
 - 독일어
 Überall da, wo Wiederholung auftritt, da wirkt ein Ätherleib. Den Abschluß der Pflanze, die Blüte, den bewirkt ein anderes Prinzip, der sie überschattende Astralleib.
 
@@ -787,7 +768,7 @@ Wherever repetition occurs, an etheric body is at work. The culminating feature 
 
 ================================================================================
 
-문단 53
+문단 52
 - 독일어
 Also ein Abschluß, das ist das Prinzip der Astralität.
 
@@ -802,7 +783,7 @@ Culmination, therefore, is brought about by astrality.
 
 ================================================================================
 
-문단 54
+문단 53
 - 독일어
 Merken Sie wohl - Sie können das auch beim Menschen am Bau seines physischen Leibes beobachten. Sehen Sie das Rückgrat an, die immer sich wiederholenden Rückenwirbel, da haben Sie den Ätherleib im Physischen ausgedrückt. Nun betrachten Sie den Kopf des Menschen, das Gehirn: da haben Sie den Abschluß, den Astralleib in der physischen Form.
 
@@ -817,7 +798,7 @@ This can also be observed in the structure of man's physical body. The spine wit
 
 ================================================================================
 
-문단 55
+문단 54
 - 독일어
 Denselben Vorgang haben Sie geistig als das einmalige Verständnis durch die Wirkung auf den Astralleib, und als errungene Tätigkeit durch die tägliche Wiederholung desselben Gebetes oder derselben Meditationsübung, einer Arbeit am Ätherleib.
 
@@ -832,7 +813,7 @@ Spiritually, this is the same process as the manifestation of understanding resu
 
 ================================================================================
 
-문단 56
+문단 55
 - 독일어
 Darin ist das Wesentliche der Meditation zu sehen, daß sie durch das Prinzip der Wiederholung in den Astralleib nicht allein, sondern in den Ätherleib hinein wirkt. Die großen Religionslehrer haben deshalb so Großes gewirkt, weil sie der Menschheit Inhalte gegeben haben, in denen fortwirkende Kraft sich offenbarte, die immer noch weiter wirkt. So ist also auch der Ätherleib des Menschen zweiteilig: er hat einen durchgearbeiteten Teil, der allerdings beim Durchschnittsmenschen noch gering ist, und den vom Ich aus noch nicht bearbeiteten Teil.
 
@@ -847,7 +828,7 @@ The essence of meditation is that through repetition it has an effect not only u
 
 ================================================================================
 
-문단 57
+문단 56
 - 독일어
 Ein drittes noch gibt es für den Menschen: Er kann von seinem Ich aus in den physischen Körper wirken.
 
@@ -862,7 +843,7 @@ There is still a third possibility for man. He can work from his ego into the ph
 
 ================================================================================
 
-문단 58
+문단 57
 - 독일어
 Das ist die härteste Arbeit. Der Mensch hat unbewußt fortwährend schon an seinem physischen Körper gearbeitet; nicht aber von seinem Ich aus. Das ist nur den Vorgeschrittensten möglich.
 
@@ -877,7 +858,7 @@ This is the hardest task of all. Man has already worked continuously upon his ph
 
 ================================================================================
 
-문단 59
+문단 58
 - 독일어
 So lernen wir die vier niederen Glieder des Menschen kennen und die drei höheren Glieder, welche Umwandlungsprodukte sind der drei niederen Leiber durch die Arbeit des Ich.
 
@@ -892,7 +873,7 @@ We have thus studied the four lower members of man's constitution and have been 
 
 ================================================================================
 
-문단 60
+문단 59
 - 독일어
 Es besteht bei dieser Bearbeitung der drei unteren Glieder ein beträchtlicher Unterschied: dieselbe geschieht bewußt oder unbewußt.
 
@@ -907,7 +888,7 @@ In this work upon the three lower members there is considerable difference in th
 
 ================================================================================
 
-문단 61
+문단 60
 - 독일어
 Unbewußt, das heißt ohne daß der betreffende Mensch es weiß, durch das Betrachten und In-sich-Aufnehmen künstlerischer Werke, Bilder und so weiter, durch hingebende Andacht und Gebetsverrichtungen.
 
@@ -922,7 +903,7 @@ Unconsciously, that is to say, without the individual concerned being aware of i
 
 ================================================================================
 
-문단 62
+문단 61
 - 독일어
 Es sind sich aber die Menschen dessen nicht bewußt, daß sie an ihrem Äther- und Astralleib arbeiten;
 
@@ -937,7 +918,7 @@ But these individuals are not conscious that they are working upon their astral 
 
 ================================================================================
 
-문단 63
+문단 62
 - 독일어
 das bewußte Arbeiten daran beginnt verhältnismäßig spät.
 
@@ -952,7 +933,7 @@ conscious work begins at a comparatively late state.
 
 ================================================================================
 
-문단 64
+문단 63
 - 독일어
 Wir haben also zu unterscheiden ein bewußtes und ein unbewußtes Arbeiten des Menschen an den unteren Wesensgliedern. Es besteht der menschliche Astralleib aus zwei Gliederungen: einem unbewußten und einem bewußten Teil.
 
@@ -967,7 +948,7 @@ We have therefore to distinguish between conscious and unconscious work upon the
 
 ================================================================================
 
-문단 65
+문단 64
 - 독일어
 Den Teil des Astralleibes, der vom Ich aus in unbewußter Weise durchgearbeitet wurde, nennt man die Empfindungsseele; diese ist beim Menschen heute fertig durchgebildet.
 
@@ -982,7 +963,7 @@ The part of the astral body that was worked upon unconsciously by the ego is cal
 
 ================================================================================
 
-문단 66
+문단 65
 - 독일어
 Was unbewußt am Ätherleib vom Ich aus bearbeitet wurde, das ist die Verstandesseele.
 
@@ -997,7 +978,7 @@ What was worked upon the etheric body unconsciously from the ego is the intellec
 
 ================================================================================
 
-문단 67
+문단 66
 - 독일어
 Was im physischen Leibe unbewußt seit langer Zeit umgearbeitet worden ist, das ist die Bewußtseinsseele. So unterscheiden wir also am Menschen den physischen Leib, den Ätherleib, den Astralleib und das Ich, und von diesem als vom Astralleib unbewußt Umgearbeitetem die Empfindungsseele; vom Ätherleib die Verstandesseele; vom physischen Leib die Bewußtseinsseele. Wir haben also sechs, beziehungsweise sieben Glieder der menschlichen Natur, die so entstanden sind, daß der Mensch unbewußt an sich gearbeitet hat.
 
@@ -1012,7 +993,7 @@ What has been worked upon in the physical body, unconsciously for long ages, is 
 
 ================================================================================
 
-문단 68
+문단 67
 - 독일어
 Nun beginnt das bewußte Arbeiten. Was entsteht dadurch? Es ist dasjenige, was der Mensch bewußt in den Astralleib hineinarbeitet, das Geistselbst oder Manas;
 
@@ -1027,7 +1008,7 @@ Now the conscious work begins. What comes into existence as a result of it? Spir
 
 ================================================================================
 
-문단 69
+문단 68
 - 독일어
 was der Mensch bewußt an seinem Ätherleib arbeitet - das aber geschieht erst bei einer bewußten okkulten Schulung -, nennt man die Buddhi oder den Lebensgeist.
 
@@ -1042,7 +1023,7 @@ what he consciously instils into his etheric body, but this is dependent upon oc
 
 ================================================================================
 
-문단 70
+문단 69
 - 독일어
 Und was geschieht dann, wenn das Ich einmal in die Lage kommt, den physischen Leib bewußt zu bearbeiten, das heißt Kräfte bis in den physischen Leib hineinzuarbeiten? Durch okkulte Schulung, durch den Atmungsprozeß kann das wirklich bewußt geschehen, aber es muß dabei sehr vorsichtig und sehr subtil zu Werke gegangen werden, denn bei falscher Schulung, wie sie oft in öffentlichen Schriften gegeben wird, kann man auch dem Körper des Europäers sehr schaden, und man muß wissen, was der Konstitution des modernen Menschen angemessen ist.
 
@@ -1057,7 +1038,7 @@ What happens if the ego eventually becomes able to work consciously into the phy
 
 ================================================================================
 
-문단 71
+문단 70
 - 독일어
 Durch solche bewußte Atmung wird dann der physische Körper vom Ich aus umgestaltet zu Atman oder dem Geistesmenschen.
 
@@ -1072,7 +1053,7 @@ Through a conscious method of breathing the physical body can be transformed by 
 
 ================================================================================
 
-문단 72
+문단 71
 - 독일어
 Das Wesen des Menschen war viergliedrig, als er irdische Gestaltung annahm. Mit der ersten irdischen Inkarnation beginnt er schon die Arbeit an sich selbst durch das Ich. Dabei entwickelt er durch die Verkörperungen hindurch unbewußt die drei Seelenaspekte: Empfindungsseele, Verstandesseele, Bewußtseinsseele.
 
@@ -1087,7 +1068,7 @@ Man was a fourfold being when he assumed earthly form. In his first incarnation 
 
 ================================================================================
 
-문단 73
+문단 72
 - 독일어
 Wir werden noch sehen, wie die bewußte Umgestaltung von physischem Leib, Äther- und Astralleib in die drei höheren Glieder vor sich geht. Hier haben Sie nun inzwischen dasjenige, was gewissermaßen die siebengliedrige Wesenheit des Menschen ist, sie entwickelt sich so durch die Inkarnation hindurch.
 
@@ -1102,7 +1083,7 @@ We shall subsequently learn how the conscious transformation is achieved of phys
 
 ================================================================================
 
-문단 74
+문단 73
 - 독일어
 Die vier Glieder: physischer Leib, Ätherleib und Astralleib mit Ich sind die sogenannte heilige Vierheit, wie man sie in allen okkulten Schulen verehrte, zu der sich noch eine heilige Dreiheit gesellte, die sich zu einer Siebenheit und einer Zehnheit bewußt gliedert.
 
@@ -1117,7 +1098,7 @@ The four members, physical body, etheric body, astral body and ego, form the so-
 
 ================================================================================
 
-문단 75
+문단 74
 - 독일어
 So haben wir den universellen Menschen vor unsere Seele hingestellt, der alles in sich hat, was ihn gleichsam fächerartig umgibt, der aber durch seinen Ich-Träger darüber hinausragt.
 
@@ -1132,7 +1113,7 @@ We have thus a picture before us of man who has within him everything that is ou
 
 ================================================================================
 
-문단 76
+문단 75
 - 독일어
 Nun wollen wir auch den Menschen im Wachen und Schlafen betrachten, um zu erkennen, wie da die Leiber zusammengefügt sind.
 
@@ -1147,7 +1128,7 @@ We will now study the human being in waking life and in sleep in order to learn 
 
 ================================================================================
 
-문단 77
+문단 76
 - 독일어
 Was geschieht, wenn Freude und Schmerz im Menschen schweigen, wenn das Bewußtsein in den Schlaf hinabsinkt? Der Astralleib und das Ich sind dann außerhalb des physischen und Ätherleibes.
 
@@ -1162,7 +1143,7 @@ What is happening when joy and pain in a man are stilled, when his consciousness
 
 ================================================================================
 
-문단 78
+문단 77
 - 독일어
 Für den Menschen tritt da im Schlafzustande etwas sehr Eigentümliches ein. Wie eine Pflanze am Tage, so ist der Mensch in der Nacht: er hat nur den physischen und Ätherleib in sich, er ist sozusagen heruntergestiegen zur Pflanzheit. Das Menschenwesen spaltet sich in zwei Glieder: physischer und Ätherleib bleiben im Bette und Astralleib und Ich sind außerhalb.
 
@@ -1177,7 +1158,7 @@ In the state of sleep something striking happens to man. In sleep at night he ha
 
 ================================================================================
 
-문단 79
+문단 78
 - 독일어
 Nun können Sie die Frage vorlegen: Ja, ist denn der Mensch im Bette eine Pflanze?
 
@@ -1192,7 +1173,7 @@ You may now ask whether it can be said that man is a plant while he is asleep.
 
 ================================================================================
 
-문단 80
+문단 79
 - 독일어
 Nein, das nicht, aber sie bestehen beide aus der gleichen Körperzusammensetzung. Auf unserer Erde nun kann ein Wesen mit physischem und Ätherleib nur existieren, wenn es Pflanze ist.
 
@@ -1207,7 +1188,7 @@ No, but man and plant then consist of the same combination of bodies. On our ear
 
 ================================================================================
 
-문단 81
+문단 80
 - 독일어
 Dadurch, daß ein Astralleib und ein Ich darinnen wohnt, verändern sich die andern Leiber auch, der physische und der Ätherleib.
 
@@ -1222,7 +1203,7 @@ When an astral body and ego are present, the physical and etheric bodies change.
 
 ================================================================================
 
-문단 82
+문단 81
 - 독일어
 Bei den Pflanzen finden sich keine Nervenstränge, und warmes Blut hat nur der physische Leib, in dem ein Ich darinnen wohnt. Die höheren Tiere sind als heruntergesunkene Formen des ursprünglichen Menschen zu betrachten.
 
@@ -1237,7 +1218,7 @@ In the plant there are no nerve strands, and it is only a physical body in which
 
 ================================================================================
 
-문단 83
+문단 82
 - 독일어
 Im physischen Leibe drückt sich das Ich im Blutsystem aus, der Astralleib in den Nerven, der Ätherleib im Drüsensystem und die physische Natur in des Menschen eigenem Körper.
 
@@ -1252,7 +1233,7 @@ In the physical body the ego comes to expression in the blood, the astral body i
 
 ================================================================================
 
-문단 84
+문단 83
 - 독일어
 Wenn nun der Astralleib der eigentliche Bildner des Nervensystems ist, und das ist er, so kommt dieses bei Nacht in eine sehr trübselige Lage, denn es wird von seinem Herrn verlassen;
 
@@ -1267,7 +1248,7 @@ If, therefore, the astral body is the creator of the system of nerves, which is 
 
 ================================================================================
 
-문단 85
+문단 84
 - 독일어
 das Drüsensystem aber nicht, denn der Ätherleib bleibt ihm treu.
 
@@ -1282,7 +1263,7 @@ Not so the glandular system, for the etheric body remains with it.
 
 ================================================================================
 
-문단 86
+문단 85
 - 독일어
 Aber auch das Blutsystem des physischen und Ätherleibes wird in der Nacht treulos vom Ich verlassen. Der physische Leib kann für sich bestehen, denn die physische Natur bleibt dieselbe, ebenso das Drüsensystem, denn der Ätherleib bleibt im physischen Leibe bei Nacht. Aber das Nervensystem wird von seinem Herrn verlassen.
 
@@ -1297,7 +1278,7 @@ But the blood system of the physical and etheric bodies is faithlessly forsaken 
 
 ================================================================================
 
-문단 87
+문단 86
 - 독일어
 Wir wollen nun das hellseherische Bewußtsein fragen, was dann im physischen Leibe geschieht? In demselben Maße, in dem der menschliche Astralleib während der Nacht aus dem physischen und Ätherleib herausgeht, in demselben Maße dringt ein göttlich-geistiger Astralleib in die Leiber, die im Bette liegen, ein. Ebenso verhält es sich mit dem Blutsystem:
 
@@ -1312,7 +1293,7 @@ We will now ask clairvoyant consciousness what is then happening in the physical
 
 ================================================================================
 
-문단 88
+문단 87
 - 독일어
 ein göttlich-geistiges Ich geht hinein und versorgt es. Der Mensch ist auch in der Nacht ein viergliedriges Wesen, aber etwas anderes lebt in ihm: ein Wesen höherer Ordnung nimmt Besitz von den zwei Leibern im Bette.
 
@@ -1327,7 +1308,7 @@ a divine-spiritual ego enters into it and provides for its maintenance. In the n
 
 ================================================================================
 
-문단 89
+문단 88
 - 독일어
 Und wenn der Mensch, das heißt sein Astralleib und sein Ich, am Morgen zu seinem Äther- und physischen Leibe zurückkehrt, so jagt sein kleiner Astralleib ein Mächtigeres hinaus.
 
@@ -1342,7 +1323,7 @@ When man's astral body and ego return in the morning to his etheric and physical
 
 ================================================================================
 
-문단 90
+문단 89
 - 독일어
 Ebenso geht es bei seinem Blutsystem: sein Ich vertreibt das göttlich-geistige Ich, das während der Nacht dasselbe versorgt hat.
 
@@ -1357,7 +1338,7 @@ The same happens in the case of the blood system. Man's ego drives out the divin
 
 ================================================================================
 
-문단 91
+문단 90
 - 독일어
 In unserer Umgebung sind immer göttlich-geistige Wesenheiten. Diese müssen sich nun bei Tage zurückziehen, wir tun dasselbe bei Nacht. Diese göttlich-geistigen Wesenheiten schlafen nämlich bei Tag: Götterschlaf und Menschenschlaf entsprechen sich vollständig.
 
@@ -1372,7 +1353,7 @@ Divine-spiritual beings are present in our environment all the time. By day they
 
 ================================================================================
 
-문단 92
+문단 91
 - 독일어
 Ein göttlich-geistiges Ich und ein göttlich-geistiger Astralleib ziehen am Abend in den im Bette liegenden Menschen, seinen physischen und Ätherleib ein und kehren am Morgen daraus zurück. Beim Menschen geschieht dies gerade umgekehrt, er verläßt am Abend seine Leiber und nimmt am Morgen wieder Besitz von ihnen. Selbst in den Religionen ist ein Empfinden zurückgeblieben für den Schlaf der Götter bei Tage. Es gibt Länder, wo die Kirchen um die Mittagszeit geschlossen werden, weil da die Götter am tiefsten schlafen.
 
@@ -1387,7 +1368,7 @@ In the evening a divine-spiritual ego and a divine-spiritual astral body draw in
 
 ================================================================================
 
-문단 93
+문단 92
 - 독일어
 Auch dasjenige wollen wir uns nun vom Menschen ansehen, was da bei Nacht außerhalb seines Leibes ist: der Astralleib und das Ich. Wir wissen, daß im Astralleibe Triebe, Begierden und Leidenschaften wurzeln, aber der Mensch nimmt diese in der Nacht nicht wahr. Woher kommt das? Weil der Astralleib und das Ich des Menschen in der gegenwärtigen Entwickelung keine Organe haben, um wahrzunehmen.
 
@@ -1402,7 +1383,7 @@ We will now think about what is outside man's body at night, namely, the astral 
 
 ================================================================================
 
-문단 94
+문단 93
 - 독일어
 Nur mit den physischen Organen kann der gegenwärtige Mensch wahrnehmen. Denn so viele Organe der Mensch hat, so viele Welten eröffnen sich ihm, sind um ihn.
 
@@ -1417,7 +1398,7 @@ Man as he is at present can perceive only by means of physical organs. There are
 
 ================================================================================
 
-문단 95
+문단 94
 - 독일어
 Hat er ein Organ mehr, so erschließt sich ihm eine neue Welt. Der Astralleib des Menschen hat, wenn der Mensch noch nicht hellseherisch geworden ist, noch keine Organe,
 
@@ -1432,7 +1413,7 @@ If he has one organ more, a new world reveals itself to him. His astral body, if
 
 ================================================================================
 
-문단 96
+문단 95
 - 독일어
 deshalb nimmt der Mensch in der Nacht auch nichts wahr.
 
@@ -1447,7 +1428,7 @@ hence during the night he cannot be aware of anything.
 
 ================================================================================
 
-문단 97
+문단 96
 - 독일어
 Wir können uns leicht denken, daß der Mensch da ohne Sinne sein kann. Wir wissen, es gibt Blinde und solche, denen andere Sinne fehlen; keine Welt ist für den Menschen da, wenn er sich nicht seiner Sinne bedienen kann. Daher ist am Morgen, wenn der Mensch sich wieder der physischen Sinne bedienen kann, die Welt wieder um ihn herum da.
 
@@ -1462,7 +1443,7 @@ It is easy to imagine that during sleep he may be without senses. There are blin
 
 ================================================================================
 
-문단 98
+문단 97
 - 독일어
 Anders aber ist es beim Tode. Der Ätherleib und der physische Leib bleiben während des ganzen Lebens miteinander verbunden; im Tode nun geht der Ätherleib in der Regel zum ersten Male heraus und verläßt den physischen Leib.
 
@@ -1477,7 +1458,7 @@ But at death it is different. Through the whole of life the etheric body and the
 
 ================================================================================
 
-문단 99
+문단 98
 - 독일어
 Der Moment des Todes wird daher von dem, der davon etwas weiß, als der Moment des Rückblicks geschildert, wo das ganze verflossene Leben wie ein Panorama am Menschen vorbeizieht. Warum?
 
@@ -1492,7 +1473,7 @@ The moment of death is therefore described by those who have knowledge of the su
 
 ================================================================================
 
-문단 100
+문단 99
 - 독일어
 Weil der Ätherleib der Träger des Gedächtnisses ist und dieses Gedächtnis nun frei wird. Solange der Ätherleib im physischen Leib ist, kann er nicht seine ganze Kraft entfalten, sondern nur so viel davon entwickeln, als das physische Instrument zuläßt.
 
@@ -1507,7 +1488,7 @@ It is because the etheric body is the bearer of memory and this memory now becom
 
 ================================================================================
 
-문단 101
+문단 100
 - 독일어
 Jetzt aber, im Tode, wird er frei und kann ohne den physischen Leib das entwickeln, was in der ganzen Lebenszeit in ihn eingeschrieben worden ist.
 
@@ -1522,7 +1503,7 @@ Now, however, at death the etheric body becomes free of the physical body and ca
 
 ================================================================================
 
-문단 102
+문단 101
 - 독일어
 Auch durch einen Schock, bei dem aber den Menschen das Bewußtsein nicht wie nach dem Tode verlassen darf, kann dieses Panorama eintreten, zum Beispiel bei Todesgefahr.
 
@@ -1537,7 +1518,7 @@ This panorama can also arise as the result of a shock but in that case the man c
 
 ================================================================================
 
-문단 103
+문단 102
 - 독일어
 Das ist aber ein Ausnahmefall.
 
@@ -1550,7 +1531,9 @@ But this is an exceptional case.
 - AI 번역
 그러나 이것은 예외적인 경우입니다.
 
-문단 104
+================================================================================
+
+문단 103
 - 독일어
 Nun können Sie fragen: Wie lange dauert dieses Tableau? Das ist nun bei den Menschen sehr verschieden.
 
@@ -1565,7 +1548,7 @@ Now you may ask how long this tableau lasts. The time varies a great deal in hum
 
 ================================================================================
 
-문단 105
+문단 104
 - 독일어
 Im allgemeinen kann man sagen, es dauert so lange, als der Mensch im Leben wachen kann, ohne vom Schlaf übermannt zu werden;
 
@@ -1580,7 +1563,7 @@ Speaking generally, it can be said that the tableau lasts for as long as the ind
 
 ================================================================================
 
-문단 106
+문단 105
 - 독일어
 das ist: zwanzig Stunden, fünfzig, sechzig bis achtzig Stunden. Die äußerste Grenze, die der Mensch im Wachen erreichen kann, ist ungefähr die Zeitdauer für dieses Panorama. So lange währt diese Rückerinnerung,
 
@@ -1595,7 +1578,7 @@ twenty hours, fifty, sixty to eighty hours. The extreme limit of time during whi
 
 ================================================================================
 
-문단 107
+문단 106
 - 독일어
 dann flutet sie ab, und zugleich sieht der Hellseher, wie sich der Ätherleib herauslöst,
 
@@ -1610,7 +1593,7 @@ Then it fades away and a clairvoyant sees how the etheric body detaches itself a
 
 ================================================================================
 
-문단 108
+문단 107
 - 독일어
 aber nicht ganz, und das ist das Wesentliche. Eine Essenz, einen Extrakt nimmt der Mensch mit sich, und mit der Essenz seines Ätherleibes die Früchte seines letzten Lebens.
 
@@ -1625,7 +1608,7 @@ not entirely, however, and that is the important point. The individual concerned
 
 ================================================================================
 
-문단 109
+문단 108
 - 독일어
 Dadurch steigt der Mensch auf. Nun behält er die Essenz seines Ätherleibes, seinen Astralleib und sein Ich, bis er auch den Astralleib ablegt. Jetzt hat er zwei Leichname abgelegt, und dann geht er in die geistige Welt ein.
 
@@ -1640,7 +1623,7 @@ He ascends, retaining the essence of his etheric body, his astral body and his e
 
 ================================================================================
 
-문단 110
+문단 109
 - 독일어
 Morgen wollen wir dann das Leben nach dem Tode und den Eintritt in die devachanische Welt betrachten.
 

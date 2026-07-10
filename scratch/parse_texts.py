@@ -138,13 +138,15 @@ LECTURE_TITLES = {
 
 def main():
     dest_project = os.getcwd()
+    data_dir = os.path.join(dest_project, "새 폴더")
     print(f"Working directory: {dest_project}")
+    print(f"Data directory: {data_dir}")
     
     # Group files by lecture number: e.g. 1-1.txt, 1-2.txt, 1-3.txt all map to lecture_num = 1
     # Key: lecture_num (int), Value: list of file paths
     lecture_groups = {}
     
-    for f in os.listdir(dest_project):
+    for f in os.listdir(data_dir):
         match_part = re.match(r'^(\d+)-(\d+)\.txt$', f)
         match_single = re.match(r'^(\d+)\.txt$', f)
         
@@ -155,7 +157,7 @@ def main():
             if lecture_num not in lecture_groups:
                 lecture_groups[lecture_num] = []
             
-            lecture_groups[lecture_num].append((part_num, os.path.join(dest_project, f)))
+            lecture_groups[lecture_num].append((part_num, os.path.join(data_dir, f)))
         elif match_single:
             lecture_num = int(match_single.group(1))
             part_num = 1
@@ -163,10 +165,10 @@ def main():
             if lecture_num not in lecture_groups:
                 lecture_groups[lecture_num] = []
             
-            lecture_groups[lecture_num].append((part_num, os.path.join(dest_project, f)))
+            lecture_groups[lecture_num].append((part_num, os.path.join(data_dir, f)))
             
     if not lecture_groups:
-        print("Error: Could not find any translation text files (e.g. 1-1.txt) in the current directory.")
+        print("Error: Could not find any translation text files (e.g. 1-1.txt) in the data directory.")
         sys.exit(1)
         
     subchapters = []
