@@ -1,6 +1,6 @@
 3강 전체 정밀재검수본
 
-※ 3강 전체 106문단을 기준으로 재검수했습니다.
+※ 3강 전체 103문단을 기준으로 재검수했습니다.
 ※ 형식: 문단 번호 → 독일어 → 영어 → 한글 → AI 번역
 
 문단 1
@@ -1385,65 +1385,20 @@ If he has one organ more, a new world reveals itself to him. His astral body, if
 
 문단 93
 - 독일어
-deshalb nimmt der Mensch in der Nacht auch nichts wahr.
+deshalb nimmt der Mensch in der Nacht auch nichts wahr. Wir können uns leicht denken, daß der Mensch da ohne Sinne sein kann. Wir wissen, es gibt Blinde und solche, denen andere Sinne fehlen; keine Welt ist für den Menschen da, wenn er sich nicht seiner Sinne bedienen kann. Daher ist am Morgen, wenn der Mensch sich wieder der physischen Sinne bedienen kann, die Welt wieder um ihn herum da. Anders aber ist es beim Tode. Der Ätherleib und der physische Leib bleiben während des ganzen Lebens miteinander verbunden; im Tode nun geht der Ätherleib in der Regel zum ersten Male heraus und verläßt den physischen Leib. Der Moment des Todes wird daher von dem, der davon etwas weiß, als der Moment des Rückblicks geschildert, wo das ganze verflossene Leben wie ein Panorama am Menschen vorbeizieht. Warum?
 
 - 영어
-hence during the night he cannot be aware of anything.
+hence during the night he cannot be aware of anything. It is easy to imagine that during sleep he may be without senses. There are blind people and also people in whom other senses are lacking. No world is present for one who is unable to use his senses. Hence, in the morning, when a man can again make use of his physical senses, he becomes aware of the world around him. But at death it is different. Through the whole of life the etheric body and the physical body remain connected with each other; at death, the etheric body, for the first time as a rule, abandons the physical body. The moment of death is therefore described by those who have knowledge of the subject as the moment when a retrospect of the whole past life passes like a panorama before the human being. What is the explanation of this?
 
 - 한글
-그래서 사람들은 밤에 아무것도 지각하지 못하는 것입니다.
+그래서 사람들은 밤에 아무것도 지각하지 못하는 것입니다. 인간은 수면 중에 감각을 가지지 못한다고 상상하는 것이 쉽습니다. 맹인이 있는가하면 다른 감각이 결여된 사람들도 있습니다. 감각을 전혀 사용하지 못하는 사람에게는 그 어떤 세계도 존재하지 않습니다. 이렇게 아침이 되서 인간이 다시 물질적 감각을 이용할 수 있게 되면 인간은 주위 세계를 지각하기 시작합니다. 하지만 죽음의 경우 다릅니다. 생애 전체에 걸쳐서 에테르체와 육체는 서로 결합된 상태입니다만 죽음에 이르러 일반적으로 에테르체는 처음 육체를 버리게 됩니다. 이 사실을 알고 있는 사람들은 이 죽음의 순간을 지금까지 모든 생애에 대한 회고가 인간 앞에 파노라마처럼 지나가는 순간으로 그리고 있습니다.
 
 - AI 번역
-그러므로 인간은 밤에도 아무것도 지각하지 않습니다.
+그러므로 인간은 밤에도 아무것도 지각하지 않습니다. 우리는 인간이 그때 감각 없이 있을 수 있다는 것을 쉽게 생각할 수 있습니다. 우리는 장님도 있고, 다른 감각이 결여된 사람들도 있다는 것을 압니다. 인간이 자신의 감각들을 사용할 수 없다면, 그에게는 어떤 세계도 존재하지 않습니다. 그러므로 아침에 인간이 다시 물리적 감각들을 사용할 수 있게 되면, 세계도 다시 그의 둘레에 있게 됩니다. 그러나 죽음의 경우에는 다릅니다. 에테르체와 물리적 몸은 전 생애 동안 서로 결합되어 있습니다. 그런데 죽음에서는 일반적으로 에테르체가 처음으로 밖으로 나가 물리적 몸을 떠납니다. 그러므로 죽음의 순간은, 그것에 관해 무엇인가를 아는 사람에 의해 회고의 순간으로 묘사됩니다. 그때 지나간 삶 전체가 하나의 파노라마처럼 인간 앞을 지나갑니다. 왜 그렇습니까?
 
 ================================================================================
 
 문단 94
-- 독일어
-Wir können uns leicht denken, daß der Mensch da ohne Sinne sein kann. Wir wissen, es gibt Blinde und solche, denen andere Sinne fehlen; keine Welt ist für den Menschen da, wenn er sich nicht seiner Sinne bedienen kann. Daher ist am Morgen, wenn der Mensch sich wieder der physischen Sinne bedienen kann, die Welt wieder um ihn herum da.
-
-- 영어
-It is easy to imagine that during sleep he may be without senses. There are blind people and also people in whom other senses are lacking. No world is present for one who is unable to use his senses. Hence, in the morning, when a man can again make use of his physical senses, he becomes aware of the world around him.
-
-- 한글
-인간은 수면 중에 감각을 가지지 못한다고 상상하는 것이 쉽습니다. 맹인이 있는가하면 다른 감각이 결여된 사람들도 있습니다. 감각을 전혀 사용하지 못하는 사람에게는 그 어떤 세계도 존재하지 않습니다. 이렇게 아침이 되서 인간이 다시 물질적 감각을 이용할 수 있게 되면 인간은 주위 세계를 지각하기 시작합니다.
-
-- AI 번역
-우리는 인간이 그때 감각 없이 있을 수 있다는 것을 쉽게 생각할 수 있습니다. 우리는 장님도 있고, 다른 감각이 결여된 사람들도 있다는 것을 압니다. 인간이 자신의 감각들을 사용할 수 없다면, 그에게는 어떤 세계도 존재하지 않습니다. 그러므로 아침에 인간이 다시 물리적 감각들을 사용할 수 있게 되면, 세계도 다시 그의 둘레에 있게 됩니다.
-
-================================================================================
-
-문단 95
-- 독일어
-Anders aber ist es beim Tode. Der Ätherleib und der physische Leib bleiben während des ganzen Lebens miteinander verbunden; im Tode nun geht der Ätherleib in der Regel zum ersten Male heraus und verläßt den physischen Leib.
-
-- 영어
-But at death it is different. Through the whole of life the etheric body and the physical body remain connected with each other; at death, the etheric body, for the first time as a rule, abandons the physical body.
-
-- 한글
-하지만 죽음의 경우 다릅니다. 생애 전체에 걸쳐서 에테르체와 육체는 서로 결합된 상태입니다만 죽음에 이르러 일반적으로 에테르체는 처음 육체를 버리게 됩니다.
-
-- AI 번역
-그러나 죽음의 경우에는 다릅니다. 에테르체와 물리적 몸은 전 생애 동안 서로 결합되어 있습니다. 그런데 죽음에서는 일반적으로 에테르체가 처음으로 밖으로 나가 물리적 몸을 떠납니다.
-
-================================================================================
-
-문단 96
-- 독일어
-Der Moment des Todes wird daher von dem, der davon etwas weiß, als der Moment des Rückblicks geschildert, wo das ganze verflossene Leben wie ein Panorama am Menschen vorbeizieht. Warum?
-
-- 영어
-The moment of death is therefore described by those who have knowledge of the subject as the moment when a retrospect of the whole past life passes like a panorama before the human being. What is the explanation of this?
-
-- 한글
-이 사실을 알고 있는 사람들은 이 죽음의 순간을 지금까지 모든 생애에 대한 회고가 인간 앞에 파노라마처럼 지나가는 순간으로 그리고 있습니다.
-
-- AI 번역
-그러므로 죽음의 순간은, 그것에 관해 무엇인가를 아는 사람에 의해 회고의 순간으로 묘사됩니다. 그때 지나간 삶 전체가 하나의 파노라마처럼 인간 앞을 지나갑니다. 왜 그렇습니까?
-
-================================================================================
-
-문단 97
 - 독일어
 Weil der Ätherleib der Träger des Gedächtnisses ist und dieses Gedächtnis nun frei wird. Solange der Ätherleib im physischen Leib ist, kann er nicht seine ganze Kraft entfalten, sondern nur so viel davon entwickeln, als das physische Instrument zuläßt.
 
@@ -1458,7 +1413,7 @@ It is because the etheric body is the bearer of memory and this memory now becom
 
 ================================================================================
 
-문단 98
+문단 95
 - 독일어
 Jetzt aber, im Tode, wird er frei und kann ohne den physischen Leib das entwickeln, was in der ganzen Lebenszeit in ihn eingeschrieben worden ist.
 
@@ -1473,7 +1428,7 @@ Now, however, at death the etheric body becomes free of the physical body and ca
 
 ================================================================================
 
-문단 99
+문단 96
 - 독일어
 Auch durch einen Schock, bei dem aber den Menschen das Bewußtsein nicht wie nach dem Tode verlassen darf, kann dieses Panorama eintreten, zum Beispiel bei Todesgefahr.
 
@@ -1488,7 +1443,7 @@ This panorama can also arise as the result of a shock but in that case the man c
 
 ================================================================================
 
-문단 100
+문단 97
 - 독일어
 Das ist aber ein Ausnahmefall.
 
@@ -1503,7 +1458,7 @@ But this is an exceptional case.
 
 ================================================================================
 
-문단 101
+문단 98
 - 독일어
 Nun können Sie fragen: Wie lange dauert dieses Tableau? Das ist nun bei den Menschen sehr verschieden.
 
@@ -1518,7 +1473,7 @@ Now you may ask how long this tableau lasts. The time varies a great deal in hum
 
 ================================================================================
 
-문단 102
+문단 99
 - 독일어
 Im allgemeinen kann man sagen, es dauert so lange, als der Mensch im Leben wachen kann, ohne vom Schlaf übermannt zu werden;
 
@@ -1533,7 +1488,7 @@ Speaking generally, it can be said that the tableau lasts for as long as the ind
 
 ================================================================================
 
-문단 103
+문단 100
 - 독일어
 das ist: zwanzig Stunden, fünfzig, sechzig bis achtzig Stunden. Die äußerste Grenze, die der Mensch im Wachen erreichen kann, ist ungefähr die Zeitdauer für dieses Panorama. So lange währt diese Rückerinnerung,
 
@@ -1548,7 +1503,7 @@ twenty hours, fifty, sixty to eighty hours. The extreme limit of time during whi
 
 ================================================================================
 
-문단 104
+문단 101
 - 독일어
 dann flutet sie ab, und zugleich sieht der Hellseher, wie sich der Ätherleib herauslöst,
 
@@ -1563,7 +1518,7 @@ Then it fades away and a clairvoyant sees how the etheric body detaches itself a
 
 ================================================================================
 
-문단 105
+문단 102
 - 독일어
 aber nicht ganz, und das ist das Wesentliche. Eine Essenz, einen Extrakt nimmt der Mensch mit sich, und mit der Essenz seines Ätherleibes die Früchte seines letzten Lebens.
 
@@ -1578,7 +1533,7 @@ not entirely, however, and that is the important point. The individual concerned
 
 ================================================================================
 
-문단 106
+문단 103
 - 독일어
 Dadurch steigt der Mensch auf. Nun behält er die Essenz seines Ätherleibes, seinen Astralleib und sein Ich, bis er auch den Astralleib ablegt. Jetzt hat er zwei Leichname abgelegt, und dann geht er in die geistige Welt ein. Morgen wollen wir dann das Leben nach dem Tode und den Eintritt in die devachanische Welt betrachten.
 
