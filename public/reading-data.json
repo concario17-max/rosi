@@ -2263,7 +2263,7 @@
                     "chapterName": "3강 인간의 성질과 존재",
                     "title": "The Nature and Being of Man",
                     "tocHeadings": [
-                        "Paragraphs 1 - 109"
+                        "Paragraphs 1 - 108"
                     ],
                     "paragraphs": [
                         {
@@ -2848,28 +2848,16 @@
                             "paragraphNumber": 49,
                             "chapterTitle": "장미십자 방법",
                             "text": {
-                                "german": "Wir wollen uns das klarmachen, wie das eine den Astralleib, das andere den Ätherleib vom Ich aus bearbeitet.",
-                                "english": "We will clarify our minds as to how, in the latter case, the ego works upon the astral body and, in the former, upon the etheric body through repetition.",
-                                "korean": "후자의 경우 자아는 어떻게 아스트랄체에 작용하는가가 문제이고 전자의 경우 자아가 반복을 통해 어떻게 에테르체에 작용하는지가 문제입니다. 이것을 명확히 이해하도록 해봅시다.",
-                                "ai_translation": "우리는 이 점을 분명히 해야 합니다. 하나는 자아로부터 아스트랄체를 작업하고, 다른 하나는 자아로부터 에테르체를 작업한다는 사실을 말입니다."
+                                "german": "Wir wollen uns das klarmachen, wie das eine den Astralleib, das andere den Ätherleib vom Ich aus bearbeitet. Schauen Sie auf das Wachsen der Pflanze. Sie treibt den Keim, den Stengel, setzt Blatt für Blatt an, immer neue grüne Blätter. Dadurch, daß sie mit einem Ätherleib begabt ist, kann sie das, denn das Prinzip des Ätherleibes ist das der Wiederholung.",
+                                "english": "We will clarify our minds as to how, in the latter case, the ego works upon the astral body and, in the former, upon the etheric body through repetition. Think of the growth of a plant. The living seed produces the stalk and leaf after leaf; constantly new green leaves are added. This is possible because the plant is endowed with an etheric body and the underlying, active principle of the etheric body is repetition.",
+                                "korean": "후자의 경우 자아는 어떻게 아스트랄체에 작용하는가가 문제이고 전자의 경우 자아가 반복을 통해 어떻게 에테르체에 작용하는지가 문제입니다. 이것을 명확히 이해하도록 해봅시다. 식물의 성장을 생각해보십시오. 살아있는 씨앗은 줄기를 만들어내고 이어서 잎들을 만들어 냅니다. 끊임없이 새로운 녹색 잎이 생겨납니다. 이것은 식물이 에테르체를 가지고 있기 때문이며 에테르체의 근저에서 활동하고 있는 것은 반복입니다.",
+                                "ai_translation": "우리는 이 점을 분명히 해야 합니다. 하나는 자아로부터 아스트랄체를 작업하고, 다른 하나는 자아로부터 에테르체를 작업한다는 사실을 말입니다. 식물의 성장을 보십시오. 식물은 싹을 틔우고, 줄기를 내며, 잎을 하나하나 붙여 갑니다. 언제나 새로운 초록 잎들을 냅니다. 식물이 이것을 할 수 있는 것은 에테르체를 부여받았기 때문입니다. 에테르체의 원리는 반복의 원리입니다."
                             }
                         },
                         {
                             "id": "rosi.3.50",
                             "title": "문단 50",
                             "paragraphNumber": 50,
-                            "chapterTitle": "장미십자 방법",
-                            "text": {
-                                "german": "Schauen Sie auf das Wachsen der Pflanze. Sie treibt den Keim, den Stengel, setzt Blatt für Blatt an, immer neue grüne Blätter. Dadurch, daß sie mit einem Ätherleib begabt ist, kann sie das, denn das Prinzip des Ätherleibes ist das der Wiederholung.",
-                                "english": "Think of the growth of a plant. The living seed produces the stalk and leaf after leaf; constantly new green leaves are added. This is possible because the plant is endowed with an etheric body and the underlying, active principle of the etheric body is repetition.",
-                                "korean": "식물의 성장을 생각해보십시오. 살아있는 씨앗은 줄기를 만들어내고 이어서 잎들을 만들어 냅니다. 끊임없이 새로운 녹색 잎이 생겨납니다. 이것은 식물이 에테르체를 가지고 있기 때문이며 에테르체의 근저에서 활동하고 있는 것은 반복입니다.",
-                                "ai_translation": "식물의 성장을 보십시오. 식물은 싹을 틔우고, 줄기를 내며, 잎을 하나하나 붙여 갑니다. 언제나 새로운 초록 잎들을 냅니다. 식물이 이것을 할 수 있는 것은 에테르체를 부여받았기 때문입니다. 에테르체의 원리는 반복의 원리입니다."
-                            }
-                        },
-                        {
-                            "id": "rosi.3.51",
-                            "title": "문단 51",
-                            "paragraphNumber": 51,
                             "chapterTitle": "장미십자 방법",
                             "text": {
                                 "german": "Überall da, wo Wiederholung auftritt, da wirkt ein Ätherleib. Den Abschluß der Pflanze, die Blüte, den bewirkt ein anderes Prinzip, der sie überschattende Astralleib.",
@@ -2879,9 +2867,9 @@
                             }
                         },
                         {
-                            "id": "rosi.3.52",
-                            "title": "문단 52",
-                            "paragraphNumber": 52,
+                            "id": "rosi.3.51",
+                            "title": "문단 51",
+                            "paragraphNumber": 51,
                             "chapterTitle": "장미십자 방법",
                             "text": {
                                 "german": "Also ein Abschluß, das ist das Prinzip der Astralität.",
@@ -2891,9 +2879,9 @@
                             }
                         },
                         {
-                            "id": "rosi.3.53",
-                            "title": "문단 53",
-                            "paragraphNumber": 53,
+                            "id": "rosi.3.52",
+                            "title": "문단 52",
+                            "paragraphNumber": 52,
                             "chapterTitle": "장미십자 방법",
                             "text": {
                                 "german": "Merken Sie wohl - Sie können das auch beim Menschen am Bau seines physischen Leibes beobachten. Sehen Sie das Rückgrat an, die immer sich wiederholenden Rückenwirbel, da haben Sie den Ätherleib im Physischen ausgedrückt. Nun betrachten Sie den Kopf des Menschen, das Gehirn: da haben Sie den Abschluß, den Astralleib in der physischen Form.",
@@ -2903,9 +2891,9 @@
                             }
                         },
                         {
-                            "id": "rosi.3.54",
-                            "title": "문단 54",
-                            "paragraphNumber": 54,
+                            "id": "rosi.3.53",
+                            "title": "문단 53",
+                            "paragraphNumber": 53,
                             "chapterTitle": "장미십자 방법",
                             "text": {
                                 "german": "Denselben Vorgang haben Sie geistig als das einmalige Verständnis durch die Wirkung auf den Astralleib, und als errungene Tätigkeit durch die tägliche Wiederholung desselben Gebetes oder derselben Meditationsübung, einer Arbeit am Ätherleib.",
@@ -2915,9 +2903,9 @@
                             }
                         },
                         {
-                            "id": "rosi.3.55",
-                            "title": "문단 55",
-                            "paragraphNumber": 55,
+                            "id": "rosi.3.54",
+                            "title": "문단 54",
+                            "paragraphNumber": 54,
                             "chapterTitle": "장미십자 방법",
                             "text": {
                                 "german": "Darin ist das Wesentliche der Meditation zu sehen, daß sie durch das Prinzip der Wiederholung in den Astralleib nicht allein, sondern in den Ätherleib hinein wirkt. Die großen Religionslehrer haben deshalb so Großes gewirkt, weil sie der Menschheit Inhalte gegeben haben, in denen fortwirkende Kraft sich offenbarte, die immer noch weiter wirkt. So ist also auch der Ätherleib des Menschen zweiteilig: er hat einen durchgearbeiteten Teil, der allerdings beim Durchschnittsmenschen noch gering ist, und den vom Ich aus noch nicht bearbeiteten Teil.",
@@ -2927,9 +2915,9 @@
                             }
                         },
                         {
-                            "id": "rosi.3.56",
-                            "title": "문단 56",
-                            "paragraphNumber": 56,
+                            "id": "rosi.3.55",
+                            "title": "문단 55",
+                            "paragraphNumber": 55,
                             "chapterTitle": "장미십자 방법",
                             "text": {
                                 "german": "Ein drittes noch gibt es für den Menschen: Er kann von seinem Ich aus in den physischen Körper wirken.",
@@ -2939,9 +2927,9 @@
                             }
                         },
                         {
-                            "id": "rosi.3.57",
-                            "title": "문단 57",
-                            "paragraphNumber": 57,
+                            "id": "rosi.3.56",
+                            "title": "문단 56",
+                            "paragraphNumber": 56,
                             "chapterTitle": "장미십자 방법",
                             "text": {
                                 "german": "Das ist die härteste Arbeit. Der Mensch hat unbewußt fortwährend schon an seinem physischen Körper gearbeitet; nicht aber von seinem Ich aus. Das ist nur den Vorgeschrittensten möglich.",
@@ -2951,9 +2939,9 @@
                             }
                         },
                         {
-                            "id": "rosi.3.58",
-                            "title": "문단 58",
-                            "paragraphNumber": 58,
+                            "id": "rosi.3.57",
+                            "title": "문단 57",
+                            "paragraphNumber": 57,
                             "chapterTitle": "장미십자 방법",
                             "text": {
                                 "german": "So lernen wir die vier niederen Glieder des Menschen kennen und die drei höheren Glieder, welche Umwandlungsprodukte sind der drei niederen Leiber durch die Arbeit des Ich.",
@@ -2963,9 +2951,9 @@
                             }
                         },
                         {
-                            "id": "rosi.3.59",
-                            "title": "문단 59",
-                            "paragraphNumber": 59,
+                            "id": "rosi.3.58",
+                            "title": "문단 58",
+                            "paragraphNumber": 58,
                             "chapterTitle": "장미십자 방법",
                             "text": {
                                 "german": "Es besteht bei dieser Bearbeitung der drei unteren Glieder ein beträchtlicher Unterschied: dieselbe geschieht bewußt oder unbewußt.",
@@ -2975,9 +2963,9 @@
                             }
                         },
                         {
-                            "id": "rosi.3.60",
-                            "title": "문단 60",
-                            "paragraphNumber": 60,
+                            "id": "rosi.3.59",
+                            "title": "문단 59",
+                            "paragraphNumber": 59,
                             "chapterTitle": "장미십자 방법",
                             "text": {
                                 "german": "Unbewußt, das heißt ohne daß der betreffende Mensch es weiß, durch das Betrachten und In-sich-Aufnehmen künstlerischer Werke, Bilder und so weiter, durch hingebende Andacht und Gebetsverrichtungen.",
@@ -2987,9 +2975,9 @@
                             }
                         },
                         {
-                            "id": "rosi.3.61",
-                            "title": "문단 61",
-                            "paragraphNumber": 61,
+                            "id": "rosi.3.60",
+                            "title": "문단 60",
+                            "paragraphNumber": 60,
                             "chapterTitle": "장미십자 방법",
                             "text": {
                                 "german": "Es sind sich aber die Menschen dessen nicht bewußt, daß sie an ihrem Äther- und Astralleib arbeiten;",
@@ -2999,9 +2987,9 @@
                             }
                         },
                         {
-                            "id": "rosi.3.62",
-                            "title": "문단 62",
-                            "paragraphNumber": 62,
+                            "id": "rosi.3.61",
+                            "title": "문단 61",
+                            "paragraphNumber": 61,
                             "chapterTitle": "장미십자 방법",
                             "text": {
                                 "german": "das bewußte Arbeiten daran beginnt verhältnismäßig spät.",
@@ -3011,9 +2999,9 @@
                             }
                         },
                         {
-                            "id": "rosi.3.63",
-                            "title": "문단 63",
-                            "paragraphNumber": 63,
+                            "id": "rosi.3.62",
+                            "title": "문단 62",
+                            "paragraphNumber": 62,
                             "chapterTitle": "장미십자 방법",
                             "text": {
                                 "german": "Wir haben also zu unterscheiden ein bewußtes und ein unbewußtes Arbeiten des Menschen an den unteren Wesensgliedern. Es besteht der menschliche Astralleib aus zwei Gliederungen: einem unbewußten und einem bewußten Teil.",
@@ -3023,9 +3011,9 @@
                             }
                         },
                         {
-                            "id": "rosi.3.64",
-                            "title": "문단 64",
-                            "paragraphNumber": 64,
+                            "id": "rosi.3.63",
+                            "title": "문단 63",
+                            "paragraphNumber": 63,
                             "chapterTitle": "장미십자 방법",
                             "text": {
                                 "german": "Den Teil des Astralleibes, der vom Ich aus in unbewußter Weise durchgearbeitet wurde, nennt man die Empfindungsseele; diese ist beim Menschen heute fertig durchgebildet.",
@@ -3035,9 +3023,9 @@
                             }
                         },
                         {
-                            "id": "rosi.3.65",
-                            "title": "문단 65",
-                            "paragraphNumber": 65,
+                            "id": "rosi.3.64",
+                            "title": "문단 64",
+                            "paragraphNumber": 64,
                             "chapterTitle": "장미십자 방법",
                             "text": {
                                 "german": "Was unbewußt am Ätherleib vom Ich aus bearbeitet wurde, das ist die Verstandesseele.",
@@ -3047,9 +3035,9 @@
                             }
                         },
                         {
-                            "id": "rosi.3.66",
-                            "title": "문단 66",
-                            "paragraphNumber": 66,
+                            "id": "rosi.3.65",
+                            "title": "문단 65",
+                            "paragraphNumber": 65,
                             "chapterTitle": "장미십자 방법",
                             "text": {
                                 "german": "Was im physischen Leibe unbewußt seit langer Zeit umgearbeitet worden ist, das ist die Bewußtseinsseele. So unterscheiden wir also am Menschen den physischen Leib, den Ätherleib, den Astralleib und das Ich, und von diesem als vom Astralleib unbewußt Umgearbeitetem die Empfindungsseele; vom Ätherleib die Verstandesseele; vom physischen Leib die Bewußtseinsseele. Wir haben also sechs, beziehungsweise sieben Glieder der menschlichen Natur, die so entstanden sind, daß der Mensch unbewußt an sich gearbeitet hat.",
@@ -3059,9 +3047,9 @@
                             }
                         },
                         {
-                            "id": "rosi.3.67",
-                            "title": "문단 67",
-                            "paragraphNumber": 67,
+                            "id": "rosi.3.66",
+                            "title": "문단 66",
+                            "paragraphNumber": 66,
                             "chapterTitle": "장미십자 방법",
                             "text": {
                                 "german": "Nun beginnt das bewußte Arbeiten. Was entsteht dadurch? Es ist dasjenige, was der Mensch bewußt in den Astralleib hineinarbeitet, das Geistselbst oder Manas;",
@@ -3071,9 +3059,9 @@
                             }
                         },
                         {
-                            "id": "rosi.3.68",
-                            "title": "문단 68",
-                            "paragraphNumber": 68,
+                            "id": "rosi.3.67",
+                            "title": "문단 67",
+                            "paragraphNumber": 67,
                             "chapterTitle": "장미십자 방법",
                             "text": {
                                 "german": "was der Mensch bewußt an seinem Ätherleib arbeitet - das aber geschieht erst bei einer bewußten okkulten Schulung -, nennt man die Buddhi oder den Lebensgeist.",
@@ -3083,9 +3071,9 @@
                             }
                         },
                         {
-                            "id": "rosi.3.69",
-                            "title": "문단 69",
-                            "paragraphNumber": 69,
+                            "id": "rosi.3.68",
+                            "title": "문단 68",
+                            "paragraphNumber": 68,
                             "chapterTitle": "장미십자 방법",
                             "text": {
                                 "german": "Und was geschieht dann, wenn das Ich einmal in die Lage kommt, den physischen Leib bewußt zu bearbeiten, das heißt Kräfte bis in den physischen Leib hineinzuarbeiten? Durch okkulte Schulung, durch den Atmungsprozeß kann das wirklich bewußt geschehen, aber es muß dabei sehr vorsichtig und sehr subtil zu Werke gegangen werden, denn bei falscher Schulung, wie sie oft in öffentlichen Schriften gegeben wird, kann man auch dem Körper des Europäers sehr schaden, und man muß wissen, was der Konstitution des modernen Menschen angemessen ist.",
@@ -3095,9 +3083,9 @@
                             }
                         },
                         {
-                            "id": "rosi.3.70",
-                            "title": "문단 70",
-                            "paragraphNumber": 70,
+                            "id": "rosi.3.69",
+                            "title": "문단 69",
+                            "paragraphNumber": 69,
                             "chapterTitle": "장미십자 방법",
                             "text": {
                                 "german": "Durch solche bewußte Atmung wird dann der physische Körper vom Ich aus umgestaltet zu Atman oder dem Geistesmenschen.",
@@ -3107,9 +3095,9 @@
                             }
                         },
                         {
-                            "id": "rosi.3.71",
-                            "title": "문단 71",
-                            "paragraphNumber": 71,
+                            "id": "rosi.3.70",
+                            "title": "문단 70",
+                            "paragraphNumber": 70,
                             "chapterTitle": "장미십자 방법",
                             "text": {
                                 "german": "Das Wesen des Menschen war viergliedrig, als er irdische Gestaltung annahm. Mit der ersten irdischen Inkarnation beginnt er schon die Arbeit an sich selbst durch das Ich. Dabei entwickelt er durch die Verkörperungen hindurch unbewußt die drei Seelenaspekte: Empfindungsseele, Verstandesseele, Bewußtseinsseele.",
@@ -3119,9 +3107,9 @@
                             }
                         },
                         {
-                            "id": "rosi.3.72",
-                            "title": "문단 72",
-                            "paragraphNumber": 72,
+                            "id": "rosi.3.71",
+                            "title": "문단 71",
+                            "paragraphNumber": 71,
                             "chapterTitle": "장미십자 방법",
                             "text": {
                                 "german": "Wir werden noch sehen, wie die bewußte Umgestaltung von physischem Leib, Äther- und Astralleib in die drei höheren Glieder vor sich geht. Hier haben Sie nun inzwischen dasjenige, was gewissermaßen die siebengliedrige Wesenheit des Menschen ist, sie entwickelt sich so durch die Inkarnation hindurch.",
@@ -3131,9 +3119,9 @@
                             }
                         },
                         {
-                            "id": "rosi.3.73",
-                            "title": "문단 73",
-                            "paragraphNumber": 73,
+                            "id": "rosi.3.72",
+                            "title": "문단 72",
+                            "paragraphNumber": 72,
                             "chapterTitle": "장미십자 방법",
                             "text": {
                                 "german": "Die vier Glieder: physischer Leib, Ätherleib und Astralleib mit Ich sind die sogenannte heilige Vierheit, wie man sie in allen okkulten Schulen verehrte, zu der sich noch eine heilige Dreiheit gesellte, die sich zu einer Siebenheit und einer Zehnheit bewußt gliedert.",
@@ -3143,9 +3131,9 @@
                             }
                         },
                         {
-                            "id": "rosi.3.74",
-                            "title": "문단 74",
-                            "paragraphNumber": 74,
+                            "id": "rosi.3.73",
+                            "title": "문단 73",
+                            "paragraphNumber": 73,
                             "chapterTitle": "장미십자 방법",
                             "text": {
                                 "german": "So haben wir den universellen Menschen vor unsere Seele hingestellt, der alles in sich hat, was ihn gleichsam fächerartig umgibt, der aber durch seinen Ich-Träger darüber hinausragt.",
@@ -3155,9 +3143,9 @@
                             }
                         },
                         {
-                            "id": "rosi.3.75",
-                            "title": "문단 75",
-                            "paragraphNumber": 75,
+                            "id": "rosi.3.74",
+                            "title": "문단 74",
+                            "paragraphNumber": 74,
                             "chapterTitle": "장미십자 방법",
                             "text": {
                                 "german": "Nun wollen wir auch den Menschen im Wachen und Schlafen betrachten, um zu erkennen, wie da die Leiber zusammengefügt sind.",
@@ -3167,9 +3155,9 @@
                             }
                         },
                         {
-                            "id": "rosi.3.76",
-                            "title": "문단 76",
-                            "paragraphNumber": 76,
+                            "id": "rosi.3.75",
+                            "title": "문단 75",
+                            "paragraphNumber": 75,
                             "chapterTitle": "장미십자 방법",
                             "text": {
                                 "german": "Was geschieht, wenn Freude und Schmerz im Menschen schweigen, wenn das Bewußtsein in den Schlaf hinabsinkt? Der Astralleib und das Ich sind dann außerhalb des physischen und Ätherleibes.",
@@ -3179,9 +3167,9 @@
                             }
                         },
                         {
-                            "id": "rosi.3.77",
-                            "title": "문단 77",
-                            "paragraphNumber": 77,
+                            "id": "rosi.3.76",
+                            "title": "문단 76",
+                            "paragraphNumber": 76,
                             "chapterTitle": "장미십자 방법",
                             "text": {
                                 "german": "Für den Menschen tritt da im Schlafzustande etwas sehr Eigentümliches ein. Wie eine Pflanze am Tage, so ist der Mensch in der Nacht: er hat nur den physischen und Ätherleib in sich, er ist sozusagen heruntergestiegen zur Pflanzheit. Das Menschenwesen spaltet sich in zwei Glieder: physischer und Ätherleib bleiben im Bette und Astralleib und Ich sind außerhalb.",
@@ -3191,9 +3179,9 @@
                             }
                         },
                         {
-                            "id": "rosi.3.78",
-                            "title": "문단 78",
-                            "paragraphNumber": 78,
+                            "id": "rosi.3.77",
+                            "title": "문단 77",
+                            "paragraphNumber": 77,
                             "chapterTitle": "장미십자 방법",
                             "text": {
                                 "german": "Nun können Sie die Frage vorlegen: Ja, ist denn der Mensch im Bette eine Pflanze?",
@@ -3203,9 +3191,9 @@
                             }
                         },
                         {
-                            "id": "rosi.3.79",
-                            "title": "문단 79",
-                            "paragraphNumber": 79,
+                            "id": "rosi.3.78",
+                            "title": "문단 78",
+                            "paragraphNumber": 78,
                             "chapterTitle": "장미십자 방법",
                             "text": {
                                 "german": "Nein, das nicht, aber sie bestehen beide aus der gleichen Körperzusammensetzung. Auf unserer Erde nun kann ein Wesen mit physischem und Ätherleib nur existieren, wenn es Pflanze ist.",
@@ -3215,9 +3203,9 @@
                             }
                         },
                         {
-                            "id": "rosi.3.80",
-                            "title": "문단 80",
-                            "paragraphNumber": 80,
+                            "id": "rosi.3.79",
+                            "title": "문단 79",
+                            "paragraphNumber": 79,
                             "chapterTitle": "장미십자 방법",
                             "text": {
                                 "german": "Dadurch, daß ein Astralleib und ein Ich darinnen wohnt, verändern sich die andern Leiber auch, der physische und der Ätherleib.",
@@ -3227,9 +3215,9 @@
                             }
                         },
                         {
-                            "id": "rosi.3.81",
-                            "title": "문단 81",
-                            "paragraphNumber": 81,
+                            "id": "rosi.3.80",
+                            "title": "문단 80",
+                            "paragraphNumber": 80,
                             "chapterTitle": "장미십자 방법",
                             "text": {
                                 "german": "Bei den Pflanzen finden sich keine Nervenstränge, und warmes Blut hat nur der physische Leib, in dem ein Ich darinnen wohnt. Die höheren Tiere sind als heruntergesunkene Formen des ursprünglichen Menschen zu betrachten.",
@@ -3239,9 +3227,9 @@
                             }
                         },
                         {
-                            "id": "rosi.3.82",
-                            "title": "문단 82",
-                            "paragraphNumber": 82,
+                            "id": "rosi.3.81",
+                            "title": "문단 81",
+                            "paragraphNumber": 81,
                             "chapterTitle": "장미십자 방법",
                             "text": {
                                 "german": "Im physischen Leibe drückt sich das Ich im Blutsystem aus, der Astralleib in den Nerven, der Ätherleib im Drüsensystem und die physische Natur in des Menschen eigenem Körper.",
@@ -3251,9 +3239,9 @@
                             }
                         },
                         {
-                            "id": "rosi.3.83",
-                            "title": "문단 83",
-                            "paragraphNumber": 83,
+                            "id": "rosi.3.82",
+                            "title": "문단 82",
+                            "paragraphNumber": 82,
                             "chapterTitle": "장미십자 방법",
                             "text": {
                                 "german": "Wenn nun der Astralleib der eigentliche Bildner des Nervensystems ist, und das ist er, so kommt dieses bei Nacht in eine sehr trübselige Lage, denn es wird von seinem Herrn verlassen;",
@@ -3263,9 +3251,9 @@
                             }
                         },
                         {
-                            "id": "rosi.3.84",
-                            "title": "문단 84",
-                            "paragraphNumber": 84,
+                            "id": "rosi.3.83",
+                            "title": "문단 83",
+                            "paragraphNumber": 83,
                             "chapterTitle": "장미십자 방법",
                             "text": {
                                 "german": "das Drüsensystem aber nicht, denn der Ätherleib bleibt ihm treu.",
@@ -3275,9 +3263,9 @@
                             }
                         },
                         {
-                            "id": "rosi.3.85",
-                            "title": "문단 85",
-                            "paragraphNumber": 85,
+                            "id": "rosi.3.84",
+                            "title": "문단 84",
+                            "paragraphNumber": 84,
                             "chapterTitle": "장미십자 방법",
                             "text": {
                                 "german": "Aber auch das Blutsystem des physischen und Ätherleibes wird in der Nacht treulos vom Ich verlassen. Der physische Leib kann für sich bestehen, denn die physische Natur bleibt dieselbe, ebenso das Drüsensystem, denn der Ätherleib bleibt im physischen Leibe bei Nacht. Aber das Nervensystem wird von seinem Herrn verlassen.",
@@ -3287,9 +3275,9 @@
                             }
                         },
                         {
-                            "id": "rosi.3.86",
-                            "title": "문단 86",
-                            "paragraphNumber": 86,
+                            "id": "rosi.3.85",
+                            "title": "문단 85",
+                            "paragraphNumber": 85,
                             "chapterTitle": "장미십자 방법",
                             "text": {
                                 "german": "Wir wollen nun das hellseherische Bewußtsein fragen, was dann im physischen Leibe geschieht? In demselben Maße, in dem der menschliche Astralleib während der Nacht aus dem physischen und Ätherleib herausgeht, in demselben Maße dringt ein göttlich-geistiger Astralleib in die Leiber, die im Bette liegen, ein. Ebenso verhält es sich mit dem Blutsystem:",
@@ -3299,9 +3287,9 @@
                             }
                         },
                         {
-                            "id": "rosi.3.87",
-                            "title": "문단 87",
-                            "paragraphNumber": 87,
+                            "id": "rosi.3.86",
+                            "title": "문단 86",
+                            "paragraphNumber": 86,
                             "chapterTitle": "장미십자 방법",
                             "text": {
                                 "german": "ein göttlich-geistiges Ich geht hinein und versorgt es. Der Mensch ist auch in der Nacht ein viergliedriges Wesen, aber etwas anderes lebt in ihm: ein Wesen höherer Ordnung nimmt Besitz von den zwei Leibern im Bette.",
@@ -3311,9 +3299,9 @@
                             }
                         },
                         {
-                            "id": "rosi.3.88",
-                            "title": "문단 88",
-                            "paragraphNumber": 88,
+                            "id": "rosi.3.87",
+                            "title": "문단 87",
+                            "paragraphNumber": 87,
                             "chapterTitle": "장미십자 방법",
                             "text": {
                                 "german": "Und wenn der Mensch, das heißt sein Astralleib und sein Ich, am Morgen zu seinem Äther- und physischen Leibe zurückkehrt, so jagt sein kleiner Astralleib ein Mächtigeres hinaus.",
@@ -3323,9 +3311,9 @@
                             }
                         },
                         {
-                            "id": "rosi.3.89",
-                            "title": "문단 89",
-                            "paragraphNumber": 89,
+                            "id": "rosi.3.88",
+                            "title": "문단 88",
+                            "paragraphNumber": 88,
                             "chapterTitle": "장미십자 방법",
                             "text": {
                                 "german": "Ebenso geht es bei seinem Blutsystem: sein Ich vertreibt das göttlich-geistige Ich, das während der Nacht dasselbe versorgt hat.",
@@ -3335,9 +3323,9 @@
                             }
                         },
                         {
-                            "id": "rosi.3.90",
-                            "title": "문단 90",
-                            "paragraphNumber": 90,
+                            "id": "rosi.3.89",
+                            "title": "문단 89",
+                            "paragraphNumber": 89,
                             "chapterTitle": "장미십자 방법",
                             "text": {
                                 "german": "In unserer Umgebung sind immer göttlich-geistige Wesenheiten. Diese müssen sich nun bei Tage zurückziehen, wir tun dasselbe bei Nacht. Diese göttlich-geistigen Wesenheiten schlafen nämlich bei Tag: Götterschlaf und Menschenschlaf entsprechen sich vollständig.",
@@ -3347,9 +3335,9 @@
                             }
                         },
                         {
-                            "id": "rosi.3.91",
-                            "title": "문단 91",
-                            "paragraphNumber": 91,
+                            "id": "rosi.3.90",
+                            "title": "문단 90",
+                            "paragraphNumber": 90,
                             "chapterTitle": "장미십자 방법",
                             "text": {
                                 "german": "Ein göttlich-geistiges Ich und ein göttlich-geistiger Astralleib ziehen am Abend in den im Bette liegenden Menschen, seinen physischen und Ätherleib ein und kehren am Morgen daraus zurück. Beim Menschen geschieht dies gerade umgekehrt, er verläßt am Abend seine Leiber und nimmt am Morgen wieder Besitz von ihnen. Selbst in den Religionen ist ein Empfinden zurückgeblieben für den Schlaf der Götter bei Tage. Es gibt Länder, wo die Kirchen um die Mittagszeit geschlossen werden, weil da die Götter am tiefsten schlafen.",
@@ -3359,9 +3347,9 @@
                             }
                         },
                         {
-                            "id": "rosi.3.92",
-                            "title": "문단 92",
-                            "paragraphNumber": 92,
+                            "id": "rosi.3.91",
+                            "title": "문단 91",
+                            "paragraphNumber": 91,
                             "chapterTitle": "장미십자 방법",
                             "text": {
                                 "german": "Auch dasjenige wollen wir uns nun vom Menschen ansehen, was da bei Nacht außerhalb seines Leibes ist: der Astralleib und das Ich. Wir wissen, daß im Astralleibe Triebe, Begierden und Leidenschaften wurzeln, aber der Mensch nimmt diese in der Nacht nicht wahr. Woher kommt das? Weil der Astralleib und das Ich des Menschen in der gegenwärtigen Entwickelung keine Organe haben, um wahrzunehmen.",
@@ -3371,9 +3359,9 @@
                             }
                         },
                         {
-                            "id": "rosi.3.93",
-                            "title": "문단 93",
-                            "paragraphNumber": 93,
+                            "id": "rosi.3.92",
+                            "title": "문단 92",
+                            "paragraphNumber": 92,
                             "chapterTitle": "장미십자 방법",
                             "text": {
                                 "german": "Nur mit den physischen Organen kann der gegenwärtige Mensch wahrnehmen. Denn so viele Organe der Mensch hat, so viele Welten eröffnen sich ihm, sind um ihn.",
@@ -3383,9 +3371,9 @@
                             }
                         },
                         {
-                            "id": "rosi.3.94",
-                            "title": "문단 94",
-                            "paragraphNumber": 94,
+                            "id": "rosi.3.93",
+                            "title": "문단 93",
+                            "paragraphNumber": 93,
                             "chapterTitle": "장미십자 방법",
                             "text": {
                                 "german": "Hat er ein Organ mehr, so erschließt sich ihm eine neue Welt. Der Astralleib des Menschen hat, wenn der Mensch noch nicht hellseherisch geworden ist, noch keine Organe,",
@@ -3395,9 +3383,9 @@
                             }
                         },
                         {
-                            "id": "rosi.3.95",
-                            "title": "문단 95",
-                            "paragraphNumber": 95,
+                            "id": "rosi.3.94",
+                            "title": "문단 94",
+                            "paragraphNumber": 94,
                             "chapterTitle": "장미십자 방법",
                             "text": {
                                 "german": "deshalb nimmt der Mensch in der Nacht auch nichts wahr.",
@@ -3407,9 +3395,9 @@
                             }
                         },
                         {
-                            "id": "rosi.3.96",
-                            "title": "문단 96",
-                            "paragraphNumber": 96,
+                            "id": "rosi.3.95",
+                            "title": "문단 95",
+                            "paragraphNumber": 95,
                             "chapterTitle": "장미십자 방법",
                             "text": {
                                 "german": "Wir können uns leicht denken, daß der Mensch da ohne Sinne sein kann. Wir wissen, es gibt Blinde und solche, denen andere Sinne fehlen; keine Welt ist für den Menschen da, wenn er sich nicht seiner Sinne bedienen kann. Daher ist am Morgen, wenn der Mensch sich wieder der physischen Sinne bedienen kann, die Welt wieder um ihn herum da.",
@@ -3419,9 +3407,9 @@
                             }
                         },
                         {
-                            "id": "rosi.3.97",
-                            "title": "문단 97",
-                            "paragraphNumber": 97,
+                            "id": "rosi.3.96",
+                            "title": "문단 96",
+                            "paragraphNumber": 96,
                             "chapterTitle": "장미십자 방법",
                             "text": {
                                 "german": "Anders aber ist es beim Tode. Der Ätherleib und der physische Leib bleiben während des ganzen Lebens miteinander verbunden; im Tode nun geht der Ätherleib in der Regel zum ersten Male heraus und verläßt den physischen Leib.",
@@ -3431,9 +3419,9 @@
                             }
                         },
                         {
-                            "id": "rosi.3.98",
-                            "title": "문단 98",
-                            "paragraphNumber": 98,
+                            "id": "rosi.3.97",
+                            "title": "문단 97",
+                            "paragraphNumber": 97,
                             "chapterTitle": "장미십자 방법",
                             "text": {
                                 "german": "Der Moment des Todes wird daher von dem, der davon etwas weiß, als der Moment des Rückblicks geschildert, wo das ganze verflossene Leben wie ein Panorama am Menschen vorbeizieht. Warum?",
@@ -3443,9 +3431,9 @@
                             }
                         },
                         {
-                            "id": "rosi.3.99",
-                            "title": "문단 99",
-                            "paragraphNumber": 99,
+                            "id": "rosi.3.98",
+                            "title": "문단 98",
+                            "paragraphNumber": 98,
                             "chapterTitle": "장미십자 방법",
                             "text": {
                                 "german": "Weil der Ätherleib der Träger des Gedächtnisses ist und dieses Gedächtnis nun frei wird. Solange der Ätherleib im physischen Leib ist, kann er nicht seine ganze Kraft entfalten, sondern nur so viel davon entwickeln, als das physische Instrument zuläßt.",
@@ -3455,9 +3443,9 @@
                             }
                         },
                         {
-                            "id": "rosi.3.100",
-                            "title": "문단 100",
-                            "paragraphNumber": 100,
+                            "id": "rosi.3.99",
+                            "title": "문단 99",
+                            "paragraphNumber": 99,
                             "chapterTitle": "장미십자 방법",
                             "text": {
                                 "german": "Jetzt aber, im Tode, wird er frei und kann ohne den physischen Leib das entwickeln, was in der ganzen Lebenszeit in ihn eingeschrieben worden ist.",
@@ -3467,9 +3455,9 @@
                             }
                         },
                         {
-                            "id": "rosi.3.101",
-                            "title": "문단 101",
-                            "paragraphNumber": 101,
+                            "id": "rosi.3.100",
+                            "title": "문단 100",
+                            "paragraphNumber": 100,
                             "chapterTitle": "장미십자 방법",
                             "text": {
                                 "german": "Auch durch einen Schock, bei dem aber den Menschen das Bewußtsein nicht wie nach dem Tode verlassen darf, kann dieses Panorama eintreten, zum Beispiel bei Todesgefahr.",
@@ -3479,9 +3467,9 @@
                             }
                         },
                         {
-                            "id": "rosi.3.102",
-                            "title": "문단 102",
-                            "paragraphNumber": 102,
+                            "id": "rosi.3.101",
+                            "title": "문단 101",
+                            "paragraphNumber": 101,
                             "chapterTitle": "장미십자 방법",
                             "text": {
                                 "german": "Das ist aber ein Ausnahmefall.",
@@ -3491,9 +3479,9 @@
                             }
                         },
                         {
-                            "id": "rosi.3.103",
-                            "title": "문단 103",
-                            "paragraphNumber": 103,
+                            "id": "rosi.3.102",
+                            "title": "문단 102",
+                            "paragraphNumber": 102,
                             "chapterTitle": "장미십자 방법",
                             "text": {
                                 "german": "Nun können Sie fragen: Wie lange dauert dieses Tableau? Das ist nun bei den Menschen sehr verschieden.",
@@ -3503,9 +3491,9 @@
                             }
                         },
                         {
-                            "id": "rosi.3.104",
-                            "title": "문단 104",
-                            "paragraphNumber": 104,
+                            "id": "rosi.3.103",
+                            "title": "문단 103",
+                            "paragraphNumber": 103,
                             "chapterTitle": "장미십자 방법",
                             "text": {
                                 "german": "Im allgemeinen kann man sagen, es dauert so lange, als der Mensch im Leben wachen kann, ohne vom Schlaf übermannt zu werden;",
@@ -3515,9 +3503,9 @@
                             }
                         },
                         {
-                            "id": "rosi.3.105",
-                            "title": "문단 105",
-                            "paragraphNumber": 105,
+                            "id": "rosi.3.104",
+                            "title": "문단 104",
+                            "paragraphNumber": 104,
                             "chapterTitle": "장미십자 방법",
                             "text": {
                                 "german": "das ist: zwanzig Stunden, fünfzig, sechzig bis achtzig Stunden. Die äußerste Grenze, die der Mensch im Wachen erreichen kann, ist ungefähr die Zeitdauer für dieses Panorama. So lange währt diese Rückerinnerung,",
@@ -3527,9 +3515,9 @@
                             }
                         },
                         {
-                            "id": "rosi.3.106",
-                            "title": "문단 106",
-                            "paragraphNumber": 106,
+                            "id": "rosi.3.105",
+                            "title": "문단 105",
+                            "paragraphNumber": 105,
                             "chapterTitle": "장미십자 방법",
                             "text": {
                                 "german": "dann flutet sie ab, und zugleich sieht der Hellseher, wie sich der Ätherleib herauslöst,",
@@ -3539,9 +3527,9 @@
                             }
                         },
                         {
-                            "id": "rosi.3.107",
-                            "title": "문단 107",
-                            "paragraphNumber": 107,
+                            "id": "rosi.3.106",
+                            "title": "문단 106",
+                            "paragraphNumber": 106,
                             "chapterTitle": "장미십자 방법",
                             "text": {
                                 "german": "aber nicht ganz, und das ist das Wesentliche. Eine Essenz, einen Extrakt nimmt der Mensch mit sich, und mit der Essenz seines Ätherleibes die Früchte seines letzten Lebens.",
@@ -3551,9 +3539,9 @@
                             }
                         },
                         {
-                            "id": "rosi.3.108",
-                            "title": "문단 108",
-                            "paragraphNumber": 108,
+                            "id": "rosi.3.107",
+                            "title": "문단 107",
+                            "paragraphNumber": 107,
                             "chapterTitle": "장미십자 방법",
                             "text": {
                                 "german": "Dadurch steigt der Mensch auf. Nun behält er die Essenz seines Ätherleibes, seinen Astralleib und sein Ich, bis er auch den Astralleib ablegt. Jetzt hat er zwei Leichname abgelegt, und dann geht er in die geistige Welt ein.",
@@ -3563,9 +3551,9 @@
                             }
                         },
                         {
-                            "id": "rosi.3.109",
-                            "title": "문단 109",
-                            "paragraphNumber": 109,
+                            "id": "rosi.3.108",
+                            "title": "문단 108",
+                            "paragraphNumber": 108,
                             "chapterTitle": "장미십자 방법",
                             "text": {
                                 "german": "Morgen wollen wir dann das Leben nach dem Tode und den Eintritt in die devachanische Welt betrachten.",
